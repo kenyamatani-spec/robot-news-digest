@@ -1,4 +1,4 @@
-"""Classify articles into 4 robot categories + bilingual summary via Claude API."""
+"""Classify articles into 4 robot categories + bilingual summary via Gemini API."""
 from __future__ import annotations
 
 import json
@@ -6,9 +6,12 @@ import os
 import re
 from typing import Any
 
-from anthropic import Anthropic
+from google import genai
+from google.genai import types
 
-MODEL = "claude-haiku-4-5-20251001"
+# Cheap, fast — sufficient for short JSON classification & bilingual summary.
+# To upgrade quality: "gemini-2.5-flash" (~5x cost) or "gemini-2.5-pro".
+MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash-lite")
 
 CATEGORIES = ["industrial", "military", "service", "home"]
 
@@ -48,7 +51,7 @@ def _build_user(article: dict) -> str:
 
 
 def _extract_json(text: str) -> dict[str, Any]:
-    text = text.strip()
+    text = (text or "").strip()
     # Strip optional code fence
     fence = re.match(r"^```(?:json)?\s*(.*?)\s*```$", text, re.DOTALL)
     if fence:
@@ -56,15 +59,22 @@ def _extract_json(text: str) -> dict[str, Any]:
     return json.loads(text)
 
 
-def classify_one(client: Anthropic, article: dict) -> dict | None:
+def classify_one(client: genai.Client, article: dict) -> dict | None:
     """Return classification dict, or None if the article should be dropped."""
-    resp = client.messages.create(
-        model=MODEL,
-        max_tokens=600,
-        system=SYSTEM,
-        messages=[{"role": "user", "content": _build_user(article)}],
-    )
-    raw = "".join(b.text for b in resp.content if getattr(b, "type", None) == "text")
+    try:
+        resp = client.models.generate_content(
+            model=MODEL,
+            contents=_build_user(article),
+            config=types.GenerateContentConfig(
+                system_instruction=SYSTEM,
+                response_mime_type="application/json",
+                temperature=0,
+                max_output_tokens=600,
+            ),
+        )
+    except Exception:
+        return None
+    raw = getattr(resp, "text", "") or ""
     try:
         data = _extract_json(raw)
     except json.JSONDecodeError:
@@ -74,16 +84,16 @@ def classify_one(client: Anthropic, article: dict) -> dict | None:
         return None
     return {
         "category": cat,
-        "title_ja": data.get("title_ja", article["title"])[:120],
-        "title_en": data.get("title_en", article["title"])[:200],
-        "summary_ja": data.get("summary_ja", "")[:300],
-        "summary_en": data.get("summary_en", "")[:400],
+        "title_ja": (data.get("title_ja") or article["title"])[:120],
+        "title_en": (data.get("title_en") or article["title"])[:200],
+        "summary_ja": (data.get("summary_ja") or "")[:300],
+        "summary_en": (data.get("summary_en") or "")[:400],
         "tags": [str(t)[:30] for t in (data.get("tags") or [])][:4],
     }
 
 
-def make_client() -> Anthropic:
-    key = os.environ.get("ANTHROPIC_API_KEY")
+def make_client() -> genai.Client:
+    key = os.environ.get("GEMINI_API_KEY") or os.environ.get("GOOGLE_API_KEY")
     if not key:
-        raise SystemExit("ANTHROPIC_API_KEY is not set")
-    return Anthropic(api_key=key)
+        raise SystemExit("GEMINI_API_KEY is not set")
+    return genai.Client(api_key=key)

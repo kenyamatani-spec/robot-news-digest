@@ -17,10 +17,10 @@
 ## ローカル開発
 
 ```bash
-# データ更新（要 ANTHROPIC_API_KEY）
+# データ更新（要 GEMINI_API_KEY）
 python -m venv .venv && source .venv/bin/activate
 pip install -r scripts/requirements.txt
-export ANTHROPIC_API_KEY=sk-...
+export GEMINI_API_KEY=AIza...
 python scripts/build.py
 
 # プレビュー
@@ -28,9 +28,12 @@ python -m http.server 8000
 # → http://localhost:8000
 ```
 
+API キーは Google AI Studio (https://aistudio.google.com/app/apikey) で無料取得可能。
+モデルは `gemini-2.5-flash-lite` を既定で使用（環境変数 `GEMINI_MODEL` で変更可）。
+
 ## デプロイ
 
 1. GitHub にリポジトリを作成し push
 2. Settings → Pages → `Branch: main / root` を選択
-3. Settings → Secrets → `ANTHROPIC_API_KEY` を登録
+3. Settings → Secrets → `GEMINI_API_KEY` を登録
 4. Actions タブで `Update news` を `Run workflow` 起動
