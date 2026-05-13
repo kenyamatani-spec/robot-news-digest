@@ -1,0 +1,438 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>ロボットニュース / Robot News Digest</title>
+<meta name="description" content="ロボット業界のニュースを産業・軍事・サービス・家庭の4カテゴリで毎日集計するダイジェスト。" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,600;12..96,800&family=Plus+Jakarta+Sans:wght@400;500;700;800&family=JetBrains+Mono:wght@400;500;700&family=Noto+Sans+JP:wght@400;500;700;900&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+
+<!-- ===== Icon defs ===== -->
+<svg class="icon-defs" aria-hidden="true">
+  <defs>
+    <linearGradient id="g-industrial" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#3B82F6"/><stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+    <linearGradient id="g-military" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#EF4444"/><stop offset="100%" stop-color="#EC4899"/>
+    </linearGradient>
+    <linearGradient id="g-service" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#10B981"/><stop offset="100%" stop-color="#84CC16"/>
+    </linearGradient>
+    <linearGradient id="g-home" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F59E0B"/><stop offset="100%" stop-color="#EC4899"/>
+    </linearGradient>
+    <pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="rgba(255,255,255,0.35)"/>
+    </pattern>
+    <pattern id="grid" width="16" height="16" patternUnits="userSpaceOnUse">
+      <path d="M 16 0 L 0 0 0 16" fill="none" stroke="rgba(255,255,255,0.25)" stroke-width="1"/>
+    </pattern>
+    <pattern id="diag-grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(255,255,255,0.35)" stroke-width="1.5"/>
+    </pattern>
+    <pattern id="diag-dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="2" fill="rgba(255,255,255,0.42)"/>
+    </pattern>
+    <pattern id="diag-cross" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 18 6 L 18 30 M 6 18 L 30 18" stroke="rgba(255,255,255,0.32)" stroke-width="1.5"/>
+    </pattern>
+  </defs>
+
+  <symbol id="ic-industrial" viewBox="0 0 64 64">
+    <rect x="6"  y="38" width="18" height="20" fill="#FDE68A"/>
+    <rect x="24" y="30" width="18" height="28" fill="#FBBF24"/>
+    <rect x="42" y="22" width="16" height="36" fill="#FCD34D"/>
+    <rect x="11" y="44" width="4" height="4" fill="#1E40AF"/>
+    <rect x="29" y="38" width="4" height="4" fill="#1E40AF"/>
+    <rect x="46" y="30" width="4" height="4" fill="#1E40AF"/>
+    <rect x="46" y="40" width="4" height="4" fill="#1E40AF"/>
+    <g transform="translate(50 13)">
+      <circle r="8" fill="#FFFBEB"/>
+      <g fill="#FDE68A">
+        <rect x="-1.5" y="-10" width="3" height="4"/>
+        <rect x="-1.5" y="6"  width="3" height="4"/>
+        <rect x="-10" y="-1.5" width="4" height="3"/>
+        <rect x="6"  y="-1.5" width="4" height="3"/>
+      </g>
+      <circle r="2.5" fill="#1E40AF"/>
+    </g>
+  </symbol>
+
+  <symbol id="ic-military" viewBox="0 0 64 64">
+    <line x1="32" y1="32" x2="14" y2="14" stroke="#FFFBEB" stroke-width="3"/>
+    <line x1="32" y1="32" x2="50" y2="14" stroke="#FFFBEB" stroke-width="3"/>
+    <line x1="32" y1="32" x2="14" y2="50" stroke="#FFFBEB" stroke-width="3"/>
+    <line x1="32" y1="32" x2="50" y2="50" stroke="#FFFBEB" stroke-width="3"/>
+    <circle cx="14" cy="14" r="7" fill="#FFFBEB"/>
+    <circle cx="50" cy="14" r="7" fill="#FFFBEB"/>
+    <circle cx="14" cy="50" r="7" fill="#FFFBEB"/>
+    <circle cx="50" cy="50" r="7" fill="#FFFBEB"/>
+    <circle cx="14" cy="14" r="2" fill="#7F1D1D"/>
+    <circle cx="50" cy="14" r="2" fill="#7F1D1D"/>
+    <circle cx="14" cy="50" r="2" fill="#7F1D1D"/>
+    <circle cx="50" cy="50" r="2" fill="#7F1D1D"/>
+    <circle cx="32" cy="32" r="9" fill="#FACC15"/>
+    <circle cx="32" cy="32" r="3" fill="#7F1D1D"/>
+  </symbol>
+
+  <symbol id="ic-service" viewBox="0 0 64 64">
+    <rect x="6"  y="10" width="34" height="40" rx="4" fill="#FFFBEB"/>
+    <rect x="20" y="18" width="6" height="24" fill="#059669"/>
+    <rect x="11" y="27" width="24" height="6" fill="#059669"/>
+    <g transform="translate(46 36)">
+      <path d="M0 4 Q-6 -4 -10 2 Q-12 8 0 16 Q12 8 10 2 Q6 -4 0 4z"
+            fill="#EC4899" stroke="#FFFBEB" stroke-width="2"/>
+    </g>
+    <circle cx="14" cy="14" r="2" fill="#FBBF24"/>
+    <circle cx="36" cy="14" r="2" fill="#FBBF24"/>
+  </symbol>
+
+  <symbol id="ic-home" viewBox="0 0 64 64">
+    <path d="M8 30 L32 8 L56 30 L56 56 L8 56 Z" fill="#FFFBEB"/>
+    <rect x="26" y="38" width="12" height="18" fill="#F59E0B"/>
+    <circle cx="34" cy="48" r="1.5" fill="#FFFBEB"/>
+    <rect x="14" y="36" width="8" height="8" fill="#FBBF24"/>
+    <rect x="42" y="36" width="8" height="8" fill="#FBBF24"/>
+    <circle cx="20" cy="52" r="4" fill="#1F2937"/>
+    <circle cx="20" cy="52" r="1.4" fill="#FDE68A"/>
+    <path d="M28 30 L32 16 L36 30" stroke="#EC4899" stroke-width="2" fill="none" stroke-linecap="round"/>
+  </symbol>
+
+  <symbol id="ic-search" viewBox="0 0 24 24">
+    <circle cx="11" cy="11" r="6" fill="none" stroke="currentColor" stroke-width="2"/>
+    <line x1="16" y1="16" x2="21" y2="21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+  </symbol>
+</svg>
+
+<!-- ===== Topbar ===== -->
+<div class="topbar">
+  <div class="topbar-inner">
+    <span class="kicker">
+      <span class="dot"></span>
+      <span data-i18n="kicker">ROBOT NEWS DIGEST · 毎朝07:15 JST更新</span>
+    </span>
+    <button class="lang-toggle" id="langToggle" type="button" aria-label="言語切替">
+      <span data-lang-jp>日本語</span>
+      <span class="divider">/</span>
+      <span data-lang-en>EN</span>
+    </button>
+  </div>
+</div>
+
+<!-- ===== Hero ===== -->
+<section class="hero">
+  <div class="hero-inner">
+    <div class="hero-text">
+      <p class="hero-kicker" data-i18n="hero.kicker">DAILY · ロボットニュース</p>
+      <h1 class="hero-title" data-i18n="hero.title">
+        ロボットの<br/><em>今日</em>を、<br/>ひと目で。
+      </h1>
+      <p class="hero-sub" data-i18n="hero.sub">
+        産業 / 軍事 / サービス / 家庭 — RSS と Claude AI で毎朝整理。
+      </p>
+      <div class="hero-tags">
+        <span class="chip c-industrial"><svg class="chip-ic"><use href="#ic-industrial"/></svg> <span data-i18n="cat.industrial">産業</span></span>
+        <span class="chip c-military"><svg class="chip-ic"><use href="#ic-military"/></svg> <span data-i18n="cat.military">軍事</span></span>
+        <span class="chip c-service"><svg class="chip-ic"><use href="#ic-service"/></svg> <span data-i18n="cat.service">サービス</span></span>
+        <span class="chip c-home"><svg class="chip-ic"><use href="#ic-home"/></svg> <span data-i18n="cat.home">家庭</span></span>
+      </div>
+    </div>
+
+    <div class="hero-art" aria-hidden="true">
+      <svg viewBox="0 0 320 320" class="hero-svg">
+        <!-- background blobs -->
+        <circle cx="80"  cy="70"  r="46" fill="#FBBF24"/>
+        <circle cx="250" cy="60"  r="32" fill="#EC4899"/>
+        <circle cx="260" cy="240" r="56" fill="#06B6D4"/>
+        <circle cx="60"  cy="250" r="36" fill="#84CC16"/>
+
+        <!-- robot character -->
+        <g transform="translate(160 165)">
+          <!-- antenna -->
+          <line x1="0" y1="-92" x2="0" y2="-118" stroke="#1A1340" stroke-width="4" stroke-linecap="round"/>
+          <circle cx="0" cy="-122" r="8" fill="#EC4899" stroke="#1A1340" stroke-width="3"/>
+          <!-- head -->
+          <rect x="-50" y="-90" width="100" height="80" rx="14" fill="#2563EB" stroke="#1A1340" stroke-width="4"/>
+          <!-- eyes -->
+          <circle cx="-22" cy="-58" r="11" fill="#FFFBEB" stroke="#1A1340" stroke-width="3"/>
+          <circle cx="22"  cy="-58" r="11" fill="#FFFBEB" stroke="#1A1340" stroke-width="3"/>
+          <circle cx="-22" cy="-56" r="4" fill="#1A1340"/>
+          <circle cx="22"  cy="-56" r="4" fill="#1A1340"/>
+          <!-- mouth -->
+          <rect x="-18" y="-32" width="36" height="8" rx="2" fill="#1A1340"/>
+          <rect x="-12" y="-32" width="4" height="8" fill="#FBBF24"/>
+          <rect x="0" y="-32" width="4" height="8" fill="#FBBF24"/>
+          <rect x="12" y="-32" width="4" height="8" fill="#FBBF24"/>
+          <!-- neck -->
+          <rect x="-12" y="-10" width="24" height="8" fill="#1A1340"/>
+          <!-- body -->
+          <rect x="-62" y="-2" width="124" height="86" rx="12" fill="#10B981" stroke="#1A1340" stroke-width="4"/>
+          <!-- buttons -->
+          <circle cx="-32" cy="30" r="9" fill="#EF4444" stroke="#1A1340" stroke-width="3"/>
+          <circle cx="0"   cy="30" r="9" fill="#FBBF24" stroke="#1A1340" stroke-width="3"/>
+          <circle cx="32"  cy="30" r="9" fill="#8B5CF6" stroke="#1A1340" stroke-width="3"/>
+          <!-- screen line -->
+          <rect x="-44" y="56" width="88" height="14" rx="3" fill="#FFFBEB" stroke="#1A1340" stroke-width="3"/>
+          <rect x="-40" y="60" width="20" height="6" fill="#10B981"/>
+          <rect x="-16" y="60" width="36" height="6" fill="#EF4444"/>
+          <rect x="24" y="60" width="16" height="6" fill="#FBBF24"/>
+          <!-- arms -->
+          <line x1="-62" y1="14" x2="-92" y2="44" stroke="#1A1340" stroke-width="5" stroke-linecap="round"/>
+          <line x1="62"  y1="14" x2="100" y2="-2" stroke="#1A1340" stroke-width="5" stroke-linecap="round"/>
+          <circle cx="-92" cy="44" r="9" fill="#FBBF24" stroke="#1A1340" stroke-width="3"/>
+          <circle cx="100" cy="-2" r="9" fill="#FBBF24" stroke="#1A1340" stroke-width="3"/>
+        </g>
+
+        <!-- floating news bubbles -->
+        <g>
+          <rect x="20"  y="40"  width="60" height="20" rx="10" fill="#FFFBEB" stroke="#1A1340" stroke-width="2.5"/>
+          <circle cx="34" cy="50" r="3" fill="#EF4444"/>
+          <rect x="42" y="47" width="32" height="3" fill="#1A1340"/>
+          <rect x="42" y="52" width="22" height="3" fill="#5B5079"/>
+
+          <rect x="230" y="100" width="76" height="22" rx="11" fill="#FFFBEB" stroke="#1A1340" stroke-width="2.5"/>
+          <circle cx="244" cy="111" r="3.5" fill="#2563EB"/>
+          <rect x="254" y="107" width="44" height="3" fill="#1A1340"/>
+          <rect x="254" y="112" width="32" height="3" fill="#5B5079"/>
+
+          <rect x="220" y="270" width="68" height="20" rx="10" fill="#FFFBEB" stroke="#1A1340" stroke-width="2.5"/>
+          <circle cx="234" cy="280" r="3" fill="#10B981"/>
+          <rect x="242" y="277" width="38" height="3" fill="#1A1340"/>
+          <rect x="242" y="282" width="28" height="3" fill="#5B5079"/>
+
+          <rect x="20" y="270" width="60" height="20" rx="10" fill="#FFFBEB" stroke="#1A1340" stroke-width="2.5"/>
+          <circle cx="34" cy="280" r="3" fill="#F59E0B"/>
+          <rect x="42" y="277" width="32" height="3" fill="#1A1340"/>
+          <rect x="42" y="282" width="22" height="3" fill="#5B5079"/>
+        </g>
+      </svg>
+    </div>
+  </div>
+</section>
+
+<!-- ===== Stats: charts & ponchi-e ===== -->
+<section class="stats">
+  <div class="stats-inner">
+    <article class="stat-card stat-donut">
+      <p class="stat-kicker">§01 · CATEGORY MIX</p>
+      <h3 class="stat-title" data-i18n="stat.donut">カテゴリ別の本日</h3>
+      <div class="donut-wrap" id="donut"></div>
+      <ul class="legend">
+        <li class="leg-industrial"><i></i><span data-i18n="cat.industrial">産業</span><b data-stat="industrial">0</b></li>
+        <li class="leg-military"><i></i><span data-i18n="cat.military">軍事</span><b data-stat="military">0</b></li>
+        <li class="leg-service"><i></i><span data-i18n="cat.service">サービス</span><b data-stat="service">0</b></li>
+        <li class="leg-home"><i></i><span data-i18n="cat.home">家庭</span><b data-stat="home">0</b></li>
+      </ul>
+    </article>
+
+    <article class="stat-card stat-bars">
+      <p class="stat-kicker">§02 · 7-DAY ACTIVITY</p>
+      <h3 class="stat-title" data-i18n="stat.bars">過去7日の配信数</h3>
+      <div class="bars-wrap" id="bars"></div>
+    </article>
+
+    <article class="stat-card stat-pipeline">
+      <p class="stat-kicker">§03 · HOW IT WORKS</p>
+      <h3 class="stat-title" data-i18n="stat.pipe">RSS → Claude AI → 4カテゴリ</h3>
+      <svg viewBox="0 0 320 200" class="pipeline">
+        <!-- Box: sources -->
+        <g transform="translate(8 60)">
+          <rect width="78" height="80" rx="10" fill="#FBBF24" stroke="#1A1340" stroke-width="3"/>
+          <text x="39" y="32" text-anchor="middle" font-family="Plus Jakarta Sans" font-weight="800" font-size="11" fill="#1A1340">RSS × 9</text>
+          <text x="39" y="50" text-anchor="middle" font-family="JetBrains Mono" font-size="9" fill="#1A1340">IEEE</text>
+          <text x="39" y="61" text-anchor="middle" font-family="JetBrains Mono" font-size="9" fill="#1A1340">DEFENSE</text>
+          <text x="39" y="72" text-anchor="middle" font-family="JetBrains Mono" font-size="9" fill="#1A1340">ロボスタ…</text>
+        </g>
+        <!-- arrow -->
+        <line x1="92" y1="100" x2="118" y2="100" stroke="#1A1340" stroke-width="3"/>
+        <polygon points="116,94 126,100 116,106" fill="#1A1340"/>
+
+        <!-- Box: Claude -->
+        <g transform="translate(126 56)">
+          <rect width="92" height="88" rx="12" fill="#8B5CF6" stroke="#1A1340" stroke-width="3"/>
+          <text x="46" y="34" text-anchor="middle" font-family="Plus Jakarta Sans" font-weight="800" font-size="13" fill="#FFFBEB">CLAUDE</text>
+          <text x="46" y="49" text-anchor="middle" font-family="JetBrains Mono" font-size="9" fill="#FFFBEB">分類</text>
+          <text x="46" y="62" text-anchor="middle" font-family="JetBrains Mono" font-size="9" fill="#FFFBEB">日英要約</text>
+          <text x="46" y="75" text-anchor="middle" font-family="JetBrains Mono" font-size="9" fill="#FFFBEB">タグ付け</text>
+        </g>
+        <!-- arrow -->
+        <line x1="224" y1="100" x2="250" y2="100" stroke="#1A1340" stroke-width="3"/>
+        <polygon points="248,94 258,100 248,106" fill="#1A1340"/>
+
+        <!-- 4 category circles -->
+        <g transform="translate(266 30)">
+          <g><circle r="16" fill="#2563EB" stroke="#1A1340" stroke-width="3"/>
+             <text y="4" text-anchor="middle" font-size="9" fill="#fff" font-family="Plus Jakarta Sans" font-weight="800">産業</text></g>
+        </g>
+        <g transform="translate(266 80)">
+          <g><circle r="16" fill="#EF4444" stroke="#1A1340" stroke-width="3"/>
+             <text y="4" text-anchor="middle" font-size="9" fill="#fff" font-family="Plus Jakarta Sans" font-weight="800">軍事</text></g>
+        </g>
+        <g transform="translate(266 130)">
+          <g><circle r="16" fill="#10B981" stroke="#1A1340" stroke-width="3"/>
+             <text y="3" text-anchor="middle" font-size="9" fill="#fff" font-family="Plus Jakarta Sans" font-weight="800">サービス</text></g>
+        </g>
+        <g transform="translate(266 180)">
+          <g><circle r="16" fill="#F59E0B" stroke="#1A1340" stroke-width="3"/>
+             <text y="4" text-anchor="middle" font-size="9" fill="#fff" font-family="Plus Jakarta Sans" font-weight="800">家庭</text></g>
+        </g>
+      </svg>
+    </article>
+  </div>
+
+  <div class="hero-stats-strip">
+    <div class="hs"><b data-stat="all">0</b><small data-i18n="m.total">TOTAL</small></div>
+    <div class="hs"><b data-stat="industrial">0</b><small data-i18n="cat.industrial">産業</small></div>
+    <div class="hs"><b data-stat="military">0</b><small data-i18n="cat.military">軍事</small></div>
+    <div class="hs"><b data-stat="service">0</b><small data-i18n="cat.service">サービス</small></div>
+    <div class="hs"><b data-stat="home">0</b><small data-i18n="cat.home">家庭</small></div>
+    <div class="hs hs-right">
+      <small data-i18n="m.updated">UPDATED</small>
+      <b data-updated>—</b>
+    </div>
+  </div>
+</section>
+
+<!-- ===== §04 Today ===== -->
+<section class="section section-today">
+  <header class="section-head">
+    <span class="badge-mark">§04</span>
+    <p class="section-mark" data-i18n="sec.today.en">TODAY'S DISPATCH</p>
+    <h2 class="section-title" data-i18n="sec.today.ja">今朝の配信</h2>
+  </header>
+
+  <article class="top-story" id="topStory" hidden>
+    <a class="ts-cover" target="_blank" rel="noopener" data-top-link>
+      <div class="ts-cover-inner" data-top-cover></div>
+      <span class="cat-badge" data-top-badge></span>
+      <span class="ts-headline" data-i18n="sec.top.headline">今日の一面</span>
+    </a>
+    <div class="ts-body">
+      <p class="ts-meta">
+        <span data-top-source></span>
+        <span class="dot-sep"></span>
+        <span data-top-date></span>
+      </p>
+      <h3 class="ts-title"><a href="#" target="_blank" rel="noopener" data-top-link2><span data-top-title></span></a></h3>
+      <p class="ts-summary" data-top-summary></p>
+    </div>
+  </article>
+
+  <p class="empty" id="todayEmpty" hidden data-i18n="empty.today">本日の配信はまだありません。</p>
+
+  <div class="sub-head">
+    <h4 class="subtitle" data-i18n="sec.other">他の最新</h4>
+    <p class="count"><b data-other-count>0</b> <span data-i18n="m.items">件</span></p>
+  </div>
+  <div class="grid" id="otherToday"></div>
+</section>
+
+<!-- ===== §05 Bookmarks ===== -->
+<section class="section section-bookmarks">
+  <header class="section-head">
+    <span class="badge-mark">§05</span>
+    <p class="section-mark" data-i18n="sec.book.en">RECENT BOOKMARKS</p>
+    <h2 class="section-title" data-i18n="sec.book.ja">最新ブックマーク</h2>
+  </header>
+
+  <nav class="tabs" id="tabs">
+    <button class="tab is-active" data-cat="all">
+      <span data-i18n="cat.all">すべて</span>
+      <span class="count" data-tab-count="all">0</span>
+    </button>
+    <button class="tab c-industrial" data-cat="industrial">
+      <svg class="tab-ic"><use href="#ic-industrial"/></svg>
+      <span data-i18n="cat.industrial">産業</span>
+      <span class="count" data-tab-count="industrial">0</span>
+    </button>
+    <button class="tab c-military" data-cat="military">
+      <svg class="tab-ic"><use href="#ic-military"/></svg>
+      <span data-i18n="cat.military">軍事</span>
+      <span class="count" data-tab-count="military">0</span>
+    </button>
+    <button class="tab c-service" data-cat="service">
+      <svg class="tab-ic"><use href="#ic-service"/></svg>
+      <span data-i18n="cat.service">サービス</span>
+      <span class="count" data-tab-count="service">0</span>
+    </button>
+    <button class="tab c-home" data-cat="home">
+      <svg class="tab-ic"><use href="#ic-home"/></svg>
+      <span data-i18n="cat.home">家庭</span>
+      <span class="count" data-tab-count="home">0</span>
+    </button>
+  </nav>
+
+  <div class="search-row">
+    <svg class="search-ic"><use href="#ic-search"/></svg>
+    <input type="search" id="search" autocomplete="off"
+           placeholder="タイトル・ソース・タグを検索 / search title, source, tag" />
+  </div>
+
+  <div class="grid" id="bookmarks">
+    <p class="empty" data-i18n="loading">読み込み中…</p>
+  </div>
+</section>
+
+<!-- ===== §06 Topics & Makers ===== -->
+<section class="section section-topics">
+  <header class="section-head">
+    <span class="badge-mark">§06</span>
+    <p class="section-mark" data-i18n="sec.topic.en">TOPICS &amp; MAKERS</p>
+    <h2 class="section-title" data-i18n="sec.topic.ja">トピック・メーカー収集</h2>
+  </header>
+  <p class="topics-help" data-i18n="topics.help">
+    <code>data/topics.yml</code> に登録した検索クエリで自動収集・ストック。中国大手メーカー (UBTECH / Unitree / Fourier 等) は SNS / ニュースを横断検索。
+  </p>
+
+  <nav class="topic-tabs" id="topicTabs">
+    <button class="topic-tab is-active" data-filter="all">
+      <span data-i18n="topic.tab.all">すべて</span>
+      <span class="count" data-topic-count="all">0</span>
+    </button>
+    <button class="topic-tab" data-filter="tech">
+      <span data-i18n="topic.tab.tech">技術トピック</span>
+      <span class="count" data-topic-count="tech">0</span>
+    </button>
+    <button class="topic-tab" data-filter="makers">
+      <span data-i18n="topic.tab.makers">中国大手メーカー</span>
+      <span class="count" data-topic-count="makers">0</span>
+    </button>
+  </nav>
+
+  <div class="topic-grid" id="topicGrid">
+    <p class="empty" data-i18n="loading">読み込み中…</p>
+  </div>
+</section>
+
+<!-- ===== §07 Archive ===== -->
+<section class="section section-archive">
+  <header class="section-head">
+    <span class="badge-mark">§07</span>
+    <p class="section-mark" data-i18n="sec.arch.en">ARCHIVE</p>
+    <h2 class="section-title" data-i18n="sec.arch.ja">過去の配信</h2>
+  </header>
+  <p class="archive-help" data-i18n="arch.help">配信日ごとのカテゴリ別件数を可視化（高さ＝件数、色＝カテゴリ）</p>
+  <div class="archive-strip" id="archive"></div>
+  <p class="empty" id="archiveEmpty" hidden data-i18n="empty.archive">過去の配信はまだありません。</p>
+</section>
+
+<footer class="site-footer">
+  <div class="footer-left">
+    <p class="footer-tag" data-i18n="footer.tagline">ロボット業界のニュースを毎朝整理 — 産業 / 軍事 / サービス / 家庭</p>
+    <p class="muted">SET IN BRICOLAGE GROTESQUE · PLUS JAKARTA SANS · JETBRAINS MONO · NOTO SANS JP</p>
+  </div>
+  <div class="footer-right">
+    <p class="muted" id="buildTag">BUILD —</p>
+    <p class="muted" data-i18n="footer.curated">CURATED · ROBOT NEWS DIGEST</p>
+  </div>
+</footer>
+
+<script src="assets/js/app.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,136 @@
+# Saved searches — each topic becomes a Google News query (per language).
+# Articles found here accumulate into data/topics.json (dedup by URL).
+# Add or edit a topic and re-run: python3 scripts/seed_topics.py
+#
+# Fields:
+#   id          — slug used as JSON key
+#   name_ja/en  — display name
+#   query_ja/en — search query (Google News query syntax; OR / quotes / etc supported)
+#   color       — accent color in the tile
+#   is_company  — true for company/maker pages (rendered under Makers tab)
+
+topics:
+  # ===== note.com (direct RSS — Japanese long-form commentary) =====
+  - id: note-zhenren
+    name_ja: note · zhenren63 (中国ロボ業界の現地レポート)
+    name_en: note.com · zhenren63 (China robotics field reports)
+    feed_url: https://note.com/zhenren63/rss
+    feed_lang: ja
+    color: "#41C9B4"
+
+  - id: note-hashtag-robot
+    name_ja: note · ハッシュタグ「ロボット」
+    name_en: note.com · #ロボット hashtag
+    feed_url: https://note.com/hashtag/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/rss
+    feed_lang: ja
+    color: "#22C55E"
+
+  - id: note-hashtag-humanoid
+    name_ja: note · ハッシュタグ「ヒューマノイド」
+    name_en: note.com · #ヒューマノイド hashtag
+    feed_url: https://note.com/hashtag/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89/rss
+    feed_lang: ja
+    color: "#A855F7"
+
+  # ===== Technology topics =====
+  - id: humanoid
+    name_ja: ヒューマノイドロボット
+    name_en: Humanoid Robots
+    query_ja: ヒューマノイド OR 人型ロボット
+    query_en: humanoid robot OR Tesla Optimus OR Figure 02
+    color: "#8B5CF6"
+
+  - id: surgical
+    name_ja: 手術ロボット
+    name_en: Surgical Robotics
+    query_ja: 手術ロボット OR ダヴィンチ OR 手術支援ロボ
+    query_en: surgical robot OR da Vinci OR Intuitive Surgical
+    color: "#10B981"
+
+  - id: vacuum
+    name_ja: ロボット掃除機
+    name_en: Robot Vacuums
+    query_ja: ロボット掃除機 OR ルンバ OR Roborock
+    query_en: robot vacuum OR Roomba OR Roborock
+    color: "#F59E0B"
+
+  - id: agri
+    name_ja: 農業ロボット
+    name_en: Agricultural Robots
+    query_ja: 農業ロボット OR スマート農業
+    query_en: agricultural robot OR farm robot OR ag-tech robot
+    color: "#84CC16"
+
+  - id: warehouse
+    name_ja: 物流・倉庫ロボット (AMR/AGV)
+    name_en: Warehouse Robots (AMR/AGV)
+    query_ja: 倉庫ロボット OR AMR OR AGV OR 物流ロボ
+    query_en: warehouse robot OR AMR OR AGV OR logistics robot
+    color: "#06B6D4"
+
+  - id: drone
+    name_ja: 軍事ドローン
+    name_en: Military Drones
+    query_ja: 軍事ドローン OR 攻撃ドローン OR 戦闘無人機
+    query_en: military drone OR combat UAV OR loitering munition
+    color: "#EF4444"
+
+  # ===== Chinese major makers (SNS / news combined via Google News) =====
+  - id: ubtech
+    name_ja: UBTECH (优必选)
+    name_en: UBTECH
+    query_ja: UBTECH OR 优必选 OR 優必選
+    query_en: UBTECH humanoid OR UBTECH Walker S
+    is_company: true
+    color: "#06B6D4"
+    # Optional: SNS via RSSHub mirror (often unstable — set when you have access)
+    # sns_url: https://rsshub.app/twitter/user/UBTECH_Robotics
+
+  - id: unitree
+    name_ja: Unitree (宇树科技)
+    name_en: Unitree
+    query_ja: Unitree OR 宇樹科技 OR 宇树 OR ユニツリー
+    query_en: Unitree robot OR Unitree H1 OR Unitree G1 OR Unitree Go2
+    is_company: true
+    color: "#EC4899"
+    # sns_url: https://rsshub.app/twitter/user/UnitreeRobotics
+
+  - id: fourier
+    name_ja: Fourier Intelligence (傅利叶智能)
+    name_en: Fourier Intelligence
+    query_ja: Fourier Intelligence OR 傅利叶智能 OR フーリエ ロボット
+    query_en: Fourier Intelligence robot OR Fourier GR-1
+    is_company: true
+    color: "#2563EB"
+
+  - id: agibot
+    name_ja: Agibot (智元机器人)
+    name_en: Agibot / Zhiyuan
+    query_ja: Agibot OR 智元 OR 智元機器人 OR Zhiyuan ロボット
+    query_en: Agibot OR Zhiyuan robot OR Agibot A2
+    is_company: true
+    color: "#FBBF24"
+
+  - id: deeprobotics
+    name_ja: Deep Robotics (云深处)
+    name_en: Deep Robotics
+    query_ja: Deep Robotics OR 云深处 OR 雲深處 OR Jueying
+    query_en: Deep Robotics OR Jueying robot OR DeepRobotics X20
+    is_company: true
+    color: "#A855F7"
+
+  - id: estun
+    name_ja: Estun (埃斯顿)
+    name_en: Estun Automation
+    query_ja: Estun OR 埃斯顿 OR エストン ロボット
+    query_en: Estun robot OR Estun automation
+    is_company: true
+    color: "#0EA5E9"
+
+  - id: siasun
+    name_ja: SIASUN (新松)
+    name_en: SIASUN Robotics
+    query_ja: SIASUN OR 新松 OR 新松ロボット
+    query_en: SIASUN robot OR SIASUN automation
+    is_company: true
+    color: "#F97316"

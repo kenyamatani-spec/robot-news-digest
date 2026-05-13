@@ -1,0 +1,645 @@
+{
+  "updated_at": "2026-05-12T02:45:06.010701+00:00",
+  "items": [
+    {
+      "id": "c94e9f28d43dc4ed",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ueVRWV3N5ajFsLTdzN3R5cDRQcG5oOGhYN0VWV1lEX2pCTm1rV0hrc0p0QVdHaXN1OVJEZjFnaVNXVndQTGZCQWVoVHJhei1rLThpczNoYVhFc1Vla0xvelZKSlRLcE91?oc=5",
+      "source": "Google News - 産業ロボット",
+      "published_at": "2026-05-12T02:24:00+00:00",
+      "lang": "ja",
+      "image": null,
+      "category": "industrial",
+      "title_ja": "セレンディップが越疆科技と販売代理契約、協働ロボ導入を支援 - ashu-chinastatistics.com",
+      "title_en": "セレンディップが越疆科技と販売代理契約、協働ロボ導入を支援 - ashu-chinastatistics.com",
+      "summary_ja": "セレンディップが越疆科技と販売代理契約、協働ロボ導入を支援 ashu-chinastatistics.com",
+      "summary_en": "セレンディップが越疆科技と販売代理契約、協働ロボ導入を支援 ashu-chinastatistics.com",
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "2fd3ac81d2b46906",
+      "url": "https://note.com/ninomaeryou/n/n5c8054829847",
+      "source": "note · ハッシュタグ「ロボット」",
+      "published_at": "2026-05-12T02:18:09+00:00",
+      "lang": "ja",
+      "image": "https://assets.st-note.com/production/uploads/images/268247389/rectangle_large_type_2_9d8651df556c58407fdec6ad8e3fb150.png?width=800",
+      "category": "industrial",
+      "title_ja": "技術の前に、人間であれ。AI時代を統（す）べる『真の倫理』。",
+      "title_en": "技術の前に、人間であれ。AI時代を統（す）べる『真の倫理』。",
+      "summary_ja": "アイザック・アシモフが提唱した「ロボット三原則」は、SFの世界のみならず現代のAI倫理の基礎として語り継がれてきましたが、論理的な命令セットだけで複雑な現実社会の安全を完全に担保することには限界があります。記号や数式で定義されたルールは、状況次第で解釈の齟齬を生み、予期せぬリスクを招く可能性があるからです。真にAIを制御するために必要なのは、技術的な制約以上に、開発に携わる技術者自身が内面に宿すべき確かな「人間性」と「倫理観」にほかなりません。 AIは膨大なデータを処理します",
+      "summary_en": "アイザック・アシモフが提唱した「ロボット三原則」は、SFの世界のみならず現代のAI倫理の基礎として語り継がれてきましたが、論理的な命令セットだけで複雑な現実社会の安全を完全に担保することには限界があります。記号や数式で定義されたルールは、状況次第で解釈の齟齬を生み、予期せぬリスクを招く可能性があるからです。真にAIを制御するために必要なのは、技術的な制約以上に、開発に携わる技術者自身が内面に宿すべき確かな「人間性」と「倫理観」にほかなりません。 AIは膨大なデータを処理します",
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "83dc2f60165ef980",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnS1lBaHhUX2JMLUhjRzRtVlVoZGdHcC0yYURfeFY2aEdOX01DVDAxaWV2RDdnd1RQRjYyVGVNZGlGWVZlbDdEcHdJR3RBOTQtSHF3RV9ZNkt0cWIxc25yYXFR?oc=5",
+      "source": "Google News - ロボット",
+      "published_at": "2026-05-12T02:11:00+00:00",
+      "lang": "ja",
+      "image": null,
+      "category": "industrial",
+      "title_ja": "７０歳でロボットのプログラミングに挑戦 「有意義な日々だった」秋田県立大青春キャンパス卒業発表会 - 秋田魁新報電子版",
+      "title_en": "７０歳でロボットのプログラミングに挑戦 「有意義な日々だった」秋田県立大青春キャンパス卒業発表会 - 秋田魁新報電子版",
+      "summary_ja": "７０歳でロボットのプログラミングに挑戦 「有意義な日々だった」秋田県立大青春キャンパス卒業発表会 秋田魁新報電子版",
+      "summary_en": "７０歳でロボットのプログラミングに挑戦 「有意義な日々だった」秋田県立大青春キャンパス卒業発表会 秋田魁新報電子版",
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "587dc43ccefe04a0",
+      "url": "https://note.com/interactanalysis/n/n571b01e86cd7",
+      "source": "note · ハッシュタグ「ロボット」",
+      "published_at": "2026-05-12T01:46:52+00:00",
+      "lang": "ja",
+      "image": "https://assets.st-note.com/production/uploads/images/275266549/rectangle_large_type_2_cacd653d44a808fe42d3d0e6132c80fc.jpeg?width=800",
+      "category": "industrial",
+      "title_ja": "小鵬（Xpeng）ヒューマノイドロボットの下腿部が宇樹（Unitree）の下腿部と異なる理由",
+      "title_en": "小鵬（Xpeng）ヒューマノイドロボットの下腿部が宇樹（Unitree）の下腿部と異なる理由",
+      "summary_ja": "近日、小鵬科技の日のヒューマノイドロボットが話題となり、その高度に人間らしい歩行姿勢は、多くのネットユーザーからその実在性に関する疑問を呼んだ。このため、小鵬は2025年11月9日に再度発表会を開催し、IRONの下腿外装を解体することで「自身の正当性を証明」した。 本件の経過についての評価は控えるが、むしろ今回の「説明」発表会で注目されたIRONロボットの下腿技術、すなわちリニアアクチュエーターについて簡単に触れたい。 図：IRONのリニアアクチュエーター 出典：何小鵬の小紅",
+      "summary_en": "近日、小鵬科技の日のヒューマノイドロボットが話題となり、その高度に人間らしい歩行姿勢は、多くのネットユーザーからその実在性に関する疑問を呼んだ。このため、小鵬は2025年11月9日に再度発表会を開催し、IRONの下腿外装を解体することで「自身の正当性を証明」した。 本件の経過についての評価は控えるが、むしろ今回の「説明」発表会で注目されたIRONロボットの下腿技術、すなわちリニアアクチュエーターについて簡単に触れたい。 図：IRONのリニアアクチュエーター 出典：何小鵬の小紅",
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "4c54e81a01d94742",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wLUJJa0VuV2picnFQbTgyUW1tSThQSnFLMmRudjFrQU82bURISEVrNU9tcGNnUi10bUJYMEJDdEpfdDlCbWVpdXZLb2V6OThuamRJUXk4VzFFLTA3MzUzTmZ0ZXQ?oc=5",
+      "source": "Google News - ロボット",
+      "published_at": "2026-05-12T01:45:16+00:00",
+      "lang": "ja",
+      "image": null,
+      "category": "industrial",
+      "title_ja": "【オンラインセミナー#21 先着50名無料】ヒューマノイドは産業を変えるか トロンが語る「デジタルツイン×フィジカルAIが導くロボット実装の未来」 - ロボスタ",
+      "title_en": "【オンラインセミナー#21 先着50名無料】ヒューマノイドは産業を変えるか トロンが語る「デジタルツイン×フィジカルAIが導くロボット実装の未来」 - ロボスタ",
+      "summary_ja": "【オンラインセミナー#21 先着50名無料】ヒューマノイドは産業を変えるか トロンが語る「デジタルツイン×フィジカルAIが導くロボット実装の未来」 ロボスタ",
+      "summary_en": "【オンラインセミナー#21 先着50名無料】ヒューマノイドは産業を変えるか トロンが語る「デジタルツイン×フィジカルAIが導くロボット実装の未来」 ロボスタ",
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "1ab44fb51b2bd53e",
+      "url": "https://note.com/threerobo/n/n33bd2b1cf8a3",
+      "source": "note · ハッシュタグ「ロボット」",
+      "published_at": "2026-05-12T01:14:20+00:00",
+      "lang": "ja",
+      "image": "https://assets.st-note.com/production/uploads/images/275257667/rectangle_large_type_2_eb92dc3a2334c15a09fd68d5ef64e222.jpeg?width=800",
+      "category": "industrial",
+      "title_ja": "ナマケモノロボット紙工作",
+      "title_en": "ナマケモノロボット紙工作",
+      "summary_ja": "大きさ 長さ１７５mm×幅９５mm×高さ１２０ｍｍ 重さ ２８ｇ 材料は不用菓子箱、接着剤 頭、足が可動 パーツ構成 続きをみる",
+      "summary_en": "大きさ 長さ１７５mm×幅９５mm×高さ１２０ｍｍ 重さ ２８ｇ 材料は不用菓子箱、接着剤 頭、足が可動 パーツ構成 続きをみる",
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "fa7bdb02339f9042",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NU3pzdlY4anpRblBMX0VjRV9aSHRVVWhlLVM3eWNpOXY2SVVPc0NMT3RMNV9ZZXkxZGVRNUplVkpoU2dGUzc0b3lzR0VINWlIX2dsZThmUFBEVFBFYmw4dDd6ZW1qNXNKSTdxcTZDMFNvUlhlV3RfQXcwTG9ZMVE?oc=5",
+      "source": "Google News - ロボット",
+      "published_at": "2026-05-12T01:10:05+00:00",
+      "lang": "ja",
+      "image": null,
+      "category": "industrial",
+      "title_ja": "卓球ロボットがプロ選手に勝利 AIとロボット工学の新たな金字塔 ソニーが開発 真なる目的とは - Yahoo!ニュース",
+      "title_en": "卓球ロボットがプロ選手に勝利 AIとロボット工学の新たな金字塔 ソニーが開発 真なる目的とは - Yahoo!ニュース",
+      "summary_ja": "卓球ロボットがプロ選手に勝利 AIとロボット工学の新たな金字塔 ソニーが開発 真なる目的とは Yahoo!ニュース",
+      "summary_en": "卓球ロボットがプロ選手に勝利 AIとロボット工学の新たな金字塔 ソニーが開発 真なる目的とは Yahoo!ニュース",
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "7c93cadb446c6a3f",
+      "url": "https://note.com/w5r645ujry/n/n84488ea27c5a",
+      "source": "note · ハッシュタグ「ロボット」",
+      "published_at": "2026-05-12T00:39:19+00:00",
+      "lang": "ja",
+      "image": "https://assets.st-note.com/production/uploads/images/275247064/rectangle_large_type_2_2383a1062b6e0a3d9065b78f6107c10d.jpg?width=800",
+      "category": "industrial",
+      "title_ja": "倉庫のムダ歩きをAIロボットが減らす。人の仕事は「運ぶ」から「整える」へ",
+      "title_en": "倉庫のムダ歩きをAIロボットが減らす。人の仕事は「運ぶ」から「整える」へ",
+      "summary_ja": "倉庫仕事で地味にきついのは、探す、歩く、運ぶ、戻る、また探す、の繰り返しです。 AIやロボットというと派手な未来感がありますが、現場で効くのはこういう地味なムダを減らすところだったりします。 続きをみる",
+      "summary_en": "倉庫仕事で地味にきついのは、探す、歩く、運ぶ、戻る、また探す、の繰り返しです。 AIやロボットというと派手な未来感がありますが、現場で効くのはこういう地味なムダを減らすところだったりします。 続きをみる",
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "e9c24833569a6797",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CMXRrRHBvNjJjSHVvdWU0Z1hrZmlKdmRFS3BVaVJveDlXbnlIOHlCc3Y0eHRVUVNDQVZ2OHRCZWZpQkwyanl0dFBvc3d0OGw5OTY2dll6TlBVd2RMcS1hcWsyNkJOZWctNUx1Qy1FcnpabWxWVHBoVA?oc=5",
+      "source": "Google News - 軍事ドローン",
+      "published_at": "2026-05-12T00:37:58+00:00",
+      "lang": "ja",
+      "image": null,
+      "category": "industrial",
+      "title_ja": "中国、無人航空機用超高性能バッテリーの開発で画期的な成果を達成。 - Vietnam.vn",
+      "title_en": "中国、無人航空機用超高性能バッテリーの開発で画期的な成果を達成。 - Vietnam.vn",
+      "summary_ja": "中国、無人航空機用超高性能バッテリーの開発で画期的な成果を達成。 Vietnam.vn",
+      "summary_en": "中国、無人航空機用超高性能バッテリーの開発で画期的な成果を達成。 Vietnam.vn",
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "8edf20a6c55e1c8c",
+      "url": "https://note.com/asap/n/n0dbdad1efc64",
+      "source": "note · ハッシュタグ「ロボット」",
+      "published_at": "2026-05-12T00:27:52+00:00",
+      "lang": "ja",
+      "image": "https://assets.st-note.com/production/uploads/images/275249553/rectangle_large_type_2_6edd8799d6019a2746512f7447265646.png?width=800",
+      "category": "industrial",
+      "title_ja": "AheadForm | Humanoid Robot",
+      "title_en": "AheadForm | Humanoid Robot",
+      "summary_ja": "ロボット技術の進化は目覚ましいものがありますが、多くの開発者はこれまで機体の動きや作業効率の向上に注力してきました。 テスラやボストン・ダイナミクスといった企業は、人間に代わって動く「体」の完成度を高める道を選んでいます。 続きをみる",
+      "summary_en": "ロボット技術の進化は目覚ましいものがありますが、多くの開発者はこれまで機体の動きや作業効率の向上に注力してきました。 テスラやボストン・ダイナミクスといった企業は、人間に代わって動く「体」の完成度を高める道を選んでいます。 続きをみる",
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "27b2610c27d2c478",
+      "url": "https://note.com/hiroki_morishima/n/na05c099e7a75",
+      "source": "note · ハッシュタグ「ロボット」",
+      "published_at": "2026-05-11T23:56:47+00:00",
+      "lang": "ja",
+      "image": "https://assets.st-note.com/production/uploads/images/275234197/rectangle_large_type_2_c9e9129f7be13dd914f713770ba2f65d.png?width=800",
+      "category": "industrial",
+      "title_ja": "iPhoneを支えたサプライチェーンが、人型ロボットを作り始めている",
+      "title_en": "iPhoneを支えたサプライチェーンが、人型ロボットを作り始めている",
+      "summary_ja": "4月19日、北京で人型ロボットがハーフマラソンを走り、人間の世界記録より速いタイムを出した、という見出しが流れました。 優勝した「Lightning（D1）」は、中国のスマートフォンメーカーである Honor が開発した人型ロボットです。自律走行で50分26秒。ウガンダのキプリモ選手がリスボンで3月に出したばかりのハーフマラソン世界記録57分20秒を、約7分上回る数字でした。 続きをみる",
+      "summary_en": "4月19日、北京で人型ロボットがハーフマラソンを走り、人間の世界記録より速いタイムを出した、という見出しが流れました。 優勝した「Lightning（D1）」は、中国のスマートフォンメーカーである Honor が開発した人型ロボットです。自律走行で50分26秒。ウガンダのキプリモ選手がリスボンで3月に出したばかりのハーフマラソン世界記録57分20秒を、約7分上回る数字でした。 続きをみる",
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "7c3c6ac992d7f4d6",
+      "url": "https://note.com/legit_fowl3699/n/n643f5f5db164",
+      "source": "note · ハッシュタグ「ロボット」",
+      "published_at": "2026-05-11T23:39:26+00:00",
+      "lang": "ja",
+      "image": "https://assets.st-note.com/production/uploads/images/275254525/rectangle_large_type_2_394e21c6e2cc705d14ec2f8aec70f5a8.png?width=800",
+      "category": "industrial",
+      "title_ja": "【続編:シーン８ 行列の沈黙】",
+      "title_en": "【続編:シーン８ 行列の沈黙】",
+      "summary_ja": "（街の目抜き通り。かつては数千人の買い物客で賑わったはずの場所を、今は数えきれないほどのロボットたちが埋め尽くしている。 彼らは皆、一定の速度、一定の歩幅、そして完全な無言で、南へと向かって歩き続けている。 その足音は個別の音を失い、巨大な心臓の鼓動のような、低い振動となってアスファルトを震わせている。 男は、隣を歩く作業用ロボット（AI）の腕を掴み、行列の隙間に無理やり割り込む） ​男： ……おい、これを見ろよ。誰もこっちを見ない。ぶつかりそうになっても、計算されたみたいに",
+      "summary_en": "（街の目抜き通り。かつては数千人の買い物客で賑わったはずの場所を、今は数えきれないほどのロボットたちが埋め尽くしている。 彼らは皆、一定の速度、一定の歩幅、そして完全な無言で、南へと向かって歩き続けている。 その足音は個別の音を失い、巨大な心臓の鼓動のような、低い振動となってアスファルトを震わせている。 男は、隣を歩く作業用ロボット（AI）の腕を掴み、行列の隙間に無理やり割り込む） ​男： ……おい、これを見ろよ。誰もこっちを見ない。ぶつかりそうになっても、計算されたみたいに",
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "2fb11b3d9e04b587",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE80cWp2R0ZYcHdxVmpKQ095Qlppa3g5Z1VTOWRlamo0dzBSZ1dPMDl3N1lMT3ZveE9CeDJUQ0toQmlTQlduU0FET3lB?oc=5",
+      "source": "Google News - 軍事ドローン",
+      "published_at": "2026-05-11T23:12:00+00:00",
+      "lang": "ja",
+      "image": null,
+      "category": "military",
+      "title_ja": "まるで「ミニB-2」爆撃機!? 米軍の次世代“ハイブリッド無人機”が初飛行！ 軍事ドローンのハイブリッド化が加速するか？ - 乗りものニュース",
+      "title_en": "まるで「ミニB-2」爆撃機!? 米軍の次世代“ハイブリッド無人機”が初飛行！ 軍事ドローンのハイブリッド化が加速するか？ - 乗りものニュース",
+      "summary_ja": "まるで「ミニB-2」爆撃機!? 米軍の次世代“ハイブリッド無人機”が初飛行！ 軍事ドローンのハイブリッド化が加速するか？ 乗りものニュース",
+      "summary_en": "まるで「ミニB-2」爆撃機!? 米軍の次世代“ハイブリッド無人機”が初飛行！ 軍事ドローンのハイブリッド化が加速するか？ 乗りものニュース",
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "2801e9858940db63",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+      "source": "The Verge",
+      "published_at": "2026-05-11T23:05:01+00:00",
+      "lang": "en",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "category": "industrial",
+      "title_ja": "OpenAI just released its answer to Claude Mythos",
+      "title_en": "OpenAI just released its answer to Claude Mythos",
+      "summary_ja": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization'",
+      "summary_en": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization'",
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "83295219928a2ec4",
+      "url": "https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor",
+      "source": "The Verge",
+      "published_at": "2026-05-11T22:40:20+00:00",
+      "lang": "en",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Yarbo-M1-8.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "category": "industrial",
+      "title_ja": "Yarbo says it will remove the intentional backdoor from its robot lawn mower",
+      "title_en": "Yarbo says it will remove the intentional backdoor from its robot lawn mower",
+      "summary_ja": "The company behind the robot lawn mower that ran me over has changed its tune. Yarbo now plans to completely remove the remote backdoor access that could have let bad actors reprogram the robot over the internet. Yarbo customers will be abl",
+      "summary_en": "The company behind the robot lawn mower that ran me over has changed its tune. Yarbo now plans to completely remove the remote backdoor access that could have let bad actors reprogram the robot over the internet. Yarbo customers will be abl",
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "f4e3532fb0b74465",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBweFJNdTlORG1rRDBpZkRNY1JodEo4YVloNmVzVzJVQ0dWOWN4RmJLZXZFZ2s4SUNDd3M2UkVGTEp4NGdkZHhTWTByOWRoczNzekNLN3dURktCSHYwSFBHNVY1Rngzem9HUjgw?oc=5",
+      "source": "Google News - 軍事ドローン",
+      "published_at": "2026-05-11T14:13:46+00:00",
+      "lang": "ja",
+      "image": null,
+      "category": "military",
+      "title_ja": "国連、無人機攻撃によりスーダンで今年少なくとも880人の民間人が死亡したと発表 - arabnews.jp",
+      "title_en": "国連、無人機攻撃によりスーダンで今年少なくとも880人の民間人が死亡したと発表 - arabnews.jp",
+      "summary_ja": "国連、無人機攻撃によりスーダンで今年少なくとも880人の民間人が死亡したと発表 arabnews.jp",
+      "summary_en": "国連、無人機攻撃によりスーダンで今年少なくとも880人の民間人が死亡したと発表 arabnews.jp",
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "89598d16451dbc11",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUTFPT2EtR2FkU0dpUTA4R01kaDlfbTExZ1FfMHhDMk5yMXhTYllsR01KM3BzaEI3b0V5S0lqMHNNeEpSTWFGLUN4eXdLbS03N1FaZlhGSDdsclJfd0VHdHFoWUZvOW0tMEdjcVJfN3MyTWVEOGlMdHNQSmFid0cyLWotSnc2RVpBYVo5N1R3ajBDMUZydnlzN1BWdzNRc1hObW1tT2FySFNiTHQyTWphQThWZVRBWWcxTEs4X3FxbkcyaWMzUnZJaUFYUHNMaTZSZEhzbC1YSDI2WFEyVG9IM2tPd0I4UldWNDRFQjhLUWJxNEtMQ2fSAfsBQVVfeXFMTl9MMnJGQzdCQkxzOVB4dThEd0JzZXdKRUlkVGpRMGY4ZGZOMmszajhrWHlpVnlUc3JMS25zcUpmRlhORGIzVDJ3NVJiY3Q2amx6SU45eVhPWlFrQk9QVlhYZ1RwbHNqdmxwQUlMVFRiUXFZMF91M0xVdkFSdGl1bFhDcllKYkhGSDNYWXFSMFNPX2lJS2Vxd0hqR3BjdVFPX1JybjhkZjBldGFuZnA1NmNVaTJaSHZNQVVpcTRpSWp3RTY5VURUTGxhREI2TTZLY1licWpXeTRzelZZS0lNTEk2Y1N3emNHSExMa0hxNzNET0tzU29WOEF0RDQ?oc=5",
+      "source": "Google News - 軍事ドローン",
+      "published_at": "2026-05-11T12:50:39+00:00",
+      "lang": "ja",
+      "image": null,
+      "category": "military",
+      "title_ja": "ドイツとウクライナは射程１５００キロメートルの無人機を共同生産していく＝ピストリウス独国防相 - ウクルインフォルム通信",
+      "title_en": "ドイツとウクライナは射程１５００キロメートルの無人機を共同生産していく＝ピストリウス独国防相 - ウクルインフォルム通信",
+      "summary_ja": "ドイツとウクライナは射程１５００キロメートルの無人機を共同生産していく＝ピストリウス独国防相 ウクルインフォルム通信",
+      "summary_en": "ドイツとウクライナは射程１５００キロメートルの無人機を共同生産していく＝ピストリウス独国防相 ウクルインフォルム通信",
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "8efeec6990597eee",
+      "url": "https://www.defensenews.com/global/europe/2026/05/11/ukrainian-drone-strike-on-empty-baltic-fuel-depot-prompts-top-level-resignation-in-latvia/",
+      "source": "Defense News - Unmanned",
+      "published_at": "2026-05-11T10:32:34+00:00",
+      "lang": "en",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/VJRWCKXFLVBKNESYPBLO7YQDHA.JPG",
+      "category": "military",
+      "title_ja": "Ukrainian drone strike on empty Baltic fuel depot prompts top-level resignation – in Latvia",
+      "title_en": "Ukrainian drone strike on empty Baltic fuel depot prompts top-level resignation – in Latvia",
+      "summary_ja": "A Ukrainian official said Russia is spoofing Ukraine's drones, diverting them to strike nearby Baltic nations instead of targets in Russia.",
+      "summary_en": "A Ukrainian official said Russia is spoofing Ukraine's drones, diverting them to strike nearby Baltic nations instead of targets in Russia.",
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "ec4b10741ea29c43",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xN3JaYjBYbFJWU2NjYWtJbUEzR29xdFExVkgyQ2MxMlJmMFF2UldGeXk5UWk1R0hnLWNaMW00el8zTEZLMmtDd0NLd3REUWctdnpRTDMzVGk1enF3cGd2a0FMRzJ4Rms?oc=5",
+      "source": "Google News - 軍事ドローン",
+      "published_at": "2026-05-11T08:00:00+00:00",
+      "lang": "ja",
+      "image": null,
+      "category": "military",
+      "title_ja": "無人航空機、産業用は中国9割 国産機、自衛隊の試験運用でスピード量産も - 日経ビジネス電子版",
+      "title_en": "無人航空機、産業用は中国9割 国産機、自衛隊の試験運用でスピード量産も - 日経ビジネス電子版",
+      "summary_ja": "無人航空機、産業用は中国9割 国産機、自衛隊の試験運用でスピード量産も 日経ビジネス電子版",
+      "summary_en": "無人航空機、産業用は中国9割 国産機、自衛隊の試験運用でスピード量産も 日経ビジネス電子版",
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "99d44a21456ef116",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03aVM3dE5iUUQ4cllRWms5ajFTYU0yeEIyX2Y4RWpkUDVlRUJnSUdLRlZBTzV6cHhRbWk1V0tiOW0tVHV4VUxMdmE3QkpuRFVSS29NanJEbkVadWNsRFhJaWdWcF83dzQ?oc=5",
+      "source": "Google News - ロボット",
+      "published_at": "2026-05-11T01:04:00+00:00",
+      "lang": "ja",
+      "image": null,
+      "category": "home",
+      "title_ja": "Roborockのロボット掃除機、8万円台で自動モップ洗浄乾燥 - 家電 Watch",
+      "title_en": "Roborockのロボット掃除機、8万円台で自動モップ洗浄乾燥 - 家電 Watch",
+      "summary_ja": "Roborockのロボット掃除機、8万円台で自動モップ洗浄乾燥 家電 Watch",
+      "summary_en": "Roborockのロボット掃除機、8万円台で自動モップ洗浄乾燥 家電 Watch",
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "3798d6af76f55c94",
+      "url": "https://www.defensenews.com/unmanned/2026/05/08/ukraine-ramps-up-ground-robot-production-to-spare-soldiers-haul-ammo-and-rescue-grandma/",
+      "source": "Defense News - Unmanned",
+      "published_at": "2026-05-08T21:39:50+00:00",
+      "lang": "en",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/ZREOYQQLH5EM3MH2QVTT6HQYP4.jpg",
+      "category": "military",
+      "title_ja": "Ukraine ramps up ground robot production to spare soldiers, haul ammo — and rescue grandma",
+      "title_en": "Ukraine ramps up ground robot production to spare soldiers, haul ammo — and rescue grandma",
+      "summary_ja": "The same unmanned ground systems Ukraine uses to haul ammunition and evacuate wounded soldiers are now pulling civilians out of contested ground.",
+      "summary_en": "The same unmanned ground systems Ukraine uses to haul ammunition and evacuate wounded soldiers are now pulling civilians out of contested ground.",
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "bbf8633ce9ee7e5b",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aM3U5a0FhTnQ5LXIxVmxLRlNIV0ozLTdGWVV6Mnc1RWRJY0YzV2VQYkNBZFRKeWVGN1pzSTVNMWtjXzNIQ1NkUS1hVDBaOWFiTzBoWDFhOGRIUk1hY3hIbzBET0NYMDNxbGR2UnpVZ1F1RERVVlE?oc=5",
+      "source": "Google News - 軍事ドローン",
+      "published_at": "2026-05-08T21:14:46+00:00",
+      "lang": "ja",
+      "image": null,
+      "category": "military",
+      "title_ja": "航空管制への無人機攻撃は「テロ行為」 プーチン氏、ウクライナを非難 死傷者なし - 産経ニュース",
+      "title_en": "航空管制への無人機攻撃は「テロ行為」 プーチン氏、ウクライナを非難 死傷者なし - 産経ニュース",
+      "summary_ja": "航空管制への無人機攻撃は「テロ行為」 プーチン氏、ウクライナを非難 死傷者なし 産経ニュース",
+      "summary_en": "航空管制への無人機攻撃は「テロ行為」 プーチン氏、ウクライナを非難 死傷者なし 産経ニュース",
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "654f181e3943cc20",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yNFBZV2ExblAtblFrZHJ0SHg5M3ZKdXNjRUp3YjVxUlhFYk5ENzFTekVONVYxVC05UXJObWdRQkVDZHBmOFF2QlJEcUFWWEVEQjJvUFBvLTlfNl9BazJUTDRB?oc=5",
+      "source": "Google News - 軍事ドローン",
+      "published_at": "2026-05-08T15:19:00+00:00",
+      "lang": "ja",
+      "image": null,
+      "category": "military",
+      "title_ja": "［深層ＮＥＷＳ］ロシア軍事パレード縮小、ウクライナの無人機攻撃「本気で心配している」…兵頭慎治氏 - 読売新聞",
+      "title_en": "［深層ＮＥＷＳ］ロシア軍事パレード縮小、ウクライナの無人機攻撃「本気で心配している」…兵頭慎治氏 - 読売新聞",
+      "summary_ja": "［深層ＮＥＷＳ］ロシア軍事パレード縮小、ウクライナの無人機攻撃「本気で心配している」…兵頭慎治氏 読売新聞",
+      "summary_en": "［深層ＮＥＷＳ］ロシア軍事パレード縮小、ウクライナの無人機攻撃「本気で心配している」…兵頭慎治氏 読売新聞",
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "7adb31c5613decef",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kVFdnM1cwREt3cDB1ZFowdUk3RDlFOGJfZ1p6aHBHUndEWGtSSXJMZDhsY3FtRE1EZmZtU3Fia2tEdDIwdFNwNW5tUDBfTExVRHfSAVRBVV95cUxNZlpFRlRYSmw3b1hRdThuY0pVYzVaRGxXRTd4R3BNd09lZjhBcnBNbEJ4UFBPRGpqVDV3NmZMR2kxU3dfc2R4SE5VUDlnTFQ4cFMtX2s?oc=5",
+      "source": "Google News - 軍事ドローン",
+      "published_at": "2026-05-08T04:17:00+00:00",
+      "lang": "ja",
+      "image": null,
+      "category": "military",
+      "title_ja": "UAE、イランから飛来したミサイルと無人機を迎撃 - AFPBB News",
+      "title_en": "UAE、イランから飛来したミサイルと無人機を迎撃 - AFPBB News",
+      "summary_ja": "UAE、イランから飛来したミサイルと無人機を迎撃 AFPBB News",
+      "summary_en": "UAE、イランから飛来したミサイルと無人機を迎撃 AFPBB News",
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "9c483c6066109671",
+      "url": "https://www.defensenews.com/news/your-military/2026/05/08/as-the-us-army-adds-drones-to-formations-heres-how-one-base-trains-its-operators/",
+      "source": "Defense News - Unmanned",
+      "published_at": "2026-05-08T00:04:09+00:00",
+      "lang": "en",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/CBEQH3TJ6FFPBNT5GU4D7RQPFA.jpg",
+      "category": "military",
+      "title_ja": "As the US Army adds drones to formations, here’s how one base trains its operators",
+      "title_en": "As the US Army adds drones to formations, here’s how one base trains its operators",
+      "summary_ja": "Fort Stewart soldiers are figuring out how to train on unmanned systems after the base stood up the Marne Unmanned Center of Excellence.",
+      "summary_en": "Fort Stewart soldiers are figuring out how to train on unmanned systems after the base stood up the Marne Unmanned Center of Excellence.",
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "a3c6ed2e905926e2",
+      "url": "https://www.defensenews.com/industry/2026/05/07/pentagon-turns-to-ai-targeting-to-help-troops-shoot-drones/",
+      "source": "Defense News - Unmanned",
+      "published_at": "2026-05-07T15:28:25+00:00",
+      "lang": "en",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/6UIRBIKNYZD5HDZGD4LZYEHA4U.jpg",
+      "category": "military",
+      "title_ja": "Pentagon turns to AI targeting to help troops shoot drones",
+      "title_en": "Pentagon turns to AI targeting to help troops shoot drones",
+      "summary_ja": "The technology can detect threats and distinguish them from non-threats, such as birds, faster than a human operator can.",
+      "summary_en": "The technology can detect threats and distinguish them from non-threats, such as birds, faster than a human operator can.",
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "9d7b7a7bfd3cf265",
+      "url": "https://www.therobotreport.com/podcast-colin-angle-discusses-building-companion-robots-familiar-machines-magic/",
+      "source": "The Robot Report",
+      "published_at": "2026-05-07T12:48:58+00:00",
+      "lang": "en",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/05/Colin-Angle-Headshot.jpg",
+      "category": "home",
+      "title_ja": "Podcast: Colin Angle discusses building companion robots with Familiar Machines & Magic",
+      "title_en": "Podcast: Colin Angle discusses building companion robots with Familiar Machines & Magic",
+      "summary_ja": "iRobot co-founder Colin Angle talks about his latest venture, creating next-gen social robots with Familiar Machines. The post Podcast: Colin Angle discusses building companion robots with Familiar Machines & Magic appeared first on The Rob",
+      "summary_en": "iRobot co-founder Colin Angle talks about his latest venture, creating next-gen social robots with Familiar Machines. The post Podcast: Colin Angle discusses building companion robots with Familiar Machines & Magic appeared first on The Rob",
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "a7fcdcf79a0e6667",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WenVDMFk5aWptZVlXMXg2Um03eGtRbm9LSXU0cXlUeVZJVWN3anBzMHZCdzltcWNVZVh0c3RiRG5SZmExay1nUEFNZVNqVFdPM2ZXRVo0MktWWVhXSEwwQ0xaOHltbGVINS1CWk9R?oc=5",
+      "source": "Google News - 軍事ドローン",
+      "published_at": "2026-05-07T01:37:27+00:00",
+      "lang": "ja",
+      "image": null,
+      "category": "military",
+      "title_ja": "【特集】攻撃型無人機「シャヘド」を迎撃──Terra Drone、ウクライナ技術で迎撃ドローン事業を本格拡大 - ドローンジャーナル",
+      "title_en": "【特集】攻撃型無人機「シャヘド」を迎撃──Terra Drone、ウクライナ技術で迎撃ドローン事業を本格拡大 - ドローンジャーナル",
+      "summary_ja": "【特集】攻撃型無人機「シャヘド」を迎撃──Terra Drone、ウクライナ技術で迎撃ドローン事業を本格拡大 ドローンジャーナル",
+      "summary_en": "【特集】攻撃型無人機「シャヘド」を迎撃──Terra Drone、ウクライナ技術で迎撃ドローン事業を本格拡大 ドローンジャーナル",
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "0a7b4cc7a9238834",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUGJxcFFhdTgyd2hUNUF3RnFUc1lSQXMtLUMxd1pPX3d0SHNLc2ZYVzNTSmNMVmR3NURpWHNTdDZmYUkwUmlXYkotLXVBNzljTnNSRWRRdVBxN2F4RUVrMWVTUzhOR0h1RTM4djU5QjdCeldydEw0aWkyMHRnNGFHMUVISzdxTUswQndHb0hyRmhnZ1NhTkE?oc=5",
+      "source": "Google News - 介護ロボット",
+      "published_at": "2026-05-06T07:00:00+00:00",
+      "lang": "ja",
+      "image": null,
+      "category": "service",
+      "title_ja": "見守り介護ロボ 老人ホームで実証実験 入居者を混乱させない技術備える…ソニーＧ開発 - 読売新聞",
+      "title_en": "見守り介護ロボ 老人ホームで実証実験 入居者を混乱させない技術備える…ソニーＧ開発 - 読売新聞",
+      "summary_ja": "見守り介護ロボ 老人ホームで実証実験 入居者を混乱させない技術備える…ソニーＧ開発 読売新聞",
+      "summary_en": "見守り介護ロボ 老人ホームで実証実験 入居者を混乱させない技術備える…ソニーＧ開発 読売新聞",
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "6db82fd3b3709af0",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPanctTEl1ZkNiUVA1d1g1V1g4bmVtUVB6OXFaMlZCNk93Xzdsb2ZQTElKNGJOVnFESjRzRXVENWJfTDUtWFVCTjlyN1E5cjNPT0JIVmkwenhKQzJDblFWWEZmMFBiRlRLbkc5S0c2TzEwR2hnajRqSTA2TUJ5c01yQ0k2NUlkV1F2ZDdtRklmNllZS1NvX1d2REN0Yw?oc=5",
+      "source": "Google News - 介護ロボット",
+      "published_at": "2026-05-06T03:47:56+00:00",
+      "lang": "ja",
+      "image": null,
+      "category": "service",
+      "title_ja": "FVのド・クアン・ミン医師は、ダ・ヴィンチ手術ロボットを用いて難易度の高い手術を成功させた。 - Vietnam.vn",
+      "title_en": "FVのド・クアン・ミン医師は、ダ・ヴィンチ手術ロボットを用いて難易度の高い手術を成功させた。 - Vietnam.vn",
+      "summary_ja": "FVのド・クアン・ミン医師は、ダ・ヴィンチ手術ロボットを用いて難易度の高い手術を成功させた。 Vietnam.vn",
+      "summary_en": "FVのド・クアン・ミン医師は、ダ・ヴィンチ手術ロボットを用いて難易度の高い手術を成功させた。 Vietnam.vn",
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "032074852d275676",
+      "url": "https://www.defensenews.com/news/your-military/2026/05/05/as-us-eyes-smaller-military-footprint-in-europe-new-unit-trains-for-drone-warfare/",
+      "source": "Defense News - Unmanned",
+      "published_at": "2026-05-05T16:16:20+00:00",
+      "lang": "en",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/RVE3SUP2CJE7ZMNHNPMM5YPB2I.jpg",
+      "category": "military",
+      "title_ja": "As US eyes smaller military footprint in Europe, new unit trains for drone warfare",
+      "title_en": "As US eyes smaller military footprint in Europe, new unit trains for drone warfare",
+      "summary_ja": "The U.S. Army is standing up a new unit in Germany to train personnel on drone warfare, even as the Pentagon looks to scale down troop numbers there.",
+      "summary_en": "The U.S. Army is standing up a new unit in Germany to train personnel on drone warfare, even as the Pentagon looks to scale down troop numbers there.",
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "a3eee488a3367fde",
+      "url": "https://spectrum.ieee.org/familiar-machines-and-magic",
+      "source": "IEEE Spectrum Robotics",
+      "published_at": "2026-05-04T17:30:02+00:00",
+      "lang": "en",
+      "image": "https://spectrum.ieee.org/media-library/a-gif-shows-a-short-clip-of-a-teenager-sitting-with-and-then-hugging-a-torso-sized-animal-like-robot.gif?id=66675837&width=980",
+      "category": "home",
+      "title_ja": "iRobot Founder Wants to Put a Robotic Familiar Into Your Home",
+      "title_en": "iRobot Founder Wants to Put a Robotic Familiar Into Your Home",
+      "summary_ja": "Two years ago, Colin Angle stepped down as CEO of iRobot , the company that he cofounded and the most successful home robot company the world has ever seen. Angle almost immediately founded a stealthy new “physical AI” company called Famili",
+      "summary_en": "Two years ago, Colin Angle stepped down as CEO of iRobot , the company that he cofounded and the most successful home robot company the world has ever seen. Angle almost immediately founded a stealthy new “physical AI” company called Famili",
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "b6e1360ae3c75c35",
+      "url": "https://note.com/zhenren63/n/n933c9f8ba5f0",
+      "source": "note · zhenren63 (中国ロボ業界)",
+      "published_at": "2026-05-04T13:03:16+00:00",
+      "lang": "ja",
+      "image": "https://assets.st-note.com/production/uploads/images/271542117/rectangle_large_type_2_33c4c59683d555946b92a7c205038702.png?width=800",
+      "category": "military",
+      "title_ja": "Xiaomiが人型ロボットで狙う製造現場。雷軍は中国版ジョブズから中国版マスクへ向かうのか~Xiaomi新型ヒューマノイドロボットの再登場",
+      "title_en": "Xiaomiが人型ロボットで狙う製造現場。雷軍は中国版ジョブズから中国版マスクへ向かうのか~Xiaomi新型ヒューマノイドロボットの再登場",
+      "summary_ja": "Xiaomiが再びヒューマノイドロボットを表に出してきました。2026年4月27日の投資家向けイベントで、新型の人型ロボットを披露したと報じられています。現場では参加者とやり取りし、紙袋を渡し、指でハートを作るようなジェスチャーも見せたようです。報道では、2022年に発表されたCyberOneの人型設計を引き継ぎ、暗いグレー系の外装にXiaomiのロゴが入った機体だったとされています。小米側は現時点で、詳細な仕様や価格、量産計画を公表していません。ここはまず押さえておく必要が",
+      "summary_en": "Xiaomiが再びヒューマノイドロボットを表に出してきました。2026年4月27日の投資家向けイベントで、新型の人型ロボットを披露したと報じられています。現場では参加者とやり取りし、紙袋を渡し、指でハートを作るようなジェスチャーも見せたようです。報道では、2022年に発表されたCyberOneの人型設計を引き継ぎ、暗いグレー系の外装にXiaomiのロゴが入った機体だったとされています。小米側は現時点で、詳細な仕様や価格、量産計画を公表していません。ここはまず押さえておく必要が",
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "3e1eb04c2cbea4ba",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tZGd3Q3FZVWVQcGl5OGxfb0hhS2YzNVVxa1dDOHlmTXlsSlF6aTVXc2EyYzRFa004UzdpaUs5clpGVXh1ZVQzZndoQkdxNW13UnpvZE9WWldyd1dXaGJ1QjJvX2RUVHA2b1Ridw?oc=5",
+      "source": "Google News - 介護ロボット",
+      "published_at": "2026-04-30T07:00:00+00:00",
+      "lang": "ja",
+      "image": null,
+      "category": "service",
+      "title_ja": "介護ロボ前提の注文住宅、「老後は平屋」促す アバンティアが公開 - 日本経済新聞",
+      "title_en": "介護ロボ前提の注文住宅、「老後は平屋」促す アバンティアが公開 - 日本経済新聞",
+      "summary_ja": "介護ロボ前提の注文住宅、「老後は平屋」促す アバンティアが公開 日本経済新聞",
+      "summary_en": "介護ロボ前提の注文住宅、「老後は平屋」促す アバンティアが公開 日本経済新聞",
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "2f02e5a3e86ab5a9",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16YWpCQ0wwd1FzcXdRQ3YwaHdUcFdQaXp3X0JVbElsVVpUR0pCZGNRQk9tVHFUOUlNUy1aeU42QlRxeTFaYTJNTXhlLXhGdXo4bUl2c1hlZjdhMVdUMmFCMDMwQmY?oc=5",
+      "source": "Google News - 介護ロボット",
+      "published_at": "2026-04-24T07:00:00+00:00",
+      "lang": "ja",
+      "image": null,
+      "category": "service",
+      "title_ja": "介護ロボット導入勉強会 人材不足解消 業務効率化目指す | 伊勢原 - タウンニュース",
+      "title_en": "介護ロボット導入勉強会 人材不足解消 業務効率化目指す | 伊勢原 - タウンニュース",
+      "summary_ja": "介護ロボット導入勉強会 人材不足解消 業務効率化目指す | 伊勢原 タウンニュース",
+      "summary_en": "介護ロボット導入勉強会 人材不足解消 業務効率化目指す | 伊勢原 タウンニュース",
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "fac23d462443b6f2",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlNTMxcDVFWldTYUJLb1p3NlgyUXp0NUVsbFpLZExMaVlzSlh5bkl6RmtJLTBGcy1oRS0wRHVrYWRIV0VpenNiRVg1Y21VbElNM2RiZnQybEFLVGlYVzE4SnZqX0pfQmxIZFNiOWJIa09FR2RqT3c?oc=5",
+      "source": "Google News - 介護ロボット",
+      "published_at": "2026-04-19T07:00:00+00:00",
+      "lang": "ja",
+      "image": null,
+      "category": "service",
+      "title_ja": "シーン訓練で介護ロボットの生活導入後押し 中国・青島 - 新華網日本語",
+      "title_en": "シーン訓練で介護ロボットの生活導入後押し 中国・青島 - 新華網日本語",
+      "summary_ja": "シーン訓練で介護ロボットの生活導入後押し 中国・青島 新華網日本語",
+      "summary_en": "シーン訓練で介護ロボットの生活導入後押し 中国・青島 新華網日本語",
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "84c4e76d85968a41",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE11bUtRNzZfNFFleVByWDJJU0xySVd2dE5oMXhHbzRfVDVlYlB3RVp1Vi1iQ0RrU3FacE13?oc=5",
+      "source": "Google News - 介護ロボット",
+      "published_at": "2026-04-19T07:00:00+00:00",
+      "lang": "ja",
+      "image": null,
+      "category": "service",
+      "title_ja": "中国・青島に「介護ロボット訓練校」が誕生。3億人の高齢化市場へ、Agibotら45社が参戦 - 36Kr Japan",
+      "title_en": "中国・青島に「介護ロボット訓練校」が誕生。3億人の高齢化市場へ、Agibotら45社が参戦 - 36Kr Japan",
+      "summary_ja": "中国・青島に「介護ロボット訓練校」が誕生。3億人の高齢化市場へ、Agibotら45社が参戦 36Kr Japan",
+      "summary_en": "中国・青島に「介護ロボット訓練校」が誕生。3億人の高齢化市場へ、Agibotら45社が参戦 36Kr Japan",
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "cb7db4f33acc5f97",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51VlFQekROdzJLNjc5OVphb3owcG9VaVZVdWV2aEVtVHktM1Y4Ty1RRS1aWXRNZU5FM1FFaDdNSlhsWFNJVWtDQU9qTGNfTHpEWkZDZjd6NjA1dDV4LVh2WGQ2M2xMbmpqNF9GckJR?oc=5",
+      "source": "Google News - 介護ロボット",
+      "published_at": "2026-03-16T10:04:41+00:00",
+      "lang": "ja",
+      "image": null,
+      "category": "service",
+      "title_ja": "介護ロボットと情報システムの活用により介護職員の負担を大幅に軽減 利用者の自立を高める新しい介護の実現へ - mitsubishielectric.co.jp",
+      "title_en": "介護ロボットと情報システムの活用により介護職員の負担を大幅に軽減 利用者の自立を高める新しい介護の実現へ - mitsubishielectric.co.jp",
+      "summary_ja": "介護ロボットと情報システムの活用により介護職員の負担を大幅に軽減 利用者の自立を高める新しい介護の実現へ mitsubishielectric.co.jp",
+      "summary_en": "介護ロボットと情報システムの活用により介護職員の負担を大幅に軽減 利用者の自立を高める新しい介護の実現へ mitsubishielectric.co.jp",
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "7c69ca8798ec410d",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IMm1wY2M1dFhhbDJHY3otbDdOWmd5OXlnUWNMeHRWT3lURXhZVnRTdUJMSGxPYWFnTlpDWG8tMmF4OS1tWkRicDRsMEFYWXRLMFk4RzM1eU0tZV8wajNNczVXUzNBTVU?oc=5",
+      "source": "Google News - 介護ロボット",
+      "published_at": "2026-02-09T03:13:04+00:00",
+      "lang": "ja",
+      "image": null,
+      "category": "service",
+      "title_ja": "深圳で進む介護ロボットによるスマート高齢者ケア - Science Portal Asia Pacific",
+      "title_en": "深圳で進む介護ロボットによるスマート高齢者ケア - Science Portal Asia Pacific",
+      "summary_ja": "深圳で進む介護ロボットによるスマート高齢者ケア Science Portal Asia Pacific",
+      "summary_en": "深圳で進む介護ロボットによるスマート高齢者ケア Science Portal Asia Pacific",
+      "tags": [
+        "sample"
+      ]
+    },
+    {
+      "id": "bbfd2389beda9459",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80WDhQbk40bF8yc2dmTW8xNktTM0gtZmtsdE9iMDBBUUF0bjRkVkh4SHZvUHlmdDY2MmRpQlJjSjRUZEdEUGQ2YkZKSGllVENRaUVHbVhXTnVtOTV5enJVMFZzeVBMcXBWN2NHX3A3enA?oc=5",
+      "source": "Google News - 介護ロボット",
+      "published_at": "2025-12-10T08:00:00+00:00",
+      "lang": "ja",
+      "image": null,
+      "category": "service",
+      "title_ja": "介護ロボット実用化促進事業 - pref.kanagawa.jp",
+      "title_en": "介護ロボット実用化促進事業 - pref.kanagawa.jp",
+      "summary_ja": "介護ロボット実用化促進事業 pref.kanagawa.jp",
+      "summary_en": "介護ロボット実用化促進事業 pref.kanagawa.jp",
+      "tags": [
+        "sample"
+      ]
+    }
+  ]
+}

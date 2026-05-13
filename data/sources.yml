@@ -1,0 +1,107 @@
+# RSS ソース一覧。category hint は LLM への弱いプライア（最終分類は LLM が行う）。
+# 直接の出版社フィードは og:image があるため画像付き表示が可能。
+# Google News フィードは URL が難読化されており画像取得は不可（breadth 補完用途）。
+sources:
+  # --- English: direct publishers (image-rich) ---
+  - name: IEEE Spectrum Robotics
+    url: https://spectrum.ieee.org/feeds/topic/robotics.rss
+    lang: en
+    hint: [industrial, service]
+
+  - name: The Robot Report
+    url: https://www.therobotreport.com/feed/
+    lang: en
+    hint: [industrial, service]
+
+  - name: Robotics & Automation News
+    url: https://roboticsandautomationnews.com/feed/
+    lang: en
+    hint: [industrial]
+
+  - name: TechCrunch Robotics
+    url: https://techcrunch.com/category/robotics/feed/
+    lang: en
+    hint: [service, home, industrial]
+
+  - name: Defense News - Unmanned
+    url: https://www.defensenews.com/arc/outboundfeeds/rss/category/unmanned/?outputType=xml
+    lang: en
+    hint: [military]
+
+  - name: Robohub
+    url: https://robohub.org/feed/
+    lang: en
+    hint: [industrial, service]
+
+  - name: New Atlas Robotics
+    url: https://newatlas.com/robotics/index.rss
+    lang: en
+    hint: []
+
+  - name: Engadget
+    url: https://www.engadget.com/rss.xml
+    lang: en
+    hint: [home, service]
+
+  - name: The Verge
+    url: https://www.theverge.com/rss/index.xml
+    lang: en
+    hint: []
+
+  # --- Japanese: direct publishers (image-rich) ---
+  - name: ITmedia AI+
+    url: https://rss.itmedia.co.jp/rss/2.0/aiplus.xml
+    lang: ja
+    hint: [service, industrial, home]
+
+  - name: GIGAZINE
+    url: https://gigazine.net/news/rss_2.0/
+    lang: ja
+    hint: []
+
+  - name: ASCII.jp
+    url: https://ascii.jp/rss.xml
+    lang: ja
+    hint: []
+
+  - name: Japan CNET
+    url: https://japan.cnet.com/rss/index.rdf
+    lang: ja
+    hint: []
+
+  # note.com — Japanese platform with strong robotics commentary
+  - name: note · zhenren63 (中国ロボ業界)
+    url: https://note.com/zhenren63/rss
+    lang: ja
+    hint: [industrial, service]
+
+  - name: note · ハッシュタグ「ロボット」
+    url: https://note.com/hashtag/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/rss
+    lang: ja
+    hint: []
+
+  # --- Breadth: Google News (no images but topical coverage) ---
+  - name: Google News - ロボット
+    url: https://news.google.com/rss/search?q=%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88&hl=ja&gl=JP&ceid=JP:ja
+    lang: ja
+    hint: []
+
+  - name: Google News - 産業ロボット
+    url: https://news.google.com/rss/search?q=%E7%94%A3%E6%A5%AD%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88+OR+%E5%8D%94%E5%83%8D%E3%83%AD%E3%83%9C&hl=ja&gl=JP&ceid=JP:ja
+    lang: ja
+    hint: [industrial]
+
+  - name: Google News - 軍事ドローン
+    url: https://news.google.com/rss/search?q=%E8%BB%8D%E4%BA%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3+OR+%E7%84%A1%E4%BA%BA%E6%A9%9F&hl=ja&gl=JP&ceid=JP:ja
+    lang: ja
+    hint: [military]
+
+  - name: Google News - 介護ロボット
+    url: https://news.google.com/rss/search?q=%E4%BB%8B%E8%AD%B7%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88+OR+%E6%89%8B%E8%A1%93%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88&hl=ja&gl=JP&ceid=JP:ja
+    lang: ja
+    hint: [service]
+
+  - name: Google News - robot
+    url: https://news.google.com/rss/search?q=robot&hl=en-US&gl=US&ceid=US:en
+    lang: en
+    hint: []
