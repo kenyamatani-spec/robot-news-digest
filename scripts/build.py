@@ -8,6 +8,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from classify import classify_one, make_client
+from fetch_fulltext import enrich_fulltext
 from fetch_news import enrich_images, fetch_all, load_sources, to_dicts
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -43,6 +44,9 @@ def main() -> int:
         new_items = new_items[:MAX_NEW_CLASSIFY_PER_RUN]
         print(f"[dedupe] capped to {MAX_NEW_CLASSIFY_PER_RUN}", file=sys.stderr)
 
+    # fulltext ソース（note）の新規記事は分類前に本文・画像を取り込む（分類精度にも効く）。
+    enrich_fulltext(new_items, sources)
+
     client = make_client() if new_items else None
     classified: list[dict] = []
     for i, art in enumerate(new_items, 1):
@@ -55,7 +59,7 @@ def main() -> int:
         if not result:
             print(f"[classify] {i}/{len(new_items)} dropped: {art['title'][:60]}", file=sys.stderr)
             continue
-        classified.append({
+        item = {
             "id": art["id"],
             "url": art["url"],
             "source": art["source"],
@@ -63,12 +67,21 @@ def main() -> int:
             "lang": art["lang"],
             "image": art.get("image"),
             **result,
-        })
+        }
+        if art.get("content"):
+            item["content"] = art["content"]
+            item["images"] = art.get("images") or []
+            if art.get("content_partial"):
+                item["content_partial"] = True
+        classified.append(item)
         print(f"[classify] {i}/{len(new_items)} {result['category']} {art['title'][:60]}", file=sys.stderr)
 
     merged = classified + existing["items"]
     merged.sort(key=lambda a: a["published_at"], reverse=True)
     merged = merged[:MAX_ITEMS_KEPT]
+
+    # 取り込み済みの item にも本文をバックフィル（content が無いものだけ対象になる）。
+    enrich_fulltext(merged, sources)
 
     out = {
         "updated_at": datetime.now(timezone.utc).isoformat(),

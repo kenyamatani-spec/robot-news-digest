@@ -1,6 +1,8 @@
 # RSS ソース一覧。category hint は LLM への弱いプライア（最終分類は LLM が行う）。
 # 直接の出版社フィードは og:image があるため画像付き表示が可能。
 # Google News フィードは URL が難読化されており画像取得は不可（breadth 補完用途）。
+# fulltext: true — note.com ソース限定。公開 API から本文全文と本文中の画像を取り込む
+#   （有料/メンバーシップ限定記事は無料公開部分のみ）。digest.md の全文アーカイブに掲載される。
 sources:
   # --- English: direct publishers (image-rich) ---
   - name: IEEE Spectrum Robotics
@@ -74,6 +76,7 @@ sources:
     url: https://note.com/zhenren63/rss
     lang: ja
     hint: [industrial, service]
+    fulltext: true
 
   - name: note · ハッシュタグ「ロボット」
     url: https://note.com/hashtag/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/rss

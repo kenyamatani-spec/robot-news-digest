@@ -97,6 +97,31 @@ def render_news_section(items: list[dict]) -> str:
     return "\n".join(out)
 
 
+def render_fulltext_section(items: list[dict]) -> str:
+    """fulltext ソース（note 等）から取り込んだ本文＋画像のアーカイブ。"""
+    subs = [i for i in items if i.get("content")]
+    if not subs:
+        return ""
+    subs = sorted(subs, key=lambda x: x.get("published_at", ""), reverse=True)
+    out: list[str] = ["## 📖 全文アーカイブ / Full-text Archive\n"]
+    out.append(
+        "> `fulltext: true` を指定したソースの本文・画像の取り込み。"
+        "有料・メンバーシップ限定記事は**無料公開部分のみ**収録。\n"
+    )
+    for it in subs:
+        title = md_escape(it.get("title_ja") or it.get("title_en") or "")
+        out.append(f"### [{title}]({it['url']})\n")
+        out.append(f"- ソース / Source: {md_escape(it.get('source', ''))} · {fmt_date(it.get('published_at'))}")
+        if it.get("content_partial"):
+            out.append("- ⚠️ メンバーシップ/有料記事のため無料公開部分のみ / Free preview only")
+        out.append("")
+        if it.get("image"):
+            out.append(f"![見出し画像]({it['image']})\n")
+        out.append(it["content"].strip())
+        out.append("\n---\n")
+    return "\n".join(out)
+
+
 def render_topics_section(topics: list[dict]) -> str:
     if not topics:
         return ""
@@ -153,9 +178,13 @@ def main() -> int:
 """
 
     body = render_news_section(news_items)
+    fulltext_md = render_fulltext_section(news_items)
     topics_md = render_topics_section(topic_list)
 
-    full = header + body + "\n---\n\n" + topics_md + "\n"
+    full = header + body + "\n---\n\n"
+    if fulltext_md:
+        full += fulltext_md + "\n"
+    full += topics_md + "\n"
     DIGEST_MD.write_text(full, encoding="utf-8")
     print(f"[digest] wrote {DIGEST_MD} ({len(full):,} chars)")
 
@@ -175,6 +204,7 @@ def main() -> int:
   a {{ color: #2563EB; }}
   blockquote {{ border-left: 4px solid #FBBF24; padding-left: 1em; color: #555; margin: .4em 0; }}
   code {{ background: #FFF7EC; padding: 1px 6px; border-radius: 3px; }}
+  img {{ max-width: 100%; height: auto; border-radius: 6px; }}
 </style>
 </head>
 <body>
@@ -209,6 +239,10 @@ def markdown_to_minimal_html(md: str) -> str:
             out.append(f"<h3>{_inline(stripped[4:])}</h3>")
         elif stripped.startswith("> "):
             out.append(f"<blockquote>{_inline(stripped[2:])}</blockquote>")
+        elif stripped.startswith("!["):
+            m = re.match(r"!\[([^\]]*)\]\(([^)]+)\)", stripped)
+            if m:
+                out.append(f'<img src="{m.group(2)}" alt="{m.group(1)}" loading="lazy" />')
         elif stripped.startswith("- "):
             if not in_list:
                 out.append("<ul>")

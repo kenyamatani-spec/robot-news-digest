@@ -41,12 +41,16 @@ Output STRICT JSON only, no prose, no markdown fence:
 
 def _build_user(article: dict) -> str:
     hint = ", ".join(article.get("source_hint") or []) or "(none)"
+    # 全文がある場合はそちらを優先（インライン画像マーカーは除去して詰める）。
+    body = article.get("content") or article.get("snippet") or ""
+    body = re.sub(r"!\[[^\]]*\]\([^)]+\)", " ", body)
+    body = re.sub(r"\s+", " ", body).strip()[:2000]
     return (
         f"Source: {article['source']}\n"
         f"Source category hint (weak prior): {hint}\n"
         f"Original language: {article['lang']}\n"
         f"Title: {article['title']}\n"
-        f"Snippet: {article['snippet']}\n"
+        f"Body: {body}\n"
     )
 
 
