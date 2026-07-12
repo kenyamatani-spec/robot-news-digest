@@ -69,6 +69,8 @@ def render_news_section(items: list[dict]) -> str:
     if items:
         top = items[0]
         out.append("### 🏁 今日の一面 / Top Story\n")
+        if top.get("image"):
+            out.append(f"![hero]({top['image']})\n")
         out.append(f"**[{md_escape(top.get('title_ja') or top.get('title_en'))}]({top['url']})**\n")
         out.append(f"- カテゴリ / Category: `{CAT_LABEL_JA.get(top['category'])} / {CAT_LABEL_EN.get(top['category'])}`")
         out.append(f"- ソース / Source: {md_escape(top.get('source',''))}")
@@ -90,6 +92,8 @@ def render_news_section(items: list[dict]) -> str:
             src = md_escape(it.get("source", ""))
             date = fmt_date(it.get("published_at"))
             out.append(f"- [{title}]({it['url']}) — *{src}* · {date}")
+            if it.get("image"):
+                out.append(f"  ![thumb]({it['image']})")
             summary = it.get("summary_ja") or it.get("summary_en")
             if summary:
                 out.append(f"  > {md_escape(summary)[:220]}")
@@ -204,7 +208,9 @@ def main() -> int:
   a {{ color: #2563EB; }}
   blockquote {{ border-left: 4px solid #FBBF24; padding-left: 1em; color: #555; margin: .4em 0; }}
   code {{ background: #FFF7EC; padding: 1px 6px; border-radius: 3px; }}
-  img {{ max-width: 100%; height: auto; border-radius: 6px; }}
+  img {{ max-width: 100%; height: auto; border-radius: 6px; display: block; margin: .5em 0; }}
+  img.thumb {{ max-width: 280px; }}
+  img.hero {{ max-width: 100%; margin: .8em 0; }}
 </style>
 </head>
 <body>
@@ -242,7 +248,9 @@ def markdown_to_minimal_html(md: str) -> str:
         elif stripped.startswith("!["):
             m = re.match(r"!\[([^\]]*)\]\(([^)]+)\)", stripped)
             if m:
-                out.append(f'<img src="{m.group(2)}" alt="{m.group(1)}" loading="lazy" />')
+                alt = m.group(1)
+                cls = f' class="{alt}"' if alt in ("thumb", "hero") else ""
+                out.append(f'<img src="{m.group(2)}" alt="" loading="lazy"{cls} />')
         elif stripped.startswith("- "):
             if not in_list:
                 out.append("<ul>")

@@ -14,6 +14,8 @@
 
 ### 🏁 今日の一面 / Top Story
 
+![hero](https://assets.st-note.com/production/uploads/images/293613647/rectangle_large_type_2_b353d7f9c221e838a16497c15522a3d9.jpeg?width=800)
+
 **[太陽光発電所の草刈りにロボット活用](https://note.com/gravityresarch01/n/nb506b0c5e0b6)**
 
 - カテゴリ / Category: `産業 / INDUSTRIAL`
@@ -28,136 +30,192 @@
 ### 産業 / INDUSTRIAL (66 件)
 
 - [太陽光発電所の草刈りにロボット活用](https://note.com/gravityresarch01/n/nb506b0c5e0b6) — *note · ハッシュタグ「ロボット」* · 2026.07.12
+  ![thumb](https://assets.st-note.com/production/uploads/images/293613647/rectangle_large_type_2_b353d7f9c221e838a16497c15522a3d9.jpeg?width=800)
   > 太陽光発電所の草刈りにロボットを投入し、除草剤散布機を取り付けて活用する計画です。
 - [BYDの真の姿：データとロボットの帝国](https://note.com/global_tech_p/n/nf0f0abd37913) — *note · ハッシュタグ「ロボティクス」* · 2026.07.12
+  ![thumb](https://assets.st-note.com/production/uploads/images/293608410/rectangle_large_type_2_6a359f75b2c64aebe416b240969571ad.jpg?width=800)
   > BYDは自動車メーカーを超え、データとロボット技術を統合したエコシステムを構築し、次世代モビリティ戦略を推進しています。
 - [三菱自、東大発スタートアップと産業用人型ロボ量産へ](https://note.com/quirky_loris6436/n/n042ff61c6bb5) — *note · ハッシュタグ「人型ロボット」* · 2026.07.12
+  ![thumb](https://assets.st-note.com/production/uploads/images/293600083/rectangle_large_type_2_05a46ece906993dbbf69a3a77873b366.png?width=800)
   > 三菱自動車は東大発スタートアップと協業し、自動車製造ライン等向け産業用人型ロボの量産体制を構築する。
 - [三井海洋開発、受注残2.8兆円も供給制約が課題](https://note.com/busintemasamo1/n/n55d546cd1ee2) — *note · ハッシュタグ「ロボット」* · 2026.07.12
+  ![thumb](https://assets.st-note.com/production/uploads/images/293596483/rectangle_large_type_2_545b23c8926c75de25a4a3d8f87a3cec.png?width=800)
   > 三井海洋開発は受注残高2.8兆円を抱えるが、案件消化ペースの制約が成長の上限となっている。
 - [Dexmal、ロボティクス新プラットフォーム発表](https://note.com/skawamura724/n/n31cac0055998) — *note · ハッシュタグ「ロボティクス」* · 2026.07.12
+  ![thumb](https://assets.st-note.com/production/uploads/images/293592849/rectangle_large_type_2_580289c0160cc7105cf0f09aac3c0b78.png?width=800)
   > Dexmalは新基盤モデルDM0.5とOS DexOSを発表し、ロボットのスケーリングと開発効率化を目指す。
 - [CARGOLinケーブルロボット、15m/sで高精度を実現](https://note.com/greenpost/n/n412951d254f4) — *note · hashtag "robotics"* · 2026.07.12
+  ![thumb](https://assets.st-note.com/production/uploads/images/293547869/rectangle_large_type_2_4f94e1fc191235cf247be72b509a9691.png?width=800)
   > ドイツのCARGOLinケーブルロボットは、リアルタイム計算で15m/sの速度と高精度を両立し、物流や産業オートメーションに応用可能です。
 - [フィジカルAIが急成長、ロボットが工場・物流を変える](https://note.com/trend_hack_jp/n/nd829c0c1725e) — *note · ハッシュタグ「フィジカルAI」* · 2026.07.12
+  ![thumb](https://assets.st-note.com/production/uploads/images/293591218/rectangle_large_type_2_1f650ccb71a425e816eecd62da0babfc.png?width=800)
   > フィジカルAIは物理世界に働きかけるAIで、ロボットが工場や物流現場で活用され始めており、2026年にはその現実が加速する。
 - [数万円のロボットアームで学習・評価・修正が可能に](https://note.com/hiroki_morishima/n/n6ad100a01e24) — *note · ハッシュタグ「ロボット」* · 2026.07.12
+  ![thumb](https://assets.st-note.com/production/uploads/images/293598894/rectangle_large_type_2_8eed107064c7bd8a70243e2d26a15411.png?width=800)
   > 低価格なロボットアームとLeRobot v0.6.0により、現場でのロボットの学習・評価・修正が容易になりました。
 - [AI時代の自動車部品市場の未来予測](https://note.com/tarafuku356/n/ne34366f23a32) — *note · ハッシュタグ「フィジカルAI」* · 2026.07.12
+  ![thumb](https://assets.st-note.com/production/uploads/images/293584024/rectangle_large_type_2_ab0444ceea697127a43d26239c9b7914.png?width=800)
   > AIと自動運転の進化は自動車部品市場に破壊的変化をもたらし、従来の線形予測は通用しない。
 - [安川電機、純利益減もAI・半導体需要で回復期待](https://note.com/ready_arnica4885/n/n338856adcd81) — *note · ハッシュタグ「ロボット」* · 2026.07.12
+  ![thumb](https://assets.st-note.com/production/uploads/images/293536375/rectangle_large_type_2_dfa2c46d30c7310c6d58102e4eaaed62.png?width=800)
   > 安川電機はシステム移行の影響で純利益が22%減となったが、AI・半導体需要の回復に期待を寄せている。
 - [ロボットAIは動作を覚えない、現場を読む仕事が増える](https://note.com/hiro_nakamura_ai/n/n931676857fb7) — *note · ハッシュタグ「ロボット」* · 2026.07.12
+  ![thumb](https://assets.st-note.com/production/uploads/images/293583257/rectangle_large_type_2_94a1883b2c30ffed20b8f706f89e4a8e.jpeg?width=800)
   > ロボットに動作を細かく教える仕事は減り、作業前後の状態定義や現場を読む仕事が増える。Orcaモデルは行動ラベルなしで世界状態予測を示した。
 - [港湾インフラの危機、日本製荷役機械に空前の需要](https://note.com/busintemasamo1/n/nad7a74ba28b7) — *note · ハッシュタグ「ロボット」* · 2026.07.12
+  ![thumb](https://assets.st-note.com/production/uploads/images/293580391/rectangle_large_type_2_80cb356c5b45ba46d2faa40ab932ccfd.png?width=800)
   > 米国の港湾クレーンに中国製が多数導入され、安全保障上の懸念から日本の荷役機械に需要が急増している。
 - [三菱自動車、人型ロボット開発に参入か？](https://note.com/daimaookorin/n/nc1138aa4ab92) — *note · ハッシュタグ「ロボット」* · 2026.07.12
+  ![thumb](https://assets.st-note.com/production/uploads/images/293578585/rectangle_large_type_2_75098983ed6ebf97e1aa43910905319f.png?width=800)
   > 三菱自動車が人型ロボット開発に乗り出す可能性があり、自動車技術との共通点から投資家の関心を集めています。
 - [三菱自、東大発スタートアップと人型ロボ量産で提携し株価急騰](https://note.com/kabuya66/n/n4425e953f08a) — *note · ハッシュタグ「ロボット」* · 2026.07.12
+  ![thumb](https://assets.st-note.com/production/uploads/images/293573733/rectangle_large_type_2_56d11ce8fa1bbcd52ca592fe787c1306.jpg?width=800)
   > 三菱自動車が東京大学発スタートアップと人型ロボットの量産で提携したことを受け、株価が急騰した。
 - [ヒューマノイドロボットの頭脳・神経・安全層を分解](https://note.com/kagawatomo/n/n4cad7d1553ff) — *note · ハッシュタグ「フィジカルAI」* · 2026.07.12
+  ![thumb](https://assets.st-note.com/production/uploads/images/293346507/rectangle_large_type_2_7fa0889b96a8394f8193ae90ce0d1ce1.png?width=800)
   > ヒューマノイドロボットの性能はAIだけでなく、計算機、リアルタイム制御、安全設計の統合が鍵となる。
 - [ヒューマノイドロボットの「頭脳・神経・安全」を分解](https://note.com/kagawatomo/n/n4cad7d1553ff) — *note · hashtag "robotics"* · 2026.07.12
+  ![thumb](https://assets.st-note.com/production/uploads/images/293346507/rectangle_large_type_2_7fa0889b96a8394f8193ae90ce0d1ce1.png?width=800)
   > ヒューマノイドロボットの性能はAIだけでなく、計算機、リアルタイム制御、安全設計の統合が鍵となる。
 - [ハイランダーズ、三菱自と提携しフィジカルAI開発を加速](https://note.com/chatgptexecutive/n/n397123a84ca4) — *note · ハッシュタグ「ロボット」* · 2026.07.12
+  ![thumb](https://assets.st-note.com/production/uploads/images/293565624/rectangle_large_type_2_0d5a27ddc72187544c181952e4b093fe.jpeg?width=800)
   > ハイランダーズは三菱自動車と提携し、NVIDIAの高速開発手法を用いて日本のフィジカルAI開発を根底から変革することを目指しています。
 - [ロボット除草機、散布機、牛の放牧ロボットが登場](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQV9wYUNfSExPQm1MNnBzQXpfXzVHX05udDNkLWJBMktmd3JhLTZxY0tyZ1ZsYXpoX1lnbjM4RW52cWJxRjFPVUhCUDRkeUZaU05WbDdLRGtsalJjNkxfSFZYalVqaUNXZWRVR0diYnRSWlpNOEZRU2VIelE0NnU1SU51SGVDMEZJVi14Q3Y1eXJPUHFWRVNEV0Y2cmhoRWpaQnF2OGR4Wl9SMms4N0ZMd0p4X2lSYm0y?oc=5) — *Google News - robot* · 2026.07.12
   > 農業分野でロボット技術が進化し、除草、散布、牛の管理などに活用されるロボットが登場しています。
 - [NVIDIA Isaac Sim 6.0.1 インストールガイド](https://note.com/future_cortex/n/ne89abd67fd89) — *note · ハッシュタグ「フィジカルAI」* · 2026.07.12
+  ![thumb](https://assets.st-note.com/production/uploads/images/293535479/rectangle_large_type_2_c5c1d6b7013d498899981901f2c2eb4f.png?width=800)
   > NVIDIA Isaac Sim 6.0.1のインストール方法とチュートリアル実行までの手順を解説します。
 - [Robbyant、ロボット向けAIモデル「LingBot」を発表](https://note.com/npaka/n/n75896ac486a7) — *note · ハッシュタグ「フィジカルAI」* · 2026.07.11
+  ![thumb](https://assets.st-note.com/production/uploads/images/293527894/rectangle_large_type_2_8331dd3883c774de3efffee4fcd488ea.png?width=800)
   > Robbyantは、ロボットの視覚認識、深度推定、動画生成などを担う6つの「LingBot」AIモデルを発表しました。
 - [フィジカルAIの進化と「解決不可能な問題」](https://note.com/unasaka1986/n/na51dae76fbc7) — *note · ハッシュタグ「フィジカルAI」* · 2026.07.11
+  ![thumb](https://assets.st-note.com/production/uploads/images/293516785/rectangle_large_type_2_025c7cfdffd1e856fadb28b67f2346e3.png?width=800)
   > フィジカルAIは、計算と現実の乖離から生じる失敗を学習に取り込み、進化してきた。
 - [ロボット安全規格変更への対応](https://www.therobotreport.com/are-suppliers-ready-for-new-robot-safety-standards/) — *The Robot Report* · 2026.07.11
+  ![thumb](https://www.therobotreport.com/wp-content/uploads/2026/07/kuka-automation-in-the-industry-featured.jpg)
   > 新たなロボット安全規格への対応準備が整っている供給業者は有利になる一方、準備不足の企業は市場アクセスに支障をきたす可能性があります。
 - [USB-CANアダプターの固定名付け方法](https://note.com/npaka/n/na4f90f90bf34) — *note · ハッシュタグ「フィジカルAI」* · 2026.07.11
+  ![thumb](https://assets.st-note.com/production/uploads/images/293506935/rectangle_large_type_2_7f5f48b602e75f002dc9b580963e5e5a.png?width=800)
   > USB-CANアダプターのインターフェース名を固定し、再起動や抜き差しで変わらないようにする設定方法を解説します。
 - [ロボットチームは仮想ジムで訓練が必要](https://news.google.com/rss/articles/CBMijwFBVV95cUxNQnE0S3VSY0Z2aTlBVThsMkRvSFpham81QS1XSEhURm50NjFYZGJoRVlKYlQ0M1ZnMS1UMEx1cTltOFBrYjh6bDBsVFNXVFJOOXFPdGUwM1hsMFdyR0xvVUIydkJHTEdoZllmZ2paX1N0dU5QMXM4QTI5bzY1VWdrRlhxc045SnptSk50ODA5MA?oc=5) — *Google News - robot* · 2026.07.11
   > ロボットの展開前に、仮想環境でテストと訓練を行うことで、実世界でのパフォーマンスを向上させることができます。
 - [ロボットの仮想トレーニング施設](https://www.therobotreport.com/why-robotics-teams-need-virtual-gyms-before-deployment/) — *The Robot Report* · 2026.07.11
+  ![thumb](https://www.therobotreport.com/wp-content/uploads/2026/07/humanoids_softserve-1024x574.png)
   > ロボットは実環境展開前に、シミュレーションと現実のギャップを埋める仮想トレーニング施設で能力を向上させるべきだ。
 - [安川電機、減益の衝撃とロボット覇権争いの内幕](https://note.com/kiku_keizai/n/nba7933c52e56) — *note · ハッシュタグ「ロボティクス」* · 2026.07.11
+  ![thumb](https://assets.st-note.com/production/uploads/images/293488929/rectangle_large_type_2_ee922403d8f7fa37a95fb0b747704fe3.png?width=800)
   > 安川電機の第1四半期決算は減益となったが、受注は増加。システム移行や欧州事業改革が影響し、ロボット事業は大幅減益となった。
 - [孫正義氏の「フィジカルAI」論を検証](https://note.com/aiethics496/n/nd6f1628ca19d) — *note · ハッシュタグ「ロボティクス」* · 2026.07.11
+  ![thumb](https://assets.st-note.com/production/uploads/images/293484339/rectangle_large_type_2_b868bf0da16ceaa83fa992251faff517.png?width=800)
   > 孫正義氏のフィジカルAI論は、ロボットとAIの混同と、物理世界の複雑さを無視していると指摘。
 - [三菱自、人型ロボ月1000台量産へ 京プラ活用](https://note.com/news_knowledge/n/nccebe2fb672a) — *note · ハッシュタグ「人型ロボット」* · 2026.07.11
+  ![thumb](https://d2l930y2yx77uc.cloudfront.net/production/social_images/fc4402f36a0e69d5d695f46ef0d0b21802857e20.png)
   > 三菱自動車は、遊休建屋を活用し、AI搭載人型ロボット「N」を月1000台量産する。製造業の構造問題解決と国産フィジカルAIの覇権争いを目指す。
 - [フィジカルAIニュース：ロボット制御の新展開](https://note.com/yasuhitoo/n/n96a9750d23b6) — *note · ハッシュタグ「ロボティクス」* · 2026.07.11
+  ![thumb](https://assets.st-note.com/production/uploads/images/293307121/rectangle_large_type_2_8126f6d8b2afd06b3502115f725bdf15.png?width=800)
   > 物理AI研究は映像生成から物理世界の変化を扱うシステム設計へ移行し、ロボット制御の精度向上を目指しています。
 - [フィジカルAI：ロボット制御の新展開と産業応用](https://note.com/yasuhitoo/n/n96a9750d23b6) — *note · ハッシュタグ「産業用ロボット」* · 2026.07.11
+  ![thumb](https://assets.st-note.com/production/uploads/images/293307121/rectangle_large_type_2_8126f6d8b2afd06b3502115f725bdf15.png?width=800)
   > フィジカルAIは、映像生成モデルの転用から物理世界の変化を扱うシステム設計へ移行し、ロボット制御の精度と汎用性を向上させています。
 - [ヒューマノイドの操作・知覚技術を分解](https://note.com/kagawatomo/n/n60cd9a43b95b) — *note · ハッシュタグ「ロボティクス」* · 2026.07.11
+  ![thumb](https://assets.st-note.com/production/uploads/images/293330242/rectangle_large_type_2_1ffb355dd3fb11405c83c69c3fd7ff3e.png?width=800)
   > ヒューマノイドロボットの競争はAIだけでなく、ロボットハンド、触覚、視覚などの操作・知覚技術が重要となる。
 - [セブンイレブン、ソフトバンク出資でロボット導入か](https://note.com/fukita_ai/n/n67e078b3a66b) — *note · ハッシュタグ「ロボティクス」* · 2026.07.11
+  ![thumb](https://assets.st-note.com/production/uploads/images/293420521/rectangle_large_type_2_b733ea4caf64f584c383b81ddd87bc68.png?width=800)
   > ソフトバンクとPayPayがセブン＆アイに出資し、ロボット導入による店舗管理改善と人件費削減を目指す報道がある。
 - [2026世界ロボット大会、応用探求計画を始動](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FZloxNFRlMC1pM0FpY2hDYWJGYkVkWU9EUU5VeWZBUUJ4R0ZuNWRSU3dUUEE3eEIxUERMbzhjTHdELUk1VXRrNEd5WFZxR0w1bWfSAVRBVV95cUxNVS1uZU1vNEJQMHk2N2ZfaFF0WUVKTDhiLU1oVXhOak51MXYtdDFIVG1pdzNZZG1PZG9veUFrOVlLV0ltT3FIRTVaUUstMVIwV1lrWm8?oc=5) — *Google News - ロボット* · 2026.07.11
   > 2026年世界ロボット大会は、ロボット技術の応用を探求する「グローバルロボット応用探求計画」を立ち上げました。
 - [水田ロボット開発、失敗から学ぶ次世代設計](https://note.com/yuki8302388/n/nce91f94d6b7c) — *note · ハッシュタグ「農業ロボット」* · 2026.07.11
+  ![thumb](https://d2l930y2yx77uc.cloudfront.net/production/social_images/c47664cb736bcdb4387dcdfe9ca3c79ed7290fa2.png)
   > 3Dプリントした水田ロボット試作機v2.28.2は構造問題で失敗したが、浮力試験の結果から組み立てやすさと浮力確保を重視したv2.29.1を設計中。
 - [安川電機、中計発表と供給網混乱の開示姿勢に疑問](https://note.com/gifted_mango8323/n/n0d4009aca7d7) — *note · ハッシュタグ「産業用ロボット」* · 2026.07.11
+  ![thumb](https://assets.st-note.com/production/uploads/images/293386421/rectangle_large_type_2_1d0eda35600cc6ab4ba4bd3343202a1b.png?width=800)
   > 安川電機は中期経営計画発表と同時期に発生した基幹システム移行による供給網混乱の情報を、投資家に十分に開示していなかった疑いが持たれている。
 - [中国のロボット化で置き去りにされた労働者](https://news.google.com/rss/articles/CBMiiAFBVV95cUxONFhraEl0MHZoRks5X2NnRU5vbDIycFo0TmlndXlsQnhhcEVkcm9qTWFNRlFIMXZqNWhLUUcyZVdlTlFYOUQ2T2pvcnlRUHlZaEU3aUE3b3V4bmt6MFNUYTd5SW5LZTR5UGFrLXpCeXZ0UThJa1N0cUFQYmZPSnNFazRlREdCeGtr?oc=5) — *Google News - robot* · 2026.07.11
   > 中国の製造業におけるロボット導入の加速は、多くの労働者を職から追いやる結果となっています。
 - [国産人型ロボ、三菱自が量産へ](https://note.com/naname_edition/n/n35c89b06ea09) — *note · ハッシュタグ「人型ロボット」* · 2026.07.11
+  ![thumb](https://assets.st-note.com/production/uploads/images/293358782/rectangle_large_type_2_6450c7a943fa34dd2e74b7c79427afb7.png?width=800)
   > 三菱自動車がAI搭載の人型ロボットの量産を目指し、人手不足解消への期待が高まっています。
 - [三菱とHighlanders、人型ロボット量産へ](https://note.com/shinchan194/n/nf39d9ecc4d15) — *note · ハッシュタグ「人型ロボット」* · 2026.07.11
+  ![thumb](https://assets.st-note.com/production/uploads/images/293326733/rectangle_large_type_2_633eeabbcd9d960341942ea68d14508c.jpg?width=800)
   > 三菱自動車とHighlandersが人型ロボットの共同開発と量産化で合意、日本の製造業の課題解決に期待。
 - [安川電機：受注増でも利益減の謎、AI需要の行方](https://note.com/kessan_yomijun/n/n084998f55c7d) — *note · ハッシュタグ「産業用ロボット」* · 2026.07.11
+  ![thumb](https://assets.st-note.com/production/uploads/images/293325333/rectangle_large_type_2_8750cd304a7ff47a5bf63d00e8bd5292.png?width=800)
   > 安川電機の第1四半期は受注29%増も営業利益19.2%減。ロボット事業の採算悪化が主因で、AI需要を利益に繋げる課題が浮き彫りになった。
 - [Path Robotics、AIで溶接ロボットを最適化](https://www.therobotreport.com/how-path-robotics-uses-ai-optimize-robotic-welding/) — *The Robot Report* · 2026.07.11
+  ![thumb](https://www.therobotreport.com/wp-content/uploads/2026/07/andy-lonsberry-headshot.jpg)
   > Path RoboticsはAIを活用して溶接プロセスを最適化し、生産性を向上させています。
 - [ヒューマノイド原価最大の動力系を分解](https://note.com/kagawatomo/n/n77775459ddcd) — *note · ハッシュタグ「ロボティクス」* · 2026.07.11
+  ![thumb](https://assets.st-note.com/production/uploads/images/293242024/rectangle_large_type_2_73837a4c54c9e8a103938e6553c8c594.png?width=800)
   > ヒューマノイドロボットの製造コストの大部分を占める動力系（アクチュエータ）を、モーター、減速機、センサー等に分解し、その重要性を解説する。
 - [ヒューマノイドロボットの動力系を分解](https://note.com/kagawatomo/n/n77775459ddcd) — *note · ハッシュタグ「産業用ロボット」* · 2026.07.11
+  ![thumb](https://assets.st-note.com/production/uploads/images/293242024/rectangle_large_type_2_73837a4c54c9e8a103938e6553c8c594.png?width=800)
   > ヒューマノイドロボットの製造コストの大部分を占める動力系（アクチュエータ）の構成要素と重要性を解説する。
 - [ヒューマノイドロボットの動力系を分解](https://note.com/kagawatomo/n/n77775459ddcd) — *note · hashtag "robotics"* · 2026.07.11
+  ![thumb](https://assets.st-note.com/production/uploads/images/293242024/rectangle_large_type_2_73837a4c54c9e8a103938e6553c8c594.png?width=800)
   > ヒューマノイドロボットの製造コストの大部分を占める動力系（アクチュエータ）の構成要素と重要性を解説します。
 - [ロボットテストが明らかにした2026年向けアイアン](https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ2ZxRXlkSkdrTlEtM0N3OExyc2lFUURXQVA0T2NoQjBKSjZpSEVzZFg4Nm9kQi1Lc0YyMFJ1dVV2Rl9JR25PWkNWTXVIb09hRkVTeWtnTWYzckxJOEpmZUFPelFRRFoyelpYaTk5MDZyVndnZ0ctVk4xYVdlMEpIQ3ZRTGVySkpYZ1l4RWRR?oc=5) — *Google News - robot* · 2026.07.11
   > ロボットによるテストで、2026年発売予定の9種類のゴルフアイアンの性能が評価されました。
 - [AI² Robotics、人型ロボット開発で7.35億ドル調達](https://www.therobotreport.com/ai%c2%b2-robotics-raises-735m-3b-valuation-wheeled-humanoid-robots/) — *The Robot Report* · 2026.07.11
+  ![thumb](https://www.therobotreport.com/wp-content/uploads/2026/07/a12-robot-hero-featured.jpg)
   > AI² Roboticsは、車輪付き人型ロボット開発のため、30億ドルの評価額で7.35億ドルを調達しました。
 - [FORTロボティクス、Nvidia Halosで物理AI安全プラットフォームを拡張](https://roboticsandautomationnews.com/2026/07/10/fort-robotics-extends-physical-ai-safety-platform-with-nvidia-halos/103254/) — *Robotics & Automation News* · 2026.07.11
+  ![thumb](https://roboticsandautomationnews.com/wp-content/uploads/2026/07/fort-robotics-nvidia-1.png)
   > FORTロボティクスはNvidia Halos for Roboticsエコシステムに参加し、自律ロボットの安全性を高める。
 - [Fieldwork Robotics、ベリー収穫ロボット拡大へ投資獲得](https://roboticsandautomationnews.com/2026/07/10/fieldwork-robotics-secures-seed-innovations-investment-to-scale-berry-harvesting-robots/103251/) — *Robotics & Automation News* · 2026.07.11
+  ![thumb](https://roboticsandautomationnews.com/wp-content/uploads/2026/07/fieldwork-robotics-berry-picking-2.jpg)
   > Fieldwork Roboticsは、ベリー収穫ロボットの開発・拡大のため、SEED Innovationsから投資を受けました。
 - [英国の水中ロボット試験場、複数ロボットでデモ実施](https://roboticsandautomationnews.com/2026/07/10/multi-robot-demo-showcases-new-uks-plymouth-subsea-test-range/103246/) — *Robotics & Automation News* · 2026.07.11
+  ![thumb](https://roboticsandautomationnews.com/wp-content/uploads/2026/07/plymouth-smart-sound-1.jpg)
   > 英国プリマスに新設された水中ロボット試験場で、複数の海洋ロボットプラットフォームによるデモが実施されました。
 - [ボルボ自動運転トラック、テキサス州で商用貨物輸送開始](https://roboticsandautomationnews.com/2026/07/10/tech-company-avi-spl-launches-autonomous-dallas-houston-freight-operations-with-volvo-autonomous-solutions/103243/) — *Robotics & Automation News* · 2026.07.11
+  ![thumb](https://roboticsandautomationnews.com/wp-content/uploads/2026/07/volvo-autonomous-solutions-avi-spl-1.jpg)
   > AVI-SPLはボルボ自動運転ソリューションと提携し、テキサス州ダラスとヒューストン間で自動運転貨物輸送を開始しました。
 - [RoboDK、ロボット加工導入時間を最大40%削減するCAMソフトを発表](https://roboticsandautomationnews.com/2026/07/10/robodk-unveils-cam-software-that-cuts-robotic-machining-deployment-time-by-up-to-40-percent/103239/) — *Robotics & Automation News* · 2026.07.11
+  ![thumb](https://roboticsandautomationnews.com/wp-content/uploads/2026/07/robodk-cam-MT-2.png)
   > RoboDKは、CADファイルから直接ロボット加工プログラムを生成できる新CAMソフトウェアを発表し、ロボット加工の導入時間を最大40%削減できると述べています。
 - [Cognibotics、650万ユーロのEU資金を獲得](https://roboticsandautomationnews.com/2026/07/10/cognibotics-selected-for-e6-5-million-in-eu-accelerator-funding/103230/) — *Robotics & Automation News* · 2026.07.11
+  ![thumb](https://roboticsandautomationnews.com/wp-content/uploads/2026/07/cognibotics-robot-1.jpg)
   > スウェーデンのロボティクス企業Cogniboticsが、EUのイノベーション・カウンシルから650万ユーロの資金調達に選ばれました。
 - [ロボットワールドカップの映像](https://spectrum.ieee.org/video-friday-robot-world-cup) — *IEEE Spectrum Robotics* · 2026.07.11
+  ![thumb](https://spectrum.ieee.org/media-library/humanoid-robots-play-soccer-as-a-ball-flies-toward-the-goal-in-a-tournament-arena.jpg?id=67119515&width=980)
   > IEEE Spectrumロボティクスが選ぶ、ロボット関連の素晴らしいビデオ集です。
 - [セレンディップが越疆科技と販売代理契約、協働ロボ導入を支援 - ashu-chinastatistics.com](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ueVRWV3N5ajFsLTdzN3R5cDRQcG5oOGhYN0VWV1lEX2pCTm1rV0hrc0p0QVdHaXN1OVJEZjFnaVNXVndQTGZCQWVoVHJhei1rLThpczNoYVhFc1Vla0xvelZKSlRLcE91?oc=5) — *Google News - 産業ロボット* · 2026.05.12
   > セレンディップが越疆科技と販売代理契約、協働ロボ導入を支援 ashu-chinastatistics.com
 - [技術の前に、人間であれ。AI時代を統（す）べる『真の倫理』。](https://note.com/ninomaeryou/n/n5c8054829847) — *note · ハッシュタグ「ロボット」* · 2026.05.12
+  ![thumb](https://assets.st-note.com/production/uploads/images/268247389/rectangle_large_type_2_9d8651df556c58407fdec6ad8e3fb150.png?width=800)
   > アイザック・アシモフが提唱した「ロボット三原則」は、SFの世界のみならず現代のAI倫理の基礎として語り継がれてきましたが、論理的な命令セットだけで複雑な現実社会の安全を完全に担保することには限界があります。記号や数式で定義されたルールは、状況次第で解釈の齟齬を生み、予期せぬリスクを招く可能性があるからです。真にAIを制御するために必要なのは、技術的な制約以上に、開発に携わる技術者自身が内面に宿すべき確かな「人間性」と「倫理観」にほかなり
 - [７０歳でロボットのプログラミングに挑戦 「有意義な日々だった」秋田県立大青春キャンパス卒業発表会 - 秋田魁新報電子版](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnS1lBaHhUX2JMLUhjRzRtVlVoZGdHcC0yYURfeFY2aEdOX01DVDAxaWV2RDdnd1RQRjYyVGVNZGlGWVZlbDdEcHdJR3RBOTQtSHF3RV9ZNkt0cWIxc25yYXFR?oc=5) — *Google News - ロボット* · 2026.05.12
   > ７０歳でロボットのプログラミングに挑戦 「有意義な日々だった」秋田県立大青春キャンパス卒業発表会 秋田魁新報電子版
 - [小鵬（Xpeng）ヒューマノイドロボットの下腿部が宇樹（Unitree）の下腿部と異なる理由](https://note.com/interactanalysis/n/n571b01e86cd7) — *note · ハッシュタグ「ロボット」* · 2026.05.12
+  ![thumb](https://assets.st-note.com/production/uploads/images/275266549/rectangle_large_type_2_cacd653d44a808fe42d3d0e6132c80fc.jpeg?width=800)
   > 近日、小鵬科技の日のヒューマノイドロボットが話題となり、その高度に人間らしい歩行姿勢は、多くのネットユーザーからその実在性に関する疑問を呼んだ。このため、小鵬は2025年11月9日に再度発表会を開催し、IRONの下腿外装を解体することで「自身の正当性を証明」した。 本件の経過についての評価は控えるが、むしろ今回の「説明」発表会で注目されたIRONロボットの下腿技術、すなわちリニアアクチュエーターについて簡単に触れたい。 図：IRONのリ
 - [【オンラインセミナー#21 先着50名無料】ヒューマノイドは産業を変えるか トロンが語る「デジタルツイン×フィジカルAIが導くロボット実装の未来」 - ロボスタ](https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wLUJJa0VuV2picnFQbTgyUW1tSThQSnFLMmRudjFrQU82bURISEVrNU9tcGNnUi10bUJYMEJDdEpfdDlCbWVpdXZLb2V6OThuamRJUXk4VzFFLTA3MzUzTmZ0ZXQ?oc=5) — *Google News - ロボット* · 2026.05.12
   > 【オンラインセミナー#21 先着50名無料】ヒューマノイドは産業を変えるか トロンが語る「デジタルツイン×フィジカルAIが導くロボット実装の未来」 ロボスタ
 - [ナマケモノロボット紙工作](https://note.com/threerobo/n/n33bd2b1cf8a3) — *note · ハッシュタグ「ロボット」* · 2026.05.12
+  ![thumb](https://assets.st-note.com/production/uploads/images/275257667/rectangle_large_type_2_eb92dc3a2334c15a09fd68d5ef64e222.jpeg?width=800)
   > 大きさ 長さ１７５mm×幅９５mm×高さ１２０ｍｍ 重さ ２８ｇ 材料は不用菓子箱、接着剤 頭、足が可動 パーツ構成 続きをみる
 - [卓球ロボットがプロ選手に勝利 AIとロボット工学の新たな金字塔 ソニーが開発 真なる目的とは - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE9NU3pzdlY4anpRblBMX0VjRV9aSHRVVWhlLVM3eWNpOXY2SVVPc0NMT3RMNV9ZZXkxZGVRNUplVkpoU2dGUzc0b3lzR0VINWlIX2dsZThmUFBEVFBFYmw4dDd6ZW1qNXNKSTdxcTZDMFNvUlhlV3RfQXcwTG9ZMVE?oc=5) — *Google News - ロボット* · 2026.05.12
   > 卓球ロボットがプロ選手に勝利 AIとロボット工学の新たな金字塔 ソニーが開発 真なる目的とは Yahoo!ニュース
 - [倉庫のムダ歩きをAIロボットが減らす。人の仕事は「運ぶ」から「整える」へ](https://note.com/w5r645ujry/n/n84488ea27c5a) — *note · ハッシュタグ「ロボット」* · 2026.05.12
+  ![thumb](https://assets.st-note.com/production/uploads/images/275247064/rectangle_large_type_2_2383a1062b6e0a3d9065b78f6107c10d.jpg?width=800)
   > 倉庫仕事で地味にきついのは、探す、歩く、運ぶ、戻る、また探す、の繰り返しです。 AIやロボットというと派手な未来感がありますが、現場で効くのはこういう地味なムダを減らすところだったりします。 続きをみる
 - [中国、無人航空機用超高性能バッテリーの開発で画期的な成果を達成。 - Vietnam.vn](https://news.google.com/rss/articles/CBMieEFVX3lxTE5CMXRrRHBvNjJjSHVvdWU0Z1hrZmlKdmRFS3BVaVJveDlXbnlIOHlCc3Y0eHRVUVNDQVZ2OHRCZWZpQkwyanl0dFBvc3d0OGw5OTY2dll6TlBVd2RMcS1hcWsyNkJOZWctNUx1Qy1FcnpabWxWVHBoVA?oc=5) — *Google News - 軍事ドローン* · 2026.05.12
   > 中国、無人航空機用超高性能バッテリーの開発で画期的な成果を達成。 Vietnam.vn
 - [AheadForm \| Humanoid Robot](https://note.com/asap/n/n0dbdad1efc64) — *note · ハッシュタグ「ロボット」* · 2026.05.12
+  ![thumb](https://assets.st-note.com/production/uploads/images/275249553/rectangle_large_type_2_6edd8799d6019a2746512f7447265646.png?width=800)
   > ロボット技術の進化は目覚ましいものがありますが、多くの開発者はこれまで機体の動きや作業効率の向上に注力してきました。 テスラやボストン・ダイナミクスといった企業は、人間に代わって動く「体」の完成度を高める道を選んでいます。 続きをみる
 - [iPhoneを支えたサプライチェーンが、人型ロボットを作り始めている](https://note.com/hiroki_morishima/n/na05c099e7a75) — *note · ハッシュタグ「ロボット」* · 2026.05.12
+  ![thumb](https://assets.st-note.com/production/uploads/images/275234197/rectangle_large_type_2_c9e9129f7be13dd914f713770ba2f65d.png?width=800)
   > 4月19日、北京で人型ロボットがハーフマラソンを走り、人間の世界記録より速いタイムを出した、という見出しが流れました。 優勝した「Lightning（D1）」は、中国のスマートフォンメーカーである Honor が開発した人型ロボットです。自律走行で50分26秒。ウガンダのキプリモ選手がリスボンで3月に出したばかりのハーフマラソン世界記録57分20秒を、約7分上回る数字でした。 続きをみる
 - [【続編:シーン８ 行列の沈黙】](https://note.com/legit_fowl3699/n/n643f5f5db164) — *note · ハッシュタグ「ロボット」* · 2026.05.12
+  ![thumb](https://assets.st-note.com/production/uploads/images/275254525/rectangle_large_type_2_394e21c6e2cc705d14ec2f8aec70f5a8.png?width=800)
   > （街の目抜き通り。かつては数千人の買い物客で賑わったはずの場所を、今は数えきれないほどのロボットたちが埋め尽くしている。 彼らは皆、一定の速度、一定の歩幅、そして完全な無言で、南へと向かって歩き続けている。 その足音は個別の音を失い、巨大な心臓の鼓動のような、低い振動となってアスファルトを震わせている。 男は、隣を歩く作業用ロボット（AI）の腕を掴み、行列の隙間に無理やり割り込む） ​男： ……おい、これを見ろよ。誰もこっちを見ない。ぶ
 - [OpenAI just released its answer to Claude Mythos](https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai) — *The Verge* · 2026.05.12
+  ![thumb](https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
   > OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based
 - [Yarbo says it will remove the intentional backdoor from its robot lawn mower](https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor) — *The Verge* · 2026.05.12
+  ![thumb](https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Yarbo-M1-8.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
   > The company behind the robot lawn mower that ran me over has changed its tune. Yarbo now plans to completely remove the remote backdoor access that could have let bad actors reprogram the robot over the internet. Yarbo c
 
 ### 軍事 / MILITARY (26 件)
@@ -165,14 +223,17 @@
 - [ウクライナ、無人機でロシア艦船数十隻撃沈と主張](https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ0xSOWl6SW9DUGtrR283OHVmVU91bXc5emplMG1rUWpxaVRDV3E0RGFpaklIQXZ6RVNsQkY3VlhPN0kwQ3YwcURiV0F4Mzh2VnBMRS1zZTREaWRJVUhGdHJoQ1FaMFFZaWZoQ19wYmZaMDFNeFZJM3ZRb0dPRVVnWjdXdWJXRFEwamhBTTZMTXF6cUYyblVUT0tWV3Q3V2FVNzFtRVVWaw?oc=5) — *Google News - 軍事ドローン* · 2026.07.12
   > ウクライナは、アゾフ海で無人機がロシア艦船数十隻を破壊したと主張しており、軍事作戦におけるドローンの有効性を示唆している。
 - [ラプター対ツギハギ：激闘](https://note.com/yuiyasuda/n/n959e212b4253) — *note · ハッシュタグ「ロボット」* · 2026.07.12
+  ![thumb](https://assets.st-note.com/production/uploads/images/293594506/rectangle_large_type_2_761cb86e1a9bad21633636ecbb78d777.png?width=800)
   > ラプターがツギハギに襲い掛かり、ツギハギはクローアームと油圧式カッターで応戦する激しい戦闘シーン。
 - [防衛システムのスマホ化と数の抑止力](https://note.com/humble_dog9839/n/n7023db322913) — *note · ハッシュタグ「ロボット」* · 2026.07.12
+  ![thumb](https://assets.st-note.com/production/uploads/images/293497767/rectangle_large_type_2_94fd0a9b5f73a0b7798e6ae94f1d1cf0.png?width=800)
   > 防衛システムがスマートフォン化し、圧倒的な数で抑止力を高める可能性について論じています。
 - [ウクライナ、対ロシアで無人機攻撃強化へ新司令部創設](https://news.google.com/rss/articles/CBMidkFVX3lxTE1UY2J5OFZ2WDYzZWJOYUxhcGhsdVRYTnZueW9iU0piUGlENnk4UFdnR3JVc214eE1Pd0xQZ2Y2ZEJwQ0laR05BSm1LZklGRWk1MWdkdllkaTJ1QWtXRENkZ2dyV25pcHRoQkxHRmlnZHd5eHZIelE?oc=5) — *Google News - 軍事ドローン* · 2026.07.12
   > ウクライナのゼレンスキー大統領は、対ロシアの長距離無人機攻撃を強化するため、新たな司令部を創設すると発表しました。
 - [ホーチミン市、自動運転車とドローンの試験運用開始](https://news.google.com/rss/articles/CBMijwFBVV95cUxPdWlvaG9vVEI5MHpkZDR5a2ZmaklUdGxJRHV2cWlIY1htZUpsVjlPaWg0TEJFMHZ2aFVYbmhxbXZ0c2hreXdSWlB2eDBCSFE1S1NHck5pMnFTNmp4T0xqd1p0ZjZaSGI0b2Z4bmhSa284TzZLR0VEQnRuRW15aGZLV1lGQmo2YlUzaFhOYnFVRQ?oc=5) — *Google News - 軍事ドローン* · 2026.07.12
   > ホーチミン市は、自動運転車と無人航空機の試験運用を開始しました。
 - [ICEは武装した殺人者であり、敗北者](https://www.theverge.com/policy/964302/ice-donald-trump-killings) — *The Verge* · 2026.07.11
+  ![thumb](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2252426003.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
   > ICEは武装した殺人者であり、敗北者であると主張する記事。
 - [ウクライナ軍、長距離攻撃司令部新設へ](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PN1hweGhtc0M2RFAzN3ZaSzE0eEhrTUxTLTlHaHhEeUVvY2NSRUY1dzd2Rk9zWlpsRG9ZOUdHcGxUTkUxTDlRRDU0cFp0cGJWR3EteUtwQQ?oc=5) — *Google News - 軍事ドローン* · 2026.07.11
   > ウクライナ軍は、長距離攻撃司令部を新設し、無人機と砲兵を一体運用する統合即応部隊を創設する方針です。
@@ -183,8 +244,10 @@
 - [海自の異形無人機、護衛艦にピタリ着艦](https://news.google.com/rss/articles/CBMiSkFVX3lxTE12R1I1d0lNWGp3M0t0Y2FpcC11NEhOYjZGdVltQXo4a2hnNTFUU0lDVkxFdjdPQ3RRaGFtYWRReEItUFhxV3VfM3Nn?oc=5) — *Google News - 軍事ドローン* · 2026.07.11
   > 海上自衛隊の無人機が護衛艦に自動着艦する様子が公開され、そのユニークな運用方法が注目されています。
 - [XTEND、自律航行技術で米国特許取得](https://www.therobotreport.com/xtend-secures-u-s-patent-autonomous-navigation-technology/) — *The Robot Report* · 2026.07.11
+  ![thumb](https://www.therobotreport.com/wp-content/uploads/2026/07/Xtend_drone-copy.jpg)
   > XTENDは、自律航行、オペレーター支援、ミッション実行をサポートする技術に関する米国特許を取得しました。
 - [地上のロボットが「キルゾーン」を継承](https://spectrum.ieee.org/ukraine-ground-drones) — *IEEE Spectrum Robotics* · 2026.07.10
+  ![thumb](https://spectrum.ieee.org/media-library/an-unmanned-ground-vehicle-moving-through-a-sparse-forest-landscape.jpg?id=67114838&width=980)
   > ウクライナのロボット工学者は、無人地帯をパトロールする武装地上車両を開発し、前線を無人化するビジョンを進めている。
 - [まるで「ミニB-2」爆撃機!? 米軍の次世代“ハイブリッド無人機”が初飛行！ 軍事ドローンのハイブリッド化が加速するか？ - 乗りものニュース](https://news.google.com/rss/articles/CBMiSkFVX3lxTE80cWp2R0ZYcHdxVmpKQ095Qlppa3g5Z1VTOWRlamo0dzBSZ1dPMDl3N1lMT3ZveE9CeDJUQ0toQmlTQlduU0FET3lB?oc=5) — *Google News - 軍事ドローン* · 2026.05.12
   > まるで「ミニB-2」爆撃機!? 米軍の次世代“ハイブリッド無人機”が初飛行！ 軍事ドローンのハイブリッド化が加速するか？ 乗りものニュース
@@ -193,10 +256,12 @@
 - [ドイツとウクライナは射程１５００キロメートルの無人機を共同生産していく＝ピストリウス独国防相 - ウクルインフォルム通信](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUTFPT2EtR2FkU0dpUTA4R01kaDlfbTExZ1FfMHhDMk5yMXhTYllsR01KM3BzaEI3b0V5S0lqMHNNeEpSTWFGLUN4eXdLbS03N1FaZlhGSDdsclJfd0VHdHFoWUZvOW0tMEdjcVJfN3MyTWVEOGlMdHNQSmFid0cyLWotSnc2RVpBYVo5N1R3ajBDMUZydnlzN1BWdzNRc1hObW1tT2FySFNiTHQyTWphQThWZVRBWWcxTEs4X3FxbkcyaWMzUnZJaUFYUHNMaTZSZEhzbC1YSDI2WFEyVG9IM2tPd0I4UldWNDRFQjhLUWJxNEtMQ2fSAfsBQVVfeXFMTl9MMnJGQzdCQkxzOVB4dThEd0JzZXdKRUlkVGpRMGY4ZGZOMmszajhrWHlpVnlUc3JMS25zcUpmRlhORGIzVDJ3NVJiY3Q2amx6SU45eVhPWlFrQk9QVlhYZ1RwbHNqdmxwQUlMVFRiUXFZMF91M0xVdkFSdGl1bFhDcllKYkhGSDNYWXFSMFNPX2lJS2Vxd0hqR3BjdVFPX1JybjhkZjBldGFuZnA1NmNVaTJaSHZNQVVpcTRpSWp3RTY5VURUTGxhREI2TTZLY1licWpXeTRzelZZS0lNTEk2Y1N3emNHSExMa0hxNzNET0tzU29WOEF0RDQ?oc=5) — *Google News - 軍事ドローン* · 2026.05.11
   > ドイツとウクライナは射程１５００キロメートルの無人機を共同生産していく＝ピストリウス独国防相 ウクルインフォルム通信
 - [Ukrainian drone strike on empty Baltic fuel depot prompts top-level resignation – in Latvia](https://www.defensenews.com/global/europe/2026/05/11/ukrainian-drone-strike-on-empty-baltic-fuel-depot-prompts-top-level-resignation-in-latvia/) — *Defense News - Unmanned* · 2026.05.11
+  ![thumb](https://cloudfront-us-east-1.images.arcpublishing.com/archetype/VJRWCKXFLVBKNESYPBLO7YQDHA.JPG)
   > A Ukrainian official said Russia is spoofing Ukraine's drones, diverting them to strike nearby Baltic nations instead of targets in Russia.
 - [無人航空機、産業用は中国9割 国産機、自衛隊の試験運用でスピード量産も - 日経ビジネス電子版](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xN3JaYjBYbFJWU2NjYWtJbUEzR29xdFExVkgyQ2MxMlJmMFF2UldGeXk5UWk1R0hnLWNaMW00el8zTEZLMmtDd0NLd3REUWctdnpRTDMzVGk1enF3cGd2a0FMRzJ4Rms?oc=5) — *Google News - 軍事ドローン* · 2026.05.11
   > 無人航空機、産業用は中国9割 国産機、自衛隊の試験運用でスピード量産も 日経ビジネス電子版
 - [Ukraine ramps up ground robot production to spare soldiers, haul ammo — and rescue grandma](https://www.defensenews.com/unmanned/2026/05/08/ukraine-ramps-up-ground-robot-production-to-spare-soldiers-haul-ammo-and-rescue-grandma/) — *Defense News - Unmanned* · 2026.05.09
+  ![thumb](https://cloudfront-us-east-1.images.arcpublishing.com/archetype/ZREOYQQLH5EM3MH2QVTT6HQYP4.jpg)
   > The same unmanned ground systems Ukraine uses to haul ammunition and evacuate wounded soldiers are now pulling civilians out of contested ground.
 - [航空管制への無人機攻撃は「テロ行為」 プーチン氏、ウクライナを非難 死傷者なし - 産経ニュース](https://news.google.com/rss/articles/CBMidkFVX3lxTE1aM3U5a0FhTnQ5LXIxVmxLRlNIV0ozLTdGWVV6Mnc1RWRJY0YzV2VQYkNBZFRKeWVGN1pzSTVNMWtjXzNIQ1NkUS1hVDBaOWFiTzBoWDFhOGRIUk1hY3hIbzBET0NYMDNxbGR2UnpVZ1F1RERVVlE?oc=5) — *Google News - 軍事ドローン* · 2026.05.09
   > 航空管制への無人機攻撃は「テロ行為」 プーチン氏、ウクライナを非難 死傷者なし 産経ニュース
@@ -205,37 +270,47 @@
 - [UAE、イランから飛来したミサイルと無人機を迎撃 - AFPBB News](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kVFdnM1cwREt3cDB1ZFowdUk3RDlFOGJfZ1p6aHBHUndEWGtSSXJMZDhsY3FtRE1EZmZtU3Fia2tEdDIwdFNwNW5tUDBfTExVRHfSAVRBVV95cUxNZlpFRlRYSmw3b1hRdThuY0pVYzVaRGxXRTd4R3BNd09lZjhBcnBNbEJ4UFBPRGpqVDV3NmZMR2kxU3dfc2R4SE5VUDlnTFQ4cFMtX2s?oc=5) — *Google News - 軍事ドローン* · 2026.05.08
   > UAE、イランから飛来したミサイルと無人機を迎撃 AFPBB News
 - [As the US Army adds drones to formations, here’s how one base trains its operators](https://www.defensenews.com/news/your-military/2026/05/08/as-the-us-army-adds-drones-to-formations-heres-how-one-base-trains-its-operators/) — *Defense News - Unmanned* · 2026.05.08
+  ![thumb](https://cloudfront-us-east-1.images.arcpublishing.com/archetype/CBEQH3TJ6FFPBNT5GU4D7RQPFA.jpg)
   > Fort Stewart soldiers are figuring out how to train on unmanned systems after the base stood up the Marne Unmanned Center of Excellence.
 - [Pentagon turns to AI targeting to help troops shoot drones](https://www.defensenews.com/industry/2026/05/07/pentagon-turns-to-ai-targeting-to-help-troops-shoot-drones/) — *Defense News - Unmanned* · 2026.05.08
+  ![thumb](https://cloudfront-us-east-1.images.arcpublishing.com/archetype/6UIRBIKNYZD5HDZGD4LZYEHA4U.jpg)
   > The technology can detect threats and distinguish them from non-threats, such as birds, faster than a human operator can.
 - [【特集】攻撃型無人機「シャヘド」を迎撃──Terra Drone、ウクライナ技術で迎撃ドローン事業を本格拡大 - ドローンジャーナル](https://news.google.com/rss/articles/CBMibkFVX3lxTE9WenVDMFk5aWptZVlXMXg2Um03eGtRbm9LSXU0cXlUeVZJVWN3anBzMHZCdzltcWNVZVh0c3RiRG5SZmExay1nUEFNZVNqVFdPM2ZXRVo0MktWWVhXSEwwQ0xaOHltbGVINS1CWk9R?oc=5) — *Google News - 軍事ドローン* · 2026.05.07
   > 【特集】攻撃型無人機「シャヘド」を迎撃──Terra Drone、ウクライナ技術で迎撃ドローン事業を本格拡大 ドローンジャーナル
 - [As US eyes smaller military footprint in Europe, new unit trains for drone warfare](https://www.defensenews.com/news/your-military/2026/05/05/as-us-eyes-smaller-military-footprint-in-europe-new-unit-trains-for-drone-warfare/) — *Defense News - Unmanned* · 2026.05.06
+  ![thumb](https://cloudfront-us-east-1.images.arcpublishing.com/archetype/RVE3SUP2CJE7ZMNHNPMM5YPB2I.jpg)
   > The U.S. Army is standing up a new unit in Germany to train personnel on drone warfare, even as the Pentagon looks to scale down troop numbers there.
 - [Xiaomiが人型ロボットで狙う製造現場。雷軍は中国版ジョブズから中国版マスクへ向かうのか~Xiaomi新型ヒューマノイドロボットの再登場](https://note.com/zhenren63/n/n933c9f8ba5f0) — *note · zhenren63 (中国ロボ業界)* · 2026.05.04
+  ![thumb](https://assets.st-note.com/production/uploads/images/271542117/rectangle_large_type_2_33c4c59683d555946b92a7c205038702.png?width=800)
   > Xiaomiが再びヒューマノイドロボットを表に出してきました。2026年4月27日の投資家向けイベントで、新型の人型ロボットを披露したと報じられています。現場では参加者とやり取りし、紙袋を渡し、指でハートを作るようなジェスチャーも見せたようです。報道では、2022年に発表されたCyberOneの人型設計を引き継ぎ、暗いグレー系の外装にXiaomiのロゴが入った機体だったとされています。小米側は現時点で、詳細な仕様や価格、量産計画を公表し
 
 ### サービス / SERVICE (27 件)
 
 - [Waymo、サンディエゴで完全無人走行を開始](https://note.com/rt_frontier/n/n860e9a04842c) — *note · ハッシュタグ「ロボット」* · 2026.07.12
+  ![thumb](https://assets.st-note.com/production/uploads/images/293607670/rectangle_large_type_2_ce3fb83a6dfec88ab949fe6accdc5c51.jpeg?width=800)
   > Waymoはサンディエゴで完全無人走行を開始し、デンバー、ラスベガス、タンパでも展開を拡大します。
 - [映画「A.I.」に見るロボットと家族愛の物語](https://note.com/buhaha_memo/n/ne19ede13abce) — *note · ハッシュタグ「ロボット」* · 2026.07.12
+  ![thumb](https://assets.st-note.com/production/uploads/images/293603765/rectangle_large_type_2_852203fa08fc63b25e4ac799d4398046.jpeg?width=800)
   > 映画「A.I.」は、感情を持つ少年型ロボットデイビットが人間になる方法を求めて旅をする物語で、家族愛とロボットの存在意義を問いかける。
 - [中国の人型ロボットが低侵襲手術に成功](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSm1iX3JpdUYySktUODNpODhhbGNPSDFJT1R6UlpnVzVPMm9yVTRrMGdMd3pzRFk4QzNCUjlXNkt0eTE2MHF3Z0hROUdrbmtHcDJHWG5VYU42NWFWX21id3EtTDdLQWktbV9kSUthVFZDdk9Sb2Ewdk5lRzgwaGxURFpHTUR5N0hQY0FRRUNwUmhDTVpBSHp5OEtmQkRTSS0tcmR1MXBVdWNjVkJob0VzNnAyc21LSUlfNkZrREhrVkwxMEptdElsaEFjRWZQNk9tSk9kZ1VaNW81ZUhOSjRz0gGPAUFVX3lxTFA0dXRLd3FYLVA3a0VqWWhpc2NuQlpRbmdYN0EtbXpQbGh4bTQ4VHhSYUxJOEZfRDJLbzkxNlBWVHRqYUNvbHY1c21CTlZ5Z0Y5d3BaZ2hSTkJGZXFnT1RUQ0xtMDExNmxRRC1CdnVxNEpIazA4dmYzdE5FQ3A2dlRET0pVMkN3Z2M4bXJkaU9F?oc=5) — *Google News - ロボット* · 2026.07.12
   > 中国の研究チームが開発した人型ロボットが、生体への低侵襲手術に世界で初めて成功しました。
 - [自律走行搬送ロボットAmuAを今枝副大臣が視察](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LTjZveGFlVF9HQjRMcVZ4Q2hSQXVPUHBLNWh4OXQ4TWw3bnU2UFM2YmxESFJoU3laSG5wQkdPSkVuUUFrYktUOGN3cGdDM1JhcjhENWxTVncyVGNp?oc=5) — *Google News - ロボット* · 2026.07.12
   > 今枝副大臣は赤岩病院で自律走行型搬送ロボットAmuAを視察し、搬送ロボット導入支援に意欲を示しました。
 - [自動ソフトクリーム製造ロボット（うし）](https://note.com/major_snake9078/n/ndaacc8dbc5a3) — *note · ハッシュタグ「ロボット」* · 2026.07.12
+  ![thumb](https://assets.st-note.com/production/uploads/images/293387603/rectangle_large_type_2_f19559a85b930078a44b2ec23eeec42b.jpg?width=800)
   > 店員ロボット「うし」が自動でソフトクリームを作り、客にお礼を言われる様子を描写。
 - [細菌を触覚で読み取るロボット](https://news.google.com/rss/articles/CBMiakFVX3lxTFB1cFRQeWtlMlNra2xhS3BzNVdyeGRIaHBjcy1aUHRUcTVld3AxSnhEczZUVGZXZ013RWYyTVhNSTZCdWdTX3FXTjAtRVB0dWRtcFktOTR6azFTNzlBUjhRbDFMZ29YUkNCSnc?oc=5) — *Google News - robot* · 2026.07.12
   > このロボットは、細菌を染色や化学ラベルなしで触覚によって識別し、迅速な診断を可能にします。
 - [ニコン、顕微鏡写真展「ミクロの世界」を東京で開催](https://gigazine.net/news/20260711-nikon-small-world-exhibition/) — *GIGAZINE* · 2026.07.11
+  ![thumb](https://i.gzn.jp/img/2026/07/11/nikon-small-world-exhibition/00.jpg)
   > ニコンは顕微鏡事業101周年を記念し、ミクロの世界の美しさを捉えた写真展を東京写真美術館で開催します。
 - [米国初のロボット支援乳房切除術、ロボット「キャロル」が実施](https://news.google.com/rss/articles/CBMilgFBVV95cUxOWDZibkFJc0o1dnY5SjhaTERYYVhzTDV3RGliaW9mU0JBTnkyZU9NdzZ5azBTLVh5V2NmNWlXblRHVGFYYzhqQk9FWE55YmVoTERuU3ZVQWtBQldTZmp5ak1XOVVzY2RaTmtCQmEwOUlhVjM5ZVd6SVdlQ0NoN19DMlgwaE1GWmRZT2l5RFRWV0VSTk4tY2c?oc=5) — *Google News - robot* · 2026.07.11
   > 米国で初めて、ロボット「キャロル」が単孔式乳房切除術を実施し、患者の回復を早めることを目指しています。
 - [Unitree G1、人型ロボットによる世界初の生体手術を実証](https://note.com/zhenren63/n/nb7810d941cdd) — *note · zhenren63 (中国ロボ業界)* · 2026.07.11
+  ![thumb](https://assets.st-note.com/production/uploads/images/293440558/rectangle_large_type_2_f726c49e6509636794b00195473d3561.png?width=800)
   > Unitreeの人型ロボットG1が、外科医による遠隔操作で生きた豚に手術を行い、汎用ロボットの医療応用可能性を示しました。
 - [ポータブルシャワーは700ドル](https://www.theverge.com/reviews/963814/joolca-hottap-portable-shower-review) — *The Verge* · 2026.07.11
+  ![thumb](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/IMG_2100.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
   > 野外活動や過酷な環境での利用を想定した、高価なポータブルシャワーが登場しました。
 - [ロボットハンド開発競争と海の癒やし効果](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTzk4aHF4NHl1MjBHV0ZLcnBfOUFZblZEZEY2d0FpU0IzWVJLVXh1eXJWMUVaZ1pJWmIzRUNXUElIWTZ3UUFWclhZUXJOdXF3R3M3eHRSelBSQXZkTHA4a2pfS2IyTEVISll2Y1F3TmlleWZ3UUNNc3pQRTNUcEtSYWY0ekhPZG5fR3VSekV1czZLY3RkMEEzUEt5aFFxRGdHOXZPcDl3TDZFajVJWkI5YTBjd3pxcm8zVUx4b2NGaFp1ZDJodzRJMEFBZXlSLVowNmljd2dDVWpSOFE?oc=5) — *Google News - robot* · 2026.07.11
   > ロボットハンド開発競争と、脳の健康に海がもたらす癒やし効果について論じています。
@@ -244,14 +319,19 @@
 - [AIロボット：家事・介護から未来の暮らしまで](https://news.google.com/rss/articles/CBMif0FVX3lxTE1DV1ItNjlpWGdsRjNuUXBLdGpRT1ZjbTBvTGNaYlNEY0ZjZnQ4cmE0SG4wNTR5cUdRampMXzhTMUNIRU9SMlJfbUhkdXd1QTN3LXowNXdnWWZyUGxKei1ZRWFLVjhLODJ2c1h2dDh6VVUwSjlXWXBOOC1QZmQ5YXM?oc=5) — *Google News - ロボット* · 2026.07.11
   > 家事全般から介護まで、市場規模60兆円のAIロボット開発現場に潜入し、未来の暮らしの変化を探る。
 - [CAR-T細胞療法で自己免疫疾患が寛解](https://gigazine.net/news/20260711-car-t-therapy-remission/) — *GIGAZINE* · 2026.07.11
+  ![thumb](https://i.gzn.jp/img/2026/07/11/car-t-therapy-remission/00.jpg)
   > CAR-T細胞療法により、難治性の自己免疫疾患を抱える患者が寛解状態となり、輸血不要となった。
 - [Richtech Robotics、AIロボットADAMのライブ配信を開始](https://roboticsandautomationnews.com/2026/07/10/richtech-robotics-launches-24-7-interactive-livestream-featuring-ai-robot-adam/103234/) — *Robotics & Automation News* · 2026.07.11
+  ![thumb](https://roboticsandautomationnews.com/wp-content/uploads/2026/07/richtech-adam-serving-coffee-1.jpg)
   > Richtech Roboticsは、AI搭載ヒューマノイドロボットADAMとのリアルタイム対話が可能な24時間ライブ配信プラットフォームを開始しました。
 - [遠隔操作の人型ロボットが初のライブ手術を完了](https://newatlas.com/robotics/first-live-surgery-teleoperated-humanoid-robots/) — *New Atlas Robotics* · 2026.07.10
+  ![thumb](https://assets.newatlas.com/dims4/default/22b5407/2147483647/strip/true/crop/1920x1080+0+0/resize/1440x810!/format/webp/quality/85/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fa9%2Feb%2F0f6564244acd8dba41ff2c10651f%2Fcover-art.png)
   > 遠隔操作された人型ロボットが、歴史上初めてライブ手術を完了し、医療分野での新たな可能性を示しました。
 - [人型ロボット、老人ホームで何ができる？Fourier社の現場から](https://note.com/zhenren63/n/n3cfd55c53618) — *note · zhenren63 (中国ロボ業界)* · 2026.07.10
+  ![thumb](https://assets.st-note.com/production/uploads/images/293223176/rectangle_large_type_2_24d7482989f21ee0075d14503e7f248f.png?width=800)
   > 人型ロボットは老人ホームで会話やリハビリ補助など非接触業務から導入可能。安全性確保が次なる課題で、日本企業にもチャンスがある。
 - [テスラ車でAI「Grok」利用可能に 日本でも展開](https://www.itmedia.co.jp/news/articles/2607/10/news157.html) — *ITmedia AI+* · 2026.07.10
+  ![thumb](https://image.itmedia.co.jp/news/articles/2607/10/cover_news157.jpg)
   > テスラ車で対話型AI「Grok」が利用可能になり、ナビ設定やルート確認を音声で行えるようになりました。
 - [見守り介護ロボ 老人ホームで実証実験 入居者を混乱させない技術備える…ソニーＧ開発 - 読売新聞](https://news.google.com/rss/articles/CBMilgFBVV95cUxPUGJxcFFhdTgyd2hUNUF3RnFUc1lSQXMtLUMxd1pPX3d0SHNLc2ZYVzNTSmNMVmR3NURpWHNTdDZmYUkwUmlXYkotLXVBNzljTnNSRWRRdVBxN2F4RUVrMWVTUzhOR0h1RTM4djU5QjdCeldydEw0aWkyMHRnNGFHMUVISzdxTUswQndHb0hyRmhnZ1NhTkE?oc=5) — *Google News - 介護ロボット* · 2026.05.06
   > 見守り介護ロボ 老人ホームで実証実験 入居者を混乱させない技術備える…ソニーＧ開発 読売新聞
@@ -275,22 +355,30 @@
 ### 家庭 / HOME (14 件)
 
 - [ルンバPlus 415 Comboがプライムデーで5万円以下に](https://note.com/kei_music_gadget/n/n849079e0be11) — *note · ハッシュタグ「ロボット」* · 2026.07.12
+  ![thumb](https://assets.st-note.com/production/uploads/images/293429398/rectangle_large_type_2_0f63a90dbb21f54171d0d43369c2e787.png?width=800)
   > Amazonプライムデーで、iRobotのロボット掃除機「Roomba Plus 415 Combo」が55%オフの5万円以下で購入可能です。
 - [Philips、スマート照明ハブのアップデート問題を無料交換で対応](https://www.engadget.com/2212954/philips-free-replacements-hue-bridge-pro-update-bricked-smart-lighting-hubs/) — *Engadget* · 2026.07.12
+  ![thumb](https://www.engadget.com/img/gallery/philips-offers-free-replacements-after-update-bricked-smart-lighting-hubs/l-intro-1783788631.jpg)
   > Philipsは、アップデートにより動作不能になったスマート照明ハブの無償交換を提供し、問題を防ぐための新しいアップデートを展開すると発表しました。
 - [任天堂のトーキングフラワーが値下げ](https://www.theverge.com/gadgets/964138/nintendo-talking-flower-mario-wonder-deal-sale) — *The Verge* · 2026.07.12
+  ![thumb](https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/SMBW_Talking_Flower_001_illu01_01_R_ad-0.png?quality=90&#038;strip=all&#038;crop=0,0,100,100)
   > スーパーマリオブラザーズ ワンダーのキャラクターを基にした、トーキングフラワーのおもちゃが値下げされました。
 - [ペンギンコロニー：インディーピッチ](https://www.engadget.com/2212712/engadget-indie-pitch-penguin-colony/) — *Engadget* · 2026.07.11
+  ![thumb](https://www.engadget.com/img/gallery/engadget-indie-pitch-penguin-colony/l-intro-1783715324.jpg)
   > プレイヤーはペンギンを操作し、コロニーを築きながら生き残る戦略ゲームです。
 - [マキタの軽量コードレスクリーナが約3千円引き](https://ascii.jp/elem/000/004/418/4418633/?rss) — *ASCII.jp* · 2026.07.11
+  ![thumb](https://ascii.jp/img/2026/06/25/4489314/s/473b52819279e35f.jpg)
   > マキタの軽量コードレスクリーナCL116DWIがAmazonで28％オフの11,664円で購入可能。充電器も付属。
 - [スマートウォッチ初心者向け1万円以下モデル](https://ascii.jp/elem/000/004/418/4418800/?rss) — *ASCII.jp* · 2026.07.11
+  ![thumb](https://ascii.jp/img/2026/07/11/4499120/s/378ae14b94b91d81.jpg)
   > スマートウォッチ初心者には、1万円以下で機能とデザインに優れたモデルがおすすめです。
 - [プール清掃ロボット、自己清掃機能も搭載](https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwLU1nQUZQZ0d4TF82MmxkZ3lLR09UNGRMMzdJcnROMzN1azRWZU10LXBmQVo3NEFIaFYzM1NnamcwbnVCT2xIVWRBaFJmblFTRUhUb0pZRDRKaXViR0E?oc=5) — *Google News - robot* · 2026.07.11
   > このプール清掃ロボットは、プールをきれいにするだけでなく、自身の清掃も自動で行います。
 - [時短調理家電5選：忙しい共働き世帯向け](https://japan.cnet.com/article/35250456/) — *Japan CNET* · 2026.07.11
+  ![thumb](https://japan.cnet.com/storage/2026/07/11/97600afd4ac131576dd245e355f8ad0e/t/184/138/d/2026-07-11_6.25の画像.jpeg)
   > 共働き世帯の家事負担を軽減するため、エアフライヤーや電気鍋など、料理時間を短縮できる調理家電を紹介します。
 - [戸建て向けロボット掃除機5選：時短＆水拭きも](https://japan.cnet.com/article/35250447/) — *Japan CNET* · 2026.07.11
+  ![thumb](https://japan.cnet.com/storage/2026/07/11/899a7c662def296394496f7663e41466/t/184/138/d/2026-07-11_6.02の画像.jpeg)
   > 家電ライターが戸建て住宅向けに、時短と水拭きができるロボット掃除機を5機種厳選しました。
 - [戸建て住宅向けロボット掃除機5選](https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1dlp5dXdiTTlCcklfX0JNWjdZVUYzQWxRek1jVlB0allpdVNERi16NmpONFlFZmVvMWRZZms3VlJ1M1cyU05LQ0R6dW55S3M2Q2c?oc=5) — *Google News - ロボット* · 2026.07.11
   > 家電ライターが戸建て住宅での利用に最適なロボット掃除機を5機種厳選。時短や水拭き機能に注目。
@@ -299,8 +387,10 @@
 - [Roborockのロボット掃除機、8万円台で自動モップ洗浄乾燥 - 家電 Watch](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03aVM3dE5iUUQ4cllRWms5ajFTYU0yeEIyX2Y4RWpkUDVlRUJnSUdLRlZBTzV6cHhRbWk1V0tiOW0tVHV4VUxMdmE3QkpuRFVSS29NanJEbkVadWNsRFhJaWdWcF83dzQ?oc=5) — *Google News - ロボット* · 2026.05.11
   > Roborockのロボット掃除機、8万円台で自動モップ洗浄乾燥 家電 Watch
 - [Podcast: Colin Angle discusses building companion robots with Familiar Machines & Magic](https://www.therobotreport.com/podcast-colin-angle-discusses-building-companion-robots-familiar-machines-magic/) — *The Robot Report* · 2026.05.07
+  ![thumb](https://www.therobotreport.com/wp-content/uploads/2026/05/Colin-Angle-Headshot.jpg)
   > iRobot co-founder Colin Angle talks about his latest venture, creating next-gen social robots with Familiar Machines. The post Podcast: Colin Angle discusses building companion robots with Familiar Machines & Magic appea
 - [iRobot Founder Wants to Put a Robotic Familiar Into Your Home](https://spectrum.ieee.org/familiar-machines-and-magic) — *IEEE Spectrum Robotics* · 2026.05.05
+  ![thumb](https://spectrum.ieee.org/media-library/a-gif-shows-a-short-clip-of-a-teenager-sitting-with-and-then-hugging-a-torso-sized-animal-like-robot.gif?id=66675837&width=980)
   > Two years ago, Colin Angle stepped down as CEO of iRobot , the company that he cofounded and the most successful home robot company the world has ever seen. Angle almost immediately founded a stealthy new “physical AI” c
 
 ---
