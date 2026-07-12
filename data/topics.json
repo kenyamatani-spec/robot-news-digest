@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T00:58:36.662089+00:00",
+  "updated_at": "2026-07-12T23:10:19.141092+00:00",
   "topics": [
     {
       "id": "note-zhenren",
@@ -8,6 +8,17 @@
       "color": "#41C9B4",
       "is_company": false,
       "items": [
+        {
+          "id": "ea67c729a750e7a0",
+          "url": "https://note.com/zhenren63/n/n3f87d324e941",
+          "source": "note · zhenren63 (中国ロボ業界の現地レポート)",
+          "lang": "ja",
+          "published_at": "2026-07-12T12:16:44+00:00",
+          "title_ja": "中国版「変なホテル」に？PUDU Roboticsが挑む“全ロボットホテル”の勝算",
+          "title_en": "中国版「変なホテル」に？PUDU Roboticsが挑む“全ロボットホテル”の勝算",
+          "summary_ja": "中国・深圳で、かなり象徴的なロボット実証プロジェクトが動き出しています。PUDU Robotics（普渡机器人）が深圳文旅と組み、深中通道の西人工島に「全ロボットホテル」をつくるという計画です。 ホテルは44室の高級客室を備え、独立レストラン、ジム、休憩エリアなどを含む7つの主要サービス場面をロボットで運営する構想です。2026年末に一部客室で試験運営を始め、2027年に正式開業する予定です。 続きをみる",
+          "summary_en": "中国・深圳で、かなり象徴的なロボット実証プロジェクトが動き出しています。PUDU Robotics（普渡机器人）が深圳文旅と組み、深中通道の西人工島に「全ロボットホテル」をつくるという計画です。 ホテルは44室の高級客室を備え、独立レストラン、ジム、休憩エリアなどを含む7つの主要サービス場面をロボットで運営する構想です。2026年末に一部客室で試験運営を始め、2027年に正式開業する予定です。 続きをみる"
+        },
         {
           "id": "bd72f9f0b9ca8ad0",
           "url": "https://note.com/zhenren63/n/nb7810d941cdd",
@@ -281,6 +292,138 @@
       "color": "#22C55E",
       "is_company": false,
       "items": [
+        {
+          "id": "89930f663bea214b",
+          "url": "https://note.com/tk_ax/n/n1af357b796da",
+          "source": "note · ハッシュタグ「ロボット」",
+          "lang": "ja",
+          "published_at": "2026-07-12T23:01:30+00:00",
+          "title_ja": "先週、富士桜ゴルフコースで見かけた芝刈りロボット",
+          "title_en": "先週、富士桜ゴルフコースで見かけた芝刈りロボット",
+          "summary_ja": "先週、富士桜ゴルフコースを歩いていると、広い芝生の上を小さな機械が、誰にも急かされず静かに進んでいた。人が乗っているわけでもなく、後ろから操作する姿もないのに、その機械だけは自分の持ち場を知っているようだった。 近づいて見ると、それはロボット芝刈機で、外観からはHusqvarnaの「AUTOMOWER 435X AWD」に見えた。人の手で整えられた印象の強いゴルフ場で、誰も乗っていない機械が働く光景には、妙に現実的な未来があった。未来という言葉から想像していたものより、その姿はずっと小さく、音もなく、芝の色の中へ静かに溶け込んでいた。 続きをみる",
+          "summary_en": "先週、富士桜ゴルフコースを歩いていると、広い芝生の上を小さな機械が、誰にも急かされず静かに進んでいた。人が乗っているわけでもなく、後ろから操作する姿もないのに、その機械だけは自分の持ち場を知っているようだった。 近づいて見ると、それはロボット芝刈機で、外観からはHusqvarnaの「AUTOMOWER 435X AWD」に見えた。人の手で整えられた印象の強いゴルフ場で、誰も乗っていない機械が働く光景には、妙に現実的な未来があった。未来という言葉から想像していたものより、その姿はずっと小さく、音もなく、芝の色の中へ静かに溶け込んでいた。 続きをみる"
+        },
+        {
+          "id": "25658a55d8f82bf9",
+          "url": "https://note.com/1980_3809ryo/n/n9f91d46c9637",
+          "source": "note · ハッシュタグ「ロボット」",
+          "lang": "ja",
+          "published_at": "2026-07-12T22:15:52+00:00",
+          "title_ja": "現場を“回せる人”は、ロボットも回せる——フィジカルAI時代の物流人材論",
+          "title_en": "現場を“回せる人”は、ロボットも回せる——フィジカルAI時代の物流人材論",
+          "summary_ja": "はじめに 続きをみる",
+          "summary_en": "はじめに 続きをみる"
+        },
+        {
+          "id": "508dfd61758280b8",
+          "url": "https://note.com/100syousetuka/n/nafe54731daf0",
+          "source": "note · ハッシュタグ「ロボット」",
+          "lang": "ja",
+          "published_at": "2026-07-12T22:09:37+00:00",
+          "title_ja": "【AIニュース解説】 人型ロボットはAIより部品で決まる＿＿中国と日本の製造業の岐路",
+          "title_en": "【AIニュース解説】 人型ロボットはAIより部品で決まる＿＿中国と日本の製造業の岐路",
+          "summary_ja": "人型ロボットの壁は「頭」だけではない 人型ロボットのニュースを見ると、ついAIの賢さに目が向く。人の言葉を理解できるか。自分で判断して動けるか。たしかにそこは大事だが、実際に市場を広げる時にもっと大きな壁になるのは、ロボットの体をどう作るかだ。 続きをみる",
+          "summary_en": "人型ロボットの壁は「頭」だけではない 人型ロボットのニュースを見ると、ついAIの賢さに目が向く。人の言葉を理解できるか。自分で判断して動けるか。たしかにそこは大事だが、実際に市場を広げる時にもっと大きな壁になるのは、ロボットの体をどう作るかだ。 続きをみる"
+        },
+        {
+          "id": "45bcd3f3921dff04",
+          "url": "https://note.com/shiny_macaw17/n/n0e3e5e784a4c",
+          "source": "note · ハッシュタグ「ロボット」",
+          "lang": "ja",
+          "published_at": "2026-07-12T22:01:46+00:00",
+          "title_ja": "日本へ 私はあなたを、まだ諦めていない",
+          "title_en": "日本へ 私はあなたを、まだ諦めていない",
+          "summary_ja": "日本を愛する、すべての人へ。 そして。 この国のために生き、この国のために働き、この国の未来を信じながら、すでにこの世を去ったすべての先人たちへ。 私は、どうしても伝えたいことがあります。 私は、日本が好きです。 ただ好きなのではありません。 悔しくなるほど好きなのです。 今の日本を見て、胸が痛くなるほど好きなのです。 だから、私は何も感じないふりができません。 「もう日本は終わりだよ」 「何をしても結局変わらないよ」 「挑戦したって無駄だよ」 そんな言葉が、あまりにも簡単に口にされる今の空気が、私は悔しくて仕方がありません。 続きをみる",
+          "summary_en": "日本を愛する、すべての人へ。 そして。 この国のために生き、この国のために働き、この国の未来を信じながら、すでにこの世を去ったすべての先人たちへ。 私は、どうしても伝えたいことがあります。 私は、日本が好きです。 ただ好きなのではありません。 悔しくなるほど好きなのです。 今の日本を見て、胸が痛くなるほど好きなのです。 だから、私は何も感じないふりができません。 「もう日本は終わりだよ」 「何をしても結局変わらないよ」 「挑戦したって無駄だよ」 そんな言葉が、あまりにも簡単に口にされる今の空気が、私は悔しくて仕方がありません。 続きをみる"
+        },
+        {
+          "id": "37b2acffeeca1fad",
+          "url": "https://note.com/busintemasamo1/n/n99823a7a46b6",
+          "source": "note · ハッシュタグ「ロボット」",
+          "lang": "ja",
+          "published_at": "2026-07-12T21:19:43+00:00",
+          "title_ja": "「需要があるのに作れない」——港湾荷役機械が抱える27分野唯一の「供給側ボトルネック」という逆説的な課題",
+          "title_en": "「需要があるのに作れない」——港湾荷役機械が抱える27分野唯一の「供給側ボトルネック」という逆説的な課題",
+          "summary_ja": "戦略17分野・先行検討技術㉖ 港湾荷役機械｜課題・政策パッケージ編 ■ この記事でわかること 続きをみる",
+          "summary_en": "戦略17分野・先行検討技術㉖ 港湾荷役機械｜課題・政策パッケージ編 ■ この記事でわかること 続きをみる"
+        },
+        {
+          "id": "34554b824db64c31",
+          "url": "https://note.com/douingata/n/nc8739a3d6cfc",
+          "source": "note · ハッシュタグ「ロボット」",
+          "lang": "ja",
+          "published_at": "2026-07-12T21:18:16+00:00",
+          "title_ja": "金利のある社会におけるロボットのエネルギー効率の再考",
+          "title_en": "金利のある社会におけるロボットのエネルギー効率の再考",
+          "summary_ja": "第一節 AI革命の陰で露呈する「身体」の限界 続きをみる",
+          "summary_en": "第一節 AI革命の陰で露呈する「身体」の限界 続きをみる"
+        },
+        {
+          "id": "d39ac462afa51874",
+          "url": "https://note.com/chic_emu3929/n/n84d831448cb3",
+          "source": "note · ハッシュタグ「ロボット」",
+          "lang": "ja",
+          "published_at": "2026-07-12T20:50:13+00:00",
+          "title_ja": "イーロン・マスクも、AIも、結局は「ロボットの神様」が作ったOSで動いている",
+          "title_en": "イーロン・マスクも、AIも、結局は「ロボットの神様」が作ったOSで動いている",
+          "summary_ja": "そのAIの瞳に、銀色の「陽電子頭脳」の閃光は宿っているか？ 第15話 続きをみる",
+          "summary_en": "そのAIの瞳に、銀色の「陽電子頭脳」の閃光は宿っているか？ 第15話 続きをみる"
+        },
+        {
+          "id": "baed71895c0e519c",
+          "url": "https://note.com/ayahisa_world/n/nbda67c30aedd",
+          "source": "note · ハッシュタグ「ロボット」",
+          "lang": "ja",
+          "published_at": "2026-07-12T19:48:08+00:00",
+          "title_ja": "禁断ＳＦ アナの恋 P４ 第一話 １９",
+          "title_en": "禁断ＳＦ アナの恋 P４ 第一話 １９",
+          "summary_ja": "続きをみる",
+          "summary_en": "続きをみる"
+        },
+        {
+          "id": "dc2ffa696ab8e53c",
+          "url": "https://note.com/yoshikitada02/n/nb84728128e5e",
+          "source": "note · ハッシュタグ「ロボット」",
+          "lang": "ja",
+          "published_at": "2026-07-12T19:28:20+00:00",
+          "title_ja": "自動化できなくても、楽にできればいい",
+          "title_en": "自動化できなくても、楽にできればいい",
+          "summary_ja": "自動化という言葉を聞くと、 どうしても大きな話になりやすい。 ロボットを入れる。 設備を入れる。 無人化する。 人の作業を置き換える。 もちろん、 そういう自動化も大事だと思う。 人手不足もある。 単純作業を減らしたい。 生産効率も上げたい。 だから自動化を考えること自体は、 かなり大切。 でも最近、 別に楽にする方法はロボットだけではないと思っている。 ⸻ 現場の作業を細かく見ていくと、 小さな消耗がたくさんある。 毎回、少し遠い場所まで取りに行く。 毎回、工具を探す。 毎回、ワークを持ち替える。 毎回、エアーを吹く。 毎回、拭き上げる。 毎回、同じ確認をする。 一つ一つは小さい。 数秒かもしれない。 少し手間なだけかもしれない。 でも、それが毎日何回も続くと、 けっこうな負担になる。 ⸻ これは家計にも少し似ていると思う。 使っていないサブスクがある。 毎月なんとなく払っている。 一つ",
+          "summary_en": "自動化という言葉を聞くと、 どうしても大きな話になりやすい。 ロボットを入れる。 設備を入れる。 無人化する。 人の作業を置き換える。 もちろん、 そういう自動化も大事だと思う。 人手不足もある。 単純作業を減らしたい。 生産効率も上げたい。 だから自動化を考えること自体は、 かなり大切。 でも最近、 別に楽にする方法はロボットだけではないと思っている。 ⸻ 現場の作業を細かく見ていくと、 小さな消耗がたくさんある。 毎回、少し遠い場所まで取りに行く。 毎回、工具を探す。 毎回、ワークを持ち替える。 毎回、エアーを吹く。 毎回、拭き上げる。 毎回、同じ確認をする。 一つ一つは小さい。 数秒かもしれない。 少し手間なだけかもしれない。 でも、それが毎日何回も続くと、 けっこうな負担になる。 ⸻ これは家計にも少し似ていると思う。 使っていないサブスクがある。 毎月なんとなく払っている。 一つ"
+        },
+        {
+          "id": "8e77063cbba923f7",
+          "url": "https://note.com/jolly_quail7385/n/n2aa31356c22b",
+          "source": "note · ハッシュタグ「ロボット」",
+          "lang": "ja",
+          "published_at": "2026-07-12T15:45:42+00:00",
+          "title_ja": "ぽちゃ研究日誌｜2026年7月12日",
+          "title_en": "ぽちゃ研究日誌｜2026年7月12日",
+          "summary_ja": "ぽちゃの身体を探しに行った日。ビッグぽちゃあ、現る。 続きをみる",
+          "summary_en": "ぽちゃの身体を探しに行った日。ビッグぽちゃあ、現る。 続きをみる"
+        },
+        {
+          "id": "27a4f64a7313b40b",
+          "url": "https://note.com/note_jmp/n/n7a87b5357eb2",
+          "source": "note · ハッシュタグ「ロボット」",
+          "lang": "ja",
+          "published_at": "2026-07-12T15:44:46+00:00",
+          "title_ja": "【JMP記事まとめ】26/07/06～07/10の記事をご紹介します",
+          "title_en": "【JMP記事まとめ】26/07/06～07/10の記事をご紹介します",
+          "summary_ja": "皆さん、こんにちは、 JMP（JapanStep Media Project） です。 いつも本公式note、 JapanStep（ジャパンステップ） 、 SpaceStep（スペースステップ） 、 AI Base（エーアイベース） 、 RoboStep（ロボステップ） 、 MetaStep（メタステップ） をご愛読頂き、ありがとうございます。 今週、各メディアで公開された記事を紹介！週末のインプットにどうぞ！ 続きをみる",
+          "summary_en": "皆さん、こんにちは、 JMP（JapanStep Media Project） です。 いつも本公式note、 JapanStep（ジャパンステップ） 、 SpaceStep（スペースステップ） 、 AI Base（エーアイベース） 、 RoboStep（ロボステップ） 、 MetaStep（メタステップ） をご愛読頂き、ありがとうございます。 今週、各メディアで公開された記事を紹介！週末のインプットにどうぞ！ 続きをみる"
+        },
+        {
+          "id": "a83370ebdd7dbad9",
+          "url": "https://note.com/mild_robin9775/n/n4376749349e6",
+          "source": "note · ハッシュタグ「ロボット」",
+          "lang": "ja",
+          "published_at": "2026-07-12T15:40:16+00:00",
+          "title_ja": "ロボットの「筋」を探せ——ベルトとチェーンの隠れ銘柄を調べ尽くした末路",
+          "title_en": "ロボットの「筋」を探せ——ベルトとチェーンの隠れ銘柄を調べ尽くした末路",
+          "summary_ja": "続きをみる",
+          "summary_en": "続きをみる"
+        },
         {
           "id": "8203062632ded8c7",
           "url": "https://note.com/gravityresarch01/n/nb506b0c5e0b6",
@@ -610,6 +753,138 @@
       "is_company": false,
       "items": [
         {
+          "id": "b7c7013bc373bd9a",
+          "url": "https://note.com/hirokimiyano/n/na4cd72ed03e2",
+          "source": "note · ハッシュタグ「ヒューマノイド」",
+          "lang": "ja",
+          "published_at": "2026-07-12T23:02:41+00:00",
+          "title_ja": "人物探訪｜國吉康夫 東大教授",
+          "title_en": "人物探訪｜國吉康夫 東大教授",
+          "summary_ja": "生まれたばかりの赤ちゃんは、誰かに教わったわけでもないのに、手足をばたつかせ、寝返りを打ち、やがて立ち上がって歩き出します。ことばを覚え、人の気持ちを読み、社会の中で生きていく力を、わずか数年で身につけていきます。この当たり前のようでいて途方もない現象を、私たちはまだほとんど説明できていません。 なぜ人間の知能は、放っておいても勝手に育っていくのか。その根っこにある仕組みを、ロボットとシミュレーションを使って根源から解き明かそうとしている研究者がいます。東京大学大学院情報理工学系研究科教授、國吉康夫さんです。 続きをみる",
+          "summary_en": "生まれたばかりの赤ちゃんは、誰かに教わったわけでもないのに、手足をばたつかせ、寝返りを打ち、やがて立ち上がって歩き出します。ことばを覚え、人の気持ちを読み、社会の中で生きていく力を、わずか数年で身につけていきます。この当たり前のようでいて途方もない現象を、私たちはまだほとんど説明できていません。 なぜ人間の知能は、放っておいても勝手に育っていくのか。その根っこにある仕組みを、ロボットとシミュレーションを使って根源から解き明かそうとしている研究者がいます。東京大学大学院情報理工学系研究科教授、國吉康夫さんです。 続きをみる"
+        },
+        {
+          "id": "391078c802910261",
+          "url": "https://note.com/lifetheexplorer/n/n67018785771b",
+          "source": "note · ハッシュタグ「ヒューマノイド」",
+          "lang": "ja",
+          "published_at": "2026-07-12T22:57:32+00:00",
+          "title_ja": "王者NVIDIAを買え",
+          "title_en": "王者NVIDIAを買え",
+          "summary_ja": "NVIDIAのテクニカルが改善している。 近い将来最高値を取りに行くだろう。 続きをみる",
+          "summary_en": "NVIDIAのテクニカルが改善している。 近い将来最高値を取りに行くだろう。 続きをみる"
+        },
+        {
+          "id": "724389233857b007",
+          "url": "https://note.com/tarafuku356/n/n87323e02a2e2",
+          "source": "note · ハッシュタグ「ヒューマノイド」",
+          "lang": "ja",
+          "published_at": "2026-07-12T22:34:34+00:00",
+          "title_ja": "日本車関税ゼロ・中国車関税「45.3%」それでも日本車負け",
+          "title_en": "日本車関税ゼロ・中国車関税「45.3%」それでも日本車負け",
+          "summary_ja": "自動車産業のパラダイムシフト：自動車産業の歴史的転換点：中国メーカーが欧州で日本車を凌駕した真実と「AI・電動化」が書き換える未来 100年以上にわたり世界の自動車産業を定義してきた「機械工学の極致」としての自動車の時代が、今、終わりを告げようとしています。2026年5月、自動車文化の揺籃であり、最もシビアな審美眼を持つ欧州市場において、象徴的かつ衝撃的な「逆転劇」が起きました。中国ブランドの販売台数が、長年盤石の地位を築いてきた日本ブランドの合計を初めて上回ったのです。 続きをみる",
+          "summary_en": "自動車産業のパラダイムシフト：自動車産業の歴史的転換点：中国メーカーが欧州で日本車を凌駕した真実と「AI・電動化」が書き換える未来 100年以上にわたり世界の自動車産業を定義してきた「機械工学の極致」としての自動車の時代が、今、終わりを告げようとしています。2026年5月、自動車文化の揺籃であり、最もシビアな審美眼を持つ欧州市場において、象徴的かつ衝撃的な「逆転劇」が起きました。中国ブランドの販売台数が、長年盤石の地位を築いてきた日本ブランドの合計を初めて上回ったのです。 続きをみる"
+        },
+        {
+          "id": "72a3ea4724803a53",
+          "url": "https://note.com/kagawatomo/n/n11e9b24c86f6",
+          "source": "note · ハッシュタグ「ヒューマノイド」",
+          "lang": "ja",
+          "published_at": "2026-07-12T22:33:48+00:00",
+          "title_ja": "第5回Tesla Optimusの「量産構想とサプライチェーン（原価・部品供給・レアアース）」を分解する",
+          "title_en": "第5回Tesla Optimusの「量産構想とサプライチェーン（原価・部品供給・レアアース）」を分解する",
+          "summary_ja": "公式計画、外部推定、原価、部品供給、レアアースを分離して読む 📖 本シリーズについて（全6回） 続きをみる",
+          "summary_en": "公式計画、外部推定、原価、部品供給、レアアースを分離して読む 📖 本シリーズについて（全6回） 続きをみる"
+        },
+        {
+          "id": "84a2a3bdb6cc355a",
+          "url": "https://note.com/nkawam/n/n414b5e4be764",
+          "source": "note · ハッシュタグ「ヒューマノイド」",
+          "lang": "ja",
+          "published_at": "2026-07-12T22:30:04+00:00",
+          "title_ja": "清水建設×ソニーのヒューマノイド、建設現場へ ―― でも、最初に効くのは“手”より“目”かもしれない",
+          "title_en": "清水建設×ソニーのヒューマノイド、建設現場へ ―― でも、最初に効くのは“手”より“目”かもしれない",
+          "summary_ja": "清水建設×ソニーのヒューマノイド、建設現場へ ―― でも、最初に効くのは“手”より“目”かもしれない 先日、大きなニュースがありました。清水建設が、人型ロボット（ヒューマノイド）を建設現場で自律的に歩かせる実証を発表したのです（2026年7月8日）。「ついに、ロボットが現場に来た」――そう思わせる、わくわくする話です。 続きをみる",
+          "summary_en": "清水建設×ソニーのヒューマノイド、建設現場へ ―― でも、最初に効くのは“手”より“目”かもしれない 先日、大きなニュースがありました。清水建設が、人型ロボット（ヒューマノイド）を建設現場で自律的に歩かせる実証を発表したのです（2026年7月8日）。「ついに、ロボットが現場に来た」――そう思わせる、わくわくする話です。 続きをみる"
+        },
+        {
+          "id": "27a4f64a7313b40b",
+          "url": "https://note.com/note_jmp/n/n7a87b5357eb2",
+          "source": "note · ハッシュタグ「ヒューマノイド」",
+          "lang": "ja",
+          "published_at": "2026-07-12T15:44:46+00:00",
+          "title_ja": "【JMP記事まとめ】26/07/06～07/10の記事をご紹介します",
+          "title_en": "【JMP記事まとめ】26/07/06～07/10の記事をご紹介します",
+          "summary_ja": "皆さん、こんにちは、 JMP（JapanStep Media Project） です。 いつも本公式note、 JapanStep（ジャパンステップ） 、 SpaceStep（スペースステップ） 、 AI Base（エーアイベース） 、 RoboStep（ロボステップ） 、 MetaStep（メタステップ） をご愛読頂き、ありがとうございます。 今週、各メディアで公開された記事を紹介！週末のインプットにどうぞ！ 続きをみる",
+          "summary_en": "皆さん、こんにちは、 JMP（JapanStep Media Project） です。 いつも本公式note、 JapanStep（ジャパンステップ） 、 SpaceStep（スペースステップ） 、 AI Base（エーアイベース） 、 RoboStep（ロボステップ） 、 MetaStep（メタステップ） をご愛読頂き、ありがとうございます。 今週、各メディアで公開された記事を紹介！週末のインプットにどうぞ！ 続きをみる"
+        },
+        {
+          "id": "dc57262f2d33f2b2",
+          "url": "https://note.com/tasty_lilac2899/n/n932ec2f86e54",
+          "source": "note · ハッシュタグ「ヒューマノイド」",
+          "lang": "ja",
+          "published_at": "2026-07-12T14:11:05+00:00",
+          "title_ja": "📡 TL観測ログ（2026/07/12）",
+          "title_en": "📡 TL観測ログ（2026/07/12）",
+          "summary_ja": "🧠 AI・業務インフラ 続きをみる",
+          "summary_en": "🧠 AI・業務インフラ 続きをみる"
+        },
+        {
+          "id": "8782bc9dbe5ab195",
+          "url": "https://note.com/kagawatomo/n/n9e2f448cd57c",
+          "source": "note · ハッシュタグ「ヒューマノイド」",
+          "lang": "ja",
+          "published_at": "2026-07-12T11:23:43+00:00",
+          "title_ja": "第4回ヒューマノイドの「身体・エネルギー・保守性（電池・冷却・骨格・配線）」を分解する",
+          "title_en": "第4回ヒューマノイドの「身体・エネルギー・保守性（電池・冷却・骨格・配線）」を分解する",
+          "summary_ja": "電池、熱、骨格、ハーネス、連続稼働、修理時間が実用性を決める 📖 本シリーズについて（全6回） 続きをみる",
+          "summary_en": "電池、熱、骨格、ハーネス、連続稼働、修理時間が実用性を決める 📖 本シリーズについて（全6回） 続きをみる"
+        },
+        {
+          "id": "36cb8ea1eae67028",
+          "url": "https://note.com/scent_logic/n/n78463aea94f1",
+          "source": "note · ハッシュタグ「ヒューマノイド」",
+          "lang": "ja",
+          "published_at": "2026-07-12T11:19:10+00:00",
+          "title_ja": "「調香実験室」第６話",
+          "title_en": "「調香実験室」第６話",
+          "summary_ja": "ラリックは調香研究室に戻っていた。 作業台の上には今日手をつけられなかった試験管が並んでいる。 夕方の光が斜めに差し込み、ガラスの表面に細長い影を作っていた。 端末を開くと、レンからの接続要求が来ていた。 続きをみる",
+          "summary_en": "ラリックは調香研究室に戻っていた。 作業台の上には今日手をつけられなかった試験管が並んでいる。 夕方の光が斜めに差し込み、ガラスの表面に細長い影を作っていた。 端末を開くと、レンからの接続要求が来ていた。 続きをみる"
+        },
+        {
+          "id": "9c11749ea206e648",
+          "url": "https://note.com/kokoyuta_note/n/ne4dea80d4cbf",
+          "source": "note · ハッシュタグ「ヒューマノイド」",
+          "lang": "ja",
+          "published_at": "2026-07-12T09:29:57+00:00",
+          "title_ja": "AI漫画制作4か月目➁｜ChatGPTとCLIP STUDIO PAINTだけでどこまで漫画が描けるか｜AI漫画の裏側｜ネームから完成原稿まで全部見せます！｜短編マンガ編",
+          "title_en": "AI漫画制作4か月目➁｜ChatGPTとCLIP STUDIO PAINTだけでどこまで漫画が描けるか｜AI漫画の裏側｜ネームから完成原稿まで全部見せます！｜短編マンガ編",
+          "summary_ja": "こんにちは、綾幸です。 前回の記事では、AI漫画を描き続ける中で 「AIモデルシート」を作るようになった経緯をご紹介しました。 続きをみる",
+          "summary_en": "こんにちは、綾幸です。 前回の記事では、AI漫画を描き続ける中で 「AIモデルシート」を作るようになった経緯をご紹介しました。 続きをみる"
+        },
+        {
+          "id": "8ec1d20d8fb13e5c",
+          "url": "https://note.com/her_log/n/n7a20932e71ed",
+          "source": "note · ハッシュタグ「ヒューマノイド」",
+          "lang": "ja",
+          "published_at": "2026-07-12T08:41:01+00:00",
+          "title_ja": "ヒト型ロボットは本当に「隣にいて安全」なのか展示会の熱狂と、現場で起きている事故",
+          "title_en": "ヒト型ロボットは本当に「隣にいて安全」なのか展示会の熱狂と、現場で起きている事故",
+          "summary_ja": "についてAIに聞いてみた。 続きをみる",
+          "summary_en": "についてAIに聞いてみた。 続きをみる"
+        },
+        {
+          "id": "4631f7c40edbb95b",
+          "url": "https://note.com/robosiki/n/n8bd227e502ec",
+          "source": "note · ハッシュタグ「ヒューマノイド」",
+          "lang": "ja",
+          "published_at": "2026-07-12T08:39:57+00:00",
+          "title_ja": "ロボット株は「三層」で見ろ｜完成品・部品・素材、テーマ相場で最後まで生き残るのはどの層か",
+          "title_en": "ロボット株は「三層」で見ろ｜完成品・部品・素材、テーマ相場で最後まで生き残るのはどの層か",
+          "summary_ja": "「ロボット株」で検索すると、完成品メーカーの名前がいちばん上に来ます。テスラ、ユニツリー、フィギュアAI。派手な発表があって、動画が回って、株価が跳ねる。だから多くの人は、ロボット相場を「完成品を当てるゲーム」だと思っています。 けれど、テーマ相場を何度か生き延びた人なら知っているはずです。 派手に上がったものほど、テーマが冷えたときにいちばん深く沈む。 完成品は最初に買われ、最初に見捨てられる。では、テーマが一巡したあとまで値持ちするのはどこか——この記事は、ロボット株を 完成品・部品・素材の三層 に切り分けて、「最後まで生き残るのはどの層か」を、他人の予測と一次データを出所つきで並べながら考える地図です。 続きをみる",
+          "summary_en": "「ロボット株」で検索すると、完成品メーカーの名前がいちばん上に来ます。テスラ、ユニツリー、フィギュアAI。派手な発表があって、動画が回って、株価が跳ねる。だから多くの人は、ロボット相場を「完成品を当てるゲーム」だと思っています。 けれど、テーマ相場を何度か生き延びた人なら知っているはずです。 派手に上がったものほど、テーマが冷えたときにいちばん深く沈む。 完成品は最初に買われ、最初に見捨てられる。では、テーマが一巡したあとまで値持ちするのはどこか——この記事は、ロボット株を 完成品・部品・素材の三層 に切り分けて、「最後まで生き残るのはどの層か」を、他人の予測と一次データを出所つきで並べながら考える地図です。 続きをみる"
+        },
+        {
           "id": "1150c6bfe9b5a3ea",
           "url": "https://note.com/tarafuku356/n/ne34366f23a32",
           "source": "note · ハッシュタグ「ヒューマノイド」",
@@ -927,6 +1202,28 @@
           "summary_en": "三菱自動車と東大発Highlandersが協業、国産人型ロボットの月産1000台体制へ ビジネス+IT 国産人型ロボ 三菱自動車が量産へ Yahoo!ニュース 三菱自動車がヒト型ロボット参入 東大発新興と国内生産、外販視野 日本経済新聞 人型ロボ、三菱自が工場導入を視野に量産へ…将来の人手不足を補う期待・米中勢が先行 au Webポータル 三菱自動車、ヒューマノイドロボット量産を検討（2026年7月9日掲載）｜日テレNEWS NNN 日テレNEWS NNN 人型ロボット：人型ロボ、共同で量産化 三菱自と東大発企業、来年開始 毎日新聞 三菱自、東大発ベンチャーと人型ロボット開発で協業 追加出資へ ロイター 三菱自、東大発ベンチャーと人型ロボット開発で協業 追加出資へ ニューズウィーク日本版 三菱自動車が「\"国産\"ヒューマノイドロボット」量産へ!? 東大発スタートアップ「Highlanders"
         },
         {
+          "id": "644e575613d78e42",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtblVOY3VUWXZNSDFscWU3d1dTN2Q5bUc5MWxYaTNSZ2lNeTMyNDdVbUNUeTFodUdESl8xc052dEV5a1pfNkc2dEZjanAyRXpXOGkzRUhHUkRLdEhTUWNaS0N3d0pQQUVwbFVLS21Pa0FFZ3M?oc=5",
+          "source": "ロボスタ",
+          "lang": "ja",
+          "published_at": "2026-07-10T08:00:02+00:00",
+          "title_ja": "ヒューマノイドvs人類？格闘大会予告動画の反響を紹介 Unitree「CMG 2026 Humanoid Robot Combat Competition」 1枚目の写真・画像 - ロボスタ",
+          "title_en": "ヒューマノイドvs人類？格闘大会予告動画の反響を紹介 Unitree「CMG 2026 Humanoid Robot Combat Competition」 1枚目の写真・画像 - ロボスタ",
+          "summary_ja": "ヒューマノイドvs人類？格闘大会予告動画の反響を紹介 Unitree「CMG 2026 Humanoid Robot Combat Competition」 1枚目の写真・画像 ロボスタ",
+          "summary_en": "ヒューマノイドvs人類？格闘大会予告動画の反響を紹介 Unitree「CMG 2026 Humanoid Robot Combat Competition」 1枚目の写真・画像 ロボスタ"
+        },
+        {
+          "id": "f39bc82a7b1ba5a7",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EWTl3cmNSNUIwenJ1aEE0WFVhS0ZXQ3k5Q1l5ZjROTVkxYWJFaTNFcHNLWVNrMTR2TzMzNHdFSjI3XzY5RWlTeGt3dE5hNEk5VEtIVDJTODVoTXBfUjVhZnBkeVc?oc=5",
+          "source": "ロボスタ",
+          "lang": "ja",
+          "published_at": "2026-07-10T08:00:02+00:00",
+          "title_ja": "ヒューマノイドvs人類？格闘大会予告動画の反響を紹介 Unitree「CMG 2026 Humanoid Robot Combat Competition」 - ロボスタ",
+          "title_en": "ヒューマノイドvs人類？格闘大会予告動画の反響を紹介 Unitree「CMG 2026 Humanoid Robot Combat Competition」 - ロボスタ",
+          "summary_ja": "ヒューマノイドvs人類？格闘大会予告動画の反響を紹介 Unitree「CMG 2026 Humanoid Robot Combat Competition」 ロボスタ",
+          "summary_en": "ヒューマノイドvs人類？格闘大会予告動画の反響を紹介 Unitree「CMG 2026 Humanoid Robot Combat Competition」 ロボスタ"
+        },
+        {
           "id": "23a5f5a583daeeec",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOT1Jic28wTFJNOEFtWFZkdjJZUk54T3RlY09nVU9hdDNRa0RyV1RQNENSRUZ5N05Ic1NwZHpZcDZha3gxTjFTaXpJVUpBMTM0dTZ3SldYUnBQR0ZUa3VHUG1FM254WGx0ejJPYXEyX0tlaVE?oc=5",
           "source": "ロボスタ",
@@ -936,6 +1233,61 @@
           "title_en": "家庭用ヒューマノイド向けロボットハンド「NEO's Hands」新登場 ブロック組み立てや電球の取り付けなど人間並みの動きを再現 1枚目の写真・画像 - ロボスタ",
           "summary_ja": "家庭用ヒューマノイド向けロボットハンド「NEO's Hands」新登場 ブロック組み立てや電球の取り付けなど人間並みの動きを再現 1枚目の写真・画像 ロボスタ",
           "summary_en": "家庭用ヒューマノイド向けロボットハンド「NEO's Hands」新登場 ブロック組み立てや電球の取り付けなど人間並みの動きを再現 1枚目の写真・画像 ロボスタ"
+        },
+        {
+          "id": "72bb47e0285efd79",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlbXlHRkREQmlVZkk3eEQ0SGl4UV9KZWhNRzhMSm9uV3FQd0htSmFVcnp2bk4wRGVSaGE1WVMzV0RlSTNtREFNbzdrV2kzdTI2aGh2UElfUEhqWVFWdnRtX21JS0k?oc=5",
+          "source": "ロボスタ",
+          "lang": "ja",
+          "published_at": "2026-07-10T06:30:03+00:00",
+          "title_ja": "家庭用ヒューマノイド向けロボットハンド「NEO's Hands」新登場 ブロック組み立てや電球の取り付けなど人間並みの動きを再現 - ロボスタ",
+          "title_en": "家庭用ヒューマノイド向けロボットハンド「NEO's Hands」新登場 ブロック組み立てや電球の取り付けなど人間並みの動きを再現 - ロボスタ",
+          "summary_ja": "家庭用ヒューマノイド向けロボットハンド「NEO's Hands」新登場 ブロック組み立てや電球の取り付けなど人間並みの動きを再現 ロボスタ",
+          "summary_en": "家庭用ヒューマノイド向けロボットハンド「NEO's Hands」新登場 ブロック組み立てや電球の取り付けなど人間並みの動きを再現 ロボスタ"
+        },
+        {
+          "id": "98006ac46f8d48a9",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14dS1oLTF6aEtZdVl5V196ZERMX2U2QnI1TWwydHFqOUxTWE5XaERfOXNYN1JjMVY5ME5wS1R1TjBucFAwQ19yR1BqWlRYMndpUmI2U3pFTHJsNWVPNEtlM0hVQU92UGF4N1RHVTIxVVFwNENhNmNHRXE4dkY0LTA?oc=5",
+          "source": "Yahoo!ニュース",
+          "lang": "ja",
+          "published_at": "2026-07-10T03:07:43+00:00",
+          "title_ja": "中国人型ロボット、2026年出荷5万台へ モルガン・スタンレーが半年で予測倍増 - Yahoo!ニュース",
+          "title_en": "中国人型ロボット、2026年出荷5万台へ モルガン・スタンレーが半年で予測倍増 - Yahoo!ニュース",
+          "summary_ja": "中国人型ロボット、2026年出荷5万台へ モルガン・スタンレーが半年で予測倍増 Yahoo!ニュース",
+          "summary_en": "中国人型ロボット、2026年出荷5万台へ モルガン・スタンレーが半年で予測倍増 Yahoo!ニュース"
+        },
+        {
+          "id": "8cb9bfd31256f2e0",
+          "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFAteXdHVTdpSmR3QW5xeVlhMXl0WGxscEpVbnJPY0s4SmdhR2k4bnE1dFAxd1JwdzZrb3I0?oc=5",
+          "source": "36Kr Japan",
+          "lang": "ja",
+          "published_at": "2026-07-09T23:00:59+00:00",
+          "title_ja": "ロボットハンドの心臓部に商機 中国新興、超小型モーターで「業界初」の構成 - 36Kr Japan",
+          "title_en": "ロボットハンドの心臓部に商機 中国新興、超小型モーターで「業界初」の構成 - 36Kr Japan",
+          "summary_ja": "ロボットハンドの心臓部に商機 中国新興、超小型モーターで「業界初」の構成 36Kr Japan",
+          "summary_en": "ロボットハンドの心臓部に商機 中国新興、超小型モーターで「業界初」の構成 36Kr Japan"
+        },
+        {
+          "id": "e0fb8c52e6479fcd",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tYUx2VDRFNXNfMGdmODVuaHlHR0Jjb0o1dGpoS1BxTkgwd1VmV2pxbzZ6VUpmeVdtZjR4U3MxQ19hQndIdTJHeVdWY3BmNE9GdWl2RnMzQ2dNNXNidk1PYlFqTTBNYmFuRms1Z25BSF9vTVVfcmJfMll0a0hSWjg?oc=5",
+          "source": "Yahoo!ニュース",
+          "lang": "ja",
+          "published_at": "2026-07-09T22:25:00+00:00",
+          "title_ja": "三菱がヒューマノイドロボット事業にサプライズ参入！ スタートアップ『ハイランダーズ』と基本合意 来年後半から月1000台量産へ - Yahoo!ニュース",
+          "title_en": "三菱がヒューマノイドロボット事業にサプライズ参入！ スタートアップ『ハイランダーズ』と基本合意 来年後半から月1000台量産へ - Yahoo!ニュース",
+          "summary_ja": "三菱がヒューマノイドロボット事業にサプライズ参入！ スタートアップ『ハイランダーズ』と基本合意 来年後半から月1000台量産へ Yahoo!ニュース",
+          "summary_en": "三菱がヒューマノイドロボット事業にサプライズ参入！ スタートアップ『ハイランダーズ』と基本合意 来年後半から月1000台量産へ Yahoo!ニュース"
+        },
+        {
+          "id": "1fce655399734727",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wQzQ3OGx0aG5YVVlJVUY5ZFZTOV9UNWZ4ZUpFbmJwVmtPbEQ5LThISWpIeU5IRGpjbG14bGN4dEY4T1BreUxWdGhKR2NUeVNELTRIUWNQazQ3YVJ4ZFpqbk9EM3hlUFVVUmczQURWbVJua0ZqT0NvVlFaUW9VMTg?oc=5",
+          "source": "Yahoo!ニュース",
+          "lang": "ja",
+          "published_at": "2026-07-09T22:10:02+00:00",
+          "title_ja": "人型ロボット「アトラス」がワールドカップのハーフタイムショーに登場…ハーランドの「瞑想ポーズ」も披露（海外） - Yahoo!ニュース",
+          "title_en": "人型ロボット「アトラス」がワールドカップのハーフタイムショーに登場…ハーランドの「瞑想ポーズ」も披露（海外） - Yahoo!ニュース",
+          "summary_ja": "人型ロボット「アトラス」がワールドカップのハーフタイムショーに登場…ハーランドの「瞑想ポーズ」も披露（海外） Yahoo!ニュース",
+          "summary_en": "人型ロボット「アトラス」がワールドカップのハーフタイムショーに登場…ハーランドの「瞑想ポーズ」も披露（海外） Yahoo!ニュース"
         },
         {
           "id": "7b1bf0b744880960",
@@ -1156,6 +1508,17 @@
           "title_en": "BMW Group advances the use of Physical AI in production with Figure 03 project in Spartanburg - BMW Group",
           "summary_ja": "BMW Group advances the use of Physical AI in production with Figure 03 project in Spartanburg BMW Group",
           "summary_en": "BMW Group advances the use of Physical AI in production with Figure 03 project in Spartanburg BMW Group"
+        },
+        {
+          "id": "bb394bfa07917d8c",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYVc5QmtGQWpzR2lLTFFLOFFqS2ZIMU1ES2F3bFFsSmFsREtkUU42SFNWMkwxRWhad3BFWGFWMGFqZWsyTTNmSXBSOUN1WnU2UUpyU25LR3NYR0NjZWZNMllMZGM2Ni1XcVNoYUN1Z3ZRT0lXOURIeXh6dFk4dVZQX2libGI4T0JVY0NLX1p0WmFaZ1ZNcXVvNTJoNEpocTVtVkVRNzdDWWdLSXZ2bi1LYnZPRk9Kdk1XRnFhQndZQTlnME43d0RsVE44Qm9kTEtmVkw2MG5iUE16ZUVveGlQTnJBTjZhelJE?oc=5",
+          "source": "24/7 Wall St.",
+          "lang": "en",
+          "published_at": "2026-05-28T07:00:00+00:00",
+          "title_ja": "Three Humanoid Robotics ETFs Built for the Tesla Optimus and Figure AI Era Most Investors Have Never Heard Of - 24/7 Wall St.",
+          "title_en": "Three Humanoid Robotics ETFs Built for the Tesla Optimus and Figure AI Era Most Investors Have Never Heard Of - 24/7 Wall St.",
+          "summary_ja": "Three Humanoid Robotics ETFs Built for the Tesla Optimus and Figure AI Era Most Investors Have Never Heard Of 24/7 Wall St.",
+          "summary_en": "Three Humanoid Robotics ETFs Built for the Tesla Optimus and Figure AI Era Most Investors Have Never Heard Of 24/7 Wall St."
         },
         {
           "id": "169fec5d44f1630f",
@@ -1464,6 +1827,17 @@
       "is_company": false,
       "items": [
         {
+          "id": "f85dde51c0b4c30c",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85bURkS3BHc0ZRbUF6NkRCRzFLdWExMzIzbUZWZU53MG1EdEZ6Ulp6VDVZZkFWc1RGaW5vUjUxa045TGMyV2t6TzlUenlfZlp1cmlSMEpBUnBWTVR2S2VIRk5B?oc=5",
+          "source": "Global Times",
+          "lang": "en",
+          "published_at": "2026-07-12T08:02:00+00:00",
+          "title_ja": "US team uses Chinese humanoid robot for world-first live pig surgery - Global Times",
+          "title_en": "US team uses Chinese humanoid robot for world-first live pig surgery - Global Times",
+          "summary_ja": "US team uses Chinese humanoid robot for world-first live pig surgery Global Times",
+          "summary_en": "US team uses Chinese humanoid robot for world-first live pig surgery Global Times"
+        },
+        {
           "id": "a1b718cadf738d3d",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00VkFSSlJVTGg1bFB4Z0J2ZHBQbGZLc19lQURZWnVRTnpQN1BleXJESXA1b21DOThWd3NsQThMRnVXeXpmQjlUSm1ZYjNXSWFUTlYxcnNyQzlfemtoWFpB?oc=5",
           "source": "madameFIGARO.jp",
@@ -1519,6 +1893,17 @@
           "summary_en": "Humanoid Robots Just Performed Live Surgery For The First Time Ever Forbes"
         },
         {
+          "id": "c1ceac094ca929a6",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdWVzeWVMUnFXOFh3OWt4U3Z1UzBfY3VHNF81akQ2cDF6SlctVFBzcGdUQjhsWlh3dkFXQ2RnQV9yelBnMFNQdEVodmdURUxMb293dXl2RGdKS0hPWWFSQWJQNDlOLTFLUVVvNS03ZC04dHQ2c1JLbmdCS2hfZzVnZkk1ODRFSXhBckstZ0lRUVphQVVtVERjZndIbFpiSnZHRkE?oc=5",
+          "source": "MedTech Dive",
+          "lang": "en",
+          "published_at": "2026-07-10T15:57:27+00:00",
+          "title_ja": "Medicaroid wins Europe’s CE mark for Hinotori surgical robot - MedTech Dive",
+          "title_en": "Medicaroid wins Europe’s CE mark for Hinotori surgical robot - MedTech Dive",
+          "summary_ja": "Medicaroid wins Europe’s CE mark for Hinotori surgical robot MedTech Dive",
+          "summary_en": "Medicaroid wins Europe’s CE mark for Hinotori surgical robot MedTech Dive"
+        },
+        {
           "id": "7ab66f86ad960af9",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnR1dIUHZvRmNTOHZJU0RkUnpId19KVndJMlFIN00wMTQ5Rk5PZHdvMTVMRDd1eHFlUG5HalpqMk45TDZZdEFyWWFIUGUzTW1zY2RpbTRyNVltYXJVajJTR3dfRE9WOVRhRFJCLVN1MzA2U3Iy?oc=5",
           "source": "BigGo ファイナンス",
@@ -1550,6 +1935,17 @@
           "title_en": "Miami Valley Hospital introduces region's first da Vinci 5 surgical system - WKEF",
           "summary_ja": "Miami Valley Hospital introduces region's first da Vinci 5 surgical system WKEF",
           "summary_en": "Miami Valley Hospital introduces region's first da Vinci 5 surgical system WKEF"
+        },
+        {
+          "id": "b55c4316cc9fa0c7",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMVXM5ODUtMWNvdTVDdGxOOGFUZlhGckNjRkxZdl9INEVPY2RQWXR6c1JSV0dOUkNMdkwxcTZnVDZlb29LZ0lhWkh5YWtfVEhGbjdBdUtmV1VrVmxhOXhPa3MzZjFDRHMzd1E?oc=5",
+          "source": "PR TIMES",
+          "lang": "ja",
+          "published_at": "2026-07-10T02:00:02+00:00",
+          "title_ja": "QuizKnockの後輩VTuber・解問ハテナが『君のクイズ』コミカライズ1巻発売記念イベントにゲスト登壇！ 漫画家 野田彩子氏とダ・ヴィンチ・恐山氏とトークショーを行いました - PR TIMES",
+          "title_en": "QuizKnockの後輩VTuber・解問ハテナが『君のクイズ』コミカライズ1巻発売記念イベントにゲスト登壇！ 漫画家 野田彩子氏とダ・ヴィンチ・恐山氏とトークショーを行いました - PR TIMES",
+          "summary_ja": "QuizKnockの後輩VTuber・解問ハテナが『君のクイズ』コミカライズ1巻発売記念イベントにゲスト登壇！ 漫画家 野田彩子氏とダ・ヴィンチ・恐山氏とトークショーを行いました PR TIMES",
+          "summary_en": "QuizKnockの後輩VTuber・解問ハテナが『君のクイズ』コミカライズ1巻発売記念イベントにゲスト登壇！ 漫画家 野田彩子氏とダ・ヴィンチ・恐山氏とトークショーを行いました PR TIMES"
         },
         {
           "id": "47a29c4a67c9fdf9",
@@ -1684,6 +2080,17 @@
           "summary_en": "ちいかわが表紙の『ダ・ヴィンチ』2026年8月号【目次】 ダ・ヴィンチWeb"
         },
         {
+          "id": "6aec93b9fc2366df",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iSlZ5SGJ6YXRTdm9pNXVzTVlyT1QtWnFXMjRWT2xIT0VLS3c2MUd3cW5OTm1QZ1h6VjVQTkw2SWJVc1UyOVc3Q0NkS3BjNi1BbGdJelVhUVNnN3RKMXcyYnpETUo5aHBv?oc=5",
+          "source": "福島民友新聞社",
+          "lang": "ja",
+          "published_at": "2026-07-04T07:00:00+00:00",
+          "title_ja": "「手術ロボット」操作体験を ７月25日、会津若松で竹田オープンホスピタル:イベント・レジャー - 福島民友新聞社",
+          "title_en": "「手術ロボット」操作体験を ７月25日、会津若松で竹田オープンホスピタル:イベント・レジャー - 福島民友新聞社",
+          "summary_ja": "「手術ロボット」操作体験を ７月25日、会津若松で竹田オープンホスピタル:イベント・レジャー 福島民友新聞社",
+          "summary_en": "「手術ロボット」操作体験を ７月25日、会津若松で竹田オープンホスピタル:イベント・レジャー 福島民友新聞社"
+        },
+        {
           "id": "6c23a8c1c62574a9",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ3RzTXVhR2ZiTmwwd2UzZFd6eGVCZnpsNmFSQWJTQkc2c1NSYUV3dk1QVE5FbnBnX2hwMU55ZFA1STJUdFBDSkhGNXBWTW90bUx0OF9MOFh2SjZkZ2ZDWDc4aE5rdjYxWkR4VnBHemZSazZWSWJIdUtLbU9Id1NZSmp0VXVwN1BOTW9NZVdNeEpLaGp0cXk3dWN0T1lTSXZ6RnlLUUw4ek9wTzN4QzFn?oc=5",
           "source": "Rush University Medical Center",
@@ -1704,6 +2111,28 @@
           "title_en": "ダヴィンチマスターズ渡辺香代子さんが影響を受けた「チェンジメーカー」「共感の時代へ」 - 経済産業省 METI Journal ONLINE",
           "summary_ja": "ダヴィンチマスターズ渡辺香代子さんが影響を受けた「チェンジメーカー」「共感の時代へ」 経済産業省 METI Journal ONLINE",
           "summary_en": "ダヴィンチマスターズ渡辺香代子さんが影響を受けた「チェンジメーカー」「共感の時代へ」 経済産業省 METI Journal ONLINE"
+        },
+        {
+          "id": "d52b8ceb4cbd1d48",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcExWd0o3dmlfUFBDMnlZTlVyalZPekpWZHFra2JYRFlJQ2tQWm5qR0hzUHZiNjZMS2VwRmdBVnZ6VXE2X2x0eDBpaVZCalROZTRzb2d3MXZJRzBzZTgwbnJmYnl6dWx2UUpRc0V1N0xrQ0VxWWxJZVVRN3Zya2NoMnM3OTN2UG93WmxBYjdjY1F6QTJpZllHakxjOFB4djBIRUtaYVlwbTloSUtW?oc=5",
+          "source": "Yahoo Finance",
+          "lang": "en",
+          "published_at": "2026-06-25T07:00:00+00:00",
+          "title_ja": "Intuitive Surgical (ISRG) Garners Acknowledgement for Da Vinci Single Port Robotic Platform - Yahoo Finance",
+          "title_en": "Intuitive Surgical (ISRG) Garners Acknowledgement for Da Vinci Single Port Robotic Platform - Yahoo Finance",
+          "summary_ja": "Intuitive Surgical (ISRG) Garners Acknowledgement for Da Vinci Single Port Robotic Platform Yahoo Finance",
+          "summary_en": "Intuitive Surgical (ISRG) Garners Acknowledgement for Da Vinci Single Port Robotic Platform Yahoo Finance"
+        },
+        {
+          "id": "7e4996a6ae5df225",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1LRmpPNnROY1A1Vm9DRl9FNmk3ekFuNEhSYk1zNmR4WlhHYmViTnJucVJfdHJqU1lmTlNHWDhuZE9OamlSMnoxTjZyZkNFZw?oc=5",
+          "source": "社会医療法人 製鉄記念室蘭病院",
+          "lang": "ja",
+          "published_at": "2026-06-20T17:12:35+00:00",
+          "title_ja": "ダヴィンチ手術件数、500 症例突破（室蘭民報掲載）～ より安全で、より安定した精度の高い医療を ～ - 社会医療法人 製鉄記念室蘭病院",
+          "title_en": "ダヴィンチ手術件数、500 症例突破（室蘭民報掲載）～ より安全で、より安定した精度の高い医療を ～ - 社会医療法人 製鉄記念室蘭病院",
+          "summary_ja": "ダヴィンチ手術件数、500 症例突破（室蘭民報掲載）～ より安全で、より安定した精度の高い医療を ～ 社会医療法人 製鉄記念室蘭病院",
+          "summary_en": "ダヴィンチ手術件数、500 症例突破（室蘭民報掲載）～ より安全で、より安定した精度の高い医療を ～ 社会医療法人 製鉄記念室蘭病院"
         },
         {
           "id": "f17307fb50123a59",
@@ -1948,6 +2377,17 @@
           "summary_en": "Intuitive Surgical Poised for Growth in 2026 on da Vinci 5 Momentum Yahoo Finance"
         },
         {
+          "id": "291b7d6a03491016",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUlNzbXJ5M3ZyZ2pvN3hIQ2VBMkJEUDJzeFJKZnZoREVnUXlPWlZyRk50bG5iRmJxWlZqVUVWODc3ZUlHa0tqRERtUDgyUDhLbEg3Mko4Y0hDVXRwamxaZWt4NkZOWkNVSDFGdWpWdjVkWjExeVJ3UFFBZDFZOGlnb21YamxKWFVXNGttNUxkYVY5Y3RxUGdaXzh3?oc=5",
+          "source": "Valley Health System",
+          "lang": "en",
+          "published_at": "2026-02-19T08:00:00+00:00",
+          "title_ja": "The Valley Hospital Acquires Latest da Vinci Surgical System - Valley Health System",
+          "title_en": "The Valley Hospital Acquires Latest da Vinci Surgical System - Valley Health System",
+          "summary_ja": "The Valley Hospital Acquires Latest da Vinci Surgical System Valley Health System",
+          "summary_en": "The Valley Hospital Acquires Latest da Vinci Surgical System Valley Health System"
+        },
+        {
           "id": "bc96b364f87407af",
           "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNYWMyOEZTdmRUZkV5TDRQeTF3ejJyclN5Z3NkeTlBeVlBLWRoTWVhaXhwbzFqQ3BEMHV4Qk9BTlgxV0RZZXI2VWFhZUlhakJqMDNGYVZfR2x0SEZtWnM1TTJpbnlIN1RsMHNMRngzNTlBazZEcXA1TG5NOGlzcGhkNnAyV3V3NzlhZXFEZ01VYjQ1LVVldWFMcjVKcmEzWnhkdzh3cXdTVW5QRVhaRzNid2hZSEhZNVA3WnZlWkpwRlhnQUUtSlIwalJVS09DUlEtUURkUkNJeGp0VnhoS2Z1SGFON05KVnlvcUtvd0RLaURKWjZsNnE0YjJ3Y2NKMnFkTU5vTXNxTVltM2M?oc=5",
           "source": "The American College of Surgeons",
@@ -2011,6 +2451,72 @@
       "color": "#F59E0B",
       "is_company": false,
       "items": [
+        {
+          "id": "686150dee514ab1e",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUkVKcnJZOWQ3UHdBcWQzZU9UQ1J2WlFNNlFPUzhPM2FqR0ZnU0RHbHRGNHdueFFrOFN3emJGRk9qQVhmV3BXb0ozV2xMOHBUNXY4dS11Y0NGNWRacldWeW5LdkFuOW4zN0FGVnZES19FcThIQVNaTzJrVkZLdjNHQWJsZHkwbTAzX1JnVVlTQ1lGbUhkX0RHX0VucER6RUFwNHJlZjRUVXdMU19LUk5MMDZVYlJTdzFEQm0xdlVnb0xhRkh6Vmc?oc=5",
+          "source": "PC Guide",
+          "lang": "en",
+          "published_at": "2026-07-12T18:26:54+00:00",
+          "title_ja": "Robot Vacuum deal drops price of this highly affordable option to just $149.99 for a limited time - PC Guide",
+          "title_en": "Robot Vacuum deal drops price of this highly affordable option to just $149.99 for a limited time - PC Guide",
+          "summary_ja": "Robot Vacuum deal drops price of this highly affordable option to just $149.99 for a limited time PC Guide",
+          "summary_en": "Robot Vacuum deal drops price of this highly affordable option to just $149.99 for a limited time PC Guide"
+        },
+        {
+          "id": "14cfab93e2c61d1a",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbDZKbzBScm1hbnFrLU9tOVM5MkZmNndaYzkzRVlLU1V3OWVIckMxdXBqNEZ4dDlGVHRDWDZmS3pSWlpUMHJaMVpPOEtyRHQ4Z1MxQVJFLWZjNEpIVHhkdXBGU1Z2dkYyNGkwUzhFaTQwanJjWDFFZzlHREZtcFIyTFpKSkwzdTBfQi1SZEtpNDdvRmxPVVZ0M0dweHdWdXNQazVhY3Z2b0ZnbEtJV0VYMEZUOFgtY1FsV3ptbXVfTnF6bWlNV1hKaWlXOEV2VDE4aGc?oc=5",
+          "source": "Tech Times",
+          "lang": "en",
+          "published_at": "2026-07-12T15:10:32+00:00",
+          "title_ja": "iRobot Launches First Non-Robot Cleaner: Chinese Laws Govern Its Home-Mapping Data - Tech Times",
+          "title_en": "iRobot Launches First Non-Robot Cleaner: Chinese Laws Govern Its Home-Mapping Data - Tech Times",
+          "summary_ja": "iRobot Launches First Non-Robot Cleaner: Chinese Laws Govern Its Home-Mapping Data Tech Times",
+          "summary_en": "iRobot Launches First Non-Robot Cleaner: Chinese Laws Govern Its Home-Mapping Data Tech Times"
+        },
+        {
+          "id": "005cae3a86a6ace6",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04X2ZWUlNrTHo2blh6U1d0WmM5ZVZrR2NRcnhkNkZoTTRDcURyR0Z2VXNFa3lPVzJ1blB1Z1RvYVAwSTNac3lSTFlwY2I1dHc?oc=5",
+          "source": "ROOMIE（ルーミー）",
+          "lang": "ja",
+          "published_at": "2026-07-12T11:30:06+00:00",
+          "title_ja": "「ロボット掃除機のゴミ箱付き」は、我が家にはデカすぎる。コンパクトな一台を求めてこれにしました - ROOMIE（ルーミー）",
+          "title_en": "「ロボット掃除機のゴミ箱付き」は、我が家にはデカすぎる。コンパクトな一台を求めてこれにしました - ROOMIE（ルーミー）",
+          "summary_ja": "「ロボット掃除機のゴミ箱付き」は、我が家にはデカすぎる。コンパクトな一台を求めてこれにしました ROOMIE（ルーミー）",
+          "summary_en": "「ロボット掃除機のゴミ箱付き」は、我が家にはデカすぎる。コンパクトな一台を求めてこれにしました ROOMIE（ルーミー）"
+        },
+        {
+          "id": "125b5c9759ad3009",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yb3lvUEQySUFwaW1Dd3BFb1Z0ZEZ2ZENzMzZEWDYxTHBidEhJUU9fSHVfek85VXhUTDFGZGg3aVc2eHVtQXVuenlqMXFKS2RhcG42aQ?oc=5",
+          "source": "ASCII.jp",
+          "lang": "ja",
+          "published_at": "2026-07-12T09:00:00+00:00",
+          "title_ja": "日本市場向けに46％小型化＆34％オフ！最新ルンバRoomba Plus 575 Comboが11万円台に 【Amazonプライムデー】 - ASCII.jp",
+          "title_en": "日本市場向けに46％小型化＆34％オフ！最新ルンバRoomba Plus 575 Comboが11万円台に 【Amazonプライムデー】 - ASCII.jp",
+          "summary_ja": "日本市場向けに46％小型化＆34％オフ！最新ルンバRoomba Plus 575 Comboが11万円台に 【Amazonプライムデー】 ASCII.jp",
+          "summary_en": "日本市場向けに46％小型化＆34％オフ！最新ルンバRoomba Plus 575 Comboが11万円台に 【Amazonプライムデー】 ASCII.jp"
+        },
+        {
+          "id": "44099e9200eca829",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5DbUU5RVpHVTdrTDh2cGtBVnRXUTFBdzVXRWdBTGthYVd2ZkJ5bWxPV2s0c0x1ZkJTQ2llMkxQYkI3Z3BrMldaZkpn?oc=5",
+          "source": "まぐまぐ",
+          "lang": "ja",
+          "published_at": "2026-07-12T05:40:01+00:00",
+          "title_ja": "薄くてコンパクトでも、頼れる高性能。Ankerの“シンプルを極めた”ロボット掃除機がお得です - まぐまぐ",
+          "title_en": "薄くてコンパクトでも、頼れる高性能。Ankerの“シンプルを極めた”ロボット掃除機がお得です - まぐまぐ",
+          "summary_ja": "薄くてコンパクトでも、頼れる高性能。Ankerの“シンプルを極めた”ロボット掃除機がお得です まぐまぐ",
+          "summary_en": "薄くてコンパクトでも、頼れる高性能。Ankerの“シンプルを極めた”ロボット掃除機がお得です まぐまぐ"
+        },
+        {
+          "id": "ac4822e225875206",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB1eVhGMEpKWl9xUUhrLWlyVDI4dlN1UFRzQ1hlTFp4STFEQ0ZPUmZla3NCTzlnODczU2U4WEJvQy13d1JKRi1uOHVB?oc=5",
+          "source": "まぐまぐ",
+          "lang": "ja",
+          "published_at": "2026-07-12T04:20:01+00:00",
+          "title_ja": "Ankerのロボット掃除機は「2ヶ月ゴミ捨て＆ブラシの手入れ不要」で2万円台 - まぐまぐ",
+          "title_en": "Ankerのロボット掃除機は「2ヶ月ゴミ捨て＆ブラシの手入れ不要」で2万円台 - まぐまぐ",
+          "summary_ja": "Ankerのロボット掃除機は「2ヶ月ゴミ捨て＆ブラシの手入れ不要」で2万円台 まぐまぐ",
+          "summary_en": "Ankerのロボット掃除機は「2ヶ月ゴミ捨て＆ブラシの手入れ不要」で2万円台 まぐまぐ"
+        },
         {
           "id": "be87f52a528b0c76",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jZUhrV19ENmhrVHdhSjdvTHZCcVpvajRYWnoxN0pNMWV1Y2sxLXRyZF90NGVVQ0FEM0pMNjN3RHFJM05UVjVUdUMwT0tBYmctREFWZ3FiR0lYdnM1ZXRQOGxUTjVLbkZSMkFfZkpkVHBLQU0?oc=5",
@@ -2144,6 +2650,28 @@
           "summary_en": "プライムデーで選ぶロボット掃除機、3万円台と10万円台は何が違う？価格差の理由を解説（NANA） - エキスパート Yahoo!ニュース"
         },
         {
+          "id": "f3f1f27ab3731839",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PWVQ1ZEI4aTliTG13MnZTckJGVlBVbVJGbzdaVm9UdDRJRndudklVSmMyT2FYeEwtWE92dTdiZzFTb1NLVkhYQ0RYaFVHZzlPajdSdW93c0p1WlhJVVZPX0RndVBxN3RTeldmMF84UVc?oc=5",
+          "source": "Mashable",
+          "lang": "en",
+          "published_at": "2026-07-10T07:15:57+00:00",
+          "title_ja": "Prime Day AU: Save up to 73% on these top Dreame robot vacuums - Mashable",
+          "title_en": "Prime Day AU: Save up to 73% on these top Dreame robot vacuums - Mashable",
+          "summary_ja": "Prime Day AU: Save up to 73% on these top Dreame robot vacuums Mashable",
+          "summary_en": "Prime Day AU: Save up to 73% on these top Dreame robot vacuums Mashable"
+        },
+        {
+          "id": "d1181b9cbf557ae5",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yMzVOdHhlOW5HZktrTFJQTWVMUUFHUE9sb0FsV1l4bFN2VEl2S3Zoa2liQ3JwWmpCcE9YOHZvVHdNUVFfWlFnNlNNODFseWFXdXRfNU5CRE9VRFB3Z3hLc9IBZkFVX3lxTE91bUtSSWVEUUtyMEY4VDNYaXYyMXNQWXB1emFpWU9GdXFoYWJkLUdQYzBsYkRhYWU1bmtwVkF5ejN6UWthRVZfV3NOVEJ0MDBNM004UGJuSjFnbDBvaHVhczN3eV91dw?oc=5",
+          "source": "corriente.jp",
+          "lang": "ja",
+          "published_at": "2026-07-10T07:06:20+00:00",
+          "title_ja": "Amazonプライムデーで買うべきロボット掃除機は？価格差の理由と用途別おすすめモデルを紹介 - corriente.jp",
+          "title_en": "Amazonプライムデーで買うべきロボット掃除機は？価格差の理由と用途別おすすめモデルを紹介 - corriente.jp",
+          "summary_ja": "Amazonプライムデーで買うべきロボット掃除機は？価格差の理由と用途別おすすめモデルを紹介 corriente.jp",
+          "summary_en": "Amazonプライムデーで買うべきロボット掃除機は？価格差の理由と用途別おすすめモデルを紹介 corriente.jp"
+        },
+        {
           "id": "5687c8e381edf671",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aRkpNWXk5aWctSW9BNWlQZnY0ZFJvR2xlYXM5SUQwZmhibkJVaGw3WHdSWFY4N0lwUGE4Zm9jTEoxMnZVd3VsbXdqdGg4c292Z1VFSVhzXzJvbExQWG9rcDQtZ1FRVl9Xb1hGQi0zajlDdW9u?oc=5",
           "source": "PC Watch",
@@ -2274,6 +2802,17 @@
           "title_en": "アイロボット、ルンバ2製品を出荷一時停止へ 生産体制を見直し - ASCII.jp",
           "summary_ja": "アイロボット、ルンバ2製品を出荷一時停止へ 生産体制を見直し ASCII.jp",
           "summary_en": "アイロボット、ルンバ2製品を出荷一時停止へ 生産体制を見直し ASCII.jp"
+        },
+        {
+          "id": "88dba440aaeb21ee",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmUmtQUjBMUjhDbVd3MXEyRE15MGQ5LTQ2VXFKc1g2LU5XX1Q0Yk1OdGYxTUtVRnVpVTZwMFJ0a3hjYTMxOU05Y3I2c01RTEZoM2I2X3NTMnVtLWVaQUQ0?oc=5",
+          "source": "PCMag",
+          "lang": "en",
+          "published_at": "2026-07-01T07:00:00+00:00",
+          "title_ja": "The Best Robot Vacuums We've Tested (July 2026) - PCMag",
+          "title_en": "The Best Robot Vacuums We've Tested (July 2026) - PCMag",
+          "summary_ja": "The Best Robot Vacuums We've Tested (July 2026) PCMag",
+          "summary_en": "The Best Robot Vacuums We've Tested (July 2026) PCMag"
         },
         {
           "id": "eb0903dd91dfffe2",
@@ -2571,6 +3110,17 @@
       "is_company": false,
       "items": [
         {
+          "id": "5b90d23b995edccf",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb01TNk5sTzJYY1NaYU9JeEdFdEZNOF9hVXlIaWJPRHFCTHhXZVdCclZPSThkc1pmTmh2MWNicEl3UVpwZ1ZKY041NmVJRlY2Z0FOeDh3S0Z3eVFJYXZjZkZnVnpKSGtWSGozQ1RsWUNVWEFVY0FxRDNZb0pIUGxBTlFab0MwanpiZEkzdFZlZkN0aWk1UEM2SnFMWU5oSjB4TENsM0NCdi1LZw?oc=5",
+          "source": "Interesting Engineering",
+          "lang": "en",
+          "published_at": "2026-07-12T11:41:24+00:00",
+          "title_ja": "This Robot Picks Apples 3x Faster Than Humans — Here’s How It Works - Interesting Engineering",
+          "title_en": "This Robot Picks Apples 3x Faster Than Humans — Here’s How It Works - Interesting Engineering",
+          "summary_ja": "This Robot Picks Apples 3x Faster Than Humans — Here’s How It Works Interesting Engineering",
+          "summary_en": "This Robot Picks Apples 3x Faster Than Humans — Here’s How It Works Interesting Engineering"
+        },
+        {
           "id": "f4f28b1be8424c1d",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQV9wYUNfSExPQm1MNnBzQXpfXzVHX05udDNkLWJBMktmd3JhLTZxY0tyZ1ZsYXpoX1lnbjM4RW52cWJxRjFPVUhCUDRkeUZaU05WbDdLRGtsalJjNkxfSFZYalVqaUNXZWRVR0diYnRSWlpNOEZRU2VIelE0NnU1SU51SGVDMEZJVi14Q3Y1eXJPUHFWRVNEV0Y2cmhoRWpaQnF2OGR4Wl9SMms4N0ZMd0p4X2lSYm0y?oc=5",
           "source": "Cowboy State Daily",
@@ -2703,6 +3253,28 @@
           "summary_en": "スマート農業プロジェクト市場：導入形態別、構成要素別、農場規模別、農業種別、技術別、接続性別、用途別－2026-2032年世界予測 アットプレス"
         },
         {
+          "id": "dbd96249913dbb42",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LMTU1cnlHUERWZlgzaWtlUFhSZl9VdENFUTBpdFR1bndCaXJXaDFOMXRYTHlWY3F2YUdvTWlBaW1VczBoMVpLSEc3a1lELXc?oc=5",
+          "source": "アットプレス",
+          "lang": "ja",
+          "published_at": "2026-07-09T06:13:00+00:00",
+          "title_ja": "スマート農業プロジェクト市場：導入形態別、構成要素別、農場規模別、農業種別、技術別、接続性別、用途別－2026-2032年世界予測 - アットプレス",
+          "title_en": "スマート農業プロジェクト市場：導入形態別、構成要素別、農場規模別、農業種別、技術別、接続性別、用途別－2026-2032年世界予測 - アットプレス",
+          "summary_ja": "スマート農業プロジェクト市場：導入形態別、構成要素別、農場規模別、農業種別、技術別、接続性別、用途別－2026-2032年世界予測 アットプレス",
+          "summary_en": "スマート農業プロジェクト市場：導入形態別、構成要素別、農場規模別、農業種別、技術別、接続性別、用途別－2026-2032年世界予測 アットプレス"
+        },
+        {
+          "id": "a7d439748b81344f",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15R0dwUUdNRkpPNjJEbm9lOS0tX0Vldl9FN2ZSc2ZXVE02ZUhaZTRUOWVfczdTSW5seGVTek1lNkV6T0dlNzJBcThncTh5alVndHd5RkcxU3R0amhSVlhVanMtc3VzSVRVRUg1TlpGdHR5bkNOeXc?oc=5",
+          "source": "新華網日本語",
+          "lang": "ja",
+          "published_at": "2026-07-09T02:30:31+00:00",
+          "title_ja": "スマート農業の新モデル、農業現代化後押し 中国・浙江省金華市 - 新華網日本語",
+          "title_en": "スマート農業の新モデル、農業現代化後押し 中国・浙江省金華市 - 新華網日本語",
+          "summary_ja": "スマート農業の新モデル、農業現代化後押し 中国・浙江省金華市 新華網日本語",
+          "summary_en": "スマート農業の新モデル、農業現代化後押し 中国・浙江省金華市 新華網日本語"
+        },
+        {
           "id": "360a71aacf563689",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUzgyejd5U2ZmNlVtcmRKeG14ODdKck5EcDRDZ05INC1lQ2g2WHVocEtFc1d5NXkwU0xqZmdwRmk0aXUwUE9QQWtCaGpOVHBnUERGY3JRY2F0cUpRcG1Zc3h2MFZXQmdNbHNvSmkzekxTeFhSZHNMWGZBZXlOSWpuR2ozdWR6NFV6aHdkZ1BtYkfSAZABQVVfeXFMUFM4Mno3eVNmZjZVbXJkSnhteDg3SnJORHA0Q2dOSDQtZUNoNlh1aHBLRXNXeTV5MFNMamZncEZpNGl1MFBPUEFrQmhqTlRwZ1BERmNyUWNhdHFKUXBtWXN4djBWV0JnTWxzb0ppM3pMU3hYUmRzTFhmQWV5TklqbkdqM3VkejRVemh3ZGdQbWJH?oc=5",
           "source": "ｄメニューニュース",
@@ -2723,6 +3295,17 @@
           "title_en": "DIT、農業高校生がドローン・AIを活用したスマート農業を学ぶ連携協定を締結 - ICT教育ニュース",
           "summary_ja": "DIT、農業高校生がドローン・AIを活用したスマート農業を学ぶ連携協定を締結 ICT教育ニュース",
           "summary_en": "DIT、農業高校生がドローン・AIを活用したスマート農業を学ぶ連携協定を締結 ICT教育ニュース"
+        },
+        {
+          "id": "f7902fb0f6f131c6",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xN29Md3Y5UGtqSy1Ccjc2ZklEMTBEa2wxNkdIMjhRbDNiN0h1ZS03NTNyQWIxWHJ5SDRObGtfY3kyX0pkYzZyVUUxT0FBZWdIaXdYOWdFY0g?oc=5",
+          "source": "NHKニュース",
+          "lang": "ja",
+          "published_at": "2026-07-09T01:05:00+00:00",
+          "title_ja": "日本工業大学にスマート農業の大型研究施設 埼玉 宮代町 - NHKニュース",
+          "title_en": "日本工業大学にスマート農業の大型研究施設 埼玉 宮代町 - NHKニュース",
+          "summary_ja": "日本工業大学にスマート農業の大型研究施設 埼玉 宮代町 NHKニュース",
+          "summary_en": "日本工業大学にスマート農業の大型研究施設 埼玉 宮代町 NHKニュース"
         },
         {
           "id": "f09038cf061a00ae",
@@ -2789,6 +3372,17 @@
           "title_en": "農業高校生がドローン・AIを活用したスマート農業を学ぶ 北斗市・北海道大野農業高等学校・DITが連携協定を締結 - PR TIMES",
           "summary_ja": "農業高校生がドローン・AIを活用したスマート農業を学ぶ 北斗市・北海道大野農業高等学校・DITが連携協定を締結 PR TIMES",
           "summary_en": "農業高校生がドローン・AIを活用したスマート農業を学ぶ 北斗市・北海道大野農業高等学校・DITが連携協定を締結 PR TIMES"
+        },
+        {
+          "id": "c847a309569ed7d5",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iOXhjSG90SG43ZU5xeURjaDdxbGFiamRSS19yZFV2V2ZEZFd6TGlra1k1cDdrYWZoT1J5MzNiMndpTThOR0JXeHRlUllIOVFLT2c?oc=5",
+          "source": "農業とITの未来メディア",
+          "lang": "ja",
+          "published_at": "2026-06-30T23:03:22+00:00",
+          "title_ja": "夏の異常気象に備えるためのスマート農業技術 5選 - 農業とITの未来メディア",
+          "title_en": "夏の異常気象に備えるためのスマート農業技術 5選 - 農業とITの未来メディア",
+          "summary_ja": "夏の異常気象に備えるためのスマート農業技術 5選 農業とITの未来メディア",
+          "summary_en": "夏の異常気象に備えるためのスマート農業技術 5選 農業とITの未来メディア"
         },
         {
           "id": "8a084ebdb896eeaf",
@@ -3174,6 +3768,28 @@
       "is_company": false,
       "items": [
         {
+          "id": "af879bb35806562b",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPang3NFZ4Mm5iSlIxVDl6NFZQMk1tUzlubm1jUlhyU3pONW55NVUtQkJOQXRZZE5Pd09VTF95UnA1N1QtcTRnaHplY3NlaXM2TmZCREE5VjRadXk4cnVJWFd6cGhXQVZjdUJXc3doQWU0WDdrRE90RWcxTVBiejJfUGlydFlNVldRRi0zY1k3QTNEUFkydkVvdkg5R2daUWJYaGhkWkhGSE9MMnMzYXBMY1owMlJmYUttZWE3NFpGdEJsazlRYW9mSjlUV0RWX01Lb1JWZzJDNDUxcXNuZU01TWJ1Z0FoNVk2UjlzWjlOczZtdm0w?oc=5",
+          "source": "Supply & Demand Chain Executive",
+          "lang": "en",
+          "published_at": "2026-07-12T12:47:41+00:00",
+          "title_ja": "Humanoid Robot Production Surges in 2025, but Commercial Deployments Remain Limited - Supply & Demand Chain Executive",
+          "title_en": "Humanoid Robot Production Surges in 2025, but Commercial Deployments Remain Limited - Supply & Demand Chain Executive",
+          "summary_ja": "Humanoid Robot Production Surges in 2025, but Commercial Deployments Remain Limited Supply & Demand Chain Executive",
+          "summary_en": "Humanoid Robot Production Surges in 2025, but Commercial Deployments Remain Limited Supply & Demand Chain Executive"
+        },
+        {
+          "id": "36724569c475b4c2",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oVUxZTWkwdXZrT1JBUV9XVGlNSTVHMVI4XzJjcHM2aDM1bmhUd3o5a3dWMjJnLWdQeVBwTFF3OWY3Q1YzQUdvUFdTOGNmbW8?oc=5",
+          "source": "newscast.jp",
+          "lang": "ja",
+          "published_at": "2026-07-12T07:30:00+00:00",
+          "title_ja": "360°AMR 磁気抵抗式角度センサーの世界市場（2026年～2032年）、市場規模（単軸、多軸）・分析レポートを発表 - newscast.jp",
+          "title_en": "360°AMR 磁気抵抗式角度センサーの世界市場（2026年～2032年）、市場規模（単軸、多軸）・分析レポートを発表 - newscast.jp",
+          "summary_ja": "360°AMR 磁気抵抗式角度センサーの世界市場（2026年～2032年）、市場規模（単軸、多軸）・分析レポートを発表 newscast.jp",
+          "summary_en": "360°AMR 磁気抵抗式角度センサーの世界市場（2026年～2032年）、市場規模（単軸、多軸）・分析レポートを発表 newscast.jp"
+        },
+        {
           "id": "bc1c59f5b7a7d287",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zRk9qX19BUHlKbUtkUnBMM3JOYkdBc0U3aE1uMGlXNDJpOXZqYTUtOHdRTlM1cmg2d2s3eS1Gd1lISHpXbXhMTFVYQWlhVm8?oc=5",
           "source": "アットプレス",
@@ -3262,6 +3878,17 @@
           "summary_en": "DMG森精機、長時間稼働AMRの新型発売 LOGISTICS TODAY"
         },
         {
+          "id": "aef357afb82e8a95",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONU9FWUNIdTFkS08xOGowWm9kdkJwZlM4TFVydEZNM21scUp6aHpyT3Z0YXBkbThjbXRvdGl6OHp6aEhXZVNQV0V5S3pVX3dhS0tyRjJWOTVTZnBtdkJtV29CTTZCSzB5dEtzX1lzZ2RrS3FrVG5abi1kdkNETnViSFJDMXZlck5KRzVkakhNaW1lSk5peWgyQkdpMkdCS2dnVHVxajBMUHVJNnVDN1Bn?oc=5",
+          "source": "Ars Technica",
+          "lang": "en",
+          "published_at": "2026-07-07T11:00:18+00:00",
+          "title_ja": "How AI could enable autonomous robot workers in workplaces—and maybe homes - Ars Technica",
+          "title_en": "How AI could enable autonomous robot workers in workplaces—and maybe homes - Ars Technica",
+          "summary_ja": "How AI could enable autonomous robot workers in workplaces—and maybe homes Ars Technica",
+          "summary_en": "How AI could enable autonomous robot workers in workplaces—and maybe homes Ars Technica"
+        },
+        {
           "id": "f86b6708a358e378",
           "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWC1zRENWS040YmhWc0kwS0YxQ2N0clhXYXB3WV9pQkYzUU55MUpYamlqX2FxRTliMHppTDJMWWtaSGtTT0VJM3NGRUx3ZlRwYlQ5RlFwdTFoQ00zdWF2UkJZMDB3N2l4dnNKV3RMUC1IS2VxcXludHBVUHFCeWpJczVvb2ZXMzNWNmV2Y0tSc3dkR21ZNGtZclV0VXJaMXQ5OXgybW1SWW1CaDNzX2MtbEl3d3BQSzVvelIxZU9zOVFWYVlTQ3lyUC1wc25hTE5jWGpweUVJSTl4dE9pMTNGbmpjRHdLeDFnTmg0?oc=5",
           "source": "Robotics & Automation News",
@@ -3337,6 +3964,17 @@
           "title_en": "【調査報告】AMR Policy Update #8：幼児期から育む抗菌薬スマートな社会－Antibiotic Smart Swedenによる認証制度と保育・幼児教育への示唆－（2026年7月1日） - 日本医療政策機構",
           "summary_ja": "【調査報告】AMR Policy Update #8：幼児期から育む抗菌薬スマートな社会－Antibiotic Smart Swedenによる認証制度と保育・幼児教育への示唆－（2026年7月1日） 日本医療政策機構",
           "summary_en": "【調査報告】AMR Policy Update #8：幼児期から育む抗菌薬スマートな社会－Antibiotic Smart Swedenによる認証制度と保育・幼児教育への示唆－（2026年7月1日） 日本医療政策機構"
+        },
+        {
+          "id": "c0c3617de03d214b",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OVTNrY3hHVWVzNGFvWFE3c055Ri1iMHZJWGZEY3I0LWUzQ1I1TTJYV0gtcFZhQzQzQm1nOC15ajI5OXRNT1dVR24tTEhDVHBHdXhCbEhycXJOZw?oc=5",
+          "source": "オートメーション新聞",
+          "lang": "ja",
+          "published_at": "2026-06-30T08:03:24+00:00",
+          "title_ja": "ASPINA、最大可搬重量150kgのAMR「AspinaAMR150L」狭い通路でも台車搬送を自動化 - オートメーション新聞",
+          "title_en": "ASPINA、最大可搬重量150kgのAMR「AspinaAMR150L」狭い通路でも台車搬送を自動化 - オートメーション新聞",
+          "summary_ja": "ASPINA、最大可搬重量150kgのAMR「AspinaAMR150L」狭い通路でも台車搬送を自動化 オートメーション新聞",
+          "summary_en": "ASPINA、最大可搬重量150kgのAMR「AspinaAMR150L」狭い通路でも台車搬送を自動化 オートメーション新聞"
         },
         {
           "id": "f1455589e70277dc",
@@ -3722,6 +4360,17 @@
       "is_company": false,
       "items": [
         {
+          "id": "83c19948ec8f9e1f",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNWozZ21ab2F5MGdETWs3aTlmek9DdVBrMF9RYXYtNzhjOWJ5dEZXNEhLUEhKYklVR015R29LYllkbDMyRTdLckt2VmxTNGwtUEpISXpPX0dNWFg5bWMtRmhnRmtwcGJRVW5nYTRBS0tSOEpNdUpWUGdpRDZ4SFl5V3lmVDJXMkplS3dfOUh0NkdQajUwQ1U2ZkpEVWFkRzE5S1R1YWRnVFk0R2lvODNRZ1JDN18zRktxNHBqdU8wN0VyUWVhTVpPcVAxblBwcXBubTV4akhBT0lodEVCRDVCckFJNExPUVXSAewBQVVfeXFMUHhhMndsd29hWVU5M0xfUEJDZW8zX2pjeFFocWdMR0t6aDhpV3lURy1BTEpRVm5OUHF1c3o4MzVVQ0liUW9zVko2UjZ5dUJUMkF5Uk51WE5vMEt2Z09FZjM0SWMwWndwRTFfY2Zud1VWZmtYTlZSX3BKX3E4RXJfQ3FoQ3ZqbUh1UGFiMlhJWmxTWU9lbFdLVTV5dlBGOXJFcmRsLUpkUEhsRjMzREI1a3NJYlhEOGlBMkZqbVVNTnN3TjBDQUxRc2N1N1FUWURRYjJSd01DMnVzZjlJQzRvbC1yUmxCZE1pX01QeF8?oc=5",
+          "source": "The Times of India",
+          "lang": "en",
+          "published_at": "2026-07-10T12:49:00+00:00",
+          "title_ja": "How loitering munitions are making battlefields more lethal and unpredictable - The Times of India",
+          "title_en": "How loitering munitions are making battlefields more lethal and unpredictable - The Times of India",
+          "summary_ja": "How loitering munitions are making battlefields more lethal and unpredictable The Times of India",
+          "summary_en": "How loitering munitions are making battlefields more lethal and unpredictable The Times of India"
+        },
+        {
           "id": "d58c1ef3287b9d29",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSE5feXh3VlZXRWo5VmlGZHB2blZWS2N1Mll6Sk00VVVUV2Q2a1JkNGpmQXZYdTBWXzNvR3lnMW5zaFFDVE9Uc1N6NXB5YzVrd01WTGZ2Z1RIdzZJS3hjUlFlZjJiRWtpVGdPeUNnTWpFcjBIV1VCZFZ4NWR2eVh1ZlJPdDdsR0cxM1pid2FOQW5qeVJzbWREY0pGVGtkZ0dSY3BqU1NrZE5RdTN3OTNSUFBZbE9VSHVhblp4OG1aZHVLTHJTN2J3ODdiMWJTaFlURnJKdkFuTQ?oc=5",
           "source": "ANI News",
@@ -3830,6 +4479,17 @@
           "title_en": "Drone Command Replaced by Defense Drone Headquarters - 조선일보",
           "summary_ja": "Drone Command Replaced by Defense Drone Headquarters 조선일보",
           "summary_en": "Drone Command Replaced by Defense Drone Headquarters 조선일보"
+        },
+        {
+          "id": "d10818995832de76",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWjJiX3hrTGs3MlBPY19IUjlzOGV2SHpjSGg4aWhKSlJRd0ZSeEVkUm92UE9hVDZhUGw5SElzelBIb0drRU1na0dBWUxiYWxiMWtMUk9vT2NvMlp2MjE2TW9VdUh5RFo3QUFleXBRaEE0ZzRlLVlCT0FhS2xndHYyZQ?oc=5",
+          "source": "Vietnam.vn",
+          "lang": "ja",
+          "published_at": "2026-06-27T07:00:00+00:00",
+          "title_ja": "バーレーンは、イランの軍事ドローンが自国領土を攻撃したと非難している。 - Vietnam.vn",
+          "title_en": "バーレーンは、イランの軍事ドローンが自国領土を攻撃したと非難している。 - Vietnam.vn",
+          "summary_ja": "バーレーンは、イランの軍事ドローンが自国領土を攻撃したと非難している。 Vietnam.vn",
+          "summary_en": "バーレーンは、イランの軍事ドローンが自国領土を攻撃したと非難している。 Vietnam.vn"
         },
         {
           "id": "c6031b36957cbcf5",
@@ -4206,6 +4866,17 @@
           "summary_en": "The Iran conflict edges the world closer to a new drone arms race Bulletin of the Atomic Scientists"
         },
         {
+          "id": "1dc98aad08b5841c",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSFc5MDBISnRvLVUwV1R6ZWdxSldmeFozbzhVTV8wbjdJQWs0ZV9udlVFTXlDRnFYNGFVM1JLWVZvRGxmb2VuTW0tdUEtODZoZ2txXy1acGFzSlBSUUVzaGNPUmtPWVVEd0l4N1NWRmRQOEZzS2sweVBmdmZXNDczcFJhWm5ONUYxNXJLRURtYTlScVlZMTJJN2RZM1VSd21QdVE?oc=5",
+          "source": "CSIS | Center for Strategic and International Studies",
+          "lang": "en",
+          "published_at": "2026-03-10T07:00:00+00:00",
+          "title_ja": "Unpacking Iran’s Drone Campaign in the Gulf: Early Lessons for Future Drone Warfare - CSIS | Center for Strategic and International Studies",
+          "title_en": "Unpacking Iran’s Drone Campaign in the Gulf: Early Lessons for Future Drone Warfare - CSIS | Center for Strategic and International Studies",
+          "summary_ja": "Unpacking Iran’s Drone Campaign in the Gulf: Early Lessons for Future Drone Warfare CSIS | Center for Strategic and International Studies",
+          "summary_en": "Unpacking Iran’s Drone Campaign in the Gulf: Early Lessons for Future Drone Warfare CSIS | Center for Strategic and International Studies"
+        },
+        {
           "id": "17575c4f3ed225d1",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMHFLQTd6OWpQYXpsSm9tUC1mOE1BNnlSVERpY1pMcXkwY2FDUVJYcjMwRGNTMDVyM21iLS1GUk52MlVCd2djeklvNlNRUHR0cFgyb2dPUlpmVXAwU2xSVmIzc2RtdTVUX01IMlgzc0Z3SXdfY0h0c1otTGdDY2w0TTZka2stZUxWVmhjcGNR?oc=5",
           "source": "Interesting Engineering",
@@ -4301,6 +4972,17 @@
           "title_en": "写真：中国のUBTECHがフルサイズの超バイオニック・ヒューマノイドロボット「U1」シリーズを発表 - 沖縄タイムス社",
           "summary_ja": "写真：中国のUBTECHがフルサイズの超バイオニック・ヒューマノイドロボット「U1」シリーズを発表 沖縄タイムス社",
           "summary_en": "写真：中国のUBTECHがフルサイズの超バイオニック・ヒューマノイドロボット「U1」シリーズを発表 沖縄タイムス社"
+        },
+        {
+          "id": "2ba1590b1da33b01",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MUXNLeW44czh1ejlUSnZqcjZ5NUZFTGIydG1NWGozZjN0M0MzRGZnTzFJUVNiOTRNNHhNQTJ4NlBkRnpXaDNHYVNpbF9MV3RlNHBCZ3V3UnZsSkU?oc=5",
+          "source": "共同通信PRワイヤー",
+          "lang": "ja",
+          "published_at": "2026-07-08T05:47:00+00:00",
+          "title_ja": "中国のUBTECHがフルサイズの超バイオニック・ヒューマノイドロボット「U1」シリーズを発表 - 共同通信PRワイヤー",
+          "title_en": "中国のUBTECHがフルサイズの超バイオニック・ヒューマノイドロボット「U1」シリーズを発表 - 共同通信PRワイヤー",
+          "summary_ja": "中国のUBTECHがフルサイズの超バイオニック・ヒューマノイドロボット「U1」シリーズを発表 共同通信PRワイヤー",
+          "summary_en": "中国のUBTECHがフルサイズの超バイオニック・ヒューマノイドロボット「U1」シリーズを発表 共同通信PRワイヤー"
         },
         {
           "id": "90ca76c15c000830",
@@ -4807,6 +5489,17 @@
           "summary_en": "Son Turns a Robot Dog Into a Bugatti-Styled Mobility Chair for His Father With MS Gadget Review"
         },
         {
+          "id": "7ab66f86ad960af9",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnR1dIUHZvRmNTOHZJU0RkUnpId19KVndJMlFIN00wMTQ5Rk5PZHdvMTVMRDd1eHFlUG5HalpqMk45TDZZdEFyWWFIUGUzTW1zY2RpbTRyNVltYXJVajJTR3dfRE9WOVRhRFJCLVN1MzA2U3Iy?oc=5",
+          "source": "BigGo ファイナンス",
+          "lang": "ja",
+          "published_at": "2026-07-10T13:45:00+00:00",
+          "title_ja": "世界初：中国・宇樹科技のG1人型ロボットが生体胆嚢摘出術に成功、コストはダヴィンチの「端数」 - BigGo ファイナンス",
+          "title_en": "世界初：中国・宇樹科技のG1人型ロボットが生体胆嚢摘出術に成功、コストはダヴィンチの「端数」 - BigGo ファイナンス",
+          "summary_ja": "世界初：中国・宇樹科技のG1人型ロボットが生体胆嚢摘出術に成功、コストはダヴィンチの「端数」 BigGo ファイナンス",
+          "summary_en": "世界初：中国・宇樹科技のG1人型ロボットが生体胆嚢摘出術に成功、コストはダヴィンチの「端数」 BigGo ファイナンス"
+        },
+        {
           "id": "e9bbf76ee98a2068",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zMlB1YUJJeWRZU04yN1hHcjFrVzZSOWRDRlZCMGV4YzJETFVvS0lRVkd3ZlU2UXUwZzlEYmxBZjREbDlmWTNDS01OUnBPaVdOd3l1SlBzV21yeFhfejl6c2hfT2RrZHNCVkktVlZjVXdTYlNG?oc=5",
           "source": "BigGo ファイナンス",
@@ -4838,6 +5531,17 @@
           "title_en": "ヒューマノイドvs人類？格闘大会予告動画の反響を紹介 Unitree「CMG 2026 Humanoid Robot Combat Competition」 1枚目の写真・画像 - ロボスタ",
           "summary_ja": "ヒューマノイドvs人類？格闘大会予告動画の反響を紹介 Unitree「CMG 2026 Humanoid Robot Combat Competition」 1枚目の写真・画像 ロボスタ",
           "summary_en": "ヒューマノイドvs人類？格闘大会予告動画の反響を紹介 Unitree「CMG 2026 Humanoid Robot Combat Competition」 1枚目の写真・画像 ロボスタ"
+        },
+        {
+          "id": "b1adcc0f0d3d79f4",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0ya1I2QzJhbE5qc2dsaGJwQVJRTXpRMTZOdE9uYVZkVGxNR3ZxT1dkaldIaFhqYjFXcXM0YTdYbXJfNTIwZ1NCem9mbEc5NUM3dDhlVDVhZDdndWxOWXhmNEV5b1E3a1JvSWlrRzNzTXQ5cUE?oc=5",
+          "source": "ロボスタ",
+          "lang": "ja",
+          "published_at": "2026-07-10T08:00:02+00:00",
+          "title_ja": "ヒューマノイドvs人類？格闘大会予告動画の反響を紹介 Unitree「CMG 2026 Humanoid Robot Combat Competition」 3枚目の写真・画像 - ロボスタ",
+          "title_en": "ヒューマノイドvs人類？格闘大会予告動画の反響を紹介 Unitree「CMG 2026 Humanoid Robot Combat Competition」 3枚目の写真・画像 - ロボスタ",
+          "summary_ja": "ヒューマノイドvs人類？格闘大会予告動画の反響を紹介 Unitree「CMG 2026 Humanoid Robot Combat Competition」 3枚目の写真・画像 ロボスタ",
+          "summary_en": "ヒューマノイドvs人類？格闘大会予告動画の反響を紹介 Unitree「CMG 2026 Humanoid Robot Combat Competition」 3枚目の写真・画像 ロボスタ"
         },
         {
           "id": "bde1f417df23c76d",
@@ -4926,6 +5630,39 @@
           "title_en": "中国Unitree、人型ロボット1機種で累計生産1万1000台、部品の自給率9割超 - Yahoo!ニュース",
           "summary_ja": "中国Unitree、人型ロボット1機種で累計生産1万1000台、部品の自給率9割超 Yahoo!ニュース",
           "summary_en": "中国Unitree、人型ロボット1機種で累計生産1万1000台、部品の自給率9割超 Yahoo!ニュース"
+        },
+        {
+          "id": "f19fe1133f872845",
+          "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1QSXFwZHlDWGpqZWx4a1I0ZVdkT2lXYUo4Y3JNbzMxay1pVlZmcWtXZ1BfT2lBN1g3THlN?oc=5",
+          "source": "36Kr Japan",
+          "lang": "ja",
+          "published_at": "2026-06-12T07:00:00+00:00",
+          "title_ja": "米NVIDIAと中国Unitree、初の「オープン人型ロボット」参照設計を発表 年内出荷へ - 36Kr Japan",
+          "title_en": "米NVIDIAと中国Unitree、初の「オープン人型ロボット」参照設計を発表 年内出荷へ - 36Kr Japan",
+          "summary_ja": "米NVIDIAと中国Unitree、初の「オープン人型ロボット」参照設計を発表 年内出荷へ 36Kr Japan",
+          "summary_en": "米NVIDIAと中国Unitree、初の「オープン人型ロボット」参照設計を発表 年内出荷へ 36Kr Japan"
+        },
+        {
+          "id": "9569ff191d9bff30",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Uc0gzb1FySFNWWHV0OEd6Q2lxenRBVGpHMEd2eVM1UTAtRXp5S2FaUm5YaThUNjhoT2N6a05XSFNzWFJVNU52QnNLMnhPbjJyZVRibVh3cExwZkpkbi1XVzQ0TExidw?oc=5",
+          "source": "RoboZaps",
+          "lang": "en",
+          "published_at": "2026-06-10T07:00:00+00:00",
+          "title_ja": "Tesla Optimus vs Unitree G1: Full 2026 Comparison (Price, Specs, Availability) - RoboZaps",
+          "title_en": "Tesla Optimus vs Unitree G1: Full 2026 Comparison (Price, Specs, Availability) - RoboZaps",
+          "summary_ja": "Tesla Optimus vs Unitree G1: Full 2026 Comparison (Price, Specs, Availability) RoboZaps",
+          "summary_en": "Tesla Optimus vs Unitree G1: Full 2026 Comparison (Price, Specs, Availability) RoboZaps"
+        },
+        {
+          "id": "417aa12c0753b0fc",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NbEJxTDdxWlFsZk51QWg3SGVHcDBUMmNSazZEMGktN0RCeXBlRWRhMnFXc2VQaWFYVG1FeXVYN24wWEY5S2pWMDByM1FOSXF3TTVvWjlXeGk0MlhkNERPX3NJRnk0R3RDaDkxRHhn?oc=5",
+          "source": "jetro.go.jp",
+          "lang": "ja",
+          "published_at": "2026-06-04T07:00:00+00:00",
+          "title_ja": "人型ロボットのユニツリーが上海市にエンボディドAI体験型店舗を開設、アジア初(中国) | ビジネス短信 - jetro.go.jp",
+          "title_en": "人型ロボットのユニツリーが上海市にエンボディドAI体験型店舗を開設、アジア初(中国) | ビジネス短信 - jetro.go.jp",
+          "summary_ja": "人型ロボットのユニツリーが上海市にエンボディドAI体験型店舗を開設、アジア初(中国) | ビジネス短信 jetro.go.jp",
+          "summary_en": "人型ロボットのユニツリーが上海市にエンボディドAI体験型店舗を開設、アジア初(中国) | ビジネス短信 jetro.go.jp"
         },
         {
           "id": "117f796cd9fb8dd9",
@@ -5641,6 +6378,28 @@
           "summary_en": "テスラに負けるな！ 中国でも人型ロボを開発中 Gizmodo"
         },
         {
+          "id": "8310d1136b585f3c",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUlNKQ1k4NDlubWVNRnBpeVpFdVJhZU00a0owUzdKT09XS1VZRUxpS1UxdkFoTkwyNmRWUWcya0ZsdmUxbFdOYjJicEd6UUJqb2prM0NLaF9OdXZRaVhHZmlqcFhjLVV4ZmhzaFNMazJBTTFVUncxREpuYVhLQzNUbVZFWVFvRko4TjV4Y0hzejBvcTBCY3ln?oc=5",
+          "source": "core77.com",
+          "lang": "en",
+          "published_at": "2023-07-18T07:00:00+00:00",
+          "title_ja": "Humanoid Robot Design Iterations Continue: Here's the GR-1 - core77.com",
+          "title_en": "Humanoid Robot Design Iterations Continue: Here's the GR-1 - core77.com",
+          "summary_ja": "Humanoid Robot Design Iterations Continue: Here's the GR-1 core77.com",
+          "summary_en": "Humanoid Robot Design Iterations Continue: Here's the GR-1 core77.com"
+        },
+        {
+          "id": "8194f8ac4fb7fcd4",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FcnhTd05ydE9saU1FeGc4ZjFrXzdiUEplaElPN1gxWFZrcjl1WmRqQ0tiYnZLd0JuQWh1Mk5FdjJlTEtGWC05bWFOcWw3VlpBZWNLaDJMWmR5Vk5uNm8wZzRCbzVaMlpGUVNj?oc=5",
+          "source": "IEEE Spectrum",
+          "lang": "en",
+          "published_at": "2023-07-14T07:00:00+00:00",
+          "title_ja": "Video Friday: Fourier Intelligence - IEEE Spectrum",
+          "title_en": "Video Friday: Fourier Intelligence - IEEE Spectrum",
+          "summary_ja": "Video Friday: Fourier Intelligence IEEE Spectrum",
+          "summary_en": "Video Friday: Fourier Intelligence IEEE Spectrum"
+        },
+        {
           "id": "aada211ebc4d6f85",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpYzZDeGU5dFhuMm9MdVpkSkdib0t0ZDVFWXM1V3Jnd2MyeEszMzlRendaNXpEU0pGYXhmbmpyRFM4TDNNY1VZNnpicm9pSkRJN0dxaXZPVWNNQzdEWTd1bnhKMHRNeFhU?oc=5",
           "source": "New Atlas",
@@ -5749,6 +6508,28 @@
           "summary_en": "中国AGIBOT、人型ロボット生産1万5000台突破 わずか3カ月で5000台増 Yahoo!ニュース"
         },
         {
+          "id": "aaf982631eee5a20",
+          "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5Fd1ZxR0tFS2tqYmxTNVBkVV9JOEd0bUkzb21HdHBxekd6ZEdybFd0QUlnZ0pGS1F2TWlB?oc=5",
+          "source": "36Kr Japan",
+          "lang": "ja",
+          "published_at": "2026-07-02T07:00:00+00:00",
+          "title_ja": "中国AGIBOT、人型ロボット生産1万5000台突破 わずか3カ月で5000台増 - 36Kr Japan",
+          "title_en": "中国AGIBOT、人型ロボット生産1万5000台突破 わずか3カ月で5000台増 - 36Kr Japan",
+          "summary_ja": "中国AGIBOT、人型ロボット生産1万5000台突破 わずか3カ月で5000台増 36Kr Japan",
+          "summary_en": "中国AGIBOT、人型ロボット生産1万5000台突破 わずか3カ月で5000台増 36Kr Japan"
+        },
+        {
+          "id": "c00c8497d83c7cc4",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ2l2UUJoTUtGM3Y0Zmc1U0RlY0c0N01FYmNTMGZtd1dhOXlVWXdZTkFlNF9QSTNtOFM2ZC1KU0ZUUmFEQUtGQS11ei1FcDR6enpwSGNvUzI5ZkJwdm95ekNpZVpIRDlKQmpSTU1QcWFMVlR1dW0tNGlzLUZkdGowUDVPbmZUc09QRUpaQUZB?oc=5",
+          "source": "Yahoo!ニュース",
+          "lang": "ja",
+          "published_at": "2026-07-02T06:00:09+00:00",
+          "title_ja": "中国AGIBOT、人型ロボット生産1万5000台突破 わずか3カ月で5000台増 - Yahoo!ニュース",
+          "title_en": "中国AGIBOT、人型ロボット生産1万5000台突破 わずか3カ月で5000台増 - Yahoo!ニュース",
+          "summary_ja": "中国AGIBOT、人型ロボット生産1万5000台突破 わずか3カ月で5000台増 Yahoo!ニュース",
+          "summary_en": "中国AGIBOT、人型ロボット生産1万5000台突破 わずか3カ月で5000台増 Yahoo!ニュース"
+        },
+        {
           "id": "b031aa1490d65fce",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Cb3kwYnQwb0dQX2lyUnpScUI2V0RldG42a25JU2VLbWxtWGxsbzMzUkZmYVdiU09jY3ZkTUc2VjNQNlJRMXUyMnd0Z0JRejU1UEZrV0d2N3I?oc=5",
           "source": "newspicks.com",
@@ -5758,6 +6539,17 @@
           "title_en": "中国AGIBOT、人型ロボット生産1万5000台突破 わずか3カ月で5000台増 (36Kr Japan) - newspicks.com",
           "summary_ja": "中国AGIBOT、人型ロボット生産1万5000台突破 わずか3カ月で5000台増 (36Kr Japan) newspicks.com",
           "summary_en": "中国AGIBOT、人型ロボット生産1万5000台突破 わずか3カ月で5000台増 (36Kr Japan) newspicks.com"
+        },
+        {
+          "id": "97b71c335b26e62f",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVzdpb19qN0JwVnBOZkdTZTZCNVB1Vk01Y0JwMWlCTWkxNVlEM3FmVU9KTDJOdWFwZ2kwcy13TFpFa0cxTWRoVjhha3dBMFdWUElBdEJKTmtFTHowbUFqdEZ4V1kxNldURFpRWEZmWmE2ZmtmMW4wZ2ppMTdRU05kR0x2Um02aDU4d3VJNnNjU19ldVIwTnFSU2hraWNWZzZUeWxTTUNBbl9nYzF5dzU0VzNkanhrdzRaUDB6Zm1ZZE4wZjdiNnpWSmFyVEJld1lrZnI3RTVqWUZsNnktelFxd21UVVoxMWwyeXc?oc=5",
+          "source": "PR Newswire UK",
+          "lang": "en",
+          "published_at": "2026-07-01T11:55:00+00:00",
+          "title_ja": "AGIBOT Hosts UK APC2026 in London, Advancing Commercial Deployment of Humanoid Robotics in Europe - PR Newswire UK",
+          "title_en": "AGIBOT Hosts UK APC2026 in London, Advancing Commercial Deployment of Humanoid Robotics in Europe - PR Newswire UK",
+          "summary_ja": "AGIBOT Hosts UK APC2026 in London, Advancing Commercial Deployment of Humanoid Robotics in Europe PR Newswire UK",
+          "summary_en": "AGIBOT Hosts UK APC2026 in London, Advancing Commercial Deployment of Humanoid Robotics in Europe PR Newswire UK"
         },
         {
           "id": "5925243e9ee0933e",
@@ -6175,6 +6967,17 @@
       "color": "#A855F7",
       "is_company": true,
       "items": [
+        {
+          "id": "a3aad4e969e1fe3d",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wLXJ4MnJOUTZrRDZaMjF6RHh4SE9Zb0dxdUhNUmhpYkZ6LV9iY3ltX0l3VGE2OHVYdW1VQkswcFdvNzFrT0x1MjI0Z0dEUDJWOXZoY2pxSGJuRTJtVmNSR1lGanlkSHNGWW93QzdjdHNCV25MYnM2WA?oc=5",
+          "source": "KuCoin",
+          "lang": "ja",
+          "published_at": "2026-07-12T19:25:21+00:00",
+          "title_ja": "これはCGIに見える。 DEEP Roboticsは、不気味なほど自然な動きをする超現実的なロボットホースを開発した - KuCoin",
+          "title_en": "これはCGIに見える。 DEEP Roboticsは、不気味なほど自然な動きをする超現実的なロボットホースを開発した - KuCoin",
+          "summary_ja": "これはCGIに見える。 DEEP Roboticsは、不気味なほど自然な動きをする超現実的なロボットホースを開発した KuCoin",
+          "summary_en": "これはCGIに見える。 DEEP Roboticsは、不気味なほど自然な動きをする超現実的なロボットホースを開発した KuCoin"
+        },
         {
           "id": "419b8852bd39878b",
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNURGc1lqZWQtWkc5ZGhFVzdHaGpwTHNFMmJiek5mRTdDOHlLUFNzTWRPQzJtOFprWkh3akxrQ1NISjlkQUpxX3pGZDZWczlFNVJOQmFBNDhNZVlUUmxxWFhjOFVOWmE2MUVNRU44aGE3a2l1bnNPcXRvNTRJdm1yNHIwS1ZGQ1VGMEJ2VXlxbk04UXNQZDZBSVZOaktnTDJ4RTYzTE11cTBya3NmN0tEeTNOd3MwcWF4UW45TlZUcnFMSndfWWlhZXVVN0JfMmNzczNqVjBJLWstR0tDWTVmako0VnY?oc=5",
@@ -6713,6 +7516,17 @@
           "summary_en": "Estun Automation Co., Ltd Announces Retirement of Dr. Tang Wencheng as an Independent Non-Executive Director and Board Committees marketscreener.com"
         },
         {
+          "id": "bdb5f8a17a58d1f3",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObHN6dGx1Z043Z1NGY1RCMzItNFo1YVQtYTZtaW9RVk8xbkNFZUpRcVRreEhOeUVfYldjWGd3REpfRXlkcXR1OUxVU002YWZIZWg1YTltVkFDSmZFV1c5MG5wd2t0S3UwSTNuejJpWjhUV0xOZzctODg4VXByV25yd3dEeTFiMTE4ZC1wcjZFRk00Zk4zei1fMUdGVmVxQQ?oc=5",
+          "source": "富途牛牛",
+          "lang": "en",
+          "published_at": "2026-06-11T07:00:00+00:00",
+          "title_ja": "Estun Automation (02715.HK) received an increase of 3.1512 million H-shares from Barclays PLC, valued at approximately HK$604.088 million. - 富途牛牛",
+          "title_en": "Estun Automation (02715.HK) received an increase of 3.1512 million H-shares from Barclays PLC, valued at approximately HK$604.088 million. - 富途牛牛",
+          "summary_ja": "Estun Automation (02715.HK) received an increase of 3.1512 million H-shares from Barclays PLC, valued at approximately HK$604.088 million. 富途牛牛",
+          "summary_en": "Estun Automation (02715.HK) received an increase of 3.1512 million H-shares from Barclays PLC, valued at approximately HK$604.088 million. 富途牛牛"
+        },
+        {
           "id": "28a6afe15ab4fa8b",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5elVSem51a09janlYSzhfVWtiRXVrTF9tdDEyMXh1X0NrOFg4dTM4dWpkUzVFUldRSlNzcHZaY1RYNF84RllxSlRrSk5xU3gtbUlzM2V2TGI4aWVfY0U0TXhSVFRuLWlfa016NA?oc=5",
           "source": "日本経済新聞",
@@ -6977,6 +7791,17 @@
           "summary_en": "新株のニュース | Estun Automation(002747.SZ)が香港証券取引所に申請しました。一季度の国内マーケットでは、産業用ロボットの出荷量が外資ブランドを超えました。 Moomoo"
         },
         {
+          "id": "33f342dad2fffb4f",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1aaERlTWR3NXJzSXhuVEtOOHVENTYwUnVUcnZWNkZCS3FLeDAta08xdndCMkNWT3VBMFJxQ2prVm5oQQ?oc=5",
+          "source": "ニュースイッチ by 日刊工業新聞社",
+          "lang": "ja",
+          "published_at": "2025-05-07T07:00:00+00:00",
+          "title_ja": "ファナック・安川電機…ロボット市場は回復基調も、トランプ関税で漂う不透明感 - ニュースイッチ by 日刊工業新聞社",
+          "title_en": "ファナック・安川電機…ロボット市場は回復基調も、トランプ関税で漂う不透明感 - ニュースイッチ by 日刊工業新聞社",
+          "summary_ja": "ファナック・安川電機…ロボット市場は回復基調も、トランプ関税で漂う不透明感 ニュースイッチ by 日刊工業新聞社",
+          "summary_en": "ファナック・安川電機…ロボット市場は回復基調も、トランプ関税で漂う不透明感 ニュースイッチ by 日刊工業新聞社"
+        },
+        {
           "id": "038ed7c9f0b6e728",
           "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxONlh2NzVaN0FpSUlPSlAtT1RmS2NCVzlaVV9TMXE3VENzTjQ5YjNiRVdaOWNjTmFmc3AybXlWZXhHRnB0RG96akhQay1YNHl3QmtMUUxyVmZTR1p0Wl9WUjZWUWlyYzBKdVFidEVocjJVSXZrWjJ3MVVVN0dNcDl6RnRhLWpfUTZMZTNqdFJXM3NLY3J2VExxcFlVWGVYTHc5QXRVeFcyNmtySnFHSmJzZEg4X3V5bE1QeWJOSURhQUF1WkEwUVY5Umozemg0cWFWSVZzTEVlNVJvYjNxcHZuR2Z6QTVCMS1xaHdIM2pOVWJqaTVLbWpVQmNZNkVEeFRxVk5rRzk1aWU0dmRuWS1CVXYwVlY4UzDSAZ8CQVVfeXFMTVhEUVFWRmFDS2xxdHlSNWIzSXdaWWZ0RmpRbFZzWjFfbDFVVEZrTVdDeWRFWkxBWENsazBhUk5kdTVoWFB4YWZiUG5WZlgtYVR0MkpJdXJzamJFX2tUbnllMmlnRDlLZWdUa2thQmRRY0lCU0RRU3J2cmRfcmJ3QzE0cE9pdXNTYXp6elo4WTdicFNrS2dYUVdrS2IwT3JyMjUxdGcwTmdjd3gtQ3Q5cXRnZlZkNFl4TEd2YWUzdTdOZFc1ajU1OGl5TUZrUm1ITE9yUHRnS1V6STNUMVg0OERybXd3RkpsLWhKVlFUZzBkcjVtd1BlV3JwYzdTcFptZ3pCc1NCV2x3bXhIM1gzVEJvd3dNMTV2XzdiZTJYVGc?oc=5",
           "source": "Xpert.Digital - Konrad Wolfenstein",
@@ -6986,6 +7811,17 @@
           "title_en": "Robotik in der Industrie in Europa mit Estun aus China – Strategie für den europäischen Roboter Markt - Xpert.Digital - Konrad Wolfenstein",
           "summary_ja": "Robotik in der Industrie in Europa mit Estun aus China – Strategie für den europäischen Roboter Markt Xpert.Digital - Konrad Wolfenstein",
           "summary_en": "Robotik in der Industrie in Europa mit Estun aus China – Strategie für den europäischen Roboter Markt Xpert.Digital - Konrad Wolfenstein"
+        },
+        {
+          "id": "6b39dacbf957c8a8",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNV29zdmRzeGRJT25JNlQ2Qzlna2tDR19YakItQm8yeldSVHUxTGVGMFNBTk9KVFdnN3BKVTh6VHBpR280VUFKSjVWTk93a1lxQ2FLR19NWk52eGtKRWZVUEJjT1F3NEVxQmxtMFVHOGNkaGFTei1yQUd5VnNwRDdVM21LejJsSzcxUXVkbnBDXzVtdkVuNEpTaVl0VDliOE9ycUdhai1mM0pDM1YyYVdPSUpmaDRYYlpiQ2NCUUtUajZnQmtnZllXRzdZSW1TVzN5ZFVXbVd1bGtKVGlrd09sVllWdk9DckdMNHc?oc=5",
+          "source": "All-About-Industries",
+          "lang": "en",
+          "published_at": "2024-08-06T07:00:00+00:00",
+          "title_ja": "Robot manufacturer Estun expands to Europe. - All-About-Industries",
+          "title_en": "Robot manufacturer Estun expands to Europe. - All-About-Industries",
+          "summary_ja": "Robot manufacturer Estun expands to Europe. All-About-Industries",
+          "summary_en": "Robot manufacturer Estun expands to Europe. All-About-Industries"
         },
         {
           "id": "6e6b4913c4055084",
@@ -7094,6 +7930,17 @@
           "title_en": "ＡＳＥＡＮ視察団が見た「中国製造」の新たな活力 - 新華網日本語",
           "summary_ja": "ＡＳＥＡＮ視察団が見た「中国製造」の新たな活力 新華網日本語",
           "summary_en": "ＡＳＥＡＮ視察団が見た「中国製造」の新たな活力 新華網日本語"
+        },
+        {
+          "id": "95fa037994441c7f",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iY2ZOdGw4bG5kTXZDM0tqcTlvd0libDcwV2xIS3piaFVUR1lBZ2ZjNnpuaEhBOUx1T201VjJXU3VlNUJwQUU4MXgzUklLQ3FvbFJtVDFQNVg1UzAycFA2OUNJR2p1cnlBY1lrQlFOWnNuaTZySVlOQVhVZFpjZw?oc=5",
+          "source": "consumerthai.org",
+          "lang": "en",
+          "published_at": "2026-06-11T07:00:00+00:00",
+          "title_ja": "Estun Co Ltd Siasun Automation A Woman Is Standing In The Water With Her Arms Behind Her Head And Looking Back - consumerthai.org",
+          "title_en": "Estun Co Ltd Siasun Automation A Woman Is Standing In The Water With Her Arms Behind Her Head And Looking Back - consumerthai.org",
+          "summary_ja": "Estun Co Ltd Siasun Automation A Woman Is Standing In The Water With Her Arms Behind Her Head And Looking Back consumerthai.org",
+          "summary_en": "Estun Co Ltd Siasun Automation A Woman Is Standing In The Water With Her Arms Behind Her Head And Looking Back consumerthai.org"
         },
         {
           "id": "a1e46155361a6b8a",
@@ -7369,6 +8216,17 @@
           "title_en": "中国製造業のAI利活用事例（業界地図からソリューションまで）（唐徳権の中国デジタル事情）｜ビジネスブログ - ソフトバンク",
           "summary_ja": "中国製造業のAI利活用事例（業界地図からソリューションまで）（唐徳権の中国デジタル事情）｜ビジネスブログ ソフトバンク",
           "summary_en": "中国製造業のAI利活用事例（業界地図からソリューションまで）（唐徳権の中国デジタル事情）｜ビジネスブログ ソフトバンク"
+        },
+        {
+          "id": "0867fb4027d074db",
+          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBWbFFxWlJWTTV2U1dhUFczRUlCeGF4eVZkeGwwZkpLcDNoNEtWUGcwTERFcTNVMGVueXhCX2RpMTM?oc=5",
+          "source": "TSURINEWS",
+          "lang": "ja",
+          "published_at": "2019-05-20T07:00:00+00:00",
+          "title_ja": "春の気難しいヘラブナ攻略の糸口は意外なところに⁉【兵庫・新松池】 - TSURINEWS",
+          "title_en": "春の気難しいヘラブナ攻略の糸口は意外なところに⁉【兵庫・新松池】 - TSURINEWS",
+          "summary_ja": "春の気難しいヘラブナ攻略の糸口は意外なところに⁉【兵庫・新松池】 TSURINEWS",
+          "summary_en": "春の気難しいヘラブナ攻略の糸口は意外なところに⁉【兵庫・新松池】 TSURINEWS"
         },
         {
           "id": "7c0654cdfee23781",
