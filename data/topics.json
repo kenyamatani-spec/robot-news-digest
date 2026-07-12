@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T00:00:56.532319+00:00",
+  "updated_at": "2026-07-12T00:54:17.866049+00:00",
   "topics": [
     {
       "id": "note-zhenren",
@@ -281,6 +281,50 @@
       "color": "#22C55E",
       "is_company": false,
       "items": [
+        {
+          "id": "ce1c33052d522b68",
+          "url": "https://note.com/clean_fennel4458/n/nbb2f0413def7",
+          "source": "note · ハッシュタグ「ロボット」",
+          "lang": "ja",
+          "published_at": "2026-07-12T00:44:38+00:00",
+          "title_ja": "AI漫画用リテイク資料作成ツール",
+          "title_en": "AI漫画用リテイク資料作成ツール",
+          "summary_ja": "タイトルのとおり、それほど大げさなツールではありません。 AIで漫画を作成していると、 細かなリテイクをお願いする機会が多くなります。 文章で修正箇所や構図の変更を細かく伝えることもできますが、位置関係や「ここを消す」「これは残す」といった指示は、画像で示した方が分かりやすいこともあります。 続きをみる",
+          "summary_en": "タイトルのとおり、それほど大げさなツールではありません。 AIで漫画を作成していると、 細かなリテイクをお願いする機会が多くなります。 文章で修正箇所や構図の変更を細かく伝えることもできますが、位置関係や「ここを消す」「これは残す」といった指示は、画像で示した方が分かりやすいこともあります。 続きをみる"
+        },
+        {
+          "id": "a3340627ef6deb1d",
+          "url": "https://note.com/rt_frontier/n/n860e9a04842c",
+          "source": "note · ハッシュタグ「ロボット」",
+          "lang": "ja",
+          "published_at": "2026-07-12T00:30:40+00:00",
+          "title_ja": "Waymoは「全米展開」のフェーズへ入った",
+          "title_en": "Waymoは「全米展開」のフェーズへ入った",
+          "summary_ja": "Waymoが新たにサンディエゴで完全無人走行を開始すると発表しました。 さらに同社は、サンディエゴだけでなく、 デンバー、ラスベガス、タンパ でも、運転席に人がいない完全自動運転車両の運行を開始します。まずは社員向けですが、その後一般公開を予定しています。 続きをみる",
+          "summary_en": "Waymoが新たにサンディエゴで完全無人走行を開始すると発表しました。 さらに同社は、サンディエゴだけでなく、 デンバー、ラスベガス、タンパ でも、運転席に人がいない完全自動運転車両の運行を開始します。まずは社員向けですが、その後一般公開を予定しています。 続きをみる"
+        },
+        {
+          "id": "0f9999883f901982",
+          "url": "https://note.com/kurage_8152/n/n96421eaa3eff",
+          "source": "note · ハッシュタグ「ロボット」",
+          "lang": "ja",
+          "published_at": "2026-07-12T00:24:35+00:00",
+          "title_ja": "【創作】『What Was I Made For？』",
+          "title_en": "【創作】『What Was I Made For？』",
+          "summary_ja": "ビリー・アイリッシュの『What Was I Made For？』から着想を得て書いた物語です。 曲とは雰囲気は異なりますが、「何のために生まれたの？」という問いを、物語に出てくるロボットに重ねながら書いてみました。 『おもちゃの埋葬』 続きをみる",
+          "summary_en": "ビリー・アイリッシュの『What Was I Made For？』から着想を得て書いた物語です。 曲とは雰囲気は異なりますが、「何のために生まれたの？」という問いを、物語に出てくるロボットに重ねながら書いてみました。 『おもちゃの埋葬』 続きをみる"
+        },
+        {
+          "id": "cff7a6475184cf27",
+          "url": "https://note.com/buhaha_memo/n/ne19ede13abce",
+          "source": "note · ハッシュタグ「ロボット」",
+          "lang": "ja",
+          "published_at": "2026-07-12T00:21:08+00:00",
+          "title_ja": "映画「A.I. (2001)」は家族愛の物語ではかった！！",
+          "title_en": "映画「A.I. (2001)」は家族愛の物語ではかった！！",
+          "summary_ja": "東京に住んで1年の30代自営業です。 【午前十時の映画祭16】 という昔の映画を上映してくれる催しに行ってきた。TOHOで少なくとも来年まではやってるらしい。いつでも1500円で見れるらしい。朝10時と入っても11時だったり映画館によっては午後のところもあるみたい。 続きをみる",
+          "summary_en": "東京に住んで1年の30代自営業です。 【午前十時の映画祭16】 という昔の映画を上映してくれる催しに行ってきた。TOHOで少なくとも来年まではやってるらしい。いつでも1500円で見れるらしい。朝10時と入っても11時だったり映画館によっては午後のところもあるみたい。 続きをみる"
+        },
         {
           "id": "c5458bacf6bafcb8",
           "url": "https://note.com/busintemasamo1/n/n55d546cd1ee2",
@@ -870,6 +914,17 @@
           "title_en": "三菱自動車と東大発Highlandersが協業、国産人型ロボットの月産1000台体制へ - ビジネス+IT",
           "summary_ja": "三菱自動車と東大発Highlandersが協業、国産人型ロボットの月産1000台体制へ ビジネス+IT 国産人型ロボ 三菱自動車が量産へ Yahoo!ニュース 三菱自動車がヒト型ロボット参入 東大発新興と国内生産、外販視野 日本経済新聞 人型ロボ、三菱自が工場導入を視野に量産へ…将来の人手不足を補う期待・米中勢が先行 au Webポータル 三菱自動車、ヒューマノイドロボット量産を検討（2026年7月9日掲載）｜日テレNEWS NNN 日テレNEWS NNN 人型ロボット：人型ロボ、共同で量産化 三菱自と東大発企業、来年開始 毎日新聞 三菱自、東大発ベンチャーと人型ロボット開発で協業 追加出資へ ロイター 三菱自、東大発ベンチャーと人型ロボット開発で協業 追加出資へ ニューズウィーク日本版 三菱自動車が「\"国産\"ヒューマノイドロボット」量産へ!? 東大発スタートアップ「Highlanders",
           "summary_en": "三菱自動車と東大発Highlandersが協業、国産人型ロボットの月産1000台体制へ ビジネス+IT 国産人型ロボ 三菱自動車が量産へ Yahoo!ニュース 三菱自動車がヒト型ロボット参入 東大発新興と国内生産、外販視野 日本経済新聞 人型ロボ、三菱自が工場導入を視野に量産へ…将来の人手不足を補う期待・米中勢が先行 au Webポータル 三菱自動車、ヒューマノイドロボット量産を検討（2026年7月9日掲載）｜日テレNEWS NNN 日テレNEWS NNN 人型ロボット：人型ロボ、共同で量産化 三菱自と東大発企業、来年開始 毎日新聞 三菱自、東大発ベンチャーと人型ロボット開発で協業 追加出資へ ロイター 三菱自、東大発ベンチャーと人型ロボット開発で協業 追加出資へ ニューズウィーク日本版 三菱自動車が「\"国産\"ヒューマノイドロボット」量産へ!? 東大発スタートアップ「Highlanders"
+        },
+        {
+          "id": "23a5f5a583daeeec",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOT1Jic28wTFJNOEFtWFZkdjJZUk54T3RlY09nVU9hdDNRa0RyV1RQNENSRUZ5N05Ic1NwZHpZcDZha3gxTjFTaXpJVUpBMTM0dTZ3SldYUnBQR0ZUa3VHUG1FM254WGx0ejJPYXEyX0tlaVE?oc=5",
+          "source": "ロボスタ",
+          "lang": "ja",
+          "published_at": "2026-07-10T06:30:03+00:00",
+          "title_ja": "家庭用ヒューマノイド向けロボットハンド「NEO's Hands」新登場 ブロック組み立てや電球の取り付けなど人間並みの動きを再現 1枚目の写真・画像 - ロボスタ",
+          "title_en": "家庭用ヒューマノイド向けロボットハンド「NEO's Hands」新登場 ブロック組み立てや電球の取り付けなど人間並みの動きを再現 1枚目の写真・画像 - ロボスタ",
+          "summary_ja": "家庭用ヒューマノイド向けロボットハンド「NEO's Hands」新登場 ブロック組み立てや電球の取り付けなど人間並みの動きを再現 1枚目の写真・画像 ロボスタ",
+          "summary_en": "家庭用ヒューマノイド向けロボットハンド「NEO's Hands」新登場 ブロック組み立てや電球の取り付けなど人間並みの動きを再現 1枚目の写真・画像 ロボスタ"
         },
         {
           "id": "7b1bf0b744880960",
@@ -2210,6 +2265,17 @@
           "summary_en": "アイロボット、ルンバ2製品を出荷一時停止へ 生産体制を見直し ASCII.jp"
         },
         {
+          "id": "eb0903dd91dfffe2",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Yk9PSU1FWHFod2F1YW4wdDJWNmJOeDE2aWNiZi1DQlAtcFBqTDBITWxVMlVBa2U5SUl5anZ1RmkxNGFURTFYM21iaVpGWDhiZWpvT1MxYTNsdw?oc=5",
+          "source": "価格.comマガジン",
+          "lang": "ja",
+          "published_at": "2026-06-29T07:00:00+00:00",
+          "title_ja": "薄さ8.4cmに機能全盛り！ 日本向け「ルンバ515」は2～3人世帯に大正解 - 価格.comマガジン",
+          "title_en": "薄さ8.4cmに機能全盛り！ 日本向け「ルンバ515」は2～3人世帯に大正解 - 価格.comマガジン",
+          "summary_ja": "薄さ8.4cmに機能全盛り！ 日本向け「ルンバ515」は2～3人世帯に大正解 価格.comマガジン",
+          "summary_en": "薄さ8.4cmに機能全盛り！ 日本向け「ルンバ515」は2～3人世帯に大正解 価格.comマガジン"
+        },
+        {
           "id": "de56255e5b417bf8",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLLWJycFZNc3RDc0VVa0lZS2liOUwwcE9LRGZRU1hhY21jRWY1Z19LYkNJNG5yUFl0NzhpQUtHb3paYXFYMUZ1ZGw5NVdTTHZYTXgtWGUzdEQ1VW1CYUI3TFgzcDIybTg?oc=5",
           "source": "時事ドットコム",
@@ -2758,6 +2824,17 @@
           "summary_en": "Come With Me If You Want To Weed: Autonomous Weedinator Robot Back For 2026 Hackaday"
         },
         {
+          "id": "f71ff8e105efb37d",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMHdGS1ZHYUMxRUV5bHhOdGhMTkwzZXdoVEIwbk9FdFB6R0o5NDdENE1GWkR1SGhtZy10Q3FTeE40eGtxbkl0RTBCOXducXFmaWpySDM5YzhMNFlCU3h4YThmYlhEb2lwUGlUUGJhTmM1Z2RvOXBuNTYtUUtPSWVtTkxRNWswUm8?oc=5",
+          "source": "BenitoLink",
+          "lang": "en",
+          "published_at": "2026-05-25T07:00:00+00:00",
+          "title_ja": "Robot farming company’s Shore Road project gets county OK - BenitoLink",
+          "title_en": "Robot farming company’s Shore Road project gets county OK - BenitoLink",
+          "summary_ja": "Robot farming company’s Shore Road project gets county OK BenitoLink",
+          "summary_en": "Robot farming company’s Shore Road project gets county OK BenitoLink"
+        },
+        {
           "id": "cd992cf76c064c16",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMNHBwbDB1TWhUZ2ozSTZPRldQaFJGR010cTdVMmRnYTctTnNPU1YxSS1CLUs0TWR3a3hTenltem55MzhmeXptNDlTU3FGaUg5TWstVGtqUjk1Y2ZORml6aHY1cGU1b0cweDQ0aURn?oc=5",
           "source": "公明新聞電子版プラス",
@@ -3064,6 +3141,17 @@
           "title_en": "Farming robots tackle labor shortages using AI - ASU News",
           "summary_ja": "Farming robots tackle labor shortages using AI ASU News",
           "summary_en": "Farming robots tackle labor shortages using AI ASU News"
+        },
+        {
+          "id": "eb2dc11f7eb118d8",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZm9aV3l5SVA1N3BYODNTVlFzallxWGNFZUVpVEY0dWNERWlkTEpXOFMxUG16dHNxUlZIOERoSF94dHFfa182c0NDZVBZVjF0QUM3NmpMWjQ5Y2lmekZTbUQ1NFNFS2REcXhwNzA2YVkzOWYzTS1ybFNxZjdPRW02R3hCbkhaNUc5eXRGa1ZJU0dWRXktemp5WTRBdUl6b29LM0hsREVPX0NTbnE1cmhHYUp6VU9PQjVVczZYNDNZUHJWcC16eW50RjF6RGdVLU1HOHNhZF9PRE14aHhDamhSbUN1a3BlOVJ6SGpXQlR5WG5yMnpTaFFtak9LOFZxQQ?oc=5",
+          "source": "CNH Newsroom",
+          "lang": "en",
+          "published_at": "2025-11-08T08:00:00+00:00",
+          "title_ja": "Autonomous R4 Robot Series Designed to Answer Specialty Crop Farming Challenges - CNH Newsroom",
+          "title_en": "Autonomous R4 Robot Series Designed to Answer Specialty Crop Farming Challenges - CNH Newsroom",
+          "summary_ja": "Autonomous R4 Robot Series Designed to Answer Specialty Crop Farming Challenges CNH Newsroom",
+          "summary_en": "Autonomous R4 Robot Series Designed to Answer Specialty Crop Farming Challenges CNH Newsroom"
         }
       ]
     },
@@ -3282,6 +3370,17 @@
           "title_en": "Optimizing warehouse execution through human-robot collaboration - Mizzou Engineering",
           "summary_ja": "Optimizing warehouse execution through human-robot collaboration Mizzou Engineering",
           "summary_en": "Optimizing warehouse execution through human-robot collaboration Mizzou Engineering"
+        },
+        {
+          "id": "ad536654db825894",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WNEd6azhPWjcyZ1N2SDB3UjEyaVFQRFhzaWJDOFpiTlhUSDB2cWJsbnc5VGh6TUNFMUdybXp0WVNBNFI5dE5FZjBJN3Z5UnhtS3JjLUFGNXp2Z2EtcF9uS0RVUGZLTHNxdHc?oc=5",
+          "source": "PR TIMES",
+          "lang": "ja",
+          "published_at": "2026-06-10T07:00:00+00:00",
+          "title_ja": "ギークプラス、トヨタ自動車の複数工場に搬送型AMRを導入 - PR TIMES",
+          "title_en": "ギークプラス、トヨタ自動車の複数工場に搬送型AMRを導入 - PR TIMES",
+          "summary_ja": "ギークプラス、トヨタ自動車の複数工場に搬送型AMRを導入 PR TIMES",
+          "summary_en": "ギークプラス、トヨタ自動車の複数工場に搬送型AMRを導入 PR TIMES"
         },
         {
           "id": "93e1c418b56371c9",
@@ -3669,6 +3768,17 @@
         {
           "id": "68ca632ad702986f",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0czlTekVZOU81OXJzWkxqOGw4SzZDQ0F6N1pwM0dWd0FrWWZlaXZyRlJxUU54YjFUaE5YaFgtWjAtNEZxNEZOMTFJZG5tcW5VN3Vjc0dKcXBYLVZjWlQwT195UzIyRXhUSlJYR1VB?oc=5",
+          "source": "朝日新聞",
+          "lang": "ja",
+          "published_at": "2026-07-03T07:00:00+00:00",
+          "title_ja": "軍事ドローン量産、防衛企業がルノーと提携 戦況左右する競争の裏側 - 朝日新聞",
+          "title_en": "軍事ドローン量産、防衛企業がルノーと提携 戦況左右する競争の裏側 - 朝日新聞",
+          "summary_ja": "軍事ドローン量産、防衛企業がルノーと提携 戦況左右する競争の裏側 朝日新聞",
+          "summary_en": "軍事ドローン量産、防衛企業がルノーと提携 戦況左右する競争の裏側 朝日新聞"
+        },
+        {
+          "id": "439879352ec0baa7",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTWNmMEVsX1EwR1EzZV9Kc2NUblBCT3gzcEZVelJhMzRNbGJpRUtUTVQxLXd2Y0QyRVY5MmRvRVFqdTlSem9VeHhvMDdyaW9YYW5BVEVCeDJPcF9obzRlbllmR2tKb2d2ZGFOd2paYU1CQ3owTlNlNXVwM3dVUmlSUmlsUGcxc09hVW5NaExKY2k1OHFiVmZKbVlB?oc=5",
           "source": "朝日新聞",
           "lang": "ja",
           "published_at": "2026-07-03T07:00:00+00:00",
@@ -4620,6 +4730,17 @@
           "summary_en": "世界初、中国の人型ロボットが生体に低侵襲手術―中国メディア ｄメニューニュース"
         },
         {
+          "id": "f7c4621bb84d5f19",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNHV0S3dxWC1QN2tFalloaXNjbkJaUW5nWDdBLW16UGxoeG00OFR4UmFMSThGX0QyS285MTZQVlR0amFDb2x2NXNtQk5WeWdGOXdwWmdoUk5CRmVxZ09UVENMbTAxMTZsUUQtQnZ1cTRKSGswOHZmM3RORUNwNnZURE9KVTJDd2djOG1yZGlPRdIBjwFBVV95cUxQNHV0S3dxWC1QN2tFalloaXNjbkJaUW5nWDdBLW16UGxoeG00OFR4UmFMSThGX0QyS285MTZQVlR0amFDb2x2NXNtQk5WeWdGOXdwWmdoUk5CRmVxZ09UVENMbTAxMTZsUUQtQnZ1cTRKSGswOHZmM3RORUNwNnZURE9KVTJDd2djOG1yZGlPRQ?oc=5",
+          "source": "ｄメニューニュース",
+          "lang": "ja",
+          "published_at": "2026-07-11T23:00:00+00:00",
+          "title_ja": "世界初、中国の人型ロボットが生体に低侵襲手術―中国メディア - ｄメニューニュース",
+          "title_en": "世界初、中国の人型ロボットが生体に低侵襲手術―中国メディア - ｄメニューニュース",
+          "summary_ja": "世界初、中国の人型ロボットが生体に低侵襲手術―中国メディア ｄメニューニュース",
+          "summary_en": "世界初、中国の人型ロボットが生体に低侵襲手術―中国メディア ｄメニューニュース"
+        },
+        {
           "id": "928da15d25465c38",
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWVdQU1JsSEFCSk5SbXlqT2xnTTNjRENHenkyemxETHhKRGhNWU1LX1NKWVJQYWNzSTA3dDVxQk8zbWhTUkpScTJRRmlmUlVTRndvdkp5cllTMVQ1bnMxRmFfYU9sOTlKMC1Eb0M0TU44UDJvR1Z5WE9QbjRyMEJNTlllamc1bmVCeF90UUlfanJFWG8yaTBMT0M4cDAtb0JqVTlicXhFb016R3p1TGtpMEUtaGZjVTZtUVJTWUplT1E4T3RwQlcyYUJhVF9xV1hfYVVJUm91RzJMYlk?oc=5",
           "source": "Tech Times",
@@ -5188,6 +5309,17 @@
           "title_en": "Fourier: Healthcare Robots with Humanoid Designs - WIPO - World Intellectual Property Organization",
           "summary_ja": "Fourier: Healthcare Robots with Humanoid Designs WIPO - World Intellectual Property Organization",
           "summary_en": "Fourier: Healthcare Robots with Humanoid Designs WIPO - World Intellectual Property Organization"
+        },
+        {
+          "id": "21c86bbf2f8c7554",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVWFLNllZRUJiT2V6cDVONVdPVjVYVWpISW5LT0FxYXNBdnBOdzFuMjM5MG9lYVJDWFllSzdVX284T2ZPYlM3cllVZXl6Z2cxSWphOVBtNWNralJTMUpXZlJJOU9heHRDNGF1T0JlX3hYQ2R1dmpjeDk3SXR3VmYyRXRlWURBMmRPY3IxRld0dk04dTFnVWVlaWM4ejd6ZmllSTRhak1fSGgydm8?oc=5",
+          "source": "BigGo ファイナンス",
+          "lang": "ja",
+          "published_at": "2026-01-09T08:00:00+00:00",
+          "title_ja": "Omdia レポート： 中国企業 Zhìyuán が 2025 年のヒューマノイドロボット市場で 39% のシェアを獲得 - BigGo ファイナンス",
+          "title_en": "Omdia レポート： 中国企業 Zhìyuán が 2025 年のヒューマノイドロボット市場で 39% のシェアを獲得 - BigGo ファイナンス",
+          "summary_ja": "Omdia レポート： 中国企業 Zhìyuán が 2025 年のヒューマノイドロボット市場で 39% のシェアを獲得 BigGo ファイナンス",
+          "summary_en": "Omdia レポート： 中国企業 Zhìyuán が 2025 年のヒューマノイドロボット市場で 39% のシェアを獲得 BigGo ファイナンス"
         },
         {
           "id": "2cde9d639a6f2b06",
@@ -6647,6 +6779,17 @@
           "summary_en": "Hong Kong Stock Movement | Estun Automation (02715) surged over 7% at one point due to an equity swap leading to an increase in fair value; Q1 net profit increased more than 6.7 times year-on-year. 富途牛牛"
         },
         {
+          "id": "11d09376604c0ba8",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54aE5XOVFReXFYamtrT0NFRXR4d3plcnJORjdRNDYtNXJZTGRhVUdBS1pnam5YNjUtakYtYkJyVUxoUmZOTjZSeFduVFVvQ3pid3dLTHMxLWpxa05CYzFWcXJTQ0Z6LW9BSW5DRkdrY2k2RlE?oc=5",
+          "source": "Revelio Labs",
+          "lang": "en",
+          "published_at": "2026-04-23T23:12:07+00:00",
+          "title_ja": "How many employees work at Estun Automation? - Revelio Labs",
+          "title_en": "How many employees work at Estun Automation? - Revelio Labs",
+          "summary_ja": "How many employees work at Estun Automation? Revelio Labs",
+          "summary_en": "How many employees work at Estun Automation? Revelio Labs"
+        },
+        {
           "id": "94915e6117a03c01",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PWHdPek8yOXo3U01NWVAteDBtbllDTDktMF9LSE1KbHJmMXRHSUNHeXFOUFJvd3Ztal9TcXJYVWtYS0dtWnI4RU5TbTlkZENGdGgycmJTZlM4dmRxTkJv?oc=5",
           "source": "東洋経済オンライン",
@@ -6907,6 +7050,17 @@
           "title_en": "China Focus: Forging the future: the high-tech revival of northeast China's industrial heartland - Xinhua",
           "summary_ja": "China Focus: Forging the future: the high-tech revival of northeast China's industrial heartland Xinhua",
           "summary_en": "China Focus: Forging the future: the high-tech revival of northeast China's industrial heartland Xinhua"
+        },
+        {
+          "id": "4957fe622070f561",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORlFnalVPZzkzV0RpUzR5TTEzM1oyeGtVMlJqMEMzZ1hDSml5VFR6ZzhKQUluTUNvOGktUlU4RWtuX3lWc1pCdHVnVlg4V0pmRXhiT1lhVlY1REFvYW9sZGk2U3pZajVsWE4yV2RvWDhiYW94WUZWeTJpWmlKZnh4U0p2U1dWd3ZUWkJnVGtXY2R0VW1kWGxDVnpZMmF2djZCUGc?oc=5",
+          "source": "TradingView",
+          "lang": "en",
+          "published_at": "2026-06-26T16:19:37+00:00",
+          "title_ja": "Price to earnings forward of SIASUN Robot & Automation CO., Ltd. Class A – SZSE:300024 - TradingView",
+          "title_en": "Price to earnings forward of SIASUN Robot & Automation CO., Ltd. Class A – SZSE:300024 - TradingView",
+          "summary_ja": "Price to earnings forward of SIASUN Robot & Automation CO., Ltd. Class A – SZSE:300024 TradingView",
+          "summary_en": "Price to earnings forward of SIASUN Robot & Automation CO., Ltd. Class A – SZSE:300024 TradingView"
         },
         {
           "id": "5e979b6611293efb",

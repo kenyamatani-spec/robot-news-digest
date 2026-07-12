@@ -1,6 +1,44 @@
 {
-  "updated_at": "2026-07-12T00:00:39.465369+00:00",
+  "updated_at": "2026-07-12T00:54:01.890320+00:00",
   "items": [
+    {
+      "id": "0018dc9ceea4585e",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ0xSOWl6SW9DUGtrR283OHVmVU91bXc5emplMG1rUWpxaVRDV3E0RGFpaklIQXZ6RVNsQkY3VlhPN0kwQ3YwcURiV0F4Mzh2VnBMRS1zZTREaWRJVUhGdHJoQ1FaMFFZaWZoQ19wYmZaMDFNeFZJM3ZRb0dPRVVnWjdXdWJXRFEwamhBTTZMTXF6cUYyblVUT0tWV3Q3V2FVNzFtRVVWaw?oc=5",
+      "source": "Google News - 軍事ドローン",
+      "published_at": "2026-07-12T00:41:02+00:00",
+      "lang": "ja",
+      "image": null,
+      "category": "military",
+      "title_ja": "ウクライナ、無人機でロシア艦船数十隻撃沈と主張",
+      "title_en": "Ukraine claims drones destroyed dozens of Russian ships in Sea of Azov",
+      "summary_ja": "ウクライナは、アゾフ海で無人機がロシア艦船数十隻を破壊したと主張しており、軍事作戦におけるドローンの有効性を示唆している。",
+      "summary_en": "Ukraine claims its drones destroyed dozens of Russian ships in the Sea of Azov overnight, highlighting the effectiveness of drones in military operations.",
+      "tags": [
+        "drones",
+        "military",
+        "Ukraine",
+        "Russia"
+      ]
+    },
+    {
+      "id": "a3340627ef6deb1d",
+      "url": "https://note.com/rt_frontier/n/n860e9a04842c",
+      "source": "note · ハッシュタグ「ロボット」",
+      "published_at": "2026-07-12T00:30:40+00:00",
+      "lang": "ja",
+      "image": "https://assets.st-note.com/production/uploads/images/293607670/rectangle_large_type_2_ce3fb83a6dfec88ab949fe6accdc5c51.jpeg?width=800",
+      "category": "service",
+      "title_ja": "Waymo、サンディエゴで完全無人走行を開始",
+      "title_en": "Waymo Begins Fully Driverless Operations in San Diego",
+      "summary_ja": "Waymoはサンディエゴで完全無人走行を開始し、デンバー、ラスベガス、タンパでも展開を拡大します。",
+      "summary_en": "Waymo has launched fully driverless operations in San Diego and is expanding its services to Denver, Las Vegas, and Tampa.",
+      "tags": [
+        "autonomous driving",
+        "Waymo",
+        "robotaxi",
+        "expansion"
+      ]
+    },
     {
       "id": "c5458bacf6bafcb8",
       "url": "https://note.com/busintemasamo1/n/n55d546cd1ee2",
@@ -688,6 +726,25 @@
       ]
     },
     {
+      "id": "fa212dd93b55afb6",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FZloxNFRlMC1pM0FpY2hDYWJGYkVkWU9EUU5VeWZBUUJ4R0ZuNWRSU3dUUEE3eEIxUERMbzhjTHdELUk1VXRrNEd5WFZxR0w1bWfSAVRBVV95cUxNVS1uZU1vNEJQMHk2N2ZfaFF0WUVKTDhiLU1oVXhOak51MXYtdDFIVG1pdzNZZG1PZG9veUFrOVlLV0ltT3FIRTVaUUstMVIwV1lrWm8?oc=5",
+      "source": "Google News - ロボット",
+      "published_at": "2026-07-11T06:14:13+00:00",
+      "lang": "ja",
+      "image": null,
+      "category": "industrial",
+      "title_ja": "2026世界ロボット大会、応用探求計画を始動",
+      "title_en": "2026 World Robot Conference Launches Global Robot Application Exploration Plan",
+      "summary_ja": "2026年世界ロボット大会は、ロボット技術の応用を探求する「グローバルロボット応用探求計画」を立ち上げました。",
+      "summary_en": "The 2026 World Robot Conference has launched the 'Global Robot Application Exploration Plan' to investigate the applications of robot technology.",
+      "tags": [
+        "robotics",
+        "conference",
+        "application",
+        "exploration"
+      ]
+    },
+    {
       "id": "7fd5794571af72b3",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTzk4aHF4NHl1MjBHV0ZLcnBfOUFZblZEZEY2d0FpU0IzWVJLVXh1eXJWMUVaZ1pJWmIzRUNXUElIWTZ3UUFWclhZUXJOdXF3R3M3eHRSelBSQXZkTHA4a2pfS2IyTEVISll2Y1F3TmlleWZ3UUNNc3pQRTNUcEtSYWY0ekhPZG5fR3VSekV1czZLY3RkMEEzUEt5aFFxRGdHOXZPcDl3TDZFajVJWkI5YTBjd3pxcm8zVUx4b2NGaFp1ZDJodzRJMEFBZXlSLVowNmljd2dDVWpSOFE?oc=5",
       "source": "Google News - robot",
@@ -725,6 +782,25 @@
       ]
     },
     {
+      "id": "5602cc928d92cd3e",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WbWV5b3V0X1QtVmpyVmV5Yzl4WkswZHNRUk05SVRSSlhqR1Z5Skw5Y1dlNTAtOEhDbVd2ODNlUlN2UHg3MzVlc3NaZUxYZGs?oc=5",
+      "source": "Google News - ロボット",
+      "published_at": "2026-07-11T02:00:00+00:00",
+      "lang": "ja",
+      "image": null,
+      "category": "service",
+      "title_ja": "ロボットプログラミング体験 いわき光洋高",
+      "title_en": "Robotics Programming Experience at Iwaki Koyo High School",
+      "summary_ja": "いわき光洋高校で、生徒たちがロボットを自由自在に動かすプログラミング体験を行った。",
+      "summary_en": "Students at Iwaki Koyo High School participated in a programming experience, controlling robots freely.",
+      "tags": [
+        "education",
+        "robotics",
+        "programming",
+        "high school"
+      ]
+    },
+    {
       "id": "30a3784b6d741248",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DV1ItNjlpWGdsRjNuUXBLdGpRT1ZjbTBvTGNaYlNEY0ZjZnQ4cmE0SG4wNTR5cUdRampMXzhTMUNIRU9SMlJfbUhkdXd1QTN3LXowNXdnWWZyUGxKei1ZRWFLVjhLODJ2c1h2dDh6VVUwSjlXWXBOOC1QZmQ5YXM?oc=5",
       "source": "Google News - ロボット",
@@ -741,6 +817,409 @@
         "robotics",
         "future",
         "caregiving"
+      ]
+    },
+    {
+      "id": "034bceab9eb30baa",
+      "url": "https://www.therobotreport.com/how-path-robotics-uses-ai-optimize-robotic-welding/",
+      "source": "The Robot Report",
+      "published_at": "2026-07-10T23:02:23+00:00",
+      "lang": "en",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/07/andy-lonsberry-headshot.jpg",
+      "category": "industrial",
+      "title_ja": "Path Robotics、AIで溶接ロボットを最適化",
+      "title_en": "Path Robotics Uses AI to Optimize Robotic Welding",
+      "summary_ja": "Path RoboticsはAIを活用して溶接プロセスを最適化し、生産性を向上させています。",
+      "summary_en": "Path Robotics leverages AI to optimize its welding processes, enhancing productivity and efficiency in manufacturing.",
+      "tags": [
+        "AI",
+        "welding",
+        "robotics",
+        "manufacturing"
+      ]
+    },
+    {
+      "id": "968986d84c64d05f",
+      "url": "https://gigazine.net/news/20260711-car-t-therapy-remission/",
+      "source": "GIGAZINE",
+      "published_at": "2026-07-10T23:00:00+00:00",
+      "lang": "ja",
+      "image": "https://i.gzn.jp/img/2026/07/11/car-t-therapy-remission/00.jpg",
+      "category": "service",
+      "title_ja": "CAR-T細胞療法で自己免疫疾患が寛解",
+      "title_en": "CAR-T Cell Therapy Achieves Remission for Autoimmune Disease",
+      "summary_ja": "CAR-T細胞療法により、難治性の自己免疫疾患を抱える患者が寛解状態となり、輸血不要となった。",
+      "summary_en": "A patient with a refractory autoimmune disease achieved remission and became transfusion-independent thanks to CAR-T cell therapy.",
+      "tags": [
+        "medical",
+        "therapy",
+        "CAR-T",
+        "autoimmune"
+      ]
+    },
+    {
+      "id": "0804d980d6fa1e10",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ2ZxRXlkSkdrTlEtM0N3OExyc2lFUURXQVA0T2NoQjBKSjZpSEVzZFg4Nm9kQi1Lc0YyMFJ1dVV2Rl9JR25PWkNWTXVIb09hRkVTeWtnTWYzckxJOEpmZUFPelFRRFoyelpYaTk5MDZyVndnZ0ctVk4xYVdlMEpIQ3ZRTGVySkpYZ1l4RWRR?oc=5",
+      "source": "Google News - robot",
+      "published_at": "2026-07-10T21:38:42+00:00",
+      "lang": "en",
+      "image": null,
+      "category": "industrial",
+      "title_ja": "ロボットテストが明らかにした2026年向けアイアン",
+      "title_en": "Robot Testing Reveals 2026 Game-Improvement Irons",
+      "summary_ja": "ロボットによるテストで、2026年発売予定の9種類のゴルフアイアンの性能が評価されました。",
+      "summary_en": "Robot testing evaluated the performance of nine golf irons scheduled for release in 2026.",
+      "tags": [
+        "robotics",
+        "golf",
+        "testing",
+        "industrial"
+      ]
+    },
+    {
+      "id": "d222a2edc059807c",
+      "url": "https://www.therobotreport.com/xtend-secures-u-s-patent-autonomous-navigation-technology/",
+      "source": "The Robot Report",
+      "published_at": "2026-07-10T21:31:28+00:00",
+      "lang": "en",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/07/Xtend_drone-copy.jpg",
+      "category": "military",
+      "title_ja": "XTEND、自律航行技術で米国特許取得",
+      "title_en": "XTEND Secures U.S. Patent for Autonomous Navigation Technology",
+      "summary_ja": "XTENDは、自律航行、オペレーター支援、ミッション実行をサポートする技術に関する米国特許を取得しました。",
+      "summary_en": "XTEND has secured a U.S. patent for its technology supporting autonomous navigation, operator assistance, and mission execution.",
+      "tags": [
+        "patent",
+        "autonomous navigation",
+        "XTEND",
+        "defense"
+      ]
+    },
+    {
+      "id": "0c81535e50fcc3db",
+      "url": "https://japan.cnet.com/article/35250456/",
+      "source": "Japan CNET",
+      "published_at": "2026-07-10T21:27:00+00:00",
+      "lang": "ja",
+      "image": "https://japan.cnet.com/storage/2026/07/11/97600afd4ac131576dd245e355f8ad0e/t/184/138/d/2026-07-11_6.25の画像.jpeg",
+      "category": "home",
+      "title_ja": "時短調理家電5選：忙しい共働き世帯向け",
+      "title_en": "5 Time-Saving Cooking Appliances for Busy Dual-Income Households",
+      "summary_ja": "共働き世帯の家事負担を軽減するため、エアフライヤーや電気鍋など、料理時間を短縮できる調理家電を紹介します。",
+      "summary_en": "To reduce the household burden for dual-income families, this article introduces time-saving cooking appliances like air fryers and electric pots.",
+      "tags": [
+        "home appliances",
+        "cooking",
+        "convenience",
+        "dual-income"
+      ]
+    },
+    {
+      "id": "636bbe74562407f2",
+      "url": "https://japan.cnet.com/article/35250447/",
+      "source": "Japan CNET",
+      "published_at": "2026-07-10T21:08:00+00:00",
+      "lang": "ja",
+      "image": "https://japan.cnet.com/storage/2026/07/11/899a7c662def296394496f7663e41466/t/184/138/d/2026-07-11_6.02の画像.jpeg",
+      "category": "home",
+      "title_ja": "戸建て向けロボット掃除機5選：時短＆水拭きも",
+      "title_en": "5 Robot Vacuum Cleaners for Houses: Time-Saving & Mopping Features",
+      "summary_ja": "家電ライターが戸建て住宅向けに、時短と水拭きができるロボット掃除機を5機種厳選しました。",
+      "summary_en": "An electronics writer carefully selected 5 robot vacuum cleaners suitable for houses, focusing on time-saving and mopping capabilities.",
+      "tags": [
+        "robot vacuum",
+        "home",
+        "cleaning",
+        "smart home"
+      ]
+    },
+    {
+      "id": "a39279085e1d9ff3",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1dlp5dXdiTTlCcklfX0JNWjdZVUYzQWxRek1jVlB0allpdVNERi16NmpONFlFZmVvMWRZZms3VlJ1M1cyU05LQ0R6dW55S3M2Q2c?oc=5",
+      "source": "Google News - ロボット",
+      "published_at": "2026-07-10T21:08:00+00:00",
+      "lang": "ja",
+      "image": null,
+      "category": "home",
+      "title_ja": "戸建て住宅向けロボット掃除機5選",
+      "title_en": "5 Robot Vacuums Recommended for Detached Houses",
+      "summary_ja": "家電ライターが戸建て住宅での利用に最適なロボット掃除機を5機種厳選。時短や水拭き機能に注目。",
+      "summary_en": "An electronics writer carefully selected 5 robot vacuums ideal for use in detached houses, focusing on time-saving and mopping features.",
+      "tags": [
+        "robot vacuum",
+        "home appliance",
+        "cleaning",
+        "smart home"
+      ]
+    },
+    {
+      "id": "d47b2b92187bd4d0",
+      "url": "https://www.therobotreport.com/ai%c2%b2-robotics-raises-735m-3b-valuation-wheeled-humanoid-robots/",
+      "source": "The Robot Report",
+      "published_at": "2026-07-10T19:44:55+00:00",
+      "lang": "en",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/07/a12-robot-hero-featured.jpg",
+      "category": "industrial",
+      "title_ja": "AI² Robotics、人型ロボット開発で7.35億ドル調達",
+      "title_en": "AI² Robotics Raises $735M for Wheeled Humanoid Robots at $3B Valuation",
+      "summary_ja": "AI² Roboticsは、車輪付き人型ロボット開発のため、30億ドルの評価額で7.35億ドルを調達しました。",
+      "summary_en": "AI² Robotics secured $735 million in funding at a $3 billion valuation to develop its wheeled humanoid robots.",
+      "tags": [
+        "funding",
+        "humanoid robot",
+        "AI",
+        "robotics"
+      ]
+    },
+    {
+      "id": "757590c4ff49a6a2",
+      "url": "https://roboticsandautomationnews.com/2026/07/10/fort-robotics-extends-physical-ai-safety-platform-with-nvidia-halos/103254/",
+      "source": "Robotics & Automation News",
+      "published_at": "2026-07-10T17:38:37+00:00",
+      "lang": "en",
+      "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/07/fort-robotics-nvidia-1.png",
+      "category": "industrial",
+      "title_ja": "FORTロボティクス、Nvidia Halosで物理AI安全プラットフォームを拡張",
+      "title_en": "FORT Robotics Extends Physical AI Safety Platform with Nvidia Halos",
+      "summary_ja": "FORTロボティクスはNvidia Halos for Roboticsエコシステムに参加し、自律ロボットの安全性を高める。",
+      "summary_en": "FORT Robotics joins the Nvidia Halos for Robotics ecosystem to enhance safety for autonomous robots.",
+      "tags": [
+        "AI",
+        "safety",
+        "robotics",
+        "Nvidia"
+      ]
+    },
+    {
+      "id": "c6e11745dc69176f",
+      "url": "https://roboticsandautomationnews.com/2026/07/10/fieldwork-robotics-secures-seed-innovations-investment-to-scale-berry-harvesting-robots/103251/",
+      "source": "Robotics & Automation News",
+      "published_at": "2026-07-10T17:29:23+00:00",
+      "lang": "en",
+      "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/07/fieldwork-robotics-berry-picking-2.jpg",
+      "category": "industrial",
+      "title_ja": "Fieldwork Robotics、ベリー収穫ロボット拡大へ投資獲得",
+      "title_en": "Fieldwork Robotics Secures Investment to Scale Berry Harvesting Robots",
+      "summary_ja": "Fieldwork Roboticsは、ベリー収穫ロボットの開発・拡大のため、SEED Innovationsから投資を受けました。",
+      "summary_en": "Fieldwork Robotics has secured investment from SEED Innovations to scale its development of berry harvesting robots.",
+      "tags": [
+        "agriculture",
+        "robotics",
+        "investment",
+        "automation"
+      ]
+    },
+    {
+      "id": "e53b5befc33cedb7",
+      "url": "https://roboticsandautomationnews.com/2026/07/10/multi-robot-demo-showcases-new-uks-plymouth-subsea-test-range/103246/",
+      "source": "Robotics & Automation News",
+      "published_at": "2026-07-10T17:06:21+00:00",
+      "lang": "en",
+      "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/07/plymouth-smart-sound-1.jpg",
+      "category": "industrial",
+      "title_ja": "英国の水中ロボット試験場、複数ロボットでデモ実施",
+      "title_en": "UK's Plymouth Subsea Test Range Showcases Multi-Robot Demonstration",
+      "summary_ja": "英国プリマスに新設された水中ロボット試験場で、複数の海洋ロボットプラットフォームによるデモが実施されました。",
+      "summary_en": "A new underwater robotics test range in Plymouth, UK, successfully demonstrated multiple marine surface and subsea robotic platforms.",
+      "tags": [
+        "underwater",
+        "robotics",
+        "marine",
+        "UK"
+      ]
+    },
+    {
+      "id": "24a1d11e5493f3fc",
+      "url": "https://roboticsandautomationnews.com/2026/07/10/tech-company-avi-spl-launches-autonomous-dallas-houston-freight-operations-with-volvo-autonomous-solutions/103243/",
+      "source": "Robotics & Automation News",
+      "published_at": "2026-07-10T16:50:24+00:00",
+      "lang": "en",
+      "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/07/volvo-autonomous-solutions-avi-spl-1.jpg",
+      "category": "industrial",
+      "title_ja": "ボルボ自動運転トラック、テキサス州で商用貨物輸送開始",
+      "title_en": "Volvo Autonomous Trucks Begin Commercial Freight Operations in Texas",
+      "summary_ja": "AVI-SPLはボルボ自動運転ソリューションと提携し、テキサス州ダラスとヒューストン間で自動運転貨物輸送を開始しました。",
+      "summary_en": "AVI-SPL has partnered with Volvo Autonomous Solutions to launch autonomous freight operations between Dallas and Houston, Texas.",
+      "tags": [
+        "autonomous driving",
+        "freight",
+        "logistics",
+        "trucking"
+      ]
+    },
+    {
+      "id": "140675dd3cfabbe5",
+      "url": "https://roboticsandautomationnews.com/2026/07/10/robodk-unveils-cam-software-that-cuts-robotic-machining-deployment-time-by-up-to-40-percent/103239/",
+      "source": "Robotics & Automation News",
+      "published_at": "2026-07-10T16:37:45+00:00",
+      "lang": "en",
+      "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/07/robodk-cam-MT-2.png",
+      "category": "industrial",
+      "title_ja": "RoboDK、ロボット加工導入時間を最大40%削減するCAMソフトを発表",
+      "title_en": "RoboDK Unveils CAM Software to Cut Robotic Machining Deployment Time by Up to 40%",
+      "summary_ja": "RoboDKは、CADファイルから直接ロボット加工プログラムを生成できる新CAMソフトウェアを発表し、ロボット加工の導入時間を最大40%削減できると述べています。",
+      "summary_en": "RoboDK has launched new CAM software that generates robotic machining programs directly from CAD files, claiming it can reduce deployment time by up to 40%.",
+      "tags": [
+        "robotics",
+        "machining",
+        "software",
+        "automation"
+      ]
+    },
+    {
+      "id": "0c4f9ce064296a3f",
+      "url": "https://roboticsandautomationnews.com/2026/07/10/richtech-robotics-launches-24-7-interactive-livestream-featuring-ai-robot-adam/103234/",
+      "source": "Robotics & Automation News",
+      "published_at": "2026-07-10T16:29:33+00:00",
+      "lang": "en",
+      "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/07/richtech-adam-serving-coffee-1.jpg",
+      "category": "service",
+      "title_ja": "Richtech Robotics、AIロボットADAMのライブ配信を開始",
+      "title_en": "Richtech Robotics Launches 24/7 Interactive Livestream Featuring AI Robot ADAM",
+      "summary_ja": "Richtech Roboticsは、AI搭載ヒューマノイドロボットADAMとのリアルタイム対話が可能な24時間ライブ配信プラットフォームを開始しました。",
+      "summary_en": "Richtech Robotics has launched a 24/7 interactive livestream platform allowing real-time interaction with its AI-powered humanoid robot, ADAM.",
+      "tags": [
+        "AI",
+        "robot",
+        "livestream",
+        "interactive"
+      ]
+    },
+    {
+      "id": "3a0f7b3a51d66e96",
+      "url": "https://roboticsandautomationnews.com/2026/07/10/cognibotics-selected-for-e6-5-million-in-eu-accelerator-funding/103230/",
+      "source": "Robotics & Automation News",
+      "published_at": "2026-07-10T16:22:01+00:00",
+      "lang": "en",
+      "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/07/cognibotics-robot-1.jpg",
+      "category": "industrial",
+      "title_ja": "Cognibotics、650万ユーロのEU資金を獲得",
+      "title_en": "Cognibotics Secures €6.5 Million in EU Accelerator Funding",
+      "summary_ja": "スウェーデンのロボティクス企業Cogniboticsが、EUのイノベーション・カウンシルから650万ユーロの資金調達に選ばれました。",
+      "summary_en": "Swedish deep-tech robotics company Cognibotics has been selected for €6.5 million in blended finance from the European Innovation Council Accelerator.",
+      "tags": [
+        "funding",
+        "EU",
+        "robotics",
+        "industrial"
+      ]
+    },
+    {
+      "id": "6d65e9a1cde1430f",
+      "url": "https://spectrum.ieee.org/video-friday-robot-world-cup",
+      "source": "IEEE Spectrum Robotics",
+      "published_at": "2026-07-10T16:00:01+00:00",
+      "lang": "en",
+      "image": "https://spectrum.ieee.org/media-library/humanoid-robots-play-soccer-as-a-ball-flies-toward-the-goal-in-a-tournament-arena.jpg?id=67119515&width=980",
+      "category": "industrial",
+      "title_ja": "ロボットワールドカップの映像",
+      "title_en": "Video Friday: A World Cup for Robots",
+      "summary_ja": "IEEE Spectrumロボティクスが選ぶ、ロボット関連の素晴らしいビデオ集です。",
+      "summary_en": "Video Friday is your weekly selection of awesome robotics videos, collected by IEEE Spectrum robotics.",
+      "tags": [
+        "robotics",
+        "videos",
+        "events"
+      ]
+    },
+    {
+      "id": "5895fae033775354",
+      "url": "https://newatlas.com/robotics/first-live-surgery-teleoperated-humanoid-robots/",
+      "source": "New Atlas Robotics",
+      "published_at": "2026-07-10T14:57:00+00:00",
+      "lang": "en",
+      "image": "https://assets.newatlas.com/dims4/default/22b5407/2147483647/strip/true/crop/1920x1080+0+0/resize/1440x810!/format/webp/quality/85/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fa9%2Feb%2F0f6564244acd8dba41ff2c10651f%2Fcover-art.png",
+      "category": "service",
+      "title_ja": "遠隔操作の人型ロボットが初のライブ手術を完了",
+      "title_en": "Teleoperated humanoid robots complete first-ever live surgery",
+      "summary_ja": "遠隔操作された人型ロボットが、歴史上初めてライブ手術を完了し、医療分野での新たな可能性を示しました。",
+      "summary_en": "Teleoperated humanoid robots have successfully completed live surgical procedures for the first time in history, marking a significant advancement in medical robotics.",
+      "tags": [
+        "robotics",
+        "surgery",
+        "humanoid",
+        "medical"
+      ]
+    },
+    {
+      "id": "74df2d2e59c99cab",
+      "url": "https://note.com/zhenren63/n/n3cfd55c53618",
+      "source": "note · zhenren63 (中国ロボ業界)",
+      "published_at": "2026-07-10T13:09:48+00:00",
+      "lang": "ja",
+      "image": "https://assets.st-note.com/production/uploads/images/293223176/rectangle_large_type_2_24d7482989f21ee0075d14503e7f248f.png?width=800",
+      "category": "service",
+      "title_ja": "人型ロボット、老人ホームで何ができる？Fourier社の現場から",
+      "title_en": "What can humanoid robots do in nursing homes? Insights from Fourier's field operations",
+      "summary_ja": "人型ロボットは老人ホームで会話やリハビリ補助など非接触業務から導入可能。安全性確保が次なる課題で、日本企業にもチャンスがある。",
+      "summary_en": "Humanoid robots can be introduced in nursing homes for non-contact tasks like conversation and rehabilitation assistance, with safety assurance being the next challenge, presenting opportunities for Japanese companies.",
+      "tags": [
+        "humanoid robot",
+        "nursing care",
+        "Fourier",
+        "safety"
+      ],
+      "content": "ここ数年、日本の企業から「介護現場で本当に役に立つロボットはないのか」と相談を受けることが何度かありました。人手不足が深刻化するなかで、配膳ロボットや清掃ロボットだけでなく、もっと介護現場の中核に近いところで使えるロボットはないのか、という関心が高まっています。\nただ、この問いに答えるのは簡単ではありません。老人ホームや介護施設でロボットを使う場合、便利かどうか以上に、安全かどうかが問われます。高齢者の身体に触れる、支える、持ち上げる、移乗を助ける。こうした動作は一見するとロボット向きに見えますが、実際には事故が起きたときの責任、法規制、現場オペレーション、倫理の問題が一気に噴き出します。\n今回、上海でFourierの現場を訪問して感じたのは、現時点での最適解は「非接触」から入ることだということです。会話する、声をかける、リハビリ体操を促す、認知訓練を行う、施設内を案内する、簡単な物品を運ぶ。こうした領域であれば、人型ロボットは介護職員を置き換えるのではなく、現場の余白を作る存在になり得ます。\nそして、その次の課題は安全性です。ロボットが介護現場に入るには、「安全です」と言うだけでは足りません。どういう条件なら安全なのか。どの距離で止まるのか。どの力以上は出さないのか。異常時に誰がどう止めるのか。どのように試験し、どのように証明するのか。ここが次の競争軸になります。\nこの点では、日本企業にも大きなチャンスがあるのではないかと感じています。日本のサプライヤーは、自動車、医療機器、産業機械、精密部品の分野で、安全性、信頼性、品質保証を積み上げてきました。\n人型ロボット本体の量産では中国企業が先行しているとしても、「介護現場に入れるための安全性をどう設計し、どう証明するか」という領域では、日本側が価値を出せる余地があります。\nなぜFourierを見に行ったのか\n\n![図](https://assets.st-note.com/img/1783686163-AG7Jg9bNzujfYFZaKP4M51rO.png)\n\n中国の人型ロボット業界は、この1〜2年で急速に景色が変わっています。以前は展示会で歩く、踊る、階段を上るといったデモが中心でした。しかし今は、工場、物流、リハビリ、老人ホーム、家庭、教育研究など、より具体的な現場への導入が語られるようになっています。\nそのなかでFourierが面白いのは、同社が単なる人型ロボット企業ではないことです。\nFourierは上海を拠点とするロボット企業で、公式サイトではGRxシリーズの人型ロボット、灵巧手、開源シリーズ、リハビリロボット、MetaMotus Galileoなどを製品群として掲げています。英語サイトでも、同社は「full-stack robotics technology」を通じて人々の生活を豊かにすることをミッションとして掲げ、GRx Humanoid SeriesとFourier Rehabを主要製品領域として紹介しています。\n\nFOURIER-Robotics\n\nFourier is an industry-leading general purpose robotics compa\n\nwww.fftai.com\n\nつまりFourierを見るときに重要なのは、「人型ロボットを作っている会社」としてだけ見るのではなく、「リハビリロボットで現場経験を持つ会社が、人型ロボットへ拡張している」と見ることです。\n今回の訪問で確認したかった問いは、大きく3つありました。\n1つ目は、人型ロボットは老人ホームやリハビリ施設に本当に入れるのか。2つ目は、入れるとしたら、どの業務からなのか。3つ目は、日本企業はこの流れにどの立ち位置で関われるのか。\n結論から言えば、人型ロボットがすぐに介護職員を置き換えるとは思いません。しかし、会話、陪伴、リハビリ体操、認知訓練、案内、物品配送、見守り補助のような領域からであれば、現場に入り始める可能性はあります。\nFourierは「人型ロボット企業」ではなく「リハビリ由来の実装企業」",
+      "images": [
+        "https://assets.st-note.com/img/1783686163-AG7Jg9bNzujfYFZaKP4M51rO.png"
+      ],
+      "content_partial": true
+    },
+    {
+      "id": "a26da563505c7705",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/10/news157.html",
+      "source": "ITmedia AI+",
+      "published_at": "2026-07-10T12:15:00+00:00",
+      "lang": "ja",
+      "image": "https://image.itmedia.co.jp/news/articles/2607/10/cover_news157.jpg",
+      "category": "service",
+      "title_ja": "テスラ車でAI「Grok」利用可能に 日本でも展開",
+      "title_en": "Tesla Cars in Japan Can Now Use AI Chatbot 'Grok'",
+      "summary_ja": "テスラ車で対話型AI「Grok」が利用可能になり、ナビ設定やルート確認を音声で行えるようになりました。",
+      "summary_en": "Tesla cars in Japan can now utilize the conversational AI 'Grok', enabling voice commands for navigation settings and route checks.",
+      "tags": [
+        "AI",
+        "Tesla",
+        "Grok",
+        "automotive"
+      ]
+    },
+    {
+      "id": "bd299e7219562816",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kTGRCVjBCdW12RVF4VTFqOURqUC1nM0JHbnk3d3d3eTc3LVVwbUR0bVllMGdzMDh3M2Q4REJUcWltWWN4Vkt6Q0RrdGlBVkpldXdKTWc0OVpPazl6WlpwNWZBUTcxLUM5RzJmc2dCY9IBaEFVX3lxTE1tSE41UmVqOGlPMUFPb2hWaEl5dDJMbXl1UnNoQ21YQ2t6ZWtqdThvSGVmeGwtc3hDTUxkZExtR1RmcVNTM2dMOEFyZmdDQnVMTVRvWUY0aUVLTVNfX3EwM2p5SnJMaXlM?oc=5",
+      "source": "Google News - ロボット",
+      "published_at": "2026-07-10T11:11:00+00:00",
+      "lang": "ja",
+      "image": null,
+      "category": "home",
+      "title_ja": "SwitchBotロボット掃除機K11+が30％オフセール中",
+      "title_en": "SwitchBot Robot Vacuum Cleaner K11+ on Sale for 30% Off",
+      "summary_ja": "家具の隙間も掃除できるSwitchBotのロボット掃除機K11+が、セールで3万7800円で購入可能です。",
+      "summary_en": "The SwitchBot Robot Vacuum Cleaner K11+, capable of cleaning tight spaces, is available for purchase at a discounted price of 37,800 yen during a sale.",
+      "tags": [
+        "robot vacuum",
+        "sale",
+        "home appliance",
+        "SwitchBot"
+      ]
+    },
+    {
+      "id": "c1fa51f65a335557",
+      "url": "https://spectrum.ieee.org/ukraine-ground-drones",
+      "source": "IEEE Spectrum Robotics",
+      "published_at": "2026-07-10T11:00:01+00:00",
+      "lang": "en",
+      "image": "https://spectrum.ieee.org/media-library/an-unmanned-ground-vehicle-moving-through-a-sparse-forest-landscape.jpg?id=67114838&width=980",
+      "category": "military",
+      "title_ja": "地上のロボットが「キルゾーン」を継承",
+      "title_en": "Ground Robots Inherit the Kill Zone",
+      "summary_ja": "ウクライナのロボット工学者は、無人地帯をパトロールする武装地上車両を開発し、前線を無人化するビジョンを進めている。",
+      "summary_en": "Ukrainian roboticists are advancing a vision of demilitarized frontlines with armed ground vehicles patrolling no-man's land.",
+      "tags": [
+        "military",
+        "robotics",
+        "Ukraine",
+        "drones"
       ]
     },
     {
