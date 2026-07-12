@@ -1,6 +1,748 @@
 {
-  "updated_at": "2026-05-12T02:45:06.010701+00:00",
+  "updated_at": "2026-07-12T00:00:39.465369+00:00",
   "items": [
+    {
+      "id": "c5458bacf6bafcb8",
+      "url": "https://note.com/busintemasamo1/n/n55d546cd1ee2",
+      "source": "note · ハッシュタグ「ロボット」",
+      "published_at": "2026-07-11T23:40:25+00:00",
+      "lang": "ja",
+      "image": "https://assets.st-note.com/production/uploads/images/293596483/rectangle_large_type_2_545b23c8926c75de25a4a3d8f87a3cec.png?width=800",
+      "category": "industrial",
+      "title_ja": "三井海洋開発、受注残2.8兆円も供給制約が課題",
+      "title_en": "Mitsui Ocean Development: 2.8 Trillion Yen Order Backlog Faces Supply Constraints",
+      "summary_ja": "三井海洋開発は受注残高2.8兆円を抱えるが、案件消化ペースの制約が成長の上限となっている。",
+      "summary_en": "Mitsui Ocean Development holds an order backlog of 2.8 trillion yen, but project completion pace constraints limit its growth potential.",
+      "tags": [
+        "industrial",
+        "offshore",
+        "shipbuilding",
+        "constraints"
+      ]
+    },
+    {
+      "id": "e61f8c197eb49a25",
+      "url": "https://note.com/yuiyasuda/n/n959e212b4253",
+      "source": "note · ハッシュタグ「ロボット」",
+      "published_at": "2026-07-11T23:33:48+00:00",
+      "lang": "ja",
+      "image": "https://assets.st-note.com/production/uploads/images/293594506/rectangle_large_type_2_761cb86e1a9bad21633636ecbb78d777.png?width=800",
+      "category": "military",
+      "title_ja": "ラプター対ツギハギ：激闘",
+      "title_en": "Raptor vs. Tsugihagi: Fierce Battle",
+      "summary_ja": "ラプターがツギハギに襲い掛かり、ツギハギはクローアームと油圧式カッターで応戦する激しい戦闘シーン。",
+      "summary_en": "A fierce battle unfolds as Raptor attacks Tsugihagi, who defends with a claw arm and hydraulic cutter.",
+      "tags": [
+        "robot",
+        "battle",
+        "action",
+        "fiction"
+      ]
+    },
+    {
+      "id": "43206d09397f1725",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSm1iX3JpdUYySktUODNpODhhbGNPSDFJT1R6UlpnVzVPMm9yVTRrMGdMd3pzRFk4QzNCUjlXNkt0eTE2MHF3Z0hROUdrbmtHcDJHWG5VYU42NWFWX21id3EtTDdLQWktbV9kSUthVFZDdk9Sb2Ewdk5lRzgwaGxURFpHTUR5N0hQY0FRRUNwUmhDTVpBSHp5OEtmQkRTSS0tcmR1MXBVdWNjVkJob0VzNnAyc21LSUlfNkZrREhrVkwxMEptdElsaEFjRWZQNk9tSk9kZ1VaNW81ZUhOSjRz0gGPAUFVX3lxTFA0dXRLd3FYLVA3a0VqWWhpc2NuQlpRbmdYN0EtbXpQbGh4bTQ4VHhSYUxJOEZfRDJLbzkxNlBWVHRqYUNvbHY1c21CTlZ5Z0Y5d3BaZ2hSTkJGZXFnT1RUQ0xtMDExNmxRRC1CdnVxNEpIazA4dmYzdE5FQ3A2dlRET0pVMkN3Z2M4bXJkaU9F?oc=5",
+      "source": "Google News - ロボット",
+      "published_at": "2026-07-11T23:20:47+00:00",
+      "lang": "ja",
+      "image": null,
+      "category": "service",
+      "title_ja": "中国の人型ロボットが低侵襲手術に成功",
+      "title_en": "Chinese humanoid robot successfully performs minimally invasive surgery",
+      "summary_ja": "中国の研究チームが開発した人型ロボットが、生体への低侵襲手術に世界で初めて成功しました。",
+      "summary_en": "A humanoid robot developed by a Chinese research team has achieved the world's first minimally invasive surgery on a living subject.",
+      "tags": [
+        "robotics",
+        "surgery",
+        "medical",
+        "humanoid"
+      ]
+    },
+    {
+      "id": "2bb065ef9f932b41",
+      "url": "https://note.com/hiroki_morishima/n/n6ad100a01e24",
+      "source": "note · ハッシュタグ「ロボット」",
+      "published_at": "2026-07-11T23:16:27+00:00",
+      "lang": "ja",
+      "image": "https://assets.st-note.com/production/uploads/images/293598894/rectangle_large_type_2_8eed107064c7bd8a70243e2d26a15411.png?width=800",
+      "category": "industrial",
+      "title_ja": "数万円のロボットアームで学習・評価・修正が可能に",
+      "title_en": "Learning, Evaluation, and Correction Possible with Low-Cost Robot Arms",
+      "summary_ja": "低価格なロボットアームとLeRobot v0.6.0により、現場でのロボットの学習・評価・修正が容易になりました。",
+      "summary_en": "With low-cost robot arms and LeRobot v0.6.0, on-site robot learning, evaluation, and correction have become easier.",
+      "tags": [
+        "robot arm",
+        "automation",
+        "learning",
+        "low-cost"
+      ]
+    },
+    {
+      "id": "41f8aad231542fcb",
+      "url": "https://note.com/humble_dog9839/n/n7023db322913",
+      "source": "note · ハッシュタグ「ロボット」",
+      "published_at": "2026-07-11T23:06:20+00:00",
+      "lang": "ja",
+      "image": "https://assets.st-note.com/production/uploads/images/293497767/rectangle_large_type_2_94fd0a9b5f73a0b7798e6ae94f1d1cf0.png?width=800",
+      "category": "military",
+      "title_ja": "防衛システムのスマホ化と数の抑止力",
+      "title_en": "Smartphone-like Defense Systems and Deterrence by Sheer Numbers",
+      "summary_ja": "防衛システムがスマートフォン化し、圧倒的な数で抑止力を高める可能性について論じています。",
+      "summary_en": "This discusses the potential for defense systems to become smartphone-like, enhancing deterrence through overwhelming numbers.",
+      "tags": [
+        "defense",
+        "drones",
+        "AI",
+        "strategy"
+      ]
+    },
+    {
+      "id": "9eca78692b4e2583",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LTjZveGFlVF9HQjRMcVZ4Q2hSQXVPUHBLNWh4OXQ4TWw3bnU2UFM2YmxESFJoU3laSG5wQkdPSkVuUUFrYktUOGN3cGdDM1JhcjhENWxTVncyVGNp?oc=5",
+      "source": "Google News - ロボット",
+      "published_at": "2026-07-11T22:42:45+00:00",
+      "lang": "ja",
+      "image": null,
+      "category": "service",
+      "title_ja": "自律走行搬送ロボットAmuAを今枝副大臣が視察",
+      "title_en": "Vice Minister Imaeda Inspects Autonomous Mobile Robot AmuA at Akaiwa Hospital",
+      "summary_ja": "今枝副大臣は赤岩病院で自律走行型搬送ロボットAmuAを視察し、搬送ロボット導入支援に意欲を示しました。",
+      "summary_en": "Vice Minister Imaeda inspected the autonomous mobile robot AmuA at Akaiwa Hospital and expressed his enthusiasm for supporting the introduction of transport robots.",
+      "tags": [
+        "hospital",
+        "robot",
+        "logistics",
+        "healthcare"
+      ]
+    },
+    {
+      "id": "6d776613e3a2094e",
+      "url": "https://note.com/ready_arnica4885/n/n338856adcd81",
+      "source": "note · ハッシュタグ「ロボット」",
+      "published_at": "2026-07-11T22:33:31+00:00",
+      "lang": "ja",
+      "image": "https://assets.st-note.com/production/uploads/images/293536375/rectangle_large_type_2_dfa2c46d30c7310c6d58102e4eaaed62.png?width=800",
+      "category": "industrial",
+      "title_ja": "安川電機、純利益減もAI・半導体需要で回復期待",
+      "title_en": "Yaskawa Electric sees profit drop but expects recovery driven by AI and semiconductor demand",
+      "summary_ja": "安川電機はシステム移行の影響で純利益が22%減となったが、AI・半導体需要の回復に期待を寄せている。",
+      "summary_en": "Yaskawa Electric's net profit decreased by 22% due to system migration, but the company anticipates a recovery driven by demand in AI and semiconductors.",
+      "tags": [
+        "Yaskawa Electric",
+        "financial results",
+        "AI",
+        "semiconductors"
+      ]
+    },
+    {
+      "id": "9895dc4da55ffc1a",
+      "url": "https://note.com/hiro_nakamura_ai/n/n931676857fb7",
+      "source": "note · ハッシュタグ「ロボット」",
+      "published_at": "2026-07-11T22:31:06+00:00",
+      "lang": "ja",
+      "image": "https://assets.st-note.com/production/uploads/images/293583257/rectangle_large_type_2_94a1883b2c30ffed20b8f706f89e4a8e.jpeg?width=800",
+      "category": "industrial",
+      "title_ja": "ロボットAIは動作を覚えない、現場を読む仕事が増える",
+      "title_en": "Robot AI Won't Learn Actions, Jobs Reading the Field Will Increase",
+      "summary_ja": "ロボットに動作を細かく教える仕事は減り、作業前後の状態定義や現場を読む仕事が増える。Orcaモデルは行動ラベルなしで世界状態予測を示した。",
+      "summary_en": "Jobs teaching robots specific actions are decreasing, replaced by tasks defining pre/post-operation states and understanding the environment. The Orca model demonstrated world state prediction without action labels.",
+      "tags": [
+        "AI",
+        "robotics",
+        "future of work",
+        "industrial automation"
+      ]
+    },
+    {
+      "id": "1837c5ceabe1ac58",
+      "url": "https://note.com/busintemasamo1/n/nad7a74ba28b7",
+      "source": "note · ハッシュタグ「ロボット」",
+      "published_at": "2026-07-11T22:13:53+00:00",
+      "lang": "ja",
+      "image": "https://assets.st-note.com/production/uploads/images/293580391/rectangle_large_type_2_80cb356c5b45ba46d2faa40ab932ccfd.png?width=800",
+      "category": "industrial",
+      "title_ja": "港湾インフラの危機、日本製荷役機械に空前の需要",
+      "title_en": "Port Infrastructure Crisis Creates Unprecedented Demand for Japanese Cargo Handling Machinery",
+      "summary_ja": "米国の港湾クレーンに中国製が多数導入され、安全保障上の懸念から日本の荷役機械に需要が急増している。",
+      "summary_en": "Concerns over national security due to the widespread use of Chinese-made cranes in US ports are driving a surge in demand for Japanese cargo handling machinery.",
+      "tags": [
+        "port",
+        "security",
+        "machinery",
+        "demand"
+      ]
+    },
+    {
+      "id": "65688d9308bbf5e0",
+      "url": "https://note.com/daimaookorin/n/nc1138aa4ab92",
+      "source": "note · ハッシュタグ「ロボット」",
+      "published_at": "2026-07-11T22:02:47+00:00",
+      "lang": "ja",
+      "image": "https://assets.st-note.com/production/uploads/images/293578585/rectangle_large_type_2_75098983ed6ebf97e1aa43910905319f.png?width=800",
+      "category": "industrial",
+      "title_ja": "三菱自動車、人型ロボット開発に参入か？",
+      "title_en": "Mitsubishi Motors to Enter Humanoid Robot Development?",
+      "summary_ja": "三菱自動車が人型ロボット開発に乗り出す可能性があり、自動車技術との共通点から投資家の関心を集めています。",
+      "summary_en": "Mitsubishi Motors may be entering humanoid robot development, attracting investor interest due to commonalities with automotive technology.",
+      "tags": [
+        "robotics",
+        "automotive",
+        "investment",
+        "humanoid"
+      ]
+    },
+    {
+      "id": "49c475fb6f984f06",
+      "url": "https://note.com/major_snake9078/n/ndaacc8dbc5a3",
+      "source": "note · ハッシュタグ「ロボット」",
+      "published_at": "2026-07-11T21:55:18+00:00",
+      "lang": "ja",
+      "image": "https://assets.st-note.com/production/uploads/images/293387603/rectangle_large_type_2_f19559a85b930078a44b2ec23eeec42b.jpg?width=800",
+      "category": "service",
+      "title_ja": "自動ソフトクリーム製造ロボット（うし）",
+      "title_en": "Automatic Soft Serve Ice Cream Robot (Cow)",
+      "summary_ja": "店員ロボット「うし」が自動でソフトクリームを作り、客にお礼を言われる様子を描写。",
+      "summary_en": "A cow-shaped robot serves soft-serve ice cream automatically, and customers thank the robot.",
+      "tags": [
+        "robot",
+        "food",
+        "service",
+        "ice cream"
+      ]
+    },
+    {
+      "id": "41c20c4898932ad6",
+      "url": "https://note.com/kabuya66/n/n4425e953f08a",
+      "source": "note · ハッシュタグ「ロボット」",
+      "published_at": "2026-07-11T21:26:04+00:00",
+      "lang": "ja",
+      "image": "https://assets.st-note.com/production/uploads/images/293573733/rectangle_large_type_2_56d11ce8fa1bbcd52ca592fe787c1306.jpg?width=800",
+      "category": "industrial",
+      "title_ja": "三菱自、東大発スタートアップと人型ロボ量産で提携し株価急騰",
+      "title_en": "Mitsubishi Motors' stock surges on humanoid robot mass production partnership with UTokyo startup",
+      "summary_ja": "三菱自動車が東京大学発スタートアップと人型ロボットの量産で提携したことを受け、株価が急騰した。",
+      "summary_en": "Mitsubishi Motors' stock price surged after announcing a partnership with a University of Tokyo-originated startup for the mass production of humanoid robots.",
+      "tags": [
+        "robotics",
+        "humanoid",
+        "stock",
+        "partnership"
+      ]
+    },
+    {
+      "id": "0d88aa3037c00c31",
+      "url": "https://note.com/kei_music_gadget/n/n849079e0be11",
+      "source": "note · ハッシュタグ「ロボット」",
+      "published_at": "2026-07-11T21:00:40+00:00",
+      "lang": "ja",
+      "image": "https://assets.st-note.com/production/uploads/images/293429398/rectangle_large_type_2_0f63a90dbb21f54171d0d43369c2e787.png?width=800",
+      "category": "home",
+      "title_ja": "ルンバPlus 415 Comboがプライムデーで5万円以下に",
+      "title_en": "Roomba Plus 415 Combo Drops Below ¥50,000 During Prime Day Sale",
+      "summary_ja": "Amazonプライムデーで、iRobotのロボット掃除機「Roomba Plus 415 Combo」が55%オフの5万円以下で購入可能です。",
+      "summary_en": "During the Amazon Prime Day sale, the iRobot Roomba Plus 415 Combo robot vacuum is available for under ¥50,000, a 55% discount.",
+      "tags": [
+        "robot vacuum",
+        "sale",
+        "Amazon Prime Day",
+        "iRobot"
+      ]
+    },
+    {
+      "id": "624e6505a4bd5b7b",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UY2J5OFZ2WDYzZWJOYUxhcGhsdVRYTnZueW9iU0piUGlENnk4UFdnR3JVc214eE1Pd0xQZ2Y2ZEJwQ0laR05BSm1LZklGRWk1MWdkdllkaTJ1QWtXRENkZ2dyV25pcHRoQkxHRmlnZHd5eHZIelE?oc=5",
+      "source": "Google News - 軍事ドローン",
+      "published_at": "2026-07-11T20:45:58+00:00",
+      "lang": "ja",
+      "image": null,
+      "category": "military",
+      "title_ja": "ウクライナ、対ロシアで無人機攻撃強化へ新司令部創設",
+      "title_en": "Ukraine Establishes New Command for Long-Range Drone Attacks Against Russia",
+      "summary_ja": "ウクライナのゼレンスキー大統領は、対ロシアの長距離無人機攻撃を強化するため、新たな司令部を創設すると発表しました。",
+      "summary_en": "Ukrainian President Zelensky announced the establishment of a new command to strengthen long-range drone attacks against Russia.",
+      "tags": [
+        "military",
+        "drone",
+        "Ukraine",
+        "Russia"
+      ]
+    },
+    {
+      "id": "be2f6ab9c270b416",
+      "url": "https://note.com/chatgptexecutive/n/n397123a84ca4",
+      "source": "note · ハッシュタグ「ロボット」",
+      "published_at": "2026-07-11T19:58:24+00:00",
+      "lang": "ja",
+      "image": "https://assets.st-note.com/production/uploads/images/293565624/rectangle_large_type_2_0d5a27ddc72187544c181952e4b093fe.jpeg?width=800",
+      "category": "industrial",
+      "title_ja": "ハイランダーズ、三菱自と提携しフィジカルAI開発を加速",
+      "title_en": "Highlanders Partners with Mitsubishi Motors to Accelerate Physical AI Development",
+      "summary_ja": "ハイランダーズは三菱自動車と提携し、NVIDIAの高速開発手法を用いて日本のフィジカルAI開発を根底から変革することを目指しています。",
+      "summary_en": "Highlanders has partnered with Mitsubishi Motors, aiming to fundamentally transform physical AI development in Japan using NVIDIA's rapid development methodologies.",
+      "tags": [
+        "AI",
+        "robotics",
+        "automotive",
+        "development"
+      ]
+    },
+    {
+      "id": "f4f28b1be8424c1d",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQV9wYUNfSExPQm1MNnBzQXpfXzVHX05udDNkLWJBMktmd3JhLTZxY0tyZ1ZsYXpoX1lnbjM4RW52cWJxRjFPVUhCUDRkeUZaU05WbDdLRGtsalJjNkxfSFZYalVqaUNXZWRVR0diYnRSWlpNOEZRU2VIelE0NnU1SU51SGVDMEZJVi14Q3Y1eXJPUHFWRVNEV0Y2cmhoRWpaQnF2OGR4Wl9SMms4N0ZMd0p4X2lSYm0y?oc=5",
+      "source": "Google News - robot",
+      "published_at": "2026-07-11T18:42:00+00:00",
+      "lang": "en",
+      "image": null,
+      "category": "industrial",
+      "title_ja": "ロボット除草機、散布機、牛の放牧ロボットが登場",
+      "title_en": "Robotic Weed-Pullers, Sprayers, and Cattle Herders Are Coming",
+      "summary_ja": "農業分野でロボット技術が進化し、除草、散布、牛の管理などに活用されるロボットが登場しています。",
+      "summary_en": "Robotic technology is advancing in agriculture, with robots emerging for tasks like weeding, spraying, and cattle management.",
+      "tags": [
+        "agriculture",
+        "automation",
+        "robots"
+      ]
+    },
+    {
+      "id": "a6ed26e63efa6dca",
+      "url": "https://www.engadget.com/2212954/philips-free-replacements-hue-bridge-pro-update-bricked-smart-lighting-hubs/",
+      "source": "Engadget",
+      "published_at": "2026-07-11T17:41:03+00:00",
+      "lang": "en",
+      "image": "https://www.engadget.com/img/gallery/philips-offers-free-replacements-after-update-bricked-smart-lighting-hubs/l-intro-1783788631.jpg",
+      "category": "home",
+      "title_ja": "Philips、スマート照明ハブのアップデート問題を無料交換で対応",
+      "title_en": "Philips offers free replacements for smart lighting hubs bricked by update",
+      "summary_ja": "Philipsは、アップデートにより動作不能になったスマート照明ハブの無償交換を提供し、問題を防ぐための新しいアップデートを展開すると発表しました。",
+      "summary_en": "Philips will offer free replacements for smart lighting hubs that were bricked by an update and is rolling out a new update to prevent the issue.",
+      "tags": [
+        "smart home",
+        "lighting",
+        "Philips",
+        "update"
+      ]
+    },
+    {
+      "id": "564b12587b26bc80",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1cFRQeWtlMlNra2xhS3BzNVdyeGRIaHBjcy1aUHRUcTVld3AxSnhEczZUVGZXZ013RWYyTVhNSTZCdWdTX3FXTjAtRVB0dWRtcFktOTR6azFTNzlBUjhRbDFMZ29YUkNCSnc?oc=5",
+      "source": "Google News - robot",
+      "published_at": "2026-07-11T17:00:03+00:00",
+      "lang": "en",
+      "image": null,
+      "category": "service",
+      "title_ja": "細菌を触覚で読み取るロボット",
+      "title_en": "Robot Reads Bacteria by Touch, Eliminating Staining and Chemical Labels",
+      "summary_ja": "このロボットは、細菌を染色や化学ラベルなしで触覚によって識別し、迅速な診断を可能にします。",
+      "summary_en": "This robot identifies bacteria through touch without staining or chemical labels, enabling rapid diagnostics.",
+      "tags": [
+        "robotics",
+        "bacteria",
+        "diagnostics",
+        "touch"
+      ]
+    },
+    {
+      "id": "7daa64be11c533bc",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdWlvaG9vVEI5MHpkZDR5a2ZmaklUdGxJRHV2cWlIY1htZUpsVjlPaWg0TEJFMHZ2aFVYbmhxbXZ0c2hreXdSWlB2eDBCSFE1S1NHck5pMnFTNmp4T0xqd1p0ZjZaSGI0b2Z4bmhSa284TzZLR0VEQnRuRW15aGZLV1lGQmo2YlUzaFhOYnFVRQ?oc=5",
+      "source": "Google News - 軍事ドローン",
+      "published_at": "2026-07-11T16:28:26+00:00",
+      "lang": "ja",
+      "image": null,
+      "category": "military",
+      "title_ja": "ホーチミン市、自動運転車とドローンの試験運用開始",
+      "title_en": "Ho Chi Minh City Begins Testing Autonomous Vehicles and Drones",
+      "summary_ja": "ホーチミン市は、自動運転車と無人航空機の試験運用を開始しました。",
+      "summary_en": "Ho Chi Minh City has commenced trial operations for autonomous vehicles and unmanned aerial vehicles (drones).",
+      "tags": [
+        "autonomous vehicles",
+        "drones",
+        "testing",
+        "Ho Chi Minh City"
+      ]
+    },
+    {
+      "id": "84337dbbf018487b",
+      "url": "https://www.theverge.com/gadgets/964138/nintendo-talking-flower-mario-wonder-deal-sale",
+      "source": "The Verge",
+      "published_at": "2026-07-11T15:00:00+00:00",
+      "lang": "en",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/SMBW_Talking_Flower_001_illu01_01_R_ad-0.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "category": "home",
+      "title_ja": "任天堂のトーキングフラワーが値下げ",
+      "title_en": "Nintendo's Talking Flower Gets a Small Price Cut",
+      "summary_ja": "スーパーマリオブラザーズ ワンダーのキャラクターを基にした、トーキングフラワーのおもちゃが値下げされました。",
+      "summary_en": "The Talking Flower toy, based on a character from Super Mario Bros. Wonder, has received a small price cut.",
+      "tags": [
+        "toy",
+        "nintendo",
+        "mario",
+        "gadget"
+      ]
+    },
+    {
+      "id": "5593847999a205e6",
+      "url": "https://www.therobotreport.com/are-suppliers-ready-for-new-robot-safety-standards/",
+      "source": "The Robot Report",
+      "published_at": "2026-07-11T13:30:02+00:00",
+      "lang": "en",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/07/kuka-automation-in-the-industry-featured.jpg",
+      "category": "industrial",
+      "title_ja": "ロボット安全規格変更への対応",
+      "title_en": "Robot Safety Standards Update: Are Suppliers Ready?",
+      "summary_ja": "新たなロボット安全規格への対応準備が整っている供給業者は有利になる一方、準備不足の企業は市場アクセスに支障をきたす可能性があります。",
+      "summary_en": "Suppliers well-prepared for new robot safety standards will benefit, while unprepared companies may face market access disruptions.",
+      "tags": [
+        "robotics",
+        "safety standards",
+        "suppliers",
+        "industrial"
+      ]
+    },
+    {
+      "id": "1e5c81510b4ea725",
+      "url": "https://www.theverge.com/policy/964302/ice-donald-trump-killings",
+      "source": "The Verge",
+      "published_at": "2026-07-11T13:00:00+00:00",
+      "lang": "en",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2252426003.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "category": "military",
+      "title_ja": "ICEは武装した殺人者であり、敗北者",
+      "title_en": "ICE are heavily armed killers. They’re also huge losers",
+      "summary_ja": "ICEは武装した殺人者であり、敗北者であると主張する記事。",
+      "summary_en": "This article claims that ICE agents are armed killers and also huge losers.",
+      "tags": [
+        "ICE",
+        "military",
+        "law enforcement"
+      ]
+    },
+    {
+      "id": "a707c5a6e4879c30",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQnE0S3VSY0Z2aTlBVThsMkRvSFpham81QS1XSEhURm50NjFYZGJoRVlKYlQ0M1ZnMS1UMEx1cTltOFBrYjh6bDBsVFNXVFJOOXFPdGUwM1hsMFdyR0xvVUIydkJHTEdoZllmZ2paX1N0dU5QMXM4QTI5bzY1VWdrRlhxc045SnptSk50ODA5MA?oc=5",
+      "source": "Google News - robot",
+      "published_at": "2026-07-11T12:46:20+00:00",
+      "lang": "en",
+      "image": null,
+      "category": "industrial",
+      "title_ja": "ロボットチームは仮想ジムで訓練が必要",
+      "title_en": "Robotics Teams Need Virtual Gyms Before Deployment",
+      "summary_ja": "ロボットの展開前に、仮想環境でテストと訓練を行うことで、実世界でのパフォーマンスを向上させることができます。",
+      "summary_en": "Testing and training robots in virtual environments before real-world deployment can significantly improve their performance and reduce risks.",
+      "tags": [
+        "simulation",
+        "training",
+        "robotics",
+        "deployment"
+      ]
+    },
+    {
+      "id": "63309532cd172fbf",
+      "url": "https://www.therobotreport.com/why-robotics-teams-need-virtual-gyms-before-deployment/",
+      "source": "The Robot Report",
+      "published_at": "2026-07-11T12:36:16+00:00",
+      "lang": "en",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/07/humanoids_softserve-1024x574.png",
+      "category": "industrial",
+      "title_ja": "ロボットの仮想トレーニング施設",
+      "title_en": "Robotics Teams Need Virtual Gyms Before Deployment",
+      "summary_ja": "ロボットは実環境展開前に、シミュレーションと現実のギャップを埋める仮想トレーニング施設で能力を向上させるべきだ。",
+      "summary_en": "Robots should utilize 'virtual gyms' to bridge the sim-to-real gap and improve capabilities before real-world deployment.",
+      "tags": [
+        "simulation",
+        "sim-to-real",
+        "training",
+        "robotics"
+      ]
+    },
+    {
+      "id": "5fc4c3be55c616a3",
+      "url": "https://www.engadget.com/2212712/engadget-indie-pitch-penguin-colony/",
+      "source": "Engadget",
+      "published_at": "2026-07-11T12:30:00+00:00",
+      "lang": "en",
+      "image": "https://www.engadget.com/img/gallery/engadget-indie-pitch-penguin-colony/l-intro-1783715324.jpg",
+      "category": "home",
+      "title_ja": "ペンギンコロニー：インディーピッチ",
+      "title_en": "Engadget Indie Pitch: Penguin Colony",
+      "summary_ja": "プレイヤーはペンギンを操作し、コロニーを築きながら生き残る戦略ゲームです。",
+      "summary_en": "In Penguin Colony, players control penguins to build a colony and survive in a strategic simulation game.",
+      "tags": [
+        "indie game",
+        "simulation",
+        "strategy"
+      ]
+    },
+    {
+      "id": "e6c6a656729416f2",
+      "url": "https://ascii.jp/elem/000/004/418/4418633/?rss",
+      "source": "ASCII.jp",
+      "published_at": "2026-07-11T12:00:00+00:00",
+      "lang": "ja",
+      "image": "https://ascii.jp/img/2026/06/25/4489314/s/473b52819279e35f.jpg",
+      "category": "home",
+      "title_ja": "マキタの軽量コードレスクリーナが約3千円引き",
+      "title_en": "Makita's Lightweight Cordless Cleaner Discounted by Approx. 3,000 Yen",
+      "summary_ja": "マキタの軽量コードレスクリーナCL116DWIがAmazonで28％オフの11,664円で購入可能。充電器も付属。",
+      "summary_en": "Makita's lightweight cordless cleaner, the CL116DWI, is available on Amazon for 11,664 yen, a 28% discount, and includes a charger.",
+      "tags": [
+        "Makita",
+        "cleaner",
+        "cordless",
+        "discount"
+      ]
+    },
+    {
+      "id": "86baa5d9ccb40d62",
+      "url": "https://ascii.jp/elem/000/004/418/4418800/?rss",
+      "source": "ASCII.jp",
+      "published_at": "2026-07-11T11:40:00+00:00",
+      "lang": "ja",
+      "image": "https://ascii.jp/img/2026/07/11/4499120/s/378ae14b94b91d81.jpg",
+      "category": "home",
+      "title_ja": "スマートウォッチ初心者向け1万円以下モデル",
+      "title_en": "Smartwatch for Beginners: Models Under 10,000 Yen",
+      "summary_ja": "スマートウォッチ初心者には、1万円以下で機能とデザインに優れたモデルがおすすめです。",
+      "summary_en": "For smartwatch beginners, models under 10,000 yen offering excellent features and design are recommended.",
+      "tags": [
+        "smartwatch",
+        "consumer electronics",
+        "beginner",
+        "budget"
+      ]
+    },
+    {
+      "id": "d6b8020d60ca24f9",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwLU1nQUZQZ0d4TF82MmxkZ3lLR09UNGRMMzdJcnROMzN1azRWZU10LXBmQVo3NEFIaFYzM1NnamcwbnVCT2xIVWRBaFJmblFTRUhUb0pZRDRKaXViR0E?oc=5",
+      "source": "Google News - robot",
+      "published_at": "2026-07-11T11:02:00+00:00",
+      "lang": "en",
+      "image": null,
+      "category": "home",
+      "title_ja": "プール清掃ロボット、自己清掃機能も搭載",
+      "title_en": "Pool Cleaning Robot Also Features Self-Cleaning Function",
+      "summary_ja": "このプール清掃ロボットは、プールをきれいにするだけでなく、自身の清掃も自動で行います。",
+      "summary_en": "This pool cleaning robot not only cleans the pool but also automatically cleans itself.",
+      "tags": [
+        "pool",
+        "cleaning",
+        "robot",
+        "home"
+      ]
+    },
+    {
+      "id": "ce37bf94ff021a80",
+      "url": "https://gigazine.net/news/20260711-nikon-small-world-exhibition/",
+      "source": "GIGAZINE",
+      "published_at": "2026-07-11T11:00:00+00:00",
+      "lang": "ja",
+      "image": "https://i.gzn.jp/img/2026/07/11/nikon-small-world-exhibition/00.jpg",
+      "category": "service",
+      "title_ja": "ニコン、顕微鏡写真展「ミクロの世界」を東京で開催",
+      "title_en": "Nikon to Hold Microscopic Photography Exhibition 'The World of the Micro' in Tokyo",
+      "summary_ja": "ニコンは顕微鏡事業101周年を記念し、ミクロの世界の美しさを捉えた写真展を東京写真美術館で開催します。",
+      "summary_en": "Nikon will hold a special exhibition showcasing the beauty of the microscopic world in Tokyo to commemorate the 101st anniversary of its microscope business.",
+      "tags": [
+        "Nikon",
+        "microscope",
+        "photography",
+        "exhibition"
+      ]
+    },
+    {
+      "id": "da188d7c33fcb655",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWDZibkFJc0o1dnY5SjhaTERYYVhzTDV3RGliaW9mU0JBTnkyZU9NdzZ5azBTLVh5V2NmNWlXblRHVGFYYzhqQk9FWE55YmVoTERuU3ZVQWtBQldTZmp5ak1XOVVzY2RaTmtCQmEwOUlhVjM5ZVd6SVdlQ0NoN19DMlgwaE1GWmRZT2l5RFRWV0VSTk4tY2c?oc=5",
+      "source": "Google News - robot",
+      "published_at": "2026-07-11T11:00:00+00:00",
+      "lang": "en",
+      "image": null,
+      "category": "service",
+      "title_ja": "米国初のロボット支援乳房切除術、ロボット「キャロル」が実施",
+      "title_en": "US First Robotic Nipple-Sparing Mastectomy Performed by Robot 'Carol'",
+      "summary_ja": "米国で初めて、ロボット「キャロル」が単孔式乳房切除術を実施し、患者の回復を早めることを目指しています。",
+      "summary_en": "In the US, the robot 'Carol' performed the first single-port nipple-sparing mastectomy, aiming for faster patient recovery.",
+      "tags": [
+        "medical",
+        "robotics",
+        "surgery",
+        "healthcare"
+      ]
+    },
+    {
+      "id": "c9260f693707e716",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PN1hweGhtc0M2RFAzN3ZaSzE0eEhrTUxTLTlHaHhEeUVvY2NSRUY1dzd2Rk9zWlpsRG9ZOUdHcGxUTkUxTDlRRDU0cFp0cGJWR3EteUtwQQ?oc=5",
+      "source": "Google News - 軍事ドローン",
+      "published_at": "2026-07-11T10:38:20+00:00",
+      "lang": "ja",
+      "image": null,
+      "category": "military",
+      "title_ja": "ウクライナ軍、長距離攻撃司令部新設へ",
+      "title_en": "Ukraine to Establish Long-Range Attack Command",
+      "summary_ja": "ウクライナ軍は、長距離攻撃司令部を新設し、無人機と砲兵を一体運用する統合即応部隊を創設する方針です。",
+      "summary_en": "Ukraine's military plans to establish a new Long-Range Attack Command and an integrated rapid response unit for unified drone and artillery operations.",
+      "tags": [
+        "military",
+        "drones",
+        "artillery",
+        "Ukraine"
+      ]
+    },
+    {
+      "id": "3f0a4fbdf2e02af5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02SmhOTHU1SzlaQVBna3dLZ0FESi1MVHJiX0VpYVN6NEJRd0txWWtyeFprWVYzNnJXZkJacGlsWnVPY0c1SWZoM3RwMzZ1dlpIc3VHSEFDTnJoNEw3ejVPSWNwcndubGthUVI3bG85bWJnLU1nMlpkM3VBZm5hZUU?oc=5",
+      "source": "Google News - 軍事ドローン",
+      "published_at": "2026-07-11T10:37:59+00:00",
+      "lang": "ja",
+      "image": null,
+      "category": "military",
+      "title_ja": "ウクライナ軍、長距離攻撃司令部新設へ",
+      "title_en": "Ukraine to Establish Long-Range Attack Command",
+      "summary_ja": "ウクライナ軍は、長距離攻撃司令部を新設し、無人機と砲兵を一体運用する統合即応部隊を創設する方針です。",
+      "summary_en": "Ukraine's military plans to establish a new Long-Range Attack Command and create an integrated rapid response unit for unified drone and artillery operations.",
+      "tags": [
+        "military",
+        "drones",
+        "artillery",
+        "Ukraine"
+      ]
+    },
+    {
+      "id": "ea3819773434ed84",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5rUDNTXzc1dWk0cndNcGFSUmJObDJUTV93T2YtZWxxN0JQWXJpLWlvcVFTQ25RVUJDdEh0RnhQeW8wN3NIZ0JSZ0tROA?oc=5",
+      "source": "Google News - 軍事ドローン",
+      "published_at": "2026-07-11T10:25:18+00:00",
+      "lang": "ja",
+      "image": null,
+      "category": "military",
+      "title_ja": "海自の異形無人機、護衛艦にピタリ着艦",
+      "title_en": "MSDF's 'Unconventional' Unmanned Aircraft Lands Precisely on Escort Ship",
+      "summary_ja": "海上自衛隊の無人機が護衛艦への着艦に成功し、そのユニークな運用方法が注目されています。",
+      "summary_en": "An unmanned aircraft of the Japan Maritime Self-Defense Force has successfully landed on an escort ship, drawing attention to its unique operational methods.",
+      "tags": [
+        "military",
+        "drone",
+        "Japan",
+        "navy"
+      ]
+    },
+    {
+      "id": "c928c911c24f0d52",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE12R1I1d0lNWGp3M0t0Y2FpcC11NEhOYjZGdVltQXo4a2hnNTFUU0lDVkxFdjdPQ3RRaGFtYWRReEItUFhxV3VfM3Nn?oc=5",
+      "source": "Google News - 軍事ドローン",
+      "published_at": "2026-07-11T10:12:00+00:00",
+      "lang": "ja",
+      "image": null,
+      "category": "military",
+      "title_ja": "海自の異形無人機、護衛艦にピタリ着艦",
+      "title_en": "JMSDF's Unique Unmanned Aircraft Lands Precisely on Escort Ship",
+      "summary_ja": "海上自衛隊の無人機が護衛艦に自動着艦する様子が公開され、そのユニークな運用方法が注目されています。",
+      "summary_en": "The Japan Maritime Self-Defense Force's unmanned aircraft has been shown to automatically land on escort ships, drawing attention for its unique operational methods.",
+      "tags": [
+        "military",
+        "drone",
+        "JMSDF",
+        "unmanned aircraft"
+      ]
+    },
+    {
+      "id": "bd72f9f0b9ca8ad0",
+      "url": "https://note.com/zhenren63/n/nb7810d941cdd",
+      "source": "note · zhenren63 (中国ロボ業界)",
+      "published_at": "2026-07-11T09:35:41+00:00",
+      "lang": "ja",
+      "image": "https://assets.st-note.com/production/uploads/images/293440558/rectangle_large_type_2_f726c49e6509636794b00195473d3561.png?width=800",
+      "category": "service",
+      "title_ja": "Unitree G1、人型ロボットによる世界初の生体手術を実証",
+      "title_en": "Unitree G1 Demonstrates World's First Live Animal Surgery by Humanoid Robot",
+      "summary_ja": "Unitreeの人型ロボットG1が、外科医による遠隔操作で生きた豚に手術を行い、汎用ロボットの医療応用可能性を示しました。",
+      "summary_en": "Unitree's humanoid robot G1, remotely operated by a surgeon, performed surgery on live pigs, demonstrating the potential for general-purpose robots in medical applications.",
+      "tags": [
+        "humanoid robot",
+        "medical",
+        "surgery",
+        "remote operation"
+      ],
+      "content": "2026年7月8日、米国カリフォルニア大学サンディエゴ校の研究チームが、Unitreeの人型ロボット「G1」を使った生体手術の研究成果を発表しました。外科医がG1を遠隔操作し、生きた豚2頭に対して腹腔鏡下胆のう摘出術を行ったものです。研究成果は国際科学誌『Nature』に掲載され、汎用人型ロボットによる生体内の低侵襲手術として、世界初の事例と位置づけられています。\n\n![図](https://assets.st-note.com/img/1783760728-o5cESQqD6KjMgm2IXdBCvaUL.png)\nhttps://www.nature.com/articles/s41586-026-10796-x\n\nこのニュースが注目された理由は、単に「ロボットが手術をしたから」ではありません。これまでのロボット手術では、Intuitive Surgicalの「ダヴィンチ」に代表される、手術専用に設計された大型システムが中心でした。これに対し今回使われたG1は、研究、教育、工場など幅広い用途を想定して販売されている汎用人型ロボットです。\nhttps://www.intuitive.com/en-us\nつまり今回の研究は、手術のためにゼロから専用ロボットを開発するのではなく、量産型の人型ロボットへ手術器具、遠隔操作装置、制御ソフトウェアを追加することで、医療現場へ応用できる可能性を示したものです。\n一方、中国メディアなどで使われている「人型ロボットが単独で手術に成功した」「2台のロボットだけで胆のうを摘出した」「安価なG1がダヴィンチを置き換える」といった表現には注意が必要です。\nG1が自ら手術方法を判断したわけではありません。実際に操作したのは人間の外科医であり、手術の一部工程では人間の助手も作業しています。また、今回行われたのは人間を対象とした臨床試験ではなく、生きた豚を使った前臨床の動物実験です。\nそれでも、この研究の価値が小さいわけではありません。G1は手動の腹腔鏡操作より良い成績を示した試験がある一方、専用手術ロボットのダヴィンチXiと比べると、作業速度、曲線動作の精度、安定性に大きな差がありました。さらに、滅菌、発熱、腕の短さ、再校正、通信遅延など、手術室で利用するための現実的な課題も明らかになっています。\n本記事では、Unitree G1が胆のう摘出術のどこまでを担当したのか、ダヴィンチと比べて性能や価格にどの程度の差があるのか、そして汎用人型ロボットの医療応用が日本企業にどのような事業機会を生むのかを、研究内容に沿って詳しく整理します。\nなぜ手術専用ロボットではなく、Unitree G1だったのか\n\n![図](https://assets.st-note.com/img/1783761531-VXO1jxbIlZQKA3zR9eGBWLJ6.png)",
+      "images": [
+        "https://assets.st-note.com/img/1783760728-o5cESQqD6KjMgm2IXdBCvaUL.png",
+        "https://assets.st-note.com/img/1783761531-VXO1jxbIlZQKA3zR9eGBWLJ6.png"
+      ],
+      "content_partial": true
+    },
+    {
+      "id": "544a1c6dc528bc4f",
+      "url": "https://www.theverge.com/reviews/963814/joolca-hottap-portable-shower-review",
+      "source": "The Verge",
+      "published_at": "2026-07-11T07:00:00+00:00",
+      "lang": "en",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/IMG_2100.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "category": "service",
+      "title_ja": "ポータブルシャワーは700ドル",
+      "title_en": "$700 Portable Shower for the Outdoors",
+      "summary_ja": "野外活動や過酷な環境での利用を想定した、高価なポータブルシャワーが登場しました。",
+      "summary_en": "A high-priced portable shower is available for outdoor activities and harsh environments.",
+      "tags": [
+        "outdoor",
+        "camping",
+        "convenience"
+      ]
+    },
+    {
+      "id": "7fd5794571af72b3",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTzk4aHF4NHl1MjBHV0ZLcnBfOUFZblZEZEY2d0FpU0IzWVJLVXh1eXJWMUVaZ1pJWmIzRUNXUElIWTZ3UUFWclhZUXJOdXF3R3M3eHRSelBSQXZkTHA4a2pfS2IyTEVISll2Y1F3TmlleWZ3UUNNc3pQRTNUcEtSYWY0ekhPZG5fR3VSekV1czZLY3RkMEEzUEt5aFFxRGdHOXZPcDl3TDZFajVJWkI5YTBjd3pxcm8zVUx4b2NGaFp1ZDJodzRJMEFBZXlSLVowNmljd2dDVWpSOFE?oc=5",
+      "source": "Google News - robot",
+      "published_at": "2026-07-11T05:00:00+00:00",
+      "lang": "en",
+      "image": null,
+      "category": "service",
+      "title_ja": "ロボットハンド開発競争と海の癒やし効果",
+      "title_en": "The Race to Develop Robotic Hands and the Sea as Medicine for the Brain",
+      "summary_ja": "ロボットハンド開発競争と、脳の健康に海がもたらす癒やし効果について論じています。",
+      "summary_en": "This article discusses the competitive race to develop robotic hands and the therapeutic benefits of the sea for brain health.",
+      "tags": [
+        "robotics",
+        "healthcare",
+        "technology"
+      ]
+    },
+    {
+      "id": "27dc68efa31c4c70",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONFhraEl0MHZoRks5X2NnRU5vbDIycFo0TmlndXlsQnhhcEVkcm9qTWFNRlFIMXZqNWhLUUcyZVdlTlFYOUQ2T2pvcnlRUHlZaEU3aUE3b3V4bmt6MFNUYTd5SW5LZTR5UGFrLXpCeXZ0UThJa1N0cUFQYmZPSnNFazRlREdCeGtr?oc=5",
+      "source": "Google News - robot",
+      "published_at": "2026-07-11T04:01:08+00:00",
+      "lang": "en",
+      "image": null,
+      "category": "industrial",
+      "title_ja": "中国のロボット化で置き去りにされた労働者",
+      "title_en": "China's Robot Drive Leaves Workers Behind",
+      "summary_ja": "中国の製造業におけるロボット導入の加速は、多くの労働者を職から追いやる結果となっています。",
+      "summary_en": "China's accelerated adoption of robots in manufacturing is leading to widespread job displacement for human workers.",
+      "tags": [
+        "automation",
+        "china",
+        "labor",
+        "manufacturing"
+      ]
+    },
+    {
+      "id": "30a3784b6d741248",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DV1ItNjlpWGdsRjNuUXBLdGpRT1ZjbTBvTGNaYlNEY0ZjZnQ4cmE0SG4wNTR5cUdRampMXzhTMUNIRU9SMlJfbUhkdXd1QTN3LXowNXdnWWZyUGxKei1ZRWFLVjhLODJ2c1h2dDh6VVUwSjlXWXBOOC1QZmQ5YXM?oc=5",
+      "source": "Google News - ロボット",
+      "published_at": "2026-07-11T02:00:00+00:00",
+      "lang": "ja",
+      "image": null,
+      "category": "service",
+      "title_ja": "AIロボット：家事・介護から未来の暮らしまで",
+      "title_en": "AI Robots: From Household Chores and Caregiving to Our Future Lives",
+      "summary_ja": "家事全般から介護まで、市場規模60兆円のAIロボット開発現場に潜入し、未来の暮らしの変化を探る。",
+      "summary_en": "An inside look at the development of AI robots, covering everything from household chores to elder care, exploring how they will change our future lives in a market worth 60 trillion yen.",
+      "tags": [
+        "AI",
+        "robotics",
+        "future",
+        "caregiving"
+      ]
+    },
     {
       "id": "c94e9f28d43dc4ed",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ueVRWV3N5ajFsLTdzN3R5cDRQcG5oOGhYN0VWV1lEX2pCTm1rV0hrc0p0QVdHaXN1OVJEZjFnaVNXVndQTGZCQWVoVHJhei1rLThpczNoYVhFc1Vla0xvelZKSlRLcE91?oc=5",
@@ -527,7 +1269,12 @@
       "summary_en": "Xiaomiが再びヒューマノイドロボットを表に出してきました。2026年4月27日の投資家向けイベントで、新型の人型ロボットを披露したと報じられています。現場では参加者とやり取りし、紙袋を渡し、指でハートを作るようなジェスチャーも見せたようです。報道では、2022年に発表されたCyberOneの人型設計を引き継ぎ、暗いグレー系の外装にXiaomiのロゴが入った機体だったとされています。小米側は現時点で、詳細な仕様や価格、量産計画を公表していません。ここはまず押さえておく必要が",
       "tags": [
         "sample"
-      ]
+      ],
+      "content": "Xiaomiが再びヒューマノイドロボットを表に出してきました。2026年4月27日の投資家向けイベントで、新型の人型ロボットを披露したと報じられています。現場では参加者とやり取りし、紙袋を渡し、指でハートを作るようなジェスチャーも見せたようです。報道では、2022年に発表されたCyberOneの人型設計を引き継ぎ、暗いグレー系の外装にXiaomiのロゴが入った機体だったとされています。小米側は現時点で、詳細な仕様や価格、量産計画を公表していません。ここはまず押さえておく必要があります。デモ映像だけで、製品化の段階を過大評価してはいけません。\nシャオミの最新のヒューマノイドロボットが公開されてます。どこか見たことのある動作や pic.twitter.com/nyAZg2ld5U\n— 吉川真人🇯🇵深セン (@mako_63) April 29, 2026\n\nただし、今回の再登場には意味があります。Xiaomiが人型ロボットを単なる未来展示として終わらせず、EV工場や製造現場と結びつけ始めているからです。紙袋を渡す動きだけなら、展示会向けの演出に見えます。ハートポーズも、SNSで拡散しやすい動作です。\nしかし、同社は今年に入り、自社の自動車工場でロボットの実証を始めたと説明しています。ここに今回の記事の中心があります。見るべき場所は、投資家イベントのステージではありません。XiaomiのEV工場です。\nご存知の通り、Xiaomiはもともとスマホ企業として成長しました。そこからスマート家電、ウェアラブル、IoT、EVへ広がり、いまロボットに踏み込んでいます。この流れを単なる多角化と見ると、焦点がぼやけます。\nより正確には、同社は人が使うデバイスから人がいる空間へ事業領域を広げています。スマホは手元の入口です。EVは移動空間です。スマート家電は家庭空間です。ヒューマノイドロボットは、製造現場や生活空間に入る実行装置です。Xiaomiがここを狙うのは、自然な拡張です。\n\nCyberOneから工場実証への4年間\n\n![図](https://assets.st-note.com/img/1777469901-LDPz4YJau8EshwMrZ5BTRS9j.png)\n\n2022年に登場したCyberOneは、Xiaomiが人型ロボットを作れることを示す象徴的な機体でした。身長や重量、歩行、姿勢制御、深度視覚、人物認識などが話題になり、私は当日ライブ配信でCyberOneが現れる様子を当時の意味は、商用導入というより、技術ショーケースに近いものでした。Xiaomiもロボットを作れる。スマホや家電だけではなく、身体を持つAIにも進む。その宣言としては十分でした。\n今回の新型機は、そこから少し焦点が変わっています。報道で最も強調されている差分は、デクストラスハンドです。歩けるかどうかより、手で何ができるか。これはヒューマノイドロボット産業全体の論点とも重なります。人型ロボットは、歩行動画では注目を集めます。\nしかし、工場や物流で価値を出すには、手先で作業できなければなりません。つかむ、向きを変える、差し込む、押さえる、渡す。現場で必要なのは、派手な運動能力ではなく、地味な手作業の再現です。\n紙袋を渡す動作は簡単に見えます。ただ、ロボットにとっては単純ではありません。相手との距離を測る必要があります。袋の柔らかさを扱う必要があります。つかむ力を強くしすぎても弱すぎても失敗します。相手が受け取るタイミングも読みます。\nこの動作だけで商用価値を判断することはできませんが、Xiaomiが「人と物の受け渡し」を見せたことには意味があります。人型ロボットの実用化は、最終的には人間が使ってきた道具、棚、部品、作業台にどう触れるかにかかっているからです。\nこの4年間を「Xiaomiがロボットで沈黙していた期間」と見るのは浅いです。同社はその間にEV事業を立ち上げ、自社工場を持ちました。ロボットにとって、これは大きな変化です。外に売る前に、自社の製造現場で試せるようになったからです。\nXiaomiの本命としてのEV工場\nXiaomiのロボットで最も見るべきなのは、自動車工場での実証です。雷軍氏は2026年3月、Xiaomiのロボットが自動車工場で作業を始めたと発信しています。対象として挙げられているのは、セルフタッピングナットの供給・装着工程や、ケース搬送です。さらに一部報道では、ロボットがセルフタッピングナット装着工程で3時間自律稼働し、作業成功率が90.2％、平均サイクルが76秒だったとされています。",
+      "images": [
+        "https://assets.st-note.com/img/1777469901-LDPz4YJau8EshwMrZ5BTRS9j.png"
+      ],
+      "content_partial": true
     },
     {
       "id": "3e1eb04c2cbea4ba",
