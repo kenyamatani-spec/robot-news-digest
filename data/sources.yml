@@ -82,6 +82,61 @@ sources:
     url: https://note.com/hashtag/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/rss
     lang: ja
     hint: []
+    fulltext: true
+
+  - name: note · ハッシュタグ「ロボティクス」
+    url: https://note.com/hashtag/%E3%83%AD%E3%83%9C%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9/rss
+    lang: ja
+    hint: []
+    fulltext: true
+
+  - name: note · ハッシュタグ「人型ロボット」
+    url: https://note.com/hashtag/%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/rss
+    lang: ja
+    hint: [industrial, service]
+    fulltext: true
+
+  - name: note · ハッシュタグ「産業用ロボット」
+    url: https://note.com/hashtag/%E7%94%A3%E6%A5%AD%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/rss
+    lang: ja
+    hint: [industrial]
+    fulltext: true
+
+  - name: note · ハッシュタグ「フィジカルAI」
+    url: https://note.com/hashtag/%E3%83%95%E3%82%A3%E3%82%B8%E3%82%AB%E3%83%ABAI/rss
+    lang: ja
+    hint: [industrial]
+    fulltext: true
+
+  - name: note · ハッシュタグ「具身知能」
+    url: https://note.com/hashtag/%E5%85%B7%E8%BA%AB%E7%9F%A5%E8%83%BD/rss
+    lang: ja
+    hint: [industrial]
+    fulltext: true
+
+  - name: note · ハッシュタグ「介護ロボット」
+    url: https://note.com/hashtag/%E4%BB%8B%E8%AD%B7%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/rss
+    lang: ja
+    hint: [service]
+    fulltext: true
+
+  - name: note · ハッシュタグ「農業ロボット」
+    url: https://note.com/hashtag/%E8%BE%B2%E6%A5%AD%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/rss
+    lang: ja
+    hint: [industrial]
+    fulltext: true
+
+  - name: note · hashtag "robotics"
+    url: https://note.com/hashtag/robotics/rss
+    lang: en
+    hint: []
+    fulltext: true
+
+  - name: note · hashtag "humanoid"
+    url: https://note.com/hashtag/humanoid/rss
+    lang: en
+    hint: [industrial, service]
+    fulltext: true
 
   # --- Breadth: Google News (no images but topical coverage) ---
   - name: Google News - ロボット
