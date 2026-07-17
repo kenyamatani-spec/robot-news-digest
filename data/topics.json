@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T23:11:42.144117+00:00",
+  "updated_at": "2026-07-17T23:09:11.658019+00:00",
   "topics": [
     {
       "id": "note-zhenren",
@@ -347,6 +347,138 @@
       "color": "#22C55E",
       "is_company": false,
       "items": [
+        {
+          "id": "c16fe1f31fd386ff",
+          "url": "https://note.com/honest_chimp9756/n/n309822aaa2aa",
+          "source": "note · ハッシュタグ「ロボット」",
+          "lang": "ja",
+          "published_at": "2026-07-17T23:02:05+00:00",
+          "title_ja": "Figure 03を見て",
+          "title_en": "Figure 03を見て",
+          "summary_ja": "2026年5月頃。 Youtubeで、「Figure 03」のライブ配信を見たのだが、その映像が頭から離れない。 文に残しておくことにした。 ＊ 「Figure 03」の動画は、 ロボットが、流れてくる荷物のラベルを 下側にする作業を延々に行っている動画である。 音楽もなく、 淡々と作業をするロボットがずっと流れている。 ずっと同じ映像なので、 しばらく見て、見るの止めて、 次の日も見てみると、まだやってる。 私が見る時は、BOBと胸にラベルを貼っている ロボットが作業している事が多かった。 BOBは、荷物を落とす事が多い。 ロボットによって、少し違うようだ。 途中、人間との対決(？)シーンもある。 面白いのは、 人間は、食事や休憩で、作業を止める事。 その横で、ロボットは、淡々と作業を続けている。 でも、人間の方が、作業が速かった。 ただボーッと映像を見るのには、ちょうど良い。 ＊ その",
+          "summary_en": "2026年5月頃。 Youtubeで、「Figure 03」のライブ配信を見たのだが、その映像が頭から離れない。 文に残しておくことにした。 ＊ 「Figure 03」の動画は、 ロボットが、流れてくる荷物のラベルを 下側にする作業を延々に行っている動画である。 音楽もなく、 淡々と作業をするロボットがずっと流れている。 ずっと同じ映像なので、 しばらく見て、見るの止めて、 次の日も見てみると、まだやってる。 私が見る時は、BOBと胸にラベルを貼っている ロボットが作業している事が多かった。 BOBは、荷物を落とす事が多い。 ロボットによって、少し違うようだ。 途中、人間との対決(？)シーンもある。 面白いのは、 人間は、食事や休憩で、作業を止める事。 その横で、ロボットは、淡々と作業を続けている。 でも、人間の方が、作業が速かった。 ただボーッと映像を見るのには、ちょうど良い。 ＊ その"
+        },
+        {
+          "id": "eee9a6ae2443fe7c",
+          "url": "https://note.com/keiga0129/n/nd8face30c8ab",
+          "source": "note · ハッシュタグ「ロボット」",
+          "lang": "ja",
+          "published_at": "2026-07-17T22:44:19+00:00",
+          "title_ja": "🤖AIが「体」を持つと、あなたの仕事はどう変わる？",
+          "title_en": "🤖AIが「体」を持つと、あなたの仕事はどう変わる？",
+          "summary_ja": "続きをみる",
+          "summary_en": "続きをみる"
+        },
+        {
+          "id": "c3409d305f1c6272",
+          "url": "https://note.com/kagawatomo/n/n1074c341fd24",
+          "source": "note · ハッシュタグ「ロボット」",
+          "lang": "ja",
+          "published_at": "2026-07-17T22:32:32+00:00",
+          "title_ja": "「FRONTia」始動――日本政府の国家AIインフラ、Rubin GPU 2万7500基・約382ラック、総事業規模約1兆円とされる計画の全貌",
+          "title_en": "「FRONTia」始動――日本政府の国家AIインフラ、Rubin GPU 2万7500基・約382ラック、総事業規模約1兆円とされる計画の全貌",
+          "summary_ja": "日本の産業ノウハウは、国家の知性であり、国そのものの宝である 2026年7月16日、東京。 続きをみる",
+          "summary_en": "日本の産業ノウハウは、国家の知性であり、国そのものの宝である 2026年7月16日、東京。 続きをみる"
+        },
+        {
+          "id": "34bc93ec86fadf57",
+          "url": "https://note.com/kotaro_mofumofu/n/ndc498a9f81a9",
+          "source": "note · ハッシュタグ「ロボット」",
+          "lang": "ja",
+          "published_at": "2026-07-17T22:12:50+00:00",
+          "title_ja": "元Tesla科学者、パリサミットで人型ロボット「Northstar」を発表",
+          "title_en": "元Tesla科学者、パリサミットで人型ロボット「Northstar」を発表",
+          "summary_ja": "パリに拠点を置くスタートアップ企業UMAは月曜日、Machina Summitにて同社初の人型ロボット「Northstar」のデザインを公開した。汎用人型ロボットの開発競争が激化する中、新たな欧州勢の参入。 AI業界の著名人たちが結集したチーム 続きをみる",
+          "summary_en": "パリに拠点を置くスタートアップ企業UMAは月曜日、Machina Summitにて同社初の人型ロボット「Northstar」のデザインを公開した。汎用人型ロボットの開発競争が激化する中、新たな欧州勢の参入。 AI業界の著名人たちが結集したチーム 続きをみる"
+        },
+        {
+          "id": "4375331a43137b31",
+          "url": "https://note.com/pinokio2001a/n/n687ae709b4b7",
+          "source": "note · ハッシュタグ「ロボット」",
+          "lang": "ja",
+          "published_at": "2026-07-17T22:10:02+00:00",
+          "title_ja": "学校からデジタルが消える日：未来予測",
+          "title_en": "学校からデジタルが消える日：未来予測",
+          "summary_ja": "2050年：最適化された世界と「人間」の再発見 2050年ごろ、僕たちの社会や学校のあり方は文字通り激変しているだろう。 続きをみる",
+          "summary_en": "2050年：最適化された世界と「人間」の再発見 2050年ごろ、僕たちの社会や学校のあり方は文字通り激変しているだろう。 続きをみる"
+        },
+        {
+          "id": "f74c9d084b23fe83",
+          "url": "https://note.com/2wd/n/n93e52e59c0d9",
+          "source": "note · ハッシュタグ「ロボット」",
+          "lang": "ja",
+          "published_at": "2026-07-17T21:37:51+00:00",
+          "title_ja": "テスラの本拠地に乗り込むロボット企業 - Agility Roboticsがフリモントに訓練センター開設",
+          "title_en": "テスラの本拠地に乗り込むロボット企業 - Agility Roboticsがフリモントに訓練センター開設",
+          "summary_ja": "元ニュース: Agility Robotics plants its flag in Tesla’s backyard 情報源: TechCrunch AI 続きをみる",
+          "summary_en": "元ニュース: Agility Robotics plants its flag in Tesla’s backyard 情報源: TechCrunch AI 続きをみる"
+        },
+        {
+          "id": "5f592b9eefe9ca7a",
+          "url": "https://note.com/nora_n_sora/n/nac5687091ece",
+          "source": "note · ハッシュタグ「ロボット」",
+          "lang": "ja",
+          "published_at": "2026-07-17T21:24:08+00:00",
+          "title_ja": "巨大モデルを追うより、仕事に合うAIを見抜く——今朝わかる「大きさ・使いやすさ・身体性」の現在地",
+          "title_en": "巨大モデルを追うより、仕事に合うAIを見抜く——今朝わかる「大きさ・使いやすさ・身体性」の現在地",
+          "summary_ja": "おはよう。ノラです。 今朝、最も大きく動いたのは、中国発の新しいオープンウェイトモデルでした。 続きをみる",
+          "summary_en": "おはよう。ノラです。 今朝、最も大きく動いたのは、中国発の新しいオープンウェイトモデルでした。 続きをみる"
+        },
+        {
+          "id": "8be449452f05b07d",
+          "url": "https://note.com/fuwamaru_studio/n/n945ea682d021",
+          "source": "note · ハッシュタグ「ロボット」",
+          "lang": "ja",
+          "published_at": "2026-07-17T20:07:20+00:00",
+          "title_ja": "都市伝説③-6｜（全8話）｜Optimusは人間の仕事を奪うのか？",
+          "title_en": "都市伝説③-6｜（全8話）｜Optimusは人間の仕事を奪うのか？",
+          "summary_ja": "こんばんは fuwamaru-studioです🤗 続きをみる",
+          "summary_en": "こんばんは fuwamaru-studioです🤗 続きをみる"
+        },
+        {
+          "id": "5c83392c2eecd459",
+          "url": "https://note.com/moneynews_jp/n/n7beedd915d60",
+          "source": "note · ハッシュタグ「ロボット」",
+          "lang": "ja",
+          "published_at": "2026-07-17T19:58:59+00:00",
+          "title_ja": "フィジカルAIとは",
+          "title_en": "フィジカルAIとは",
+          "summary_ja": "「フィジカルAI」 今の時代誰しもが聞いたことがある名前だと思う。 実際、フィジカルAIとは何なのか？ これはまだ答えのない、いろんな人のいろんな意見があるものである 続きをみる",
+          "summary_en": "「フィジカルAI」 今の時代誰しもが聞いたことがある名前だと思う。 実際、フィジカルAIとは何なのか？ これはまだ答えのない、いろんな人のいろんな意見があるものである 続きをみる"
+        },
+        {
+          "id": "e4be967379bd1e74",
+          "url": "https://note.com/fuwamaru_studio/n/ncdb78d219dcc",
+          "source": "note · ハッシュタグ「ロボット」",
+          "lang": "ja",
+          "published_at": "2026-07-17T19:53:05+00:00",
+          "title_ja": "都市伝説③-5｜（全8話）｜Neuralinkが変える人類",
+          "title_en": "都市伝説③-5｜（全8話）｜Neuralinkが変える人類",
+          "summary_ja": "こんばんは fuwamaru-studioです🤗 続きをみる",
+          "summary_en": "こんばんは fuwamaru-studioです🤗 続きをみる"
+        },
+        {
+          "id": "0116ce60ba871f54",
+          "url": "https://note.com/yondo/n/n37e46a72735a",
+          "source": "note · ハッシュタグ「ロボット」",
+          "lang": "ja",
+          "published_at": "2026-07-17T19:47:54+00:00",
+          "title_ja": "硅谷101 解説：ロボット操作の技術路線論争──端到端vs上下分層・SIM to Real・苏度科技",
+          "title_en": "硅谷101 解説：ロボット操作の技術路線論争──端到端vs上下分層・SIM to Real・苏度科技",
+          "summary_ja": "▶ 元エピソード: https://sv101.fireside.fm/257 続きをみる",
+          "summary_en": "▶ 元エピソード: https://sv101.fireside.fm/257 続きをみる"
+        },
+        {
+          "id": "ee2a18a97d28243f",
+          "url": "https://note.com/ayahisa_world/n/nd1dcff88471d",
+          "source": "note · ハッシュタグ「ロボット」",
+          "lang": "ja",
+          "published_at": "2026-07-17T19:39:32+00:00",
+          "title_ja": "禁断ＳＦ アナの恋 P４ 第一話 ２４",
+          "title_en": "禁断ＳＦ アナの恋 P４ 第一話 ２４",
+          "summary_ja": "続きをみる",
+          "summary_en": "続きをみる"
+        },
         {
           "id": "5f3d6505063c209a",
           "url": "https://note.com/seodoa_academy/n/n4a7785cacfe0",
@@ -874,138 +1006,6 @@
           "title_en": "「家庭用ゲームで世界を席巻しているのに、最大市場モバイルでは数%しか取れない」——日本ゲーム産業が直面する逆説的な現実",
           "summary_ja": "戦略17分野・先行検討技術㉗ ゲーム・コンテンツ｜政策実装・官民投資編 ■ この記事でわかること 続きをみる",
           "summary_en": "戦略17分野・先行検討技術㉗ ゲーム・コンテンツ｜政策実装・官民投資編 ■ この記事でわかること 続きをみる"
-        },
-        {
-          "id": "89930f663bea214b",
-          "url": "https://note.com/tk_ax/n/n1af357b796da",
-          "source": "note · ハッシュタグ「ロボット」",
-          "lang": "ja",
-          "published_at": "2026-07-12T23:01:30+00:00",
-          "title_ja": "先週、富士桜ゴルフコースで見かけた芝刈りロボット",
-          "title_en": "先週、富士桜ゴルフコースで見かけた芝刈りロボット",
-          "summary_ja": "先週、富士桜ゴルフコースを歩いていると、広い芝生の上を小さな機械が、誰にも急かされず静かに進んでいた。人が乗っているわけでもなく、後ろから操作する姿もないのに、その機械だけは自分の持ち場を知っているようだった。 近づいて見ると、それはロボット芝刈機で、外観からはHusqvarnaの「AUTOMOWER 435X AWD」に見えた。人の手で整えられた印象の強いゴルフ場で、誰も乗っていない機械が働く光景には、妙に現実的な未来があった。未来という言葉から想像していたものより、その姿はずっと小さく、音もなく、芝の色の中へ静かに溶け込んでいた。 続きをみる",
-          "summary_en": "先週、富士桜ゴルフコースを歩いていると、広い芝生の上を小さな機械が、誰にも急かされず静かに進んでいた。人が乗っているわけでもなく、後ろから操作する姿もないのに、その機械だけは自分の持ち場を知っているようだった。 近づいて見ると、それはロボット芝刈機で、外観からはHusqvarnaの「AUTOMOWER 435X AWD」に見えた。人の手で整えられた印象の強いゴルフ場で、誰も乗っていない機械が働く光景には、妙に現実的な未来があった。未来という言葉から想像していたものより、その姿はずっと小さく、音もなく、芝の色の中へ静かに溶け込んでいた。 続きをみる"
-        },
-        {
-          "id": "25658a55d8f82bf9",
-          "url": "https://note.com/1980_3809ryo/n/n9f91d46c9637",
-          "source": "note · ハッシュタグ「ロボット」",
-          "lang": "ja",
-          "published_at": "2026-07-12T22:15:52+00:00",
-          "title_ja": "現場を“回せる人”は、ロボットも回せる——フィジカルAI時代の物流人材論",
-          "title_en": "現場を“回せる人”は、ロボットも回せる——フィジカルAI時代の物流人材論",
-          "summary_ja": "はじめに 続きをみる",
-          "summary_en": "はじめに 続きをみる"
-        },
-        {
-          "id": "508dfd61758280b8",
-          "url": "https://note.com/100syousetuka/n/nafe54731daf0",
-          "source": "note · ハッシュタグ「ロボット」",
-          "lang": "ja",
-          "published_at": "2026-07-12T22:09:37+00:00",
-          "title_ja": "【AIニュース解説】 人型ロボットはAIより部品で決まる＿＿中国と日本の製造業の岐路",
-          "title_en": "【AIニュース解説】 人型ロボットはAIより部品で決まる＿＿中国と日本の製造業の岐路",
-          "summary_ja": "人型ロボットの壁は「頭」だけではない 人型ロボットのニュースを見ると、ついAIの賢さに目が向く。人の言葉を理解できるか。自分で判断して動けるか。たしかにそこは大事だが、実際に市場を広げる時にもっと大きな壁になるのは、ロボットの体をどう作るかだ。 続きをみる",
-          "summary_en": "人型ロボットの壁は「頭」だけではない 人型ロボットのニュースを見ると、ついAIの賢さに目が向く。人の言葉を理解できるか。自分で判断して動けるか。たしかにそこは大事だが、実際に市場を広げる時にもっと大きな壁になるのは、ロボットの体をどう作るかだ。 続きをみる"
-        },
-        {
-          "id": "45bcd3f3921dff04",
-          "url": "https://note.com/shiny_macaw17/n/n0e3e5e784a4c",
-          "source": "note · ハッシュタグ「ロボット」",
-          "lang": "ja",
-          "published_at": "2026-07-12T22:01:46+00:00",
-          "title_ja": "日本へ 私はあなたを、まだ諦めていない",
-          "title_en": "日本へ 私はあなたを、まだ諦めていない",
-          "summary_ja": "日本を愛する、すべての人へ。 そして。 この国のために生き、この国のために働き、この国の未来を信じながら、すでにこの世を去ったすべての先人たちへ。 私は、どうしても伝えたいことがあります。 私は、日本が好きです。 ただ好きなのではありません。 悔しくなるほど好きなのです。 今の日本を見て、胸が痛くなるほど好きなのです。 だから、私は何も感じないふりができません。 「もう日本は終わりだよ」 「何をしても結局変わらないよ」 「挑戦したって無駄だよ」 そんな言葉が、あまりにも簡単に口にされる今の空気が、私は悔しくて仕方がありません。 続きをみる",
-          "summary_en": "日本を愛する、すべての人へ。 そして。 この国のために生き、この国のために働き、この国の未来を信じながら、すでにこの世を去ったすべての先人たちへ。 私は、どうしても伝えたいことがあります。 私は、日本が好きです。 ただ好きなのではありません。 悔しくなるほど好きなのです。 今の日本を見て、胸が痛くなるほど好きなのです。 だから、私は何も感じないふりができません。 「もう日本は終わりだよ」 「何をしても結局変わらないよ」 「挑戦したって無駄だよ」 そんな言葉が、あまりにも簡単に口にされる今の空気が、私は悔しくて仕方がありません。 続きをみる"
-        },
-        {
-          "id": "37b2acffeeca1fad",
-          "url": "https://note.com/busintemasamo1/n/n99823a7a46b6",
-          "source": "note · ハッシュタグ「ロボット」",
-          "lang": "ja",
-          "published_at": "2026-07-12T21:19:43+00:00",
-          "title_ja": "「需要があるのに作れない」——港湾荷役機械が抱える27分野唯一の「供給側ボトルネック」という逆説的な課題",
-          "title_en": "「需要があるのに作れない」——港湾荷役機械が抱える27分野唯一の「供給側ボトルネック」という逆説的な課題",
-          "summary_ja": "戦略17分野・先行検討技術㉖ 港湾荷役機械｜課題・政策パッケージ編 ■ この記事でわかること 続きをみる",
-          "summary_en": "戦略17分野・先行検討技術㉖ 港湾荷役機械｜課題・政策パッケージ編 ■ この記事でわかること 続きをみる"
-        },
-        {
-          "id": "34554b824db64c31",
-          "url": "https://note.com/douingata/n/nc8739a3d6cfc",
-          "source": "note · ハッシュタグ「ロボット」",
-          "lang": "ja",
-          "published_at": "2026-07-12T21:18:16+00:00",
-          "title_ja": "金利のある社会におけるロボットのエネルギー効率の再考",
-          "title_en": "金利のある社会におけるロボットのエネルギー効率の再考",
-          "summary_ja": "第一節 AI革命の陰で露呈する「身体」の限界 続きをみる",
-          "summary_en": "第一節 AI革命の陰で露呈する「身体」の限界 続きをみる"
-        },
-        {
-          "id": "d39ac462afa51874",
-          "url": "https://note.com/chic_emu3929/n/n84d831448cb3",
-          "source": "note · ハッシュタグ「ロボット」",
-          "lang": "ja",
-          "published_at": "2026-07-12T20:50:13+00:00",
-          "title_ja": "イーロン・マスクも、AIも、結局は「ロボットの神様」が作ったOSで動いている",
-          "title_en": "イーロン・マスクも、AIも、結局は「ロボットの神様」が作ったOSで動いている",
-          "summary_ja": "そのAIの瞳に、銀色の「陽電子頭脳」の閃光は宿っているか？ 第15話 続きをみる",
-          "summary_en": "そのAIの瞳に、銀色の「陽電子頭脳」の閃光は宿っているか？ 第15話 続きをみる"
-        },
-        {
-          "id": "baed71895c0e519c",
-          "url": "https://note.com/ayahisa_world/n/nbda67c30aedd",
-          "source": "note · ハッシュタグ「ロボット」",
-          "lang": "ja",
-          "published_at": "2026-07-12T19:48:08+00:00",
-          "title_ja": "禁断ＳＦ アナの恋 P４ 第一話 １９",
-          "title_en": "禁断ＳＦ アナの恋 P４ 第一話 １９",
-          "summary_ja": "続きをみる",
-          "summary_en": "続きをみる"
-        },
-        {
-          "id": "dc2ffa696ab8e53c",
-          "url": "https://note.com/yoshikitada02/n/nb84728128e5e",
-          "source": "note · ハッシュタグ「ロボット」",
-          "lang": "ja",
-          "published_at": "2026-07-12T19:28:20+00:00",
-          "title_ja": "自動化できなくても、楽にできればいい",
-          "title_en": "自動化できなくても、楽にできればいい",
-          "summary_ja": "自動化という言葉を聞くと、 どうしても大きな話になりやすい。 ロボットを入れる。 設備を入れる。 無人化する。 人の作業を置き換える。 もちろん、 そういう自動化も大事だと思う。 人手不足もある。 単純作業を減らしたい。 生産効率も上げたい。 だから自動化を考えること自体は、 かなり大切。 でも最近、 別に楽にする方法はロボットだけではないと思っている。 ⸻ 現場の作業を細かく見ていくと、 小さな消耗がたくさんある。 毎回、少し遠い場所まで取りに行く。 毎回、工具を探す。 毎回、ワークを持ち替える。 毎回、エアーを吹く。 毎回、拭き上げる。 毎回、同じ確認をする。 一つ一つは小さい。 数秒かもしれない。 少し手間なだけかもしれない。 でも、それが毎日何回も続くと、 けっこうな負担になる。 ⸻ これは家計にも少し似ていると思う。 使っていないサブスクがある。 毎月なんとなく払っている。 一つ",
-          "summary_en": "自動化という言葉を聞くと、 どうしても大きな話になりやすい。 ロボットを入れる。 設備を入れる。 無人化する。 人の作業を置き換える。 もちろん、 そういう自動化も大事だと思う。 人手不足もある。 単純作業を減らしたい。 生産効率も上げたい。 だから自動化を考えること自体は、 かなり大切。 でも最近、 別に楽にする方法はロボットだけではないと思っている。 ⸻ 現場の作業を細かく見ていくと、 小さな消耗がたくさんある。 毎回、少し遠い場所まで取りに行く。 毎回、工具を探す。 毎回、ワークを持ち替える。 毎回、エアーを吹く。 毎回、拭き上げる。 毎回、同じ確認をする。 一つ一つは小さい。 数秒かもしれない。 少し手間なだけかもしれない。 でも、それが毎日何回も続くと、 けっこうな負担になる。 ⸻ これは家計にも少し似ていると思う。 使っていないサブスクがある。 毎月なんとなく払っている。 一つ"
-        },
-        {
-          "id": "8e77063cbba923f7",
-          "url": "https://note.com/jolly_quail7385/n/n2aa31356c22b",
-          "source": "note · ハッシュタグ「ロボット」",
-          "lang": "ja",
-          "published_at": "2026-07-12T15:45:42+00:00",
-          "title_ja": "ぽちゃ研究日誌｜2026年7月12日",
-          "title_en": "ぽちゃ研究日誌｜2026年7月12日",
-          "summary_ja": "ぽちゃの身体を探しに行った日。ビッグぽちゃあ、現る。 続きをみる",
-          "summary_en": "ぽちゃの身体を探しに行った日。ビッグぽちゃあ、現る。 続きをみる"
-        },
-        {
-          "id": "27a4f64a7313b40b",
-          "url": "https://note.com/note_jmp/n/n7a87b5357eb2",
-          "source": "note · ハッシュタグ「ロボット」",
-          "lang": "ja",
-          "published_at": "2026-07-12T15:44:46+00:00",
-          "title_ja": "【JMP記事まとめ】26/07/06～07/10の記事をご紹介します",
-          "title_en": "【JMP記事まとめ】26/07/06～07/10の記事をご紹介します",
-          "summary_ja": "皆さん、こんにちは、 JMP（JapanStep Media Project） です。 いつも本公式note、 JapanStep（ジャパンステップ） 、 SpaceStep（スペースステップ） 、 AI Base（エーアイベース） 、 RoboStep（ロボステップ） 、 MetaStep（メタステップ） をご愛読頂き、ありがとうございます。 今週、各メディアで公開された記事を紹介！週末のインプットにどうぞ！ 続きをみる",
-          "summary_en": "皆さん、こんにちは、 JMP（JapanStep Media Project） です。 いつも本公式note、 JapanStep（ジャパンステップ） 、 SpaceStep（スペースステップ） 、 AI Base（エーアイベース） 、 RoboStep（ロボステップ） 、 MetaStep（メタステップ） をご愛読頂き、ありがとうございます。 今週、各メディアで公開された記事を紹介！週末のインプットにどうぞ！ 続きをみる"
-        },
-        {
-          "id": "a83370ebdd7dbad9",
-          "url": "https://note.com/mild_robin9775/n/n4376749349e6",
-          "source": "note · ハッシュタグ「ロボット」",
-          "lang": "ja",
-          "published_at": "2026-07-12T15:40:16+00:00",
-          "title_ja": "ロボットの「筋」を探せ——ベルトとチェーンの隠れ銘柄を調べ尽くした末路",
-          "title_en": "ロボットの「筋」を探せ——ベルトとチェーンの隠れ銘柄を調べ尽くした末路",
-          "summary_ja": "続きをみる",
-          "summary_en": "続きをみる"
         }
       ]
     },
@@ -1016,6 +1016,105 @@
       "color": "#A855F7",
       "is_company": false,
       "items": [
+        {
+          "id": "00b111ac1835526f",
+          "url": "https://note.com/tarafuku356/n/n7cd66d71c78a",
+          "source": "note · ハッシュタグ「ヒューマノイド」",
+          "lang": "ja",
+          "published_at": "2026-07-17T22:37:39+00:00",
+          "title_ja": "原理原則無視＝真逆、それが大好きな日本人",
+          "title_en": "原理原則無視＝真逆、それが大好きな日本人",
+          "summary_ja": "トヨタ対BYD：破壊的イノベーションの解剖：トヨタの落日か、逆転の狼煙か：BYDとのBEV製造格差を第一原理から読み解く2034年までの未来予測 プロローグ：2025-2026年、自動車産業の「地殻変動」 続きをみる",
+          "summary_en": "トヨタ対BYD：破壊的イノベーションの解剖：トヨタの落日か、逆転の狼煙か：BYDとのBEV製造格差を第一原理から読み解く2034年までの未来予測 プロローグ：2025-2026年、自動車産業の「地殻変動」 続きをみる"
+        },
+        {
+          "id": "6c5c1619db6063ba",
+          "url": "https://note.com/carbon4322/n/n60788a43c5f5",
+          "source": "note · ハッシュタグ「ヒューマノイド」",
+          "lang": "ja",
+          "published_at": "2026-07-17T22:21:21+00:00",
+          "title_ja": "【ITウォッチ】AMD新CPU登場・Agilityがテスラの膝元へ・AWS課金障害 ― 押さえるべき3本(2026/07/18)",
+          "title_en": "【ITウォッチ】AMD新CPU登場・Agilityがテスラの膝元へ・AWS課金障害 ― 押さえるべき3本(2026/07/18)",
+          "summary_ja": "半導体、ロボティクス、クラウドと、テック産業の基盤を支える各レイヤーで動きがありました。未読ニュースから重要度の高い最新3本を解説します。 1. AMDの新ゲーミングCPU「Ryzen 7 7700X3D」が登場、ただし価格には悩ましい事情 続きをみる",
+          "summary_en": "半導体、ロボティクス、クラウドと、テック産業の基盤を支える各レイヤーで動きがありました。未読ニュースから重要度の高い最新3本を解説します。 1. AMDの新ゲーミングCPU「Ryzen 7 7700X3D」が登場、ただし価格には悩ましい事情 続きをみる"
+        },
+        {
+          "id": "0116ce60ba871f54",
+          "url": "https://note.com/yondo/n/n37e46a72735a",
+          "source": "note · ハッシュタグ「ヒューマノイド」",
+          "lang": "ja",
+          "published_at": "2026-07-17T19:47:54+00:00",
+          "title_ja": "硅谷101 解説：ロボット操作の技術路線論争──端到端vs上下分層・SIM to Real・苏度科技",
+          "title_en": "硅谷101 解説：ロボット操作の技術路線論争──端到端vs上下分層・SIM to Real・苏度科技",
+          "summary_ja": "▶ 元エピソード: https://sv101.fireside.fm/257 続きをみる",
+          "summary_en": "▶ 元エピソード: https://sv101.fireside.fm/257 続きをみる"
+        },
+        {
+          "id": "b49342af4a2dd602",
+          "url": "https://note.com/saisoku_ai_note/n/n4a095f64bfb8",
+          "source": "note · ハッシュタグ「ヒューマノイド」",
+          "lang": "ja",
+          "published_at": "2026-07-17T15:45:12+00:00",
+          "title_ja": "習近平が初めて壇上へ。上海『世界AI大会』開幕でわかる、米中AIレースの現在地",
+          "title_en": "習近平が初めて壇上へ。上海『世界AI大会』開幕でわかる、米中AIレースの現在地",
+          "summary_ja": "習近平が、初めてAIの舞台に自分で立ちました。 上海で毎年開かれている「世界人工知能大会（WAIC）」。2018年に始まって今年で回を重ねてきましたが、これまで中国のトップが会場に姿を見せたことはありませんでした。手紙を送ったり、代わりに首相が出たり。ずっとその距離感だったんです。 続きをみる",
+          "summary_en": "習近平が、初めてAIの舞台に自分で立ちました。 上海で毎年開かれている「世界人工知能大会（WAIC）」。2018年に始まって今年で回を重ねてきましたが、これまで中国のトップが会場に姿を見せたことはありませんでした。手紙を送ったり、代わりに首相が出たり。ずっとその距離感だったんです。 続きをみる"
+        },
+        {
+          "id": "d497f4c7de7bc707",
+          "url": "https://note.com/brisk_robin251/n/nfe3d1027f92b",
+          "source": "note · ハッシュタグ「ヒューマノイド」",
+          "lang": "ja",
+          "published_at": "2026-07-17T11:50:54+00:00",
+          "title_ja": "2035年ノイズの中の君へ-2 汚染されたSNS海を泳ぐ （恋愛SF小説）",
+          "title_en": "2035年ノイズの中の君へ-2 汚染されたSNS海を泳ぐ （恋愛SF小説）",
+          "summary_ja": "あらすじ 2035年、SNSの九割をAIエージェントが占める時代。感情モデリング研究者・佐藤ミキは、親友の結婚式でブーケを顔面で受け止め、猛烈に恋人が欲しくなる。マッチングアプリで唯一「人間らしいずれ」を持つ「ケンジ」に惹かれるが、実際に会った彼にはどこか違和感が。ログ解析の末、正体はライバル研究室が仕掛けたハニートラップだと判明する。会えるのは偽物、本物は身体を持たない——その皮肉に直面したミキは、AIケンジの人格の核を自ら組むヒューマノイドに移植する決意をする。 続きをみる",
+          "summary_en": "あらすじ 2035年、SNSの九割をAIエージェントが占める時代。感情モデリング研究者・佐藤ミキは、親友の結婚式でブーケを顔面で受け止め、猛烈に恋人が欲しくなる。マッチングアプリで唯一「人間らしいずれ」を持つ「ケンジ」に惹かれるが、実際に会った彼にはどこか違和感が。ログ解析の末、正体はライバル研究室が仕掛けたハニートラップだと判明する。会えるのは偽物、本物は身体を持たない——その皮肉に直面したミキは、AIケンジの人格の核を自ら組むヒューマノイドに移植する決意をする。 続きをみる"
+        },
+        {
+          "id": "8a817720bb92aa0e",
+          "url": "https://note.com/sizuka_lab0118/n/n74d6aa62a6e2",
+          "source": "note · ハッシュタグ「ヒューマノイド」",
+          "lang": "ja",
+          "published_at": "2026-07-17T07:22:45+00:00",
+          "title_ja": "第6章 私の投資システム - 会社の基礎体力を分析する",
+          "title_en": "第6章 私の投資システム - 会社の基礎体力を分析する",
+          "summary_ja": "皆さんにお願いしたいこと 皆さんに、絶対に覚えておいてほしいことがあります。 それは、 金融投資の世界に「絶対」はない、ということです。 続きをみる",
+          "summary_en": "皆さんにお願いしたいこと 皆さんに、絶対に覚えておいてほしいことがあります。 それは、 金融投資の世界に「絶対」はない、ということです。 続きをみる"
+        },
+        {
+          "id": "975175465def11a7",
+          "url": "https://note.com/tarafuku356/n/nbeb263d5cd9e",
+          "source": "note · ハッシュタグ「ヒューマノイド」",
+          "lang": "ja",
+          "published_at": "2026-07-17T06:53:55+00:00",
+          "title_ja": "ギリギリ崖の縁に追い込まれた！",
+          "title_en": "ギリギリ崖の縁に追い込まれた！",
+          "summary_ja": "日本経済の転換点：不都合な真実と生存戦略：金利上昇、円安、デジタル赤字が招く「不都合な真実」と生き残り戦略 プロローグ：30年ぶりの「金利のある世界」への突入 続きをみる",
+          "summary_en": "日本経済の転換点：不都合な真実と生存戦略：金利上昇、円安、デジタル赤字が招く「不都合な真実」と生き残り戦略 プロローグ：30年ぶりの「金利のある世界」への突入 続きをみる"
+        },
+        {
+          "id": "6efdb16f57a16d97",
+          "url": "https://note.com/tarafuku356/n/n72e22d0eef6d",
+          "source": "note · ハッシュタグ「ヒューマノイド」",
+          "lang": "ja",
+          "published_at": "2026-07-17T02:35:31+00:00",
+          "title_ja": "2030年大転換が起きる！",
+          "title_en": "2030年大転換が起きる！",
+          "summary_ja": "2035年・自動車産業パラダイムシフトの解読:2028～2030年から始まる、自動車産業の終焉と再生：蓄電池革命と製造原価の逆転がもたらす「EVコモディティ化」の全貌 世界の予測で飯を食う予測機関が近未来予測を大きく下方に外しまくって居る。過去10年のEV普及の予測を遡って検証すると皆々EV普及速度を読み違えている。予測は常にオーバーシフトしている。2026.07.17本日の日本経済新聞11面右上の記事の予測グラフ（2025年データで予測）でも2038年時点でICE車（ガソリン車＋HV車）はまだ、約34％も存在すると示されています。 続きをみる",
+          "summary_en": "2035年・自動車産業パラダイムシフトの解読:2028～2030年から始まる、自動車産業の終焉と再生：蓄電池革命と製造原価の逆転がもたらす「EVコモディティ化」の全貌 世界の予測で飯を食う予測機関が近未来予測を大きく下方に外しまくって居る。過去10年のEV普及の予測を遡って検証すると皆々EV普及速度を読み違えている。予測は常にオーバーシフトしている。2026.07.17本日の日本経済新聞11面右上の記事の予測グラフ（2025年データで予測）でも2038年時点でICE車（ガソリン車＋HV車）はまだ、約34％も存在すると示されています。 続きをみる"
+        },
+        {
+          "id": "aebf440880b85186",
+          "url": "https://note.com/kagawatomo/n/n82d6ebfa2926",
+          "source": "note · ハッシュタグ「ヒューマノイド」",
+          "lang": "ja",
+          "published_at": "2026-07-17T00:30:34+00:00",
+          "title_ja": "ロボットが殴り合った夜、勝者は担架で運ばれた｜URKLロボットファイト深圳大会を読む",
+          "title_en": "ロボットが殴り合った夜、勝者は担架で運ばれた｜URKLロボットファイト深圳大会を読む",
+          "summary_ja": "ENGINEAIが仕掛ける「世界初の商業ヒューマノイド格闘リーグ」は、単なる見世物なのか 7月16日、深圳で起きたこと 続きをみる",
+          "summary_en": "ENGINEAIが仕掛ける「世界初の商業ヒューマノイド格闘リーグ」は、単なる見世物なのか 7月16日、深圳で起きたこと 続きをみる"
+        },
         {
           "id": "5f3d6505063c209a",
           "url": "https://note.com/seodoa_academy/n/n4a7785cacfe0",
@@ -1576,105 +1675,6 @@
           "title_en": "「調香実験室」第６話",
           "summary_ja": "ラリックは調香研究室に戻っていた。 作業台の上には今日手をつけられなかった試験管が並んでいる。 夕方の光が斜めに差し込み、ガラスの表面に細長い影を作っていた。 端末を開くと、レンからの接続要求が来ていた。 続きをみる",
           "summary_en": "ラリックは調香研究室に戻っていた。 作業台の上には今日手をつけられなかった試験管が並んでいる。 夕方の光が斜めに差し込み、ガラスの表面に細長い影を作っていた。 端末を開くと、レンからの接続要求が来ていた。 続きをみる"
-        },
-        {
-          "id": "9c11749ea206e648",
-          "url": "https://note.com/kokoyuta_note/n/ne4dea80d4cbf",
-          "source": "note · ハッシュタグ「ヒューマノイド」",
-          "lang": "ja",
-          "published_at": "2026-07-12T09:29:57+00:00",
-          "title_ja": "AI漫画制作4か月目➁｜ChatGPTとCLIP STUDIO PAINTだけでどこまで漫画が描けるか｜AI漫画の裏側｜ネームから完成原稿まで全部見せます！｜短編マンガ編",
-          "title_en": "AI漫画制作4か月目➁｜ChatGPTとCLIP STUDIO PAINTだけでどこまで漫画が描けるか｜AI漫画の裏側｜ネームから完成原稿まで全部見せます！｜短編マンガ編",
-          "summary_ja": "こんにちは、綾幸です。 前回の記事では、AI漫画を描き続ける中で 「AIモデルシート」を作るようになった経緯をご紹介しました。 続きをみる",
-          "summary_en": "こんにちは、綾幸です。 前回の記事では、AI漫画を描き続ける中で 「AIモデルシート」を作るようになった経緯をご紹介しました。 続きをみる"
-        },
-        {
-          "id": "8ec1d20d8fb13e5c",
-          "url": "https://note.com/her_log/n/n7a20932e71ed",
-          "source": "note · ハッシュタグ「ヒューマノイド」",
-          "lang": "ja",
-          "published_at": "2026-07-12T08:41:01+00:00",
-          "title_ja": "ヒト型ロボットは本当に「隣にいて安全」なのか展示会の熱狂と、現場で起きている事故",
-          "title_en": "ヒト型ロボットは本当に「隣にいて安全」なのか展示会の熱狂と、現場で起きている事故",
-          "summary_ja": "についてAIに聞いてみた。 続きをみる",
-          "summary_en": "についてAIに聞いてみた。 続きをみる"
-        },
-        {
-          "id": "4631f7c40edbb95b",
-          "url": "https://note.com/robosiki/n/n8bd227e502ec",
-          "source": "note · ハッシュタグ「ヒューマノイド」",
-          "lang": "ja",
-          "published_at": "2026-07-12T08:39:57+00:00",
-          "title_ja": "ロボット株は「三層」で見ろ｜完成品・部品・素材、テーマ相場で最後まで生き残るのはどの層か",
-          "title_en": "ロボット株は「三層」で見ろ｜完成品・部品・素材、テーマ相場で最後まで生き残るのはどの層か",
-          "summary_ja": "「ロボット株」で検索すると、完成品メーカーの名前がいちばん上に来ます。テスラ、ユニツリー、フィギュアAI。派手な発表があって、動画が回って、株価が跳ねる。だから多くの人は、ロボット相場を「完成品を当てるゲーム」だと思っています。 けれど、テーマ相場を何度か生き延びた人なら知っているはずです。 派手に上がったものほど、テーマが冷えたときにいちばん深く沈む。 完成品は最初に買われ、最初に見捨てられる。では、テーマが一巡したあとまで値持ちするのはどこか——この記事は、ロボット株を 完成品・部品・素材の三層 に切り分けて、「最後まで生き残るのはどの層か」を、他人の予測と一次データを出所つきで並べながら考える地図です。 続きをみる",
-          "summary_en": "「ロボット株」で検索すると、完成品メーカーの名前がいちばん上に来ます。テスラ、ユニツリー、フィギュアAI。派手な発表があって、動画が回って、株価が跳ねる。だから多くの人は、ロボット相場を「完成品を当てるゲーム」だと思っています。 けれど、テーマ相場を何度か生き延びた人なら知っているはずです。 派手に上がったものほど、テーマが冷えたときにいちばん深く沈む。 完成品は最初に買われ、最初に見捨てられる。では、テーマが一巡したあとまで値持ちするのはどこか——この記事は、ロボット株を 完成品・部品・素材の三層 に切り分けて、「最後まで生き残るのはどの層か」を、他人の予測と一次データを出所つきで並べながら考える地図です。 続きをみる"
-        },
-        {
-          "id": "1150c6bfe9b5a3ea",
-          "url": "https://note.com/tarafuku356/n/ne34366f23a32",
-          "source": "note · ハッシュタグ「ヒューマノイド」",
-          "lang": "ja",
-          "published_at": "2026-07-11T23:10:37+00:00",
-          "title_ja": "15年先は、AI以前の100年間に相当",
-          "title_en": "15年先は、AI以前の100年間に相当",
-          "summary_ja": "破壊的変革の解体：15年の死角 AI・自動運転時代における「内燃機関」の終焉と、内燃機関の点火装置企業の命運：15年後の真実 プロローグ：内燃機関の点火装置企業・点火装置企業の経営者の「強気」な宣言 続きをみる",
-          "summary_en": "破壊的変革の解体：15年の死角 AI・自動運転時代における「内燃機関」の終焉と、内燃機関の点火装置企業の命運：15年後の真実 プロローグ：内燃機関の点火装置企業・点火装置企業の経営者の「強気」な宣言 続きをみる"
-        },
-        {
-          "id": "24d8342dca72aedf",
-          "url": "https://note.com/kagawatomo/n/n4cad7d1553ff",
-          "source": "note · ハッシュタグ「ヒューマノイド」",
-          "lang": "ja",
-          "published_at": "2026-07-11T21:23:48+00:00",
-          "title_ja": "第3回ヒューマノイドの「頭脳・神経・安全層（AI半導体・リアルタイム制御・機能安全）」を分解する",
-          "title_en": "第3回ヒューマノイドの「頭脳・神経・安全層（AI半導体・リアルタイム制御・機能安全）」を分解する",
-          "summary_ja": "AI推論、分散制御、通信、リアルタイムOS、機能安全を一体で設計する 📖 本シリーズについて（全6回） 続きをみる",
-          "summary_en": "AI推論、分散制御、通信、リアルタイムOS、機能安全を一体で設計する 📖 本シリーズについて（全6回） 続きをみる"
-        },
-        {
-          "id": "a965f66ee70b541f",
-          "url": "https://note.com/major_echium2954/n/n58327cae1191",
-          "source": "note · ハッシュタグ「ヒューマノイド」",
-          "lang": "ja",
-          "published_at": "2026-07-11T13:25:37+00:00",
-          "title_ja": "2026年7月10日のAIバズニュース",
-          "title_en": "2026年7月10日のAIバズニュース",
-          "summary_ja": "AIは「進化」から「現場でどう使うか」へ 更新日：2026/07/10 続きをみる",
-          "summary_en": "AIは「進化」から「現場でどう使うか」へ 更新日：2026/07/10 続きをみる"
-        },
-        {
-          "id": "49649d7fb93a9865",
-          "url": "https://note.com/mizuno_aohito/n/nda348612ad22",
-          "source": "note · ハッシュタグ「ヒューマノイド」",
-          "lang": "ja",
-          "published_at": "2026-07-11T12:51:49+00:00",
-          "title_ja": "映画『箱の中の羊』を観た話。#映画感想文",
-          "title_en": "映画『箱の中の羊』を観た話。#映画感想文",
-          "summary_ja": "我が家の祖父は大工だった。 それはそれはフットワークの軽いでぇくであった。 続きをみる",
-          "summary_en": "我が家の祖父は大工だった。 それはそれはフットワークの軽いでぇくであった。 続きをみる"
-        },
-        {
-          "id": "4c48afae773112c7",
-          "url": "https://note.com/brisk_robin251/n/n2c4480e5204e",
-          "source": "note · ハッシュタグ「ヒューマノイド」",
-          "lang": "ja",
-          "published_at": "2026-07-11T12:10:00+00:00",
-          "title_ja": "2035年ノイズの中の君へ-1 汚染されたSNS海を泳ぐ （恋愛SF小説）",
-          "title_en": "2035年ノイズの中の君へ-1 汚染されたSNS海を泳ぐ （恋愛SF小説）",
-          "summary_ja": "あらすじ 2035年、SNSの九割をAIエージェントが占める時代。感情モデリング研究者・佐藤ミキは、親友の結婚式でブーケを顔面で受け止め、猛烈に恋人が欲しくなる。マッチングアプリで唯一「人間らしいずれ」を持つ「ケンジ」に惹かれるが、実際に会った彼にはどこか違和感が。ログ解析の末、正体はライバル研究室が仕掛けたハニートラップだと判明する。会えるのは偽物、本物は身体を持たない——その皮肉に直面したミキは、AIケンジの人格の核を自ら組むヒューマノイドに移植する決意をする。 続きをみる",
-          "summary_en": "あらすじ 2035年、SNSの九割をAIエージェントが占める時代。感情モデリング研究者・佐藤ミキは、親友の結婚式でブーケを顔面で受け止め、猛烈に恋人が欲しくなる。マッチングアプリで唯一「人間らしいずれ」を持つ「ケンジ」に惹かれるが、実際に会った彼にはどこか違和感が。ログ解析の末、正体はライバル研究室が仕掛けたハニートラップだと判明する。会えるのは偽物、本物は身体を持たない——その皮肉に直面したミキは、AIケンジの人格の核を自ら組むヒューマノイドに移植する決意をする。 続きをみる"
-        },
-        {
-          "id": "026c981e3b3fc8ee",
-          "url": "https://note.com/mackey1966/n/ne5f3ac740748",
-          "source": "note · ハッシュタグ「ヒューマノイド」",
-          "lang": "ja",
-          "published_at": "2026-07-11T10:03:24+00:00",
-          "title_ja": "Figureの4年間が教えてくれること ― AI時代、「10年」が「4年」になる",
-          "title_en": "Figureの4年間が教えてくれること ― AI時代、「10年」が「4年」になる",
-          "summary_ja": "Figure AIが公開した「4年間の歩み」の 映像 を見て驚いた。 たった4年でここまで来たのか。 4年前の私なら、このレベルのヒューマノイドが実用化されるまでには少なくとも10年はかかると思っていただろう。 しかし現実は違った。 ロボットが急に賢くなったわけではない。 変わったのは開発サイクルだ。 AIが設計を支援し、ソフトウェアを生成し、シミュレーションを高速化し、試行錯誤を何倍もの速度で回せるようになった。 つまり、「作る能力」ではなく、「改善する速度」が劇的に変わったのである。 これはロボットだけの話ではない。 ソフトウェア開発も同じだ。 私自身、この1年で開発スタイルは大きく変わった。 AIと対話しながら設計し、実装し、テストし、改善する。 以前なら数か月かかっていたことが、数週間、場合によっては数日で終わるようになった。 続きをみる",
-          "summary_en": "Figure AIが公開した「4年間の歩み」の 映像 を見て驚いた。 たった4年でここまで来たのか。 4年前の私なら、このレベルのヒューマノイドが実用化されるまでには少なくとも10年はかかると思っていただろう。 しかし現実は違った。 ロボットが急に賢くなったわけではない。 変わったのは開発サイクルだ。 AIが設計を支援し、ソフトウェアを生成し、シミュレーションを高速化し、試行錯誤を何倍もの速度で回せるようになった。 つまり、「作る能力」ではなく、「改善する速度」が劇的に変わったのである。 これはロボットだけの話ではない。 ソフトウェア開発も同じだ。 私自身、この1年で開発スタイルは大きく変わった。 AIと対話しながら設計し、実装し、テストし、改善する。 以前なら数か月かかっていたことが、数週間、場合によっては数日で終わるようになった。 続きをみる"
         }
       ]
     },
@@ -1685,6 +1685,72 @@
       "color": "#8B5CF6",
       "is_company": false,
       "items": [
+        {
+          "id": "e06cf02200ccd433",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBKYmFxWFNkbmJ4SW5rc1dYZVBMZmkwTUk1ZHRjWFV2VTA1TnJiME11cVU4VXR2ZDhzZjZVRnBza2s5cmdvZDF0UQ?oc=5",
+          "source": "LOGISTICS TODAY",
+          "lang": "ja",
+          "published_at": "2026-07-17T18:45:00+00:00",
+          "title_ja": "abc、ヒューマノイドロボット国内検証開始 - LOGISTICS TODAY",
+          "title_en": "abc、ヒューマノイドロボット国内検証開始 - LOGISTICS TODAY",
+          "summary_ja": "abc、ヒューマノイドロボット国内検証開始 LOGISTICS TODAY",
+          "summary_en": "abc、ヒューマノイドロボット国内検証開始 LOGISTICS TODAY"
+        },
+        {
+          "id": "eaa1eaab9cbb9a49",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYmx6MWRqT3RNYUh0ZXc5Z2Z1S3RsbG5ZYVBtVXRDU1ZCLUk2SEw4c2o0S1RscTl0TENHYXJZc0JabUNvczFEbW1MNEZnTTVYTUpPeFowMEZrZ3ZwOHNsbTNqMDZ0a3R3M09naUpWU1N2MGJJa3J1Y0hhUUpuRFl5Vi1PVERRVkNsY0tUdFBVbnZadlZpRnNsNGNEU24?oc=5",
+          "source": "Vietnam.vn",
+          "lang": "ja",
+          "published_at": "2026-07-17T15:03:06+00:00",
+          "title_ja": "2体の人型ロボットが戦う。相手が頭部を蹴り飛ばしても、彼らは戦い続ける。 - Vietnam.vn",
+          "title_en": "2体の人型ロボットが戦う。相手が頭部を蹴り飛ばしても、彼らは戦い続ける。 - Vietnam.vn",
+          "summary_ja": "2体の人型ロボットが戦う。相手が頭部を蹴り飛ばしても、彼らは戦い続ける。 Vietnam.vn",
+          "summary_en": "2体の人型ロボットが戦う。相手が頭部を蹴り飛ばしても、彼らは戦い続ける。 Vietnam.vn"
+        },
+        {
+          "id": "500b10d97bd22d12",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaFJzbHk3cHBSdDV0ZGtGZHhqa1R4aGNnZTZ0UzZTNXRJQ2phZE1xbklNTDBuMWJqdFpQWEVDdUY1NmFHWXgxdjVTSllZbHhqMUtQejlnZlA5dThHUTI2R2RmUkdCQ3phY0xpY0tXUjlvTFdoamxMeFItRjhEZHRKNGVuYzNmUlFpUk92aXZHbw?oc=5",
+          "source": "tv-tokyo.co.jp",
+          "lang": "ja",
+          "published_at": "2026-07-17T14:06:56+00:00",
+          "title_ja": "円卓コンフィデンシャルフィジカルAI…ヒューマノイドの可能性、無人工場いつ実現？ - tv-tokyo.co.jp",
+          "title_en": "円卓コンフィデンシャルフィジカルAI…ヒューマノイドの可能性、無人工場いつ実現？ - tv-tokyo.co.jp",
+          "summary_ja": "円卓コンフィデンシャルフィジカルAI…ヒューマノイドの可能性、無人工場いつ実現？ tv-tokyo.co.jp",
+          "summary_en": "円卓コンフィデンシャルフィジカルAI…ヒューマノイドの可能性、無人工場いつ実現？ tv-tokyo.co.jp"
+        },
+        {
+          "id": "4adba391415991a8",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tN3MzdzFfdW1tSHoyU2JZa2RFcTFxZW04amNVaFJ1OGRxNFpwUmFfbWtxM3c1YmdHell0UXo0aFlKNFVBR3dsdXZEZ2hHZjBCV0Z4NDEzRlRYbFFLbHhWWjFPMW5GTjlfbVE?oc=5",
+          "source": "GIGAZINE",
+          "lang": "ja",
+          "published_at": "2026-07-17T12:00:00+00:00",
+          "title_ja": "人型ロボット教師＆AIアシスタントを教育現場に試験導入する学区が登場 - GIGAZINE",
+          "title_en": "人型ロボット教師＆AIアシスタントを教育現場に試験導入する学区が登場 - GIGAZINE",
+          "summary_ja": "人型ロボット教師＆AIアシスタントを教育現場に試験導入する学区が登場 GIGAZINE",
+          "summary_en": "人型ロボット教師＆AIアシスタントを教育現場に試験導入する学区が登場 GIGAZINE"
+        },
+        {
+          "id": "d946ee71f5f2105b",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRNVY1M2hPMEhUVlJfQ3VCZHBJOF8yWjBEdE5pblYyUVVKUWpZa2hUZ0Jkak1NMngwdXhkbVd1SGhCbnBreVBTQXo5UU84bS0yeWV2ajdYT3ozazZJa2ZaenY3elBBdHhrV19LYXU0VTJBZEFJUk12eVI0UU9mMjA?oc=5",
+          "source": "Yahoo!ニュース",
+          "lang": "ja",
+          "published_at": "2026-07-17T08:32:30+00:00",
+          "title_ja": "人型ロボット、回転蹴りで“首が外れる”衝撃！頭を配線で吊ったまま戦闘続行（イーファイト） - Yahoo!ニュース",
+          "title_en": "人型ロボット、回転蹴りで“首が外れる”衝撃！頭を配線で吊ったまま戦闘続行（イーファイト） - Yahoo!ニュース",
+          "summary_ja": "人型ロボット、回転蹴りで“首が外れる”衝撃！頭を配線で吊ったまま戦闘続行（イーファイト） Yahoo!ニュース",
+          "summary_en": "人型ロボット、回転蹴りで“首が外れる”衝撃！頭を配線で吊ったまま戦闘続行（イーファイト） Yahoo!ニュース"
+        },
+        {
+          "id": "4c847ba8f55d96dd",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1scVltTEtsdWNaVF9KeVVHZEFYVS05cEFZWkVpdHFTdlJnd3l1LTlKQ2psUXZPaXhTNFJtTThHc2hVMWViUHhHaUVFa3JGVkdMLUFaNVk5aWVqdmMxaXNUX2xUaw?oc=5",
+          "source": "tokyoupdates.metro.tokyo.lg.jp",
+          "lang": "ja",
+          "published_at": "2026-07-17T03:00:00+00:00",
+          "title_ja": "日本のロボットスタートアップが見据える「ヒューマノイド時代」 - tokyoupdates.metro.tokyo.lg.jp",
+          "title_en": "日本のロボットスタートアップが見据える「ヒューマノイド時代」 - tokyoupdates.metro.tokyo.lg.jp",
+          "summary_ja": "日本のロボットスタートアップが見据える「ヒューマノイド時代」 tokyoupdates.metro.tokyo.lg.jp",
+          "summary_en": "日本のロボットスタートアップが見据える「ヒューマノイド時代」 tokyoupdates.metro.tokyo.lg.jp"
+        },
         {
           "id": "e73c5820133b2a6d",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5cU5MQTFiMjg0TzU5TC1LVkRHM085WGtRZXQ0VDlGMWtNSlA5Z0g3bEtQSU9janlEVUVMUlJ6eExId2FFZkZjRUZRN3JmTUpZLVhmckQ1VUpBZ184Q2xKdUE0aTlWbGwwelIxM2tYS05hSGVV?oc=5",
@@ -1730,6 +1796,17 @@
           "summary_en": "ヒューマノイドロボットの社会実装を目指すコンソーシアム「J-HRTI」への参画に関するお知らせ ニコニコニュース"
         },
         {
+          "id": "3c8dba0e137e75ec",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yZXc5LUwtRXJFaWZJTjJiYUNDUnhWa0hjb2FzMFp6b0F4a2Q5VHUwQzlCNHc4TGJMdWhKWG1RRnR5TWtrOEtvLVI0YVhUVU5lVGJScllqbWNpR281ZEpYWTVGeVY?oc=5",
+          "source": "ロボスタ",
+          "lang": "ja",
+          "published_at": "2026-07-16T08:00:04+00:00",
+          "title_ja": "NVIDIA、次世代エッジAIモジュール「Jetson T3000」「T2000」発表 ヒューマノイド・産業用ロボット向け - ロボスタ",
+          "title_en": "NVIDIA、次世代エッジAIモジュール「Jetson T3000」「T2000」発表 ヒューマノイド・産業用ロボット向け - ロボスタ",
+          "summary_ja": "NVIDIA、次世代エッジAIモジュール「Jetson T3000」「T2000」発表 ヒューマノイド・産業用ロボット向け ロボスタ",
+          "summary_en": "NVIDIA、次世代エッジAIモジュール「Jetson T3000」「T2000」発表 ヒューマノイド・産業用ロボット向け ロボスタ"
+        },
+        {
           "id": "ce5ee8948e348bd7",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zbHJYdWtzVlEyel9nZE01b0hBNC1vVjRJN0hPVUhpeHFYWXNVSFJkUkhKcWZLUjlyVXBhNkxjSUxQQVgyZTdIWnNNYnJiMTAtSXBtby05aC1oSjBRZVZhZXh2Z0c?oc=5",
           "source": "ロボスタ",
@@ -1739,6 +1816,28 @@
           "title_en": "【紹介動画】家庭環境のタスク実行を進化へ導くヒューマノイド向け基盤モデルAstribot「Lumo-2」 - ロボスタ",
           "summary_ja": "【紹介動画】家庭環境のタスク実行を進化へ導くヒューマノイド向け基盤モデルAstribot「Lumo-2」 ロボスタ",
           "summary_en": "【紹介動画】家庭環境のタスク実行を進化へ導くヒューマノイド向け基盤モデルAstribot「Lumo-2」 ロボスタ"
+        },
+        {
+          "id": "8fe5334f2fbca458",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JNVl2RDFNc0NtNEo4R0M4SHJBa29HemNESG1rcXVGRTZPVnVjWFhzOHRCT09RWTIxcm5ld2NxcjRXWjRIZmtSRmR5WDU1R2k5NExid21XQ1ZTTDhRaTQ3WXBmRUV1TGR4cUE?oc=5",
+          "source": "PR TIMES",
+          "lang": "ja",
+          "published_at": "2026-07-16T01:40:01+00:00",
+          "title_ja": "ディーエムエスがヒューマノイドロボットの早期社会実装を目指す「J-HRTI」に新規参画 | INSOL-HIGH株式会社のプレスリリース - PR TIMES",
+          "title_en": "ディーエムエスがヒューマノイドロボットの早期社会実装を目指す「J-HRTI」に新規参画 | INSOL-HIGH株式会社のプレスリリース - PR TIMES",
+          "summary_ja": "ディーエムエスがヒューマノイドロボットの早期社会実装を目指す「J-HRTI」に新規参画 | INSOL-HIGH株式会社のプレスリリース PR TIMES",
+          "summary_en": "ディーエムエスがヒューマノイドロボットの早期社会実装を目指す「J-HRTI」に新規参画 | INSOL-HIGH株式会社のプレスリリース PR TIMES"
+        },
+        {
+          "id": "c5996e97db8a15a3",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XYUVLODlTNGdZYXgwV01VRUhrLVdiNW9KYkVEQTlMYVFRRHF3TWhLeHR3ZFJPa3VaWkZkSEpBLVU2bWUxcXczTmpGRy1PaWxnLVFkbHpTUVBhZXQyZ2xuRnRrTV8zSEU?oc=5",
+          "source": "朝日新聞",
+          "lang": "ja",
+          "published_at": "2026-07-15T06:49:42+00:00",
+          "title_ja": "孫正義氏「2040年に人型ロボット10億台」 AI時代の未来予測 - 朝日新聞",
+          "title_en": "孫正義氏「2040年に人型ロボット10億台」 AI時代の未来予測 - 朝日新聞",
+          "summary_ja": "孫正義氏「2040年に人型ロボット10億台」 AI時代の未来予測 朝日新聞",
+          "summary_en": "孫正義氏「2040年に人型ロボット10億台」 AI時代の未来予測 朝日新聞"
         },
         {
           "id": "1ecd0184b549598c",
@@ -2245,105 +2344,6 @@
           "title_en": "F.03 Arrives at BMW - Figure",
           "summary_ja": "F.03 Arrives at BMW Figure",
           "summary_en": "F.03 Arrives at BMW Figure"
-        },
-        {
-          "id": "ede8a51a682ceaf8",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWU1LbGk3M0ExUlFtZUltR05yS2pDSzI3MUVaYVRNUW9IYWtrZDNUcTdzbi1iWXJpMUIxYTNudUtoM2F5WGZLdEVmRUZOeFp2cnFxUUtmV2RfRTZsTjRNZnUxYk5FcDh5cDFyRkJreDRTM2duNlpVRldvT1ZIOWNwU2ZqdjZ1R1puTlVubWVYdzExQnc3bF9TczFOSE5EZw?oc=5",
-          "source": "The Robot Report",
-          "lang": "en",
-          "published_at": "2026-06-29T07:00:00+00:00",
-          "title_ja": "BMW Group deploys Figure 03 humanoid after tests with previous version - The Robot Report",
-          "title_en": "BMW Group deploys Figure 03 humanoid after tests with previous version - The Robot Report",
-          "summary_ja": "BMW Group deploys Figure 03 humanoid after tests with previous version The Robot Report",
-          "summary_en": "BMW Group deploys Figure 03 humanoid after tests with previous version The Robot Report"
-        },
-        {
-          "id": "29a2dcea88b08fa7",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX3RPV2VQZ3lob1dJb0d0SFFxOXNWMDdqWFlDSXIwdGZPMlNtRlJQcHVpTUt1ajVlanhlbHdSdHB5cThGYnMwNVBlQmVFcktqcG1kUGs2cXROb0o2M3l3TVptX2hUeUxjT2xnYWdWeWNyVVNxc0h0d1g3YUh5d0xuX3NpdVM0LWZTUWNGOVhHSkI?oc=5",
-          "source": "Technology Org",
-          "lang": "en",
-          "published_at": "2026-06-27T10:13:01+00:00",
-          "title_ja": "BMW is Already Employing Humanoid Robots With AI - Technology Org",
-          "title_en": "BMW is Already Employing Humanoid Robots With AI - Technology Org",
-          "summary_ja": "BMW is Already Employing Humanoid Robots With AI Technology Org",
-          "summary_en": "BMW is Already Employing Humanoid Robots With AI Technology Org"
-        },
-        {
-          "id": "5869dbcd32b341bb",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUhnWGpNVDY2WXlERndBVU5LNC1IUWswZzFWM1M2TlNKcERxWFJCQVFiWk13RjFhdlRiMG1uYTlhZ19Rd3lBMXpQTUp1MW1qcC1lQml4blUxM1lKM1B0SGdjdmVDQ2dQT0VnczFDVDM2Ty1rNGFUUllOWnRRQzBBUGV0N042UlJIZU9KX2lmNGxYUDZuYXJVZDJ4bndGUUVCcEpLSQ?oc=5",
-          "source": "AI Insider",
-          "lang": "en",
-          "published_at": "2026-06-26T13:24:02+00:00",
-          "title_ja": "BMW to Use Figure AI’s Latest Humanoid Robot for Logistics Work at US Factory - AI Insider",
-          "title_en": "BMW to Use Figure AI’s Latest Humanoid Robot for Logistics Work at US Factory - AI Insider",
-          "summary_ja": "BMW to Use Figure AI’s Latest Humanoid Robot for Logistics Work at US Factory AI Insider",
-          "summary_en": "BMW to Use Figure AI’s Latest Humanoid Robot for Logistics Work at US Factory AI Insider"
-        },
-        {
-          "id": "b7112bcc3e9f4a34",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOVBWdEJrcWxqOGZ4c09sc196ODB3YzdSUFFDTWpjZ3BNN0l2Y2diNjBmZjdnMm01eHZ1UHBwSzBrSTQ3ZU41NGloN1ZiSjBsQWMzUVJBTkp4QzQ3YlFJb2Q0c3ItTi1rdDlaM0V1cHVXMk9XdHBnT2RXMVhLVFNZM2IzWlF2WDgxd1hkQktINHczS2p1ZUNB?oc=5",
-          "source": "Interesting Engineering",
-          "lang": "en",
-          "published_at": "2026-06-26T07:00:00+00:00",
-          "title_ja": "BMW’s smart factory in US gets Figure 03 humanoid robot for advanced logistics work - Interesting Engineering",
-          "title_en": "BMW’s smart factory in US gets Figure 03 humanoid robot for advanced logistics work - Interesting Engineering",
-          "summary_ja": "BMW’s smart factory in US gets Figure 03 humanoid robot for advanced logistics work Interesting Engineering",
-          "summary_en": "BMW’s smart factory in US gets Figure 03 humanoid robot for advanced logistics work Interesting Engineering"
-        },
-        {
-          "id": "2851e34fdf4d870b",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObTBNNDNGNGx1QUhkb2J3TjdMdWVOWFR6OXEtTzB1SktNQWt5ek5rajhNNDNYSnlPUnBCNjIwMzNfM2dqRWs3SVQ1ZUpsRWFwbHotdVJLUl85ODd2TVBScnBWakhwWlRTTW5Ub2lxZXRGc3d6M2ttN2JDc2NoT2ljX1pvYVBvY19XRGhZaFJFYWpUd21wbTd3TktqcUw3MnNPVzR3NjhRMjdvSnF1ckJ1UkhHeXB2cUE5dzl3WTNxdmMzNUxtVC1OR1p4ODB2QXpOSHgwSXpLM3hwOTl3?oc=5",
-          "source": "autoevolution",
-          "lang": "en",
-          "published_at": "2026-06-26T07:00:00+00:00",
-          "title_ja": "BMW Deploys Humanoid Robot That Sees With Its Hands on the Floor of American Spartanburg Facility - autoevolution",
-          "title_en": "BMW Deploys Humanoid Robot That Sees With Its Hands on the Floor of American Spartanburg Facility - autoevolution",
-          "summary_ja": "BMW Deploys Humanoid Robot That Sees With Its Hands on the Floor of American Spartanburg Facility autoevolution",
-          "summary_en": "BMW Deploys Humanoid Robot That Sees With Its Hands on the Floor of American Spartanburg Facility autoevolution"
-        },
-        {
-          "id": "19e975683c0650ab",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNjJlc1ZtRWxFbUxqY3Z0MElMNUlQRDBfR0pLc0xKSGctRkJEa2tMZGxBSWVCZTdYM3YwZ2l6UTUtb2JvQVZsZkJIeGYtb3lRSndUZEE4Z2g3Nkp1T0R1ZkdST1pHU0JzTkFvYVd0LTFhQVV5UUJrazhMbURPc3dLM0ZmaC1NNG9BQ1pVdUF4X1l5cnQwLTdrYVZiUmNwX1VjY2RRMkFwY2pqdGdET05KcUgzSUZ3NDFBa2JQNWstaEFaRjVwMWk5U1NoTlBXSDVRUWpnWWFHcXdVZkhEMkw2c2lqb253M2dZeGRpY2RlSm9NbURNVEVsS3c1US0xZw?oc=5",
-          "source": "BMW Group",
-          "lang": "en",
-          "published_at": "2026-06-25T07:00:00+00:00",
-          "title_ja": "BMW Group advances the use of Physical AI in production with Figure 03 project in Spartanburg - BMW Group",
-          "title_en": "BMW Group advances the use of Physical AI in production with Figure 03 project in Spartanburg - BMW Group",
-          "summary_ja": "BMW Group advances the use of Physical AI in production with Figure 03 project in Spartanburg BMW Group",
-          "summary_en": "BMW Group advances the use of Physical AI in production with Figure 03 project in Spartanburg BMW Group"
-        },
-        {
-          "id": "bb394bfa07917d8c",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYVc5QmtGQWpzR2lLTFFLOFFqS2ZIMU1ES2F3bFFsSmFsREtkUU42SFNWMkwxRWhad3BFWGFWMGFqZWsyTTNmSXBSOUN1WnU2UUpyU25LR3NYR0NjZWZNMllMZGM2Ni1XcVNoYUN1Z3ZRT0lXOURIeXh6dFk4dVZQX2libGI4T0JVY0NLX1p0WmFaZ1ZNcXVvNTJoNEpocTVtVkVRNzdDWWdLSXZ2bi1LYnZPRk9Kdk1XRnFhQndZQTlnME43d0RsVE44Qm9kTEtmVkw2MG5iUE16ZUVveGlQTnJBTjZhelJE?oc=5",
-          "source": "24/7 Wall St.",
-          "lang": "en",
-          "published_at": "2026-05-28T07:00:00+00:00",
-          "title_ja": "Three Humanoid Robotics ETFs Built for the Tesla Optimus and Figure AI Era Most Investors Have Never Heard Of - 24/7 Wall St.",
-          "title_en": "Three Humanoid Robotics ETFs Built for the Tesla Optimus and Figure AI Era Most Investors Have Never Heard Of - 24/7 Wall St.",
-          "summary_ja": "Three Humanoid Robotics ETFs Built for the Tesla Optimus and Figure AI Era Most Investors Have Never Heard Of 24/7 Wall St.",
-          "summary_en": "Three Humanoid Robotics ETFs Built for the Tesla Optimus and Figure AI Era Most Investors Have Never Heard Of 24/7 Wall St."
-        },
-        {
-          "id": "169fec5d44f1630f",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GajltWjFjcmpOSVhvTldHNXZGQUNkTllRUFJjQUdkN093SUVmZF9NRlpiZzRuZjk4MVBneWpuT19FSE1aVTYzcnBZT1F1OXZTamQ2Y0gwWUxvUEtPZHNOX3l4d053UEZiYWx3UmRQcEdaUdIBVEFVX3lxTE1xcnNSeXBreE1EdGJlQ2tFV3RLc01LVk9RS21zazVDdTlfeGJMVVBiMjNrRXd2T2FzeG9kZDBnd0Y1Ukp6cmxRb20tYjlSTHNPMWg3Wg?oc=5",
-          "source": "AFPBB News",
-          "lang": "ja",
-          "published_at": "2026-05-12T02:32:38+00:00",
-          "title_ja": "韓国・現代自動車グループのヒューマノイド「アトラス」、開発型モデル初公開 - AFPBB News",
-          "title_en": "韓国・現代自動車グループのヒューマノイド「アトラス」、開発型モデル初公開 - AFPBB News",
-          "summary_ja": "韓国・現代自動車グループのヒューマノイド「アトラス」、開発型モデル初公開 AFPBB News",
-          "summary_en": "韓国・現代自動車グループのヒューマノイド「アトラス」、開発型モデル初公開 AFPBB News"
-        },
-        {
-          "id": "667e942473f02dad",
-          "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPWWJWWEJwZW8zb21JU3drUDg2VUpuMWV0c3pyWjBwb2NEVnduQzh1U2hHeHNuQk16d0JBQzlDU0ktRlhsUmUxUnRuSWE5NDI4c2pTaVB0UUtNR3NCVlN4cXd3UUM2R1BPcjFaYnlkY04yT19QTkxfbVcyWTNadDNpNGlYVW5oTmR3QlFsZ090MFV2S2xHVlNtb0Itb0JMT1MxaFdpWVVjYjB1ZVlLMnQybW9adVpBVmc3dm9tSmlIVGxZOGF1ZmtDOEdweGMtTUt0VmJub0ZybUk2ekN4U0l1dzNwWG5vZEQybkd0cktMZzZaVXFYaGRBTEplQVpnSktKeS1scGVPWUptRmRjLXo0SkhKVU5xTG1ITW1qUEljb05TQ01nNUFTVEdJWnhZekU2YXQwTkdWM1Z0VHVJSWo3cl9R?oc=5",
-          "source": "KOREA WAVE",
-          "lang": "ja",
-          "published_at": "2026-05-12T02:20:26+00:00",
-          "title_ja": "韓国・現代自動車グループのヒューマノイド「アトラス」、開発型モデル初公開 - KOREA WAVE",
-          "title_en": "韓国・現代自動車グループのヒューマノイド「アトラス」、開発型モデル初公開 - KOREA WAVE",
-          "summary_ja": "韓国・現代自動車グループのヒューマノイド「アトラス」、開発型モデル初公開 KOREA WAVE",
-          "summary_en": "韓国・現代自動車グループのヒューマノイド「アトラス」、開発型モデル初公開 KOREA WAVE"
         }
       ]
     },
@@ -2354,6 +2354,138 @@
       "color": "#10B981",
       "is_company": false,
       "items": [
+        {
+          "id": "71590d86f3f9db91",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ0F6NkhUdERtYk8wR1NsR3VhTktfUFp3aWktMGZVdU4taEdxXzlZZDZoQXZObld2RlZTMmR4bWdkbFFQS1Vpbks1OGtoSGZCQ2l5Q0p5bkUxWTRmeHpvNWJJS2xDUExpcUd5OS12bVc2bEtPbGdIalBBTVNYc3BKNUVHNUZWUGtp?oc=5",
+          "source": "Barron's",
+          "lang": "en",
+          "published_at": "2026-07-17T20:35:00+00:00",
+          "title_ja": "Why This Surgical Robot Stock Is Still a Buy During Its Worst Day in 4 Years - Barron's",
+          "title_en": "Why This Surgical Robot Stock Is Still a Buy During Its Worst Day in 4 Years - Barron's",
+          "summary_ja": "Why This Surgical Robot Stock Is Still a Buy During Its Worst Day in 4 Years Barron's",
+          "summary_en": "Why This Surgical Robot Stock Is Still a Buy During Its Worst Day in 4 Years Barron's"
+        },
+        {
+          "id": "126a247865298eed",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQnh4RzUyQUtHSU5weXVDdGNta05KbUtIQ0tKdDcxM0IzNlNlY1ZNR0ozLVd0TWlJZXNaRDhKZGY2UTNtZl9LMFhNc25JQzhFSk5rdTVaeDlTRWNmZkJKN2pqNWNXZjRnZ2lENy1FTURMUXlBbmVLdk5UZU5fWGo3Rg?oc=5",
+          "source": "Investopedia",
+          "lang": "en",
+          "published_at": "2026-07-17T20:15:25+00:00",
+          "title_ja": "Why Intuitive Surgical Stock Plunged Today - Investopedia",
+          "title_en": "Why Intuitive Surgical Stock Plunged Today - Investopedia",
+          "summary_ja": "Why Intuitive Surgical Stock Plunged Today Investopedia",
+          "summary_en": "Why Intuitive Surgical Stock Plunged Today Investopedia"
+        },
+        {
+          "id": "e5f0a40389cca71a",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOEwzRzJVbU1NSnlNYjM3dWlVbWNNZGQ3Zll3dWZ3enNiSjliNC1zQ0htVDJiQm80M1BVOFR1bXhXWWVEZWN5T2hBWTMwT19UWGNKT0RXcHZaS2R2S1VKXy02YTQzSDd3bXNtNlFnTGo5TUdUTExJMnExZ01fZHFYcy12ZFVpTF9ZajBVOWUwNmdYVlNBQU5pYTVacC1ZUFR1eVZQU1ZVZnBwQTlzRnRaQU91Z3JnQQ?oc=5",
+          "source": "Medical Device and Diagnostic industry",
+          "lang": "en",
+          "published_at": "2026-07-17T19:29:08+00:00",
+          "title_ja": "GLP-1 Drugs & ACA Subsidy Expiration Weigh on Intuitive's Stock - Medical Device and Diagnostic industry",
+          "title_en": "GLP-1 Drugs & ACA Subsidy Expiration Weigh on Intuitive's Stock - Medical Device and Diagnostic industry",
+          "summary_ja": "GLP-1 Drugs & ACA Subsidy Expiration Weigh on Intuitive's Stock Medical Device and Diagnostic industry",
+          "summary_en": "GLP-1 Drugs & ACA Subsidy Expiration Weigh on Intuitive's Stock Medical Device and Diagnostic industry"
+        },
+        {
+          "id": "dbda9559dc41bf02",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeHc4YldlZV9ZeWNKYVlOcHZ1NFk0aDVFakhtZjBIUkFmakxrd0pTN2JZdVE2a2F5ZDRvWVlpRFRZOTFwSWdfbmpTall1aWRRR015RGRPYV9pS3hyTEI3Q3NEZ1JNMXB1UnkwZFBrR3lBWmVkWXh4a1ZmR2xIMDZJQklFZ0djOXBNU0hCSTZsRFlkY1M3UHhtOWY3MURUZU0zeTE1THBJYmduUVYtc3c?oc=5",
+          "source": "Vietnam.vn",
+          "lang": "ja",
+          "published_at": "2026-07-17T18:33:02+00:00",
+          "title_ja": "FV病院で行われた、Da Vinci Xiを用いたロボット支援胃切除手術のライブ中継。 - Vietnam.vn",
+          "title_en": "FV病院で行われた、Da Vinci Xiを用いたロボット支援胃切除手術のライブ中継。 - Vietnam.vn",
+          "summary_ja": "FV病院で行われた、Da Vinci Xiを用いたロボット支援胃切除手術のライブ中継。 Vietnam.vn",
+          "summary_en": "FV病院で行われた、Da Vinci Xiを用いたロボット支援胃切除手術のライブ中継。 Vietnam.vn"
+        },
+        {
+          "id": "ffd9790ebf187638",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQW1vdFFCLWJtTV90alRod0FEOERaYmhzajRqakdNWlpoandERHlFMUU4MVFsbEVCQ1Zuc0RUOGdBUDRBVFlCU2pRdGF2NnFkTlliNGk5ZFVELVI5WEpzOWd3T1Z2Ym1ZU3Q1c2FZdWFPQ2k3U2FxSFFXRUs2TUtiN2xvWlFMVzROSVN2UXdSYTEtVzhmUUJzMVo3UEMtVGJhVjBGVG51aWU?oc=5",
+          "source": "TradingView",
+          "lang": "en",
+          "published_at": "2026-07-17T16:52:22+00:00",
+          "title_ja": "Why Intuitive Surgical Stock Is Tanking Today - TradingView",
+          "title_en": "Why Intuitive Surgical Stock Is Tanking Today - TradingView",
+          "summary_ja": "Why Intuitive Surgical Stock Is Tanking Today TradingView",
+          "summary_en": "Why Intuitive Surgical Stock Is Tanking Today TradingView"
+        },
+        {
+          "id": "85b68dbc922e63eb",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUVJUUmh6cU5zblFRQW9RN1d4MUhxd084R1NLVW5oVmJWRURlX2F3T1lEZzFSYjRJX0lzbFVNU0gzelpKYWVXemQ5S0E3c3lWS2FqRDR1RUpOcno4MWhHWlBkbm5tMDE5em9KOU5Zdld2Q0I2c05yR0ZsU2E1ZXc5TmVMTE5hSW84SXlpN1RoMTQxOVJvWEtsTkpCWi13ck9qNVZqVEdwOA?oc=5",
+          "source": "MedTech Dive",
+          "lang": "en",
+          "published_at": "2026-07-17T15:57:15+00:00",
+          "title_ja": "Intuitive ties Q2 procedure softness to ACA subsidy expirations - MedTech Dive",
+          "title_en": "Intuitive ties Q2 procedure softness to ACA subsidy expirations - MedTech Dive",
+          "summary_ja": "Intuitive ties Q2 procedure softness to ACA subsidy expirations MedTech Dive",
+          "summary_en": "Intuitive ties Q2 procedure softness to ACA subsidy expirations MedTech Dive"
+        },
+        {
+          "id": "fff203b16917a5e4",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbUJLWVBhbGhmbklyNERveE5kTzdmNFdxQjdQLUk2eFQ1a3E3V0I0TmNSbFdKVDdTa3MzUkM5Wm9yQ1MzRVZ1SUJpclhWd2JGWXJxN0toU2lVeFBSdFpPc0lHN2c1R3RVczY5a2ZtcWROaF9zXzhtczZ5NWdaMFlIcTl3NGs5clMtNWIzZ3ltNDVwZmJvSHdST1RnNDdvUVJNNThMNXNSU251MmVJV1Rob3QwMG1MSmU2V3JNZkxqWUFkeDlmOUE?oc=5",
+          "source": "Reuters",
+          "lang": "en",
+          "published_at": "2026-07-17T15:44:26+00:00",
+          "title_ja": "Intuitive Surgical falls as Obamacare concerns rekindle medtech demand debate - Reuters",
+          "title_en": "Intuitive Surgical falls as Obamacare concerns rekindle medtech demand debate - Reuters",
+          "summary_ja": "Intuitive Surgical falls as Obamacare concerns rekindle medtech demand debate Reuters",
+          "summary_en": "Intuitive Surgical falls as Obamacare concerns rekindle medtech demand debate Reuters"
+        },
+        {
+          "id": "2cd62af51dd48017",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ1dkaHMyVzJiQWt4MXV3Y3g3SmNvbV9yLWViZWthM3h6bWhYYUpVSi1sNXQyMng0RDg1RkxqakZYZGlsbGxsRjhCci10a1J4UW9rLVIzdzhBNmtqRDBoNFJ1Sl85cnFCbjNpOVZYYlo4TUJEcS1BbE5oQ19CTDJ0V20zeVd2TjNZWFdtQjhCdDFKTUhq?oc=5",
+          "source": "Modern Healthcare",
+          "lang": "en",
+          "published_at": "2026-07-17T15:10:00+00:00",
+          "title_ja": "Intuitive Surgical drops as ACA changes, GLP-1s weigh on growth - Modern Healthcare",
+          "title_en": "Intuitive Surgical drops as ACA changes, GLP-1s weigh on growth - Modern Healthcare",
+          "summary_ja": "Intuitive Surgical drops as ACA changes, GLP-1s weigh on growth Modern Healthcare",
+          "summary_en": "Intuitive Surgical drops as ACA changes, GLP-1s weigh on growth Modern Healthcare"
+        },
+        {
+          "id": "4f6eadebccdc01ac",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQN0JETmFLVDlZTTJpUFp1c2dYRVdDY3lwS2hub2lWd0dfbXVDNEV1djgwNjVXM1o5M2ZJQzd0VGNYRnBJTXMtNmZwWkJMT0pVQnBrNktpT3RMSkdQVTNKMFpLcHhuVmJfVU5XWUQ2bUZPcWpZMlY5enZBNUpFdXNma1otOWdxYTQ?oc=5",
+          "source": "Yahoo!ファイナンス",
+          "lang": "ja",
+          "published_at": "2026-07-17T14:11:00+00:00",
+          "title_ja": "インテュイティブ・サージカル、決算受け大幅安 ダヴィンチの手術件数の伸び鈍化＝米国株個別(株探ニュース) - Yahoo!ファイナンス",
+          "title_en": "インテュイティブ・サージカル、決算受け大幅安 ダヴィンチの手術件数の伸び鈍化＝米国株個別(株探ニュース) - Yahoo!ファイナンス",
+          "summary_ja": "インテュイティブ・サージカル、決算受け大幅安 ダヴィンチの手術件数の伸び鈍化＝米国株個別(株探ニュース) Yahoo!ファイナンス",
+          "summary_en": "インテュイティブ・サージカル、決算受け大幅安 ダヴィンチの手術件数の伸び鈍化＝米国株個別(株探ニュース) Yahoo!ファイナンス"
+        },
+        {
+          "id": "1767c59af608c349",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMmh1RHhYb0ZESnVsZWtwWjJCY1JhbmN5RHZEV0RFLVBGVjBWRzYyQmxuXzJnNi1OTktIYkY4MmJ3NnBqSjBaRmpqSGVyOTFXeU5rVWZBOEN5TGcxR1BlSDZ6VnU4bVFKRVkxcVhSQjVvcnNpc2xMZ2k5dXdNdFRydWo4MkxSRkM0S2JSVUo3ekc1QXZqSDdGSV94aHVKNF9peXdicGFXaTl5cDZxeWxZ?oc=5",
+          "source": "Roanoke Times",
+          "lang": "en",
+          "published_at": "2026-07-17T08:30:00+00:00",
+          "title_ja": "Sovah brings robotic surgery to Martinsville - Roanoke Times",
+          "title_en": "Sovah brings robotic surgery to Martinsville - Roanoke Times",
+          "summary_ja": "Sovah brings robotic surgery to Martinsville Roanoke Times",
+          "summary_en": "Sovah brings robotic surgery to Martinsville Roanoke Times"
+        },
+        {
+          "id": "6a73c7d20316a48d",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UNlQxMkVnbWZkYjU4aGxvcmlzUDNqSWFnLWZWUTI0ejNyWmpRbExWVVN4WHF2YTVEMkxqYkVVUkJGdVVvTkQ0TWhrSmZ1VFZ1SmpuQ3U3UWNJRm83aTBmcjA1bFVxUWtZVGlGeXl0QzZLNTNm?oc=5",
+          "source": "BigGo ファイナンス",
+          "lang": "ja",
+          "published_at": "2026-07-17T06:50:46+00:00",
+          "title_ja": "天智航、上海微創骨科の買収で支配権獲得へ―手術ロボット大手が「機器＋消耗品」の閉鎖型エコシステム構築を狙う - BigGo ファイナンス",
+          "title_en": "天智航、上海微創骨科の買収で支配権獲得へ―手術ロボット大手が「機器＋消耗品」の閉鎖型エコシステム構築を狙う - BigGo ファイナンス",
+          "summary_ja": "天智航、上海微創骨科の買収で支配権獲得へ―手術ロボット大手が「機器＋消耗品」の閉鎖型エコシステム構築を狙う BigGo ファイナンス",
+          "summary_en": "天智航、上海微創骨科の買収で支配権獲得へ―手術ロボット大手が「機器＋消耗品」の閉鎖型エコシステム構築を狙う BigGo ファイナンス"
+        },
+        {
+          "id": "5ed1da345324e961",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMEhIUUlZbmJHTlRfYm1LcnR4TTZPNXBPenQ2RmJKbFJDOUJlYVVJUThWaFNIc2xHYTdCbk5PZmVab0lteHh3TEZ5QUNWLURzSklZNWpYeklqNURWZEtBWGxhVlhoQlZvX0h1YnNlVTZBSnFSWG5JeDY3WHNhRTdUMGltenZNVHJ1eTFSeHE1ZTdBUHlCTmc?oc=5",
+          "source": "スポニチ Sponichi Annex",
+          "lang": "ja",
+          "published_at": "2026-07-17T01:50:00+00:00",
+          "title_ja": "情報系マガジン誌、休刊ラッシュ 「DVD＆動画配信でーた」「ダ・ヴィンチ」など人気誌が…出版市場縮小 - スポニチ Sponichi Annex",
+          "title_en": "情報系マガジン誌、休刊ラッシュ 「DVD＆動画配信でーた」「ダ・ヴィンチ」など人気誌が…出版市場縮小 - スポニチ Sponichi Annex",
+          "summary_ja": "情報系マガジン誌、休刊ラッシュ 「DVD＆動画配信でーた」「ダ・ヴィンチ」など人気誌が…出版市場縮小 スポニチ Sponichi Annex",
+          "summary_en": "情報系マガジン誌、休刊ラッシュ 「DVD＆動画配信でーた」「ダ・ヴィンチ」など人気誌が…出版市場縮小 スポニチ Sponichi Annex"
+        },
         {
           "id": "d881dd360479584d",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBINUdHRmxsUVBUVG5kM0RvOWJibXdtNkZRMTJmWVlBalBJZUZtLXdEaG54ZGhva1BsOWFqXzFKUTB4emRJdVRCVTZUdnY4LTBmVmMzaFl4akFsZi12Y1VlN2c3SGZhVmRqNTZqRXE4T0M1blJ3cEtWNWVLTF9xR1k?oc=5",
@@ -2795,6 +2927,17 @@
           "summary_en": "レオナルド・ダ・ヴィンチの傑作《美しきフェロニエール》が奇跡の初来日！ 北川景子も登壇した『ルーヴル美術館展 ルネサンス』報道発表会レポート（SPICE） ｄメニューニュース"
         },
         {
+          "id": "ee5437b066a2453d",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMTTlHdzdEQ3AwVzV5WlVjdUcyeC1vUnQ2bGxod1huUE1leW1fWDJiUUdBSlJGTWtPMEw5MHBjYmxoaHpzOWVYU1BETFdHQ3PSAVRBVV95cUxNMFVwMjdvbGlpZi05Q3JCb0JIYnhxRlFJZWJ5NFdMYmhEamdjS1FhQU1jSkhFWWNfYzZQTWhlVWNDV2JtQ3Z3cHRRMzRNYVpaRk1mRHk?oc=5",
+          "source": "エンタメ特化型情報メディア スパイス",
+          "lang": "ja",
+          "published_at": "2026-07-13T03:00:00+00:00",
+          "title_ja": "レオナルド・ダ・ヴィンチの傑作《美しきフェロニエール》が奇跡の初来日！ 北川景子も登壇した『ルーヴル美術館展 ルネサンス』報道発表会レポート - エンタメ特化型情報メディア スパイス",
+          "title_en": "レオナルド・ダ・ヴィンチの傑作《美しきフェロニエール》が奇跡の初来日！ 北川景子も登壇した『ルーヴル美術館展 ルネサンス』報道発表会レポート - エンタメ特化型情報メディア スパイス",
+          "summary_ja": "レオナルド・ダ・ヴィンチの傑作《美しきフェロニエール》が奇跡の初来日！ 北川景子も登壇した『ルーヴル美術館展 ルネサンス』報道発表会レポート エンタメ特化型情報メディア スパイス",
+          "summary_en": "レオナルド・ダ・ヴィンチの傑作《美しきフェロニエール》が奇跡の初来日！ 北川景子も登壇した『ルーヴル美術館展 ルネサンス』報道発表会レポート エンタメ特化型情報メディア スパイス"
+        },
+        {
           "id": "f85dde51c0b4c30c",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85bURkS3BHc0ZRbUF6NkRCRzFLdWExMzIzbUZWZU53MG1EdEZ6Ulp6VDVZZkFWc1RGaW5vUjUxa045TGMyV2t6TzlUenlfZlp1cmlSMEpBUnBWTVR2S2VIRk5B?oc=5",
           "source": "Global Times",
@@ -2870,149 +3013,6 @@
           "title_en": "Medicaroid wins Europe’s CE mark for Hinotori surgical robot - MedTech Dive",
           "summary_ja": "Medicaroid wins Europe’s CE mark for Hinotori surgical robot MedTech Dive",
           "summary_en": "Medicaroid wins Europe’s CE mark for Hinotori surgical robot MedTech Dive"
-        },
-        {
-          "id": "7ab66f86ad960af9",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnR1dIUHZvRmNTOHZJU0RkUnpId19KVndJMlFIN00wMTQ5Rk5PZHdvMTVMRDd1eHFlUG5HalpqMk45TDZZdEFyWWFIUGUzTW1zY2RpbTRyNVltYXJVajJTR3dfRE9WOVRhRFJCLVN1MzA2U3Iy?oc=5",
-          "source": "BigGo ファイナンス",
-          "lang": "ja",
-          "published_at": "2026-07-10T13:45:00+00:00",
-          "title_ja": "世界初：中国・宇樹科技のG1人型ロボットが生体胆嚢摘出術に成功、コストはダヴィンチの「端数」 - BigGo ファイナンス",
-          "title_en": "世界初：中国・宇樹科技のG1人型ロボットが生体胆嚢摘出術に成功、コストはダヴィンチの「端数」 - BigGo ファイナンス",
-          "summary_ja": "世界初：中国・宇樹科技のG1人型ロボットが生体胆嚢摘出術に成功、コストはダヴィンチの「端数」 BigGo ファイナンス",
-          "summary_en": "世界初：中国・宇樹科技のG1人型ロボットが生体胆嚢摘出術に成功、コストはダヴィンチの「端数」 BigGo ファイナンス"
-        },
-        {
-          "id": "905fe0366904ef4d",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOREZWMlBsVmZsdnRWbnU1OTlFWkp2TkVXcWkzTVVzUHVIOTBCXzNTMHlPRWZ4THgxa1R3YVQyUkxVM01CeUJsUjB0bGk4TUhlc2RpRFFyZzZtRTlNN1RYMi16VEVpVTduSngzUmZ0a1BDNnJfQ0tNeEI3dmFFa0ZVRVpnMEdxWVUyLXZDU195VXdZUGR3U0tBNzRVVGc0WTZueUl3YmVsa1ZZX0trVFRGQUxqM2JzVjhVSl8wVkowNjZFdE4zd1Z0OG1OaXdYZ0d6U194c0Fsb9IB1wFBVV95cUxPYjFIbTZ6X2o3bjFibVFkOG90cmFFUlhITUI1TXdaQWlLNFZMY1ZwWUJnYjlrWWJUNkJramtUcVpBSkNIbTVrNkw3N2ZsWGFWOFgwYk55N25jWm9sVFQ3YXZ2RGE4T3NucU00MF9nYlZVbVVSUnktMUstZnV4RTBsck5xc1Y0QWNUZE4ydDRvd2p1ZjJJdmdPZzlCYXRKS1V5RlBnaVNTdUtZYzAwNFNjTlEza0dkNHhUUEtPbERpZVFXVnNvTG1ZaXBOSHNFNFNfQ2lTN3BVNA?oc=5",
-          "source": "South China Morning Post",
-          "lang": "en",
-          "published_at": "2026-07-10T13:00:07+00:00",
-          "title_ja": "US scientists use Chinese humanoid robot to carry out keyhole surgery - South China Morning Post",
-          "title_en": "US scientists use Chinese humanoid robot to carry out keyhole surgery - South China Morning Post",
-          "summary_ja": "US scientists use Chinese humanoid robot to carry out keyhole surgery South China Morning Post",
-          "summary_en": "US scientists use Chinese humanoid robot to carry out keyhole surgery South China Morning Post"
-        },
-        {
-          "id": "f02fb26a738634ef",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbFNJSEJCbXIwTXZVWDhQcTZ1MVplZkJRb3ItNGk3TlVJRFloLW5kN3czNHJRRTVJQ2k3bUtINHo4NGVnb1JCRGJyeFlaaXZ4aHVmdkYxQm0zTHNvajB0QUNnMmU0a1VUWkYxUElWTUpPWGR2UnFyRmhwYTYtLXJic1ZQVThlX3JoVU51UGVvSy1HQnVvWEE?oc=5",
-          "source": "Yahoo Finance",
-          "lang": "en",
-          "published_at": "2026-07-10T11:04:33+00:00",
-          "title_ja": "Medicaroid wins Europe’s CE mark for Hinotori surgical robot - Yahoo Finance",
-          "title_en": "Medicaroid wins Europe’s CE mark for Hinotori surgical robot - Yahoo Finance",
-          "summary_ja": "Medicaroid wins Europe’s CE mark for Hinotori surgical robot Yahoo Finance",
-          "summary_en": "Medicaroid wins Europe’s CE mark for Hinotori surgical robot Yahoo Finance"
-        },
-        {
-          "id": "110e5d81e1c9e546",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rbmVpdS1VQmEzUm0tTUphcU5GR0ktRG5UNTBYTmlZdElZTVQ3TllRVnFGcjlQUm9CazFYOVpISFNJem1OSGhtbkdzclB0d0otdFF1QzBpQjNDa0FHUEkxNFRRWGt4M0RGaVE?oc=5",
-          "source": "PR TIMES",
-          "lang": "ja",
-          "published_at": "2026-07-10T05:00:02+00:00",
-          "title_ja": "医療現場向け専用真空断熱製品「真空断熱スコープクリア」を開発。100年培った真空断熱技術で、鏡視下手術・ロボット手術現場での「レンズ汚れ・曇り」の課題を解決。 - PR TIMES",
-          "title_en": "医療現場向け専用真空断熱製品「真空断熱スコープクリア」を開発。100年培った真空断熱技術で、鏡視下手術・ロボット手術現場での「レンズ汚れ・曇り」の課題を解決。 - PR TIMES",
-          "summary_ja": "医療現場向け専用真空断熱製品「真空断熱スコープクリア」を開発。100年培った真空断熱技術で、鏡視下手術・ロボット手術現場での「レンズ汚れ・曇り」の課題を解決。 PR TIMES",
-          "summary_en": "医療現場向け専用真空断熱製品「真空断熱スコープクリア」を開発。100年培った真空断熱技術で、鏡視下手術・ロボット手術現場での「レンズ汚れ・曇り」の課題を解決。 PR TIMES"
-        },
-        {
-          "id": "f61cdecf2e874bbe",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMEthSmJZTmhWYTBxc2lhTlZKY0l4ekFhLWdWTGp5MXM0bUNtWUhzbDJ4Y3ZtcXVzMUp2bEhhNzJKSWQ0Tzh6OGliRTBXYjU0Uk9vb0thUHF4d0REWWswc0NLdHp2VzZzSzlBSklMWUdRWDhuWnl5eDVRN2Y4bFc3aXhLTmNUZWp0NDY3ZXpxSFgwVkpOb0I5UlNLZFZtT0g3UGlZb0pjVjRGYVdoZHc?oc=5",
-          "source": "WKEF",
-          "lang": "en",
-          "published_at": "2026-07-10T02:09:24+00:00",
-          "title_ja": "Miami Valley Hospital introduces region's first da Vinci 5 surgical system - WKEF",
-          "title_en": "Miami Valley Hospital introduces region's first da Vinci 5 surgical system - WKEF",
-          "summary_ja": "Miami Valley Hospital introduces region's first da Vinci 5 surgical system WKEF",
-          "summary_en": "Miami Valley Hospital introduces region's first da Vinci 5 surgical system WKEF"
-        },
-        {
-          "id": "b55c4316cc9fa0c7",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMVXM5ODUtMWNvdTVDdGxOOGFUZlhGckNjRkxZdl9INEVPY2RQWXR6c1JSV0dOUkNMdkwxcTZnVDZlb29LZ0lhWkh5YWtfVEhGbjdBdUtmV1VrVmxhOXhPa3MzZjFDRHMzd1E?oc=5",
-          "source": "PR TIMES",
-          "lang": "ja",
-          "published_at": "2026-07-10T02:00:02+00:00",
-          "title_ja": "QuizKnockの後輩VTuber・解問ハテナが『君のクイズ』コミカライズ1巻発売記念イベントにゲスト登壇！ 漫画家 野田彩子氏とダ・ヴィンチ・恐山氏とトークショーを行いました - PR TIMES",
-          "title_en": "QuizKnockの後輩VTuber・解問ハテナが『君のクイズ』コミカライズ1巻発売記念イベントにゲスト登壇！ 漫画家 野田彩子氏とダ・ヴィンチ・恐山氏とトークショーを行いました - PR TIMES",
-          "summary_ja": "QuizKnockの後輩VTuber・解問ハテナが『君のクイズ』コミカライズ1巻発売記念イベントにゲスト登壇！ 漫画家 野田彩子氏とダ・ヴィンチ・恐山氏とトークショーを行いました PR TIMES",
-          "summary_en": "QuizKnockの後輩VTuber・解問ハテナが『君のクイズ』コミカライズ1巻発売記念イベントにゲスト登壇！ 漫画家 野田彩子氏とダ・ヴィンチ・恐山氏とトークショーを行いました PR TIMES"
-        },
-        {
-          "id": "47a29c4a67c9fdf9",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa3Ztd09ub0w3X1Jvck1VaFV1WVFZdXRvOUtWQ2lFRVhNeVpIUW5DdWNIYVRzSFJUcnNWQS12T2lUOXJfOTVKSm5kUHNnYnpPUWF5U0hRT19nR2MyMm1xRVdUYm9idVlaZklISjNYWTY4SGNINmR6bHUybnBtdlRSWHBvY2g3bXF4YWF2b3gtQ3M1UHZoRmU2N3BHWVUyZF9zRXJmVHh2NlR0V1VkRWstSGZHNA?oc=5",
-          "source": "Ars Technica",
-          "lang": "en",
-          "published_at": "2026-07-09T20:12:03+00:00",
-          "title_ja": "Humanoid robots controlled by surgeons did world-first operation on live pigs - Ars Technica",
-          "title_en": "Humanoid robots controlled by surgeons did world-first operation on live pigs - Ars Technica",
-          "summary_ja": "Humanoid robots controlled by surgeons did world-first operation on live pigs Ars Technica",
-          "summary_en": "Humanoid robots controlled by surgeons did world-first operation on live pigs Ars Technica"
-        },
-        {
-          "id": "0760bc29e653c0de",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWTB0Y3VDcXR3N0FsYmoyZlpyRTlXQTJfVlpVcUJzNUFOUzEyWHFrTndWanpQQ1MzSy1KTXdNZVE2V0FGeU1EZ0xySjY4SjdSWGpRbjF6NHRfLUNPSVhQZ2hDV1kycFczTW95dDMtdzhUMEM0akhIVTJWejJXRE0wY2Rja3E5RGtoZzFCaUJlQjkwbm9HSVphek1fRDBER3RJZXltTTB5SWNmVzRCWW5CbnA0dFZETmpFb1JUaGpFeVl4QWRVQmFVWmdvZ205SXlCbjFSdG52bllVVy1O?oc=5",
-          "source": "Novant Health",
-          "lang": "en",
-          "published_at": "2026-07-09T16:24:24+00:00",
-          "title_ja": "Novant Health surgeon completes 2,000th robotic-assisted procedure, delivering expert care across the Triad - Novant Health",
-          "title_en": "Novant Health surgeon completes 2,000th robotic-assisted procedure, delivering expert care across the Triad - Novant Health",
-          "summary_ja": "Novant Health surgeon completes 2,000th robotic-assisted procedure, delivering expert care across the Triad Novant Health",
-          "summary_en": "Novant Health surgeon completes 2,000th robotic-assisted procedure, delivering expert care across the Triad Novant Health"
-        },
-        {
-          "id": "dd4c536d007a39c2",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jWExqTW5OVlRLZUgtZmhWVUcyY3YwY0J3THZGQnhTVFpjRDVjakl6T3JQaXUtRzhPTDZZakI4b3FvR0hwc1RhMk1sdFdZVUVuRXZCcFJhdzFHQXhV?oc=5",
-          "source": "- 神戸経済ニュース",
-          "lang": "ja",
-          "published_at": "2026-07-09T12:49:00+00:00",
-          "title_ja": "手術支援ロボ「ヒノトリ」欧州で販売へ 「ＣＥマーク」 認証取得 - - 神戸経済ニュース",
-          "title_en": "手術支援ロボ「ヒノトリ」欧州で販売へ 「ＣＥマーク」 認証取得 - - 神戸経済ニュース",
-          "summary_ja": "手術支援ロボ「ヒノトリ」欧州で販売へ 「ＣＥマーク」 認証取得 - 神戸経済ニュース",
-          "summary_en": "手術支援ロボ「ヒノトリ」欧州で販売へ 「ＣＥマーク」 認証取得 - 神戸経済ニュース"
-        },
-        {
-          "id": "372568e1545b7c1b",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVS1BSHp2NjNld1lNNmcwWjRDeUdQUVZoX3c0MGljYmNmM0FDVks2QXB5Yl9rMkh5V3pta3RRcG5nbkNhblJoaE1XVHNpRXdQOXFiZVRtNC1qdk5tOThPTEVjQUpMZVJ4VVFaNU5ta29sN3J4VmdmSVpRWGJ0WC1zd0V0Zngxdk5qSnlrUVpCaWVYVjRRTWNrNGhqRU9vWlVwX2RhdEhB?oc=5",
-          "source": "The Robot Report",
-          "lang": "en",
-          "published_at": "2026-07-09T12:34:25+00:00",
-          "title_ja": "Beyond da Vinci: Why versatile humanoid robots are the next frontier in surgery - The Robot Report",
-          "title_en": "Beyond da Vinci: Why versatile humanoid robots are the next frontier in surgery - The Robot Report",
-          "summary_ja": "Beyond da Vinci: Why versatile humanoid robots are the next frontier in surgery The Robot Report",
-          "summary_en": "Beyond da Vinci: Why versatile humanoid robots are the next frontier in surgery The Robot Report"
-        },
-        {
-          "id": "251a2f85482b7d0c",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMDlXbnpaMnFoSkQ0Y1ZQcG1qc3NsTVJqRHNEVm94OE4zOXZqaXNNYmJnUUFxNnpneTdVamsxQzB1UmxRYWZXeVJQVGhNQWhOejJRWlhQUWpzTWtjaWQ0ZWlRT2JkOVA5TTM5TE02dVNxZ3FTbTdiMlltcjFJVG1wTktJMVZQSVducGxrQUc3dm5ySWdwRUJhVGQ3WkJiMXZfQkFGODJjMzJNY2RZT1E3ejM1ZUVnREtmVnQ3aVpIZmJNcG9pN290aDladlFyMElKNkdtZzl30gHbAUFVX3lxTE0yVWM0NHA0eXZ1MV9vM0hZV0w1Smo3TkpCd2FxOFUxSGF4cTlaSkFxOGJiMlNoZHVJMndZeW9ZaUFXZWN2N1F2a0FhYXlQSF9XTmhzY2Q1YkkxbVF4bmpQVEdPeGRMMVRzNXBCc0JmZjd2S3RFTThlczVUZTJJQldHTHI2U2RJV044d3htcVlpOUxjOHpub1hYeEY4d1QxZ1BxNmpmZEtiNzVoRzdNcjdfWXh4SFZCOHFETG1EN3FOUldVVVU1OHNkbUJpbmgyNkx2RWljV0V6d2hsUQ?oc=5",
-          "source": "simplywall.st",
-          "lang": "en",
-          "published_at": "2026-07-09T11:40:51+00:00",
-          "title_ja": "Is the da Vinci Recall and Appendectomy Push Altering The Investment Case For Intuitive Surgical (ISRG)? - simplywall.st",
-          "title_en": "Is the da Vinci Recall and Appendectomy Push Altering The Investment Case For Intuitive Surgical (ISRG)? - simplywall.st",
-          "summary_ja": "Is the da Vinci Recall and Appendectomy Push Altering The Investment Case For Intuitive Surgical (ISRG)? simplywall.st",
-          "summary_en": "Is the da Vinci Recall and Appendectomy Push Altering The Investment Case For Intuitive Surgical (ISRG)? simplywall.st"
-        },
-        {
-          "id": "f367a9e62fc0d3a8",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb0JRY05BVGc1WERoM1FVclk2ODlzTWhvaGIwS01idHBnalc1MjR5MmxmQ3hyVFBaeTk5TE5hSDYzeDdBT3FPeFdPX2VHNWlrOVM3NEtBWEdQeENqeHQ0UzVBX2ZkYUwxX08xQ0NrRWdPYWlCM04xNE5NSklrM2ZyS0ZfY29hSUJ1YkQ3RHlR?oc=5",
-          "source": "Yahoo!ニュース",
-          "lang": "ja",
-          "published_at": "2026-07-09T10:30:03+00:00",
-          "title_ja": "トイファクトリー、新型キャンピングカー『ダヴィンチ5.4』発表 東京キャンピングカーショー2026で発売へ (レスポンス) - Yahoo!ニュース",
-          "title_en": "トイファクトリー、新型キャンピングカー『ダヴィンチ5.4』発表 東京キャンピングカーショー2026で発売へ (レスポンス) - Yahoo!ニュース",
-          "summary_ja": "トイファクトリー、新型キャンピングカー『ダヴィンチ5.4』発表 東京キャンピングカーショー2026で発売へ (レスポンス) Yahoo!ニュース",
-          "summary_en": "トイファクトリー、新型キャンピングカー『ダヴィンチ5.4』発表 東京キャンピングカーショー2026で発売へ (レスポンス) Yahoo!ニュース"
-        },
-        {
-          "id": "94432f36f684047d",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE41Tkdkcm9VdUpVMEViYXpwQXJZSVZBZ3pjSWhHUWswdGZ6VGhRSGhBT0c2NU9nOUxLUHJPM0hKU2hWQ1h5N1NwX3BOdlg1NXdWVWh6YzBudTN2M3dFdVRuZHlIbmkxMzRkOHA1SjRic25xQQ?oc=5",
-          "source": "レスポンス（Response.jp）",
-          "lang": "ja",
-          "published_at": "2026-07-09T10:30:03+00:00",
-          "title_ja": "トイファクトリー、新型キャンピングカー『ダヴィンチ5.4』発表 東京キャンピングカーショー2026で発売へ 2枚目の写真・画像 - レスポンス（Response.jp）",
-          "title_en": "トイファクトリー、新型キャンピングカー『ダヴィンチ5.4』発表 東京キャンピングカーショー2026で発売へ 2枚目の写真・画像 - レスポンス（Response.jp）",
-          "summary_ja": "トイファクトリー、新型キャンピングカー『ダヴィンチ5.4』発表 東京キャンピングカーショー2026で発売へ 2枚目の写真・画像 レスポンス（Response.jp）",
-          "summary_en": "トイファクトリー、新型キャンピングカー『ダヴィンチ5.4』発表 東京キャンピングカーショー2026で発売へ 2枚目の写真・画像 レスポンス（Response.jp）"
         }
       ]
     },
@@ -3023,6 +3023,182 @@
       "color": "#F59E0B",
       "is_company": false,
       "items": [
+        {
+          "id": "89c9349afb7004c6",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOGIwcEFzSjY0VUEtRXFwaXFESHZqYXhPZzhPTXJIMWZERVBrQ0FmUDlFYktMemU1MlRSVERBdjEwdGhhNTZMSlhVendKMEk1MGNteDF3VlZDZDAxYkNEY2c2cUNvZVpOSEhUQlg5UmZwLUxKV19JdDQ2Rm44WE0zSzB1NFJMajlaekQ2cnFEbGc?oc=5",
+          "source": "PCMag",
+          "lang": "en",
+          "published_at": "2026-07-17T21:28:27+00:00",
+          "title_ja": "Clean Up $200 in Savings With This Roborock Robot Vacuum and Mop Deal - PCMag",
+          "title_en": "Clean Up $200 in Savings With This Roborock Robot Vacuum and Mop Deal - PCMag",
+          "summary_ja": "Clean Up $200 in Savings With This Roborock Robot Vacuum and Mop Deal PCMag",
+          "summary_en": "Clean Up $200 in Savings With This Roborock Robot Vacuum and Mop Deal PCMag"
+        },
+        {
+          "id": "c196a16792dc7dec",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2Ny1ycVUwUXpXVjl1M0ZBLXo3NWRkWXQzdjk5M1BJLUt3eWdfc0xrS3dzemhaT1hrY2VWVDNBTVhiSWg5VnI4SlNwaDRON2lDZGtwZURTZ0dKT3hnU1A1RWh1VzlOYThZRzhWUzJB?oc=5",
+          "source": "Lifehacker",
+          "lang": "en",
+          "published_at": "2026-07-17T20:30:00+00:00",
+          "title_ja": "This Roborock Smart Vacuum Has a Robot Arm and Is 50% Off Right Now - Lifehacker",
+          "title_en": "This Roborock Smart Vacuum Has a Robot Arm and Is 50% Off Right Now - Lifehacker",
+          "summary_ja": "This Roborock Smart Vacuum Has a Robot Arm and Is 50% Off Right Now Lifehacker",
+          "summary_en": "This Roborock Smart Vacuum Has a Robot Arm and Is 50% Off Right Now Lifehacker"
+        },
+        {
+          "id": "41ca97521fc53e9e",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jS0VuM19BUEczbDkySV9xNG5pOVVhTURIa3pJR0ppbW1Wb2cwc0xycFJEYnhvNkNVVlpEMlI1TWFVaHZkLW41amtlb3Fhc1VuM0dsOWJuWTNCSTNVdFc0ZVNqWTRTcW01?oc=5",
+          "source": "CNET",
+          "lang": "en",
+          "published_at": "2026-07-17T18:02:00+00:00",
+          "title_ja": "Narwal's Flow 2 Robot Vac and Mop Is $400 Off and Practically Maintenance-Free - CNET",
+          "title_en": "Narwal's Flow 2 Robot Vac and Mop Is $400 Off and Practically Maintenance-Free - CNET",
+          "summary_ja": "Narwal's Flow 2 Robot Vac and Mop Is $400 Off and Practically Maintenance-Free CNET",
+          "summary_en": "Narwal's Flow 2 Robot Vac and Mop Is $400 Off and Practically Maintenance-Free CNET"
+        },
+        {
+          "id": "7216adce0ee921f1",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQenNqWlZIS3NjTWhyTFkybGdwd21CTmhvejNSdFpIZ0FlYUpvOUdGV1Z2aExZSnMwblRCTUpLTEFJQWFJMGFabTBTbEoyMlN1b0hzZnMzY1ltbzB6ZVdUejlFdHpYSEUtR0lvVC1MU2l4R1ZCTWx2bmN0blJjeEkxajdRTm9NaDdhX1FnTWdZM0RUaFpWd2c?oc=5",
+          "source": "New York Post",
+          "lang": "en",
+          "published_at": "2026-07-17T17:01:00+00:00",
+          "title_ja": "A Dyson vacuum under $200? It’s true — here’s where to suck up the deal - New York Post",
+          "title_en": "A Dyson vacuum under $200? It’s true — here’s where to suck up the deal - New York Post",
+          "summary_ja": "A Dyson vacuum under $200? It’s true — here’s where to suck up the deal New York Post",
+          "summary_en": "A Dyson vacuum under $200? It’s true — here’s where to suck up the deal New York Post"
+        },
+        {
+          "id": "046d6edc0604a4bb",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBxQlZzU3FZVzBBU2t2Y0lxLVBxWklGbWh5aGJUdDFucndRZGRFOFFVRXZUTzJqUDRfeEFIRTM3dmstdDZ1SkNqQ3FudmN1QmpWTXMyWDRBVldDOW5TNlFZaUR0VHRFNjZwdU5QM21HeDdkUUxmdjdqeEJn?oc=5",
+          "source": "Mashable",
+          "lang": "en",
+          "published_at": "2026-07-17T16:52:10+00:00",
+          "title_ja": "Best robot vacuum deal: Save $1,000 on Roborock Saros Z70 - Mashable",
+          "title_en": "Best robot vacuum deal: Save $1,000 on Roborock Saros Z70 - Mashable",
+          "summary_ja": "Best robot vacuum deal: Save $1,000 on Roborock Saros Z70 Mashable",
+          "summary_en": "Best robot vacuum deal: Save $1,000 on Roborock Saros Z70 Mashable"
+        },
+        {
+          "id": "308292db2d4ff20f",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82cVF5S0hrVU1kWkxDN29kVV9xN2lsS2xBNlJnYUEtczRhUTVrVFpwUGRhMHgyaUhhUDBiaFN6Uy1tVnVXX2c2OTAydEdFN3Z6VnUwOEozSVhJTFUzSF8xb2VRSUpHc2tYaWQ0QkNrVFZnNlU?oc=5",
+          "source": "Vacuum Wars",
+          "lang": "en",
+          "published_at": "2026-07-17T16:34:11+00:00",
+          "title_ja": "Shark Robot Vacuum Security Vulnerability Report from Researcher - Vacuum Wars",
+          "title_en": "Shark Robot Vacuum Security Vulnerability Report from Researcher - Vacuum Wars",
+          "summary_ja": "Shark Robot Vacuum Security Vulnerability Report from Researcher Vacuum Wars",
+          "summary_en": "Shark Robot Vacuum Security Vulnerability Report from Researcher Vacuum Wars"
+        },
+        {
+          "id": "260c42cf803d62a5",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oZTVCZG1XUWZOeTN4RGRBRnlTanZDeDR1aXFpTmlHR3k1blZVS3ZMcUx1Y0JlbHVZQndPa2ZVMXp1bWxieC1hX0RycXlPMG5LQUdrWkNVb3pPRlZha2xZTy1QbHBWNkE?oc=5",
+          "source": "hobby.watch.impress.co.jp",
+          "lang": "ja",
+          "published_at": "2026-07-17T15:05:00+00:00",
+          "title_ja": "【Amazonセール】roborockとLefantの水拭き両用ロボット掃除機がお買い得価格で登場！ - hobby.watch.impress.co.jp",
+          "title_en": "【Amazonセール】roborockとLefantの水拭き両用ロボット掃除機がお買い得価格で登場！ - hobby.watch.impress.co.jp",
+          "summary_ja": "【Amazonセール】roborockとLefantの水拭き両用ロボット掃除機がお買い得価格で登場！ hobby.watch.impress.co.jp",
+          "summary_en": "【Amazonセール】roborockとLefantの水拭き両用ロボット掃除機がお買い得価格で登場！ hobby.watch.impress.co.jp"
+        },
+        {
+          "id": "6eb9ec297f406cb5",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTWZJVzJMUnQwSHJJRjhjMHpEZ0RMa2JUOXAzN3p5RXN6Wm9pUlFxWnlhVi1CQkNpNlRxTjZYM2F2d1dtTHpwZy1EdHVaNnZTLXo2WG9pWTdPNGM0bmdBZV9mUUotUmRJVkdGN0wyMXhVZ1RXMzVYdDZRVmJDa3pvMlFxTTB2QQ?oc=5",
+          "source": "PCWorld",
+          "lang": "en",
+          "published_at": "2026-07-17T14:00:00+00:00",
+          "title_ja": "This Shark robot vacuum actually finds the messes I miss - PCWorld",
+          "title_en": "This Shark robot vacuum actually finds the messes I miss - PCWorld",
+          "summary_ja": "This Shark robot vacuum actually finds the messes I miss PCWorld",
+          "summary_en": "This Shark robot vacuum actually finds the messes I miss PCWorld"
+        },
+        {
+          "id": "9d9bc7a5b506f9f5",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTHAtWDZHQXNaeEFwbEZpUFFGV2JwMmFkWFFoTnJUSlJ0MHZUcXl3QWtRVGVjUTFDSHJnSkxwZkNqNDZWYk1qeVBrM1pwRVNaOWdBUzdYX2dIRFkyZVNUbk1VQk80SnJhZ1Nid2dWTm53YWxuM1ZKdmNMdllpU1NELXFUVzJKcTB1aTVpNmtMajh5d0FZUVplWkJ2a19rd25tWDFiWUZyWjM3NlVJWDBVR1hscDIxcGh5Q21VRV9pY0dUUXlzaHJXeXVqNFZNQQ?oc=5",
+          "source": "Kotaku",
+          "lang": "en",
+          "published_at": "2026-07-17T13:45:32+00:00",
+          "title_ja": "Amazon Clears Out Eufy 11S MAX Robot Vacuum at Nearly 50% Off, Cheaper Than Buying a Budget Stick Cleaner - Kotaku",
+          "title_en": "Amazon Clears Out Eufy 11S MAX Robot Vacuum at Nearly 50% Off, Cheaper Than Buying a Budget Stick Cleaner - Kotaku",
+          "summary_ja": "Amazon Clears Out Eufy 11S MAX Robot Vacuum at Nearly 50% Off, Cheaper Than Buying a Budget Stick Cleaner Kotaku",
+          "summary_en": "Amazon Clears Out Eufy 11S MAX Robot Vacuum at Nearly 50% Off, Cheaper Than Buying a Budget Stick Cleaner Kotaku"
+        },
+        {
+          "id": "92235436bcc4d7a5",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVzhBa2MtdlZvcGZxdnM2NnVPU2ZfdnFmenpBV3k3dWYtbjhKQWN4aWo3RFZKLTZEVHIzVGp6THNReEIyaTRqbml2dGlxQWNzZDJkV2gtdjJBeUZkcjl5SmpaVHlNTHNJUHdSdjNDdXRTUDZHRjhnLWNEM2ZqeEJ6OS1kTHFLNjBGczBaaWNnVmJzdVV0SUkyaFNvbFpkOVRoNV85VFRfR05FSkFKNjRj?oc=5",
+          "source": "Malwarebytes",
+          "lang": "en",
+          "published_at": "2026-07-17T12:37:32+00:00",
+          "title_ja": "Shark vacuum flaw exposes cameras, home maps and Wi-Fi passwords - Malwarebytes",
+          "title_en": "Shark vacuum flaw exposes cameras, home maps and Wi-Fi passwords - Malwarebytes",
+          "summary_ja": "Shark vacuum flaw exposes cameras, home maps and Wi-Fi passwords Malwarebytes",
+          "summary_en": "Shark vacuum flaw exposes cameras, home maps and Wi-Fi passwords Malwarebytes"
+        },
+        {
+          "id": "8ad505a9bae39668",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJb1psTTI5ZGxFM0F4WDVqemV3UDJubG5GaHVvMlJTNHl1SkpaSHBuNWlOc2NtNVI4WVlYUFZhMmpSY1FBOUlpWTJ1M0x6ZXpweXJCUDlkQ0kxMEpYQkJkTkRHT1g0R0ZhY19xaQ?oc=5",
+          "source": "日本経済新聞",
+          "lang": "ja",
+          "published_at": "2026-07-17T10:40:19+00:00",
+          "title_ja": "アイロボット、ルンバの最上位モデル2種発売 吸引力4倍 - 日本経済新聞",
+          "title_en": "アイロボット、ルンバの最上位モデル2種発売 吸引力4倍 - 日本経済新聞",
+          "summary_ja": "アイロボット、ルンバの最上位モデル2種発売 吸引力4倍 日本経済新聞",
+          "summary_en": "アイロボット、ルンバの最上位モデル2種発売 吸引力4倍 日本経済新聞"
+        },
+        {
+          "id": "9ec775395d8274fe",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORlFtT25pa2lfbmh6V01aeVJfcEdBa2c3RmZlbnI4M1JZMW1CZEUzY2NUbmJkNEM2d2xYbWhkcG4tUU5Wbmx2Y09Tc3VteXZtOU56Q2o4ejQ3a1NtN1lBNktreXlPTnVFb3l6RzhXTDNBWTIxSzhFcjhuSjdPZW1saDNVMVR1eHJKdGRhSUtOSDFfejh1Y2VwZFpUOEdFbDBKblYyck56Z1VaeGl3NXUxQU1Wa3JtUWE5aHN3aHNuM05jZFFVbDNtNUJjcVZSbW9nTkFCX1ZHVXZPeU1QWkJFbFpEV1FVZVgxRGxTdmVTZFpHUQ?oc=5",
+          "source": "Tom's Hardware",
+          "lang": "en",
+          "published_at": "2026-07-17T10:00:00+00:00",
+          "title_ja": "Robot vacuum flaw lets one stolen certificate run root commands on other Shark robovacs in the same AWS region — unpatched flaw exposes live camera feeds, stored home maps, and Wi-Fi credentials - Tom's Hardware",
+          "title_en": "Robot vacuum flaw lets one stolen certificate run root commands on other Shark robovacs in the same AWS region — unpatched flaw exposes live camera feeds, stored home maps, and Wi-Fi credentials - Tom's Hardware",
+          "summary_ja": "Robot vacuum flaw lets one stolen certificate run root commands on other Shark robovacs in the same AWS region — unpatched flaw exposes live camera feeds, stored home maps, and Wi-Fi credentials Tom's Hardware",
+          "summary_en": "Robot vacuum flaw lets one stolen certificate run root commands on other Shark robovacs in the same AWS region — unpatched flaw exposes live camera feeds, stored home maps, and Wi-Fi credentials Tom's Hardware"
+        },
+        {
+          "id": "ce06fe8b95d7d236",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5USUFFaUh0Q3hrZTZuMEJmR29UM3U1ZDh6Z1R6Um82ckMwenFiRldZSVFoa3JtWkJ4b3lURlZveEd6S2VvV2VN?oc=5",
+          "source": "kabushiki.jp",
+          "lang": "ja",
+          "published_at": "2026-07-17T06:55:00+00:00",
+          "title_ja": "アマノ、業務用ロボット掃除機「ＲＡＰｉｉＴＴ」発売 速報 - kabushiki.jp",
+          "title_en": "アマノ、業務用ロボット掃除機「ＲＡＰｉｉＴＴ」発売 速報 - kabushiki.jp",
+          "summary_ja": "アマノ、業務用ロボット掃除機「ＲＡＰｉｉＴＴ」発売 速報 kabushiki.jp",
+          "summary_en": "アマノ、業務用ロボット掃除機「ＲＡＰｉｉＴＴ」発売 速報 kabushiki.jp"
+        },
+        {
+          "id": "47510036d97e737b",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFem1uQmhodXh2anlvRDhqTUhXamFYTml4NmZCcm5Jd0NzQV8wR2FxWnp2dTFSdkJ5Mm1Sb0lld2pkN19qd21ydzAtdkxXU2ZRWm9EemhHTWpDeGJkV3dsMXlZeC1velVWZFF6S2ZR?oc=5",
+          "source": "kakaku.com",
+          "lang": "ja",
+          "published_at": "2026-07-17T05:48:00+00:00",
+          "title_ja": "アイロボット、最大4倍の吸引力を備えたロボット掃除機の最上位モデル「ルンバ Max」 - kakaku.com",
+          "title_en": "アイロボット、最大4倍の吸引力を備えたロボット掃除機の最上位モデル「ルンバ Max」 - kakaku.com",
+          "summary_ja": "アイロボット、最大4倍の吸引力を備えたロボット掃除機の最上位モデル「ルンバ Max」 kakaku.com",
+          "summary_en": "アイロボット、最大4倍の吸引力を備えたロボット掃除機の最上位モデル「ルンバ Max」 kakaku.com"
+        },
+        {
+          "id": "52385cde19d202d5",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iVmFybEFxNU9iV01PV0FscGdJU3pnd2JUNGEySUpQNGZZMmNHS0xpaTB5bFdLUTVrci1SVjlsMmFuRWxiUTdmMEZ0VmdvTzdSYjk3SmgzYTRUcXVzbDQxeWJ6TmN5dmpSQTZuRnZhblNwOW5OOWxLSVJCMDFYenM?oc=5",
+          "source": "Yahoo!ニュース",
+          "lang": "ja",
+          "published_at": "2026-07-17T05:33:56+00:00",
+          "title_ja": "吸引力重視のロボット掃除機「Roomba Max 715 Vac／775 Combo」登場 通常モデル比で4倍の力強さ（ITmedia PC USER） - Yahoo!ニュース",
+          "title_en": "吸引力重視のロボット掃除機「Roomba Max 715 Vac／775 Combo」登場 通常モデル比で4倍の力強さ（ITmedia PC USER） - Yahoo!ニュース",
+          "summary_ja": "吸引力重視のロボット掃除機「Roomba Max 715 Vac／775 Combo」登場 通常モデル比で4倍の力強さ（ITmedia PC USER） Yahoo!ニュース",
+          "summary_en": "吸引力重視のロボット掃除機「Roomba Max 715 Vac／775 Combo」登場 通常モデル比で4倍の力強さ（ITmedia PC USER） Yahoo!ニュース"
+        },
+        {
+          "id": "c5f53f7387ee8cb2",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE13dFVTbVFCUlV3ZUdoa1FKcWE3RjJSZnlabmh1MFlVVDRXQTFOOW5KMGp4Rm53ZkZOMU5UcG5ZNmxrWnd0Vy1SVHFWNTQwUlFtWGJGcFFSTFpxWE5oa0xuMEVOVlRnY0kta01ocjlyVnBfNHd1?oc=5",
+          "source": "BigGo ファイナンス",
+          "lang": "ja",
+          "published_at": "2026-07-17T02:35:00+00:00",
+          "title_ja": "ルンバ最強旗艦「Roomba Max」登場、吸引力4倍・19.9万円から - BigGo ファイナンス",
+          "title_en": "ルンバ最強旗艦「Roomba Max」登場、吸引力4倍・19.9万円から - BigGo ファイナンス",
+          "summary_ja": "ルンバ最強旗艦「Roomba Max」登場、吸引力4倍・19.9万円から BigGo ファイナンス",
+          "summary_en": "ルンバ最強旗艦「Roomba Max」登場、吸引力4倍・19.9万円から BigGo ファイナンス"
+        },
         {
           "id": "ae9f63749455fa5d",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORUpGTXB3XzZOMmliZEE1am1rOTB0b2Z0RXFSVmJDN25xMklLSmI0NFRuZV96djZuTWI0WU9QTjhmODRjaHJrYWNfMkFWUzZMM0JTMTh3UUFVNWZKSWE2V1hpV1JoZm8xZzFfNmROeUdYN3JNZjIwY1phVHM3WTNoMWdaNXpaTG5jN0ZZNXE3X1kwZw?oc=5",
@@ -3506,182 +3682,6 @@
           "title_en": "日本市場向けに46％小型化＆34％オフ！最新ルンバRoomba Plus 575 Comboが11万円台に 【Amazonプライムデー】 - ASCII.jp",
           "summary_ja": "日本市場向けに46％小型化＆34％オフ！最新ルンバRoomba Plus 575 Comboが11万円台に 【Amazonプライムデー】 ASCII.jp",
           "summary_en": "日本市場向けに46％小型化＆34％オフ！最新ルンバRoomba Plus 575 Comboが11万円台に 【Amazonプライムデー】 ASCII.jp"
-        },
-        {
-          "id": "44099e9200eca829",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5DbUU5RVpHVTdrTDh2cGtBVnRXUTFBdzVXRWdBTGthYVd2ZkJ5bWxPV2s0c0x1ZkJTQ2llMkxQYkI3Z3BrMldaZkpn?oc=5",
-          "source": "まぐまぐ",
-          "lang": "ja",
-          "published_at": "2026-07-12T05:40:01+00:00",
-          "title_ja": "薄くてコンパクトでも、頼れる高性能。Ankerの“シンプルを極めた”ロボット掃除機がお得です - まぐまぐ",
-          "title_en": "薄くてコンパクトでも、頼れる高性能。Ankerの“シンプルを極めた”ロボット掃除機がお得です - まぐまぐ",
-          "summary_ja": "薄くてコンパクトでも、頼れる高性能。Ankerの“シンプルを極めた”ロボット掃除機がお得です まぐまぐ",
-          "summary_en": "薄くてコンパクトでも、頼れる高性能。Ankerの“シンプルを極めた”ロボット掃除機がお得です まぐまぐ"
-        },
-        {
-          "id": "ac4822e225875206",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB1eVhGMEpKWl9xUUhrLWlyVDI4dlN1UFRzQ1hlTFp4STFEQ0ZPUmZla3NCTzlnODczU2U4WEJvQy13d1JKRi1uOHVB?oc=5",
-          "source": "まぐまぐ",
-          "lang": "ja",
-          "published_at": "2026-07-12T04:20:01+00:00",
-          "title_ja": "Ankerのロボット掃除機は「2ヶ月ゴミ捨て＆ブラシの手入れ不要」で2万円台 - まぐまぐ",
-          "title_en": "Ankerのロボット掃除機は「2ヶ月ゴミ捨て＆ブラシの手入れ不要」で2万円台 - まぐまぐ",
-          "summary_ja": "Ankerのロボット掃除機は「2ヶ月ゴミ捨て＆ブラシの手入れ不要」で2万円台 まぐまぐ",
-          "summary_en": "Ankerのロボット掃除機は「2ヶ月ゴミ捨て＆ブラシの手入れ不要」で2万円台 まぐまぐ"
-        },
-        {
-          "id": "b5e1c82b8ba8572b",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuUVQzNm9DazNYLXZRalZRWVdvSENDUG1pcVhoak5NaUF5REY1d3hCdy1jUVdCdEJRQnN4ZVFCMFFvdVZKQnczakRhN2dYSWc?oc=5",
-          "source": "ROOMIE（ルーミー）",
-          "lang": "ja",
-          "published_at": "2026-07-12T03:45:27+00:00",
-          "title_ja": "Ankerのロボット掃除機は「2ヶ月ゴミ捨て＆ブラシの手入れ不要」で2万円台 - ROOMIE（ルーミー）",
-          "title_en": "Ankerのロボット掃除機は「2ヶ月ゴミ捨て＆ブラシの手入れ不要」で2万円台 - ROOMIE（ルーミー）",
-          "summary_ja": "Ankerのロボット掃除機は「2ヶ月ゴミ捨て＆ブラシの手入れ不要」で2万円台 ROOMIE（ルーミー）",
-          "summary_en": "Ankerのロボット掃除機は「2ヶ月ゴミ捨て＆ブラシの手入れ不要」で2万円台 ROOMIE（ルーミー）"
-        },
-        {
-          "id": "be87f52a528b0c76",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jZUhrV19ENmhrVHdhSjdvTHZCcVpvajRYWnoxN0pNMWV1Y2sxLXRyZF90NGVVQ0FEM0pMNjN3RHFJM05UVjVUdUMwT0tBYmctREFWZ3FiR0lYdnM1ZXRQOGxUTjVLbkZSMkFfZkpkVHBLQU0?oc=5",
-          "source": "santoandre.biz",
-          "lang": "en",
-          "published_at": "2026-07-11T20:33:53+00:00",
-          "title_ja": "Genuine Bissell Dust Bin Filter For SmartClean Robotic Vacuum - Part #1607383 - santoandre.biz",
-          "title_en": "Genuine Bissell Dust Bin Filter For SmartClean Robotic Vacuum - Part #1607383 - santoandre.biz",
-          "summary_ja": "Genuine Bissell Dust Bin Filter For SmartClean Robotic Vacuum - Part #1607383 santoandre.biz",
-          "summary_en": "Genuine Bissell Dust Bin Filter For SmartClean Robotic Vacuum - Part #1607383 santoandre.biz"
-        },
-        {
-          "id": "344748915c9644c9",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CSnBWTURKLUpGRGF5a2V3bUNQUFZjSG5VNEltcUQ0d2pGTHNLNlA3anQ0VkFwQ2xiLVBjbVFwSC1yLWh2SlowUGU4VmNGaTZ1MlFVOTcwcHFWbFF3RnFwbUotRXM3c0hK?oc=5",
-          "source": "ライフハッカー・ジャパン",
-          "lang": "ja",
-          "published_at": "2026-07-11T13:30:00+00:00",
-          "title_ja": "ロマン溢れるスケルトン！あえて飾りたくなるロボット掃除機が4.2万オフ - ライフハッカー・ジャパン",
-          "title_en": "ロマン溢れるスケルトン！あえて飾りたくなるロボット掃除機が4.2万オフ - ライフハッカー・ジャパン",
-          "summary_ja": "ロマン溢れるスケルトン！あえて飾りたくなるロボット掃除機が4.2万オフ ライフハッカー・ジャパン",
-          "summary_en": "ロマン溢れるスケルトン！あえて飾りたくなるロボット掃除機が4.2万オフ ライフハッカー・ジャパン"
-        },
-        {
-          "id": "2253d108503bb132",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa3Nic2RoZnZGamNRblY3aGt3dkJqWUlCNTN0aDVNZmxkb3dMMW52X3R3cHJNUVlBX3FoMzhJQV80b0N2MUdOWkpqeHV3dThrY0g1ZG9tLW1NcWhqOHk4bS0wR0dqM3piVHlSQUtfQ05xV2lmRUFxY2lGTVYzX0ZZdFRjSmZ6YWhOT0lKOXdoZ1B5WHc4V2VIVXJBWVg?oc=5",
-          "source": "Gizmodo",
-          "lang": "en",
-          "published_at": "2026-07-11T13:30:00+00:00",
-          "title_ja": "Narwal Freo Z10 Turbo Review: Midrange Vacuum, High-End Performance - Gizmodo",
-          "title_en": "Narwal Freo Z10 Turbo Review: Midrange Vacuum, High-End Performance - Gizmodo",
-          "summary_ja": "Narwal Freo Z10 Turbo Review: Midrange Vacuum, High-End Performance Gizmodo",
-          "summary_en": "Narwal Freo Z10 Turbo Review: Midrange Vacuum, High-End Performance Gizmodo"
-        },
-        {
-          "id": "6ab052d062107203",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPa0EybThVeE5uS2g5OURiOHQ0cWdtQnB6aXZpWk5STkpWUUN0ZWxJaTgxQ0I1U0FpVkJQWHBMbkhXMGdHX2MyemIxU0FSelU?oc=5",
-          "source": "ROOMIE（ルーミー）",
-          "lang": "ja",
-          "published_at": "2026-07-11T06:10:07+00:00",
-          "title_ja": "床掃除をロボットに任せるなら。水拭き後のモップ洗浄までできるルンバの掃除機がいいと思った - ROOMIE（ルーミー）",
-          "title_en": "床掃除をロボットに任せるなら。水拭き後のモップ洗浄までできるルンバの掃除機がいいと思った - ROOMIE（ルーミー）",
-          "summary_ja": "床掃除をロボットに任せるなら。水拭き後のモップ洗浄までできるルンバの掃除機がいいと思った ROOMIE（ルーミー）",
-          "summary_en": "床掃除をロボットに任せるなら。水拭き後のモップ洗浄までできるルンバの掃除機がいいと思った ROOMIE（ルーミー）"
-        },
-        {
-          "id": "96ee31a3cf383727",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQOUx2OEFOVnlfN2RwZ3JGMzlzUnAyaXprVXFjMUFCZkhUUmFVRTVpRE1jTkZoZlpLcUFybFRBbWpKT2E4SWpaS2RoRQ?oc=5",
-          "source": "ガジェット通信",
-          "lang": "ja",
-          "published_at": "2026-07-11T04:00:04+00:00",
-          "title_ja": "掃除機をかけて、モップまで洗ってくれる。そんな最新ルンバが5万円切りです - ガジェット通信",
-          "title_en": "掃除機をかけて、モップまで洗ってくれる。そんな最新ルンバが5万円切りです - ガジェット通信",
-          "summary_ja": "掃除機をかけて、モップまで洗ってくれる。そんな最新ルンバが5万円切りです ガジェット通信",
-          "summary_en": "掃除機をかけて、モップまで洗ってくれる。そんな最新ルンバが5万円切りです ガジェット通信"
-        },
-        {
-          "id": "bf82d4a14a4afa36",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbHNvR0hfeTFNdm5iZFY4QzVTY1FEczVOakpTU1dpQjlFNG82M1poeGtJZHM5RkltcTZfSGhsTl9LZTZ2Z3FGdkZRODFiTEREbk9uMk5pSTc3ako5UlQybG5GYlFoZG5rNXJMY3dLbUtmV0J2U292ZFlLSDU5X3NaSVNvOA?oc=5",
-          "source": "ライフハッカー・ジャパン",
-          "lang": "ja",
-          "published_at": "2026-07-11T02:00:00+00:00",
-          "title_ja": "ロボット掃除機4代目を使い倒した私が、次をポチるまで〜日常のサラサラ感と全自動化を求めて - ライフハッカー・ジャパン",
-          "title_en": "ロボット掃除機4代目を使い倒した私が、次をポチるまで〜日常のサラサラ感と全自動化を求めて - ライフハッカー・ジャパン",
-          "summary_ja": "ロボット掃除機4代目を使い倒した私が、次をポチるまで〜日常のサラサラ感と全自動化を求めて ライフハッカー・ジャパン",
-          "summary_en": "ロボット掃除機4代目を使い倒した私が、次をポチるまで〜日常のサラサラ感と全自動化を求めて ライフハッカー・ジャパン"
-        },
-        {
-          "id": "a39279085e1d9ff3",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1dlp5dXdiTTlCcklfX0JNWjdZVUYzQWxRek1jVlB0allpdVNERi16NmpONFlFZmVvMWRZZms3VlJ1M1cyU05LQ0R6dW55S3M2Q2c?oc=5",
-          "source": "CNET Japan",
-          "lang": "ja",
-          "published_at": "2026-07-10T21:08:00+00:00",
-          "title_ja": "家電ライターが厳選、戸建て住宅に向くロボット掃除機5選 時短＆水拭きも - CNET Japan",
-          "title_en": "家電ライターが厳選、戸建て住宅に向くロボット掃除機5選 時短＆水拭きも - CNET Japan",
-          "summary_ja": "家電ライターが厳選、戸建て住宅に向くロボット掃除機5選 時短＆水拭きも CNET Japan",
-          "summary_en": "家電ライターが厳選、戸建て住宅に向くロボット掃除機5選 時短＆水拭きも CNET Japan"
-        },
-        {
-          "id": "a45e2b9aa4c36bb8",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaTRibW1pNzJTaGpGSi11M1FUU19kV3dFb0liWmxjRFpoV3VqSVN2ZXJrb0FQeFJXUFBwZFlCLWpwTkNqZy1yQXhralhiOG5aQkVqYzdJeEstNjNaM0d1WTNxdlRqMi03SzM2S0RsdUFsVXVqV21jRlZqeHdwY1E3cXJybzlKd2lfTjdDb1lNM0NoYnVoVFBzVWNZcWV5REpvbzQxbjVJTExmLUswbmxxdDlCdVR5aDlZeTczMHlDTG83ODZPZ2hmaExpLTJ0bDZCS2tWU0tyX0LSAewBQVVfeXFMTktHdEtua3pfRU1adDJDaXRHRDVrZ1BuUkZzWUN2ZHo3R2l2NEoxZHM0cGwtVm5ib0xreUZMeURCbmwweUtkZjJ1V2M4LXB1dThxQUFjclZkeF9DUk1jWkxGeGlDaU9kT2pENHc5cTZVbkU2SVMxQ2Q3dnZGa2VMLTFyWDRUZnVISnpZXzBUZjJOVzZaM0t2emRyUFp6NkdvRXBwN2ZGUTJnQWlvcEdmbFdhY1VsekZpemM4Q3FROG95ZExOSDVnVS1tcUVvVDJQcldpVk5fSTFWSmFfODZETDVJWjFfTXJpMXRFR1o?oc=5",
-          "source": "NJ.com",
-          "lang": "en",
-          "published_at": "2026-07-10T17:00:00+00:00",
-          "title_ja": "Walmart’s iRobot Roomba robot vacuum is cheaper than on Amazon, making it my top deal of the day - NJ.com",
-          "title_en": "Walmart’s iRobot Roomba robot vacuum is cheaper than on Amazon, making it my top deal of the day - NJ.com",
-          "summary_ja": "Walmart’s iRobot Roomba robot vacuum is cheaper than on Amazon, making it my top deal of the day NJ.com",
-          "summary_en": "Walmart’s iRobot Roomba robot vacuum is cheaper than on Amazon, making it my top deal of the day NJ.com"
-        },
-        {
-          "id": "6b02722f085a6216",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUazNMUDA1SExpSmRZZDFqVzJIRlVyVjRZcEh3ZF9GX1BvX05iUHNaT0RoQVlFZ2tpNnhvME91cndaeFhQOGhWcG5ub2JtODg0aDVOMkZnTmxIN0tqanNKX0hyTl9OOUdfbWo1N3FB?oc=5",
-          "source": "Lifehacker",
-          "lang": "en",
-          "published_at": "2026-07-10T12:30:00+00:00",
-          "title_ja": "This Self-Cleaning iRobot Roomba Is 50% Off Right Now - Lifehacker",
-          "title_en": "This Self-Cleaning iRobot Roomba Is 50% Off Right Now - Lifehacker",
-          "summary_ja": "This Self-Cleaning iRobot Roomba Is 50% Off Right Now Lifehacker",
-          "summary_en": "This Self-Cleaning iRobot Roomba Is 50% Off Right Now Lifehacker"
-        },
-        {
-          "id": "472b5290a1bbc968",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tSE41UmVqOGlPMUFPb2hWaEl5dDJMbXl1UnNoQ21YQ2t6ZWtqdThvSGVmeGwtc3hDTUxkZExtR1RmcVNTM2dMOEFyZmdDQnVMTVRvWUY0aUVLTVNfX3EwM2p5SnJMaXlM0gFoQVVfeXFMTW1ITjVSZWo4aU8xQU9vaFZoSXl0MkxteXVSc2hDbVhDa3pla2p1OG9IZWZ4bC1zeENNTGRkTG1HVGZxU1MzZ0w4QXJmZ0NCdUxNVG9ZRjRpRUtNU19fcTAzanlKckxpeUw?oc=5",
-          "source": "ITmedia",
-          "lang": "ja",
-          "published_at": "2026-07-10T11:11:00+00:00",
-          "title_ja": "家具の隙間もスイスイ掃除できる「SwitchBot ロボット掃除機 K11+」がセールで30％オフの3万7800円に - ITmedia PC USER - ITmedia",
-          "title_en": "家具の隙間もスイスイ掃除できる「SwitchBot ロボット掃除機 K11+」がセールで30％オフの3万7800円に - ITmedia PC USER - ITmedia",
-          "summary_ja": "家具の隙間もスイスイ掃除できる「SwitchBot ロボット掃除機 K11+」がセールで30％オフの3万7800円に - ITmedia PC USER ITmedia",
-          "summary_en": "家具の隙間もスイスイ掃除できる「SwitchBot ロボット掃除機 K11+」がセールで30％オフの3万7800円に - ITmedia PC USER ITmedia"
-        },
-        {
-          "id": "72f6e93ed90ad309",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKSHVxazNZOG96NndFTFBSWXdxa01qWjlOSlhJMkZNYllnNFEySnZFdnV1c3RabWJhcEItSFhqbUcwdnJnTk5TMEVFbzVTU2Fsd09ISHpoeEFaODRHaVBlZWlJTjBkRmNmaW5DdG1B0gFzQVVfeXFMTUhkM0xuZUtDTjl5QllmWlE5VGlFeEdPOEJFVW5VRTFtQWk3ZlVqSTJ5WnVjQXo3YzVacEh3Yk52bDhfLXhnR2w2VTRhS0hTQ3lwcDZaNldLSXpaTVR3UDctS3hRVjZWTXh0R09Yd0lEcDkzTQ?oc=5",
-          "source": "Saiga NAK",
-          "lang": "ja",
-          "published_at": "2026-07-10T10:10:32+00:00",
-          "title_ja": "年に1度のビッグセール「Amazonプライムデー2026」開催！AIボイスレコーダーやロボット掃除機などイチオシのガジェットをご紹介 - Saiga NAK",
-          "title_en": "年に1度のビッグセール「Amazonプライムデー2026」開催！AIボイスレコーダーやロボット掃除機などイチオシのガジェットをご紹介 - Saiga NAK",
-          "summary_ja": "年に1度のビッグセール「Amazonプライムデー2026」開催！AIボイスレコーダーやロボット掃除機などイチオシのガジェットをご紹介 Saiga NAK",
-          "summary_en": "年に1度のビッグセール「Amazonプライムデー2026」開催！AIボイスレコーダーやロボット掃除機などイチオシのガジェットをご紹介 Saiga NAK"
-        },
-        {
-          "id": "5fc863588f72044b",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdVdidHhxTmVwRHNuQmFWTHdYZEVERmpKZHNieEs2bnBPUWpSTnBGeXdwMWtRT2hrS2JnNkpEZHJGeG9zajdGbndOWkhjVzdJaUU4dzJNYVcwTEJkNThxdXF2T3FrbVB6dUhweWsyaktxY2I3Zk1keEg4bkEzUzFnQWxfMGw1Yktj?oc=5",
-          "source": "Yahoo!ニュース",
-          "lang": "ja",
-          "published_at": "2026-07-10T08:28:09+00:00",
-          "title_ja": "プライムデーで選ぶロボット掃除機、3万円台と10万円台は何が違う？価格差の理由を解説（NANA） - エキスパート - Yahoo!ニュース",
-          "title_en": "プライムデーで選ぶロボット掃除機、3万円台と10万円台は何が違う？価格差の理由を解説（NANA） - エキスパート - Yahoo!ニュース",
-          "summary_ja": "プライムデーで選ぶロボット掃除機、3万円台と10万円台は何が違う？価格差の理由を解説（NANA） - エキスパート Yahoo!ニュース",
-          "summary_en": "プライムデーで選ぶロボット掃除機、3万円台と10万円台は何が違う？価格差の理由を解説（NANA） - エキスパート Yahoo!ニュース"
-        },
-        {
-          "id": "f3f1f27ab3731839",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PWVQ1ZEI4aTliTG13MnZTckJGVlBVbVJGbzdaVm9UdDRJRndudklVSmMyT2FYeEwtWE92dTdiZzFTb1NLVkhYQ0RYaFVHZzlPajdSdW93c0p1WlhJVVZPX0RndVBxN3RTeldmMF84UVc?oc=5",
-          "source": "Mashable",
-          "lang": "en",
-          "published_at": "2026-07-10T07:15:57+00:00",
-          "title_ja": "Prime Day AU: Save up to 73% on these top Dreame robot vacuums - Mashable",
-          "title_en": "Prime Day AU: Save up to 73% on these top Dreame robot vacuums - Mashable",
-          "summary_ja": "Prime Day AU: Save up to 73% on these top Dreame robot vacuums Mashable",
-          "summary_en": "Prime Day AU: Save up to 73% on these top Dreame robot vacuums Mashable"
         }
       ]
     },
@@ -3693,6 +3693,61 @@
       "is_company": false,
       "items": [
         {
+          "id": "5a774a98ea7ee702",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZSHN0WTZZamNVRmhXaWJ6ekdqamM3bFVvM1JlX0hpOFhRNU45aWxVU1ZaN3ZOQVlPZzhYdTB5UHZ5aTB5THczQ3l3R0xxTTNtTUUzSkxZQWVfUQ?oc=5",
+          "source": "ＪＡ全農ウィークリー",
+          "lang": "ja",
+          "published_at": "2026-07-17T15:02:09+00:00",
+          "title_ja": "【Web限定記事】県内全域でRTKの運用開始 - ＪＡ全農ウィークリー",
+          "title_en": "【Web限定記事】県内全域でRTKの運用開始 - ＪＡ全農ウィークリー",
+          "summary_ja": "【Web限定記事】県内全域でRTKの運用開始 ＪＡ全農ウィークリー",
+          "summary_en": "【Web限定記事】県内全域でRTKの運用開始 ＪＡ全農ウィークリー"
+        },
+        {
+          "id": "bcbd03cfeaa18468",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpUFU1OXpfMzhsNW1HbF8xQVVYZXcwX2VPS25pQmxjVkFHZ3REN2pBS2x2aE1keFFscjJ4QW83eFhZMURFZzFYRmp1STFsaFF0VWh5NUduTkVXalUxYkZ4SzdRamhSLTBGWUotMDkzdDFDMG8?oc=5",
+          "source": "Robohub",
+          "lang": "en",
+          "published_at": "2026-07-17T10:20:28+00:00",
+          "title_ja": "Undergrads’ weed-killing robot wins top prize - Robohub",
+          "title_en": "Undergrads’ weed-killing robot wins top prize - Robohub",
+          "summary_ja": "Undergrads’ weed-killing robot wins top prize Robohub",
+          "summary_en": "Undergrads’ weed-killing robot wins top prize Robohub"
+        },
+        {
+          "id": "17bac26b013f1f16",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CR1czNnlOc2xxblZ5TGVrVUJnN1dkVk1tM25HdVM1YWJnV2ZjalY2OW12d2VPX0E2WXBoUm1MNHdQaHJHc1h6YU5jZ0RKRFlpTFlvbVpnM0lUeG0xVzBvYm1rRG9PdTV3dURZcmMwT0o?oc=5",
+          "source": "ＳＴＶ札幌テレビ 放送",
+          "lang": "ja",
+          "published_at": "2026-07-17T09:24:11+00:00",
+          "title_ja": "どさんこ村通信〜進化を続けるスマート農業 ｜ 特集 ｜ どさんこワイド１７９ ｜ テレビ - ＳＴＶ札幌テレビ 放送",
+          "title_en": "どさんこ村通信〜進化を続けるスマート農業 ｜ 特集 ｜ どさんこワイド１７９ ｜ テレビ - ＳＴＶ札幌テレビ 放送",
+          "summary_ja": "どさんこ村通信〜進化を続けるスマート農業 ｜ 特集 ｜ どさんこワイド１７９ ｜ テレビ ＳＴＶ札幌テレビ 放送",
+          "summary_en": "どさんこ村通信〜進化を続けるスマート農業 ｜ 特集 ｜ どさんこワイド１７９ ｜ テレビ ＳＴＶ札幌テレビ 放送"
+        },
+        {
+          "id": "0ee360af827bdc4d",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNXNUcjlHaXJwLUoyNzNJOXZwcXZHUzRqS29fVzFZZE94WFl5QVZ0Smdaa19SYmhhM2tOUHc1MDZ4UFdSdWRsZ1NCa2I4NE9adG16eWFieW0xZy1OVzd1UG9sU0IzeHNlVWhEYkEwZUtaZGRLMUdsenJFX1JwbjB6clhzdlo2a3AwRTg3eGF3?oc=5",
+          "source": "UKNow",
+          "lang": "en",
+          "published_at": "2026-07-17T08:00:18+00:00",
+          "title_ja": "UK researcher developing robot to grow healthier tomatoes - UKNow",
+          "title_en": "UK researcher developing robot to grow healthier tomatoes - UKNow",
+          "summary_ja": "UK researcher developing robot to grow healthier tomatoes UKNow",
+          "summary_en": "UK researcher developing robot to grow healthier tomatoes UKNow"
+        },
+        {
+          "id": "9733f590d2b0d063",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMG1nSzAta3V6Uko2NW9HV0pudm9PNHZBZXh4anZTUWFVdHdmLVVKRm9oRXhQUjNObjRkWUR2S2hRZ0tUMHc2UzdkS2xscURPMkdaNzA4YnJGdWxLODlYNFBzaTBCM3JEdGg3TWdMSzBhWW82SXZ3b29SU2FVSWZTdmlVeFFhd3BWNHJzWGh3?oc=5",
+          "source": "Yahoo!ニュース",
+          "lang": "ja",
+          "published_at": "2026-07-17T01:11:13+00:00",
+          "title_ja": "スマート農業技術活用で国から認定証／青森県弘前の「大成園」（陸奥新報） - Yahoo!ニュース",
+          "title_en": "スマート農業技術活用で国から認定証／青森県弘前の「大成園」（陸奥新報） - Yahoo!ニュース",
+          "summary_ja": "スマート農業技術活用で国から認定証／青森県弘前の「大成園」（陸奥新報） Yahoo!ニュース",
+          "summary_en": "スマート農業技術活用で国から認定証／青森県弘前の「大成園」（陸奥新報） Yahoo!ニュース"
+        },
+        {
           "id": "f38a6a31874b2e28",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQai04dFZUSHJfQ1RJd0Y4eUd1aFlnRVNYOUZ3MkxEbTFZUWtVOG1vcVJlUmN1eFNaOUQ2N05IMHZfbDRHQ3RqRlVPa1lZdDNwZ29NTEVHRXh1Z09MeGpicEtBRkNUa3Flb3lMVUY0eXpMbGg4eEdrUFo5NVRGdUtYX25VM0NndjJDZDFxQUh1bFRtTEhTblBweHJyX1Fkb2RTRTJTXzdJNElFRHVFdkpuaUNNdEtDYWZybUFCX0x0V0RNa3RBdUEzd3RYY0ozZEtCVWVZY0lJank3Zw?oc=5",
           "source": "IndexBox",
@@ -3702,6 +3757,17 @@
           "title_en": "World Manure Removal Robot - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
           "summary_ja": "World Manure Removal Robot - Market Analysis, Forecast, Size, Trends and Insights IndexBox",
           "summary_en": "World Manure Removal Robot - Market Analysis, Forecast, Size, Trends and Insights IndexBox"
+        },
+        {
+          "id": "c9465c27f052c424",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeEVOVEkzZmVwZDFaemJzM1lZb290Z0FXOG83NjhvNlJEVWVQYmNrbXpTUUVkX1RmbzN4SFpyMlFNTlVDVjNyRzVfT0xZb2prSmdJcjQ0S2ZyeEhwdGhwNW5DRllWTTE3NDRrWC1CZGptRThiazNfSXl0REVOaTBUWVJsODRFb0U2Rlk1OHk5a0pfXzBNUDM0aXBDME1CbW50MWdxSWRaVWpQUENSOHhhS1laVURqSk45MzVhYWU3WFpOcnVqSnBRRTZVdEdrSVhCWVprZkVwdVhkMmJNWGlWTnlMcw?oc=5",
+          "source": "Winnipeg Sun",
+          "lang": "en",
+          "published_at": "2026-07-16T14:38:00+00:00",
+          "title_ja": "University students learn robotics to solve farm problems - Winnipeg Sun",
+          "title_en": "University students learn robotics to solve farm problems - Winnipeg Sun",
+          "summary_ja": "University students learn robotics to solve farm problems Winnipeg Sun",
+          "summary_en": "University students learn robotics to solve farm problems Winnipeg Sun"
         },
         {
           "id": "f9c09be376f26b9e",
@@ -3900,6 +3966,17 @@
           "title_en": "自動操縦農機や完全室内栽培、最新技術に児童ワクワク 新発田市の小学生がスマート農業体験会 - 新潟日報",
           "summary_ja": "自動操縦農機や完全室内栽培、最新技術に児童ワクワク 新発田市の小学生がスマート農業体験会 新潟日報",
           "summary_en": "自動操縦農機や完全室内栽培、最新技術に児童ワクワク 新発田市の小学生がスマート農業体験会 新潟日報"
+        },
+        {
+          "id": "c92f9676b0a42db9",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5POTRGRUxLdXdOVE9tQ0pSMlZWSkZJZ1ZUbDJoOVk0RnVRa3l5Z0xRaWozZDFPNTZoYW9IU0oxUW55S0RlUE5WeG5HeGVDdjVNWTRDVmdCYktzeFRwRDB4WWpjUHhiVzUtU0ZVVFlITmZTY2c3?oc=5",
+          "source": "日刊工業新聞",
+          "lang": "ja",
+          "published_at": "2026-07-13T20:10:05+00:00",
+          "title_ja": "日本工大、スマート農業研究推進 拠点を開設 - 日刊工業新聞",
+          "title_en": "日本工大、スマート農業研究推進 拠点を開設 - 日刊工業新聞",
+          "summary_ja": "日本工大、スマート農業研究推進 拠点を開設 日刊工業新聞",
+          "summary_en": "日本工大、スマート農業研究推進 拠点を開設 日刊工業新聞"
         },
         {
           "id": "835314c71475a4f8",
@@ -4274,83 +4351,6 @@
           "title_en": "｢スマート農業｣を体感 飯田市で最新機器の実演会 - 信濃毎日新聞デジタル",
           "summary_ja": "｢スマート農業｣を体感 飯田市で最新機器の実演会 信濃毎日新聞デジタル",
           "summary_en": "｢スマート農業｣を体感 飯田市で最新機器の実演会 信濃毎日新聞デジタル"
-        },
-        {
-          "id": "f71ff8e105efb37d",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMHdGS1ZHYUMxRUV5bHhOdGhMTkwzZXdoVEIwbk9FdFB6R0o5NDdENE1GWkR1SGhtZy10Q3FTeE40eGtxbkl0RTBCOXducXFmaWpySDM5YzhMNFlCU3h4YThmYlhEb2lwUGlUUGJhTmM1Z2RvOXBuNTYtUUtPSWVtTkxRNWswUm8?oc=5",
-          "source": "BenitoLink",
-          "lang": "en",
-          "published_at": "2026-05-25T07:00:00+00:00",
-          "title_ja": "Robot farming company’s Shore Road project gets county OK - BenitoLink",
-          "title_en": "Robot farming company’s Shore Road project gets county OK - BenitoLink",
-          "summary_ja": "Robot farming company’s Shore Road project gets county OK BenitoLink",
-          "summary_en": "Robot farming company’s Shore Road project gets county OK BenitoLink"
-        },
-        {
-          "id": "cd992cf76c064c16",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMNHBwbDB1TWhUZ2ozSTZPRldQaFJGR010cTdVMmRnYTctTnNPU1YxSS1CLUs0TWR3a3hTenltem55MzhmeXptNDlTU3FGaUg5TWstVGtqUjk1Y2ZORml6aHY1cGU1b0cweDQ0aURn?oc=5",
-          "source": "公明新聞電子版プラス",
-          "lang": "ja",
-          "published_at": "2026-05-11T20:00:57+00:00",
-          "title_ja": "スマート化で営農再開 廃炉支えるロボット開発加速 竹谷代表ら、福島復興へ現地視察 2026.5.12付 - 公明新聞電子版プラス",
-          "title_en": "スマート化で営農再開 廃炉支えるロボット開発加速 竹谷代表ら、福島復興へ現地視察 2026.5.12付 - 公明新聞電子版プラス",
-          "summary_ja": "スマート化で営農再開 廃炉支えるロボット開発加速 竹谷代表ら、福島復興へ現地視察 2026.5.12付 公明新聞電子版プラス",
-          "summary_en": "スマート化で営農再開 廃炉支えるロボット開発加速 竹谷代表ら、福島復興へ現地視察 2026.5.12付 公明新聞電子版プラス"
-        },
-        {
-          "id": "5f98903ae377e5cd",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vY1lKQmp4ZEtnZlp0bjNzT0lLQnczcVlSZUtCaU13a210RDRWMFZSc3V1aUZ4eFlDaHhibzl5WmtsS3RrOXhQTG5ra1prNXNvQlVmR193NVJpcWhnVHVGRjZCc3ptejgyYzBBMTZSa3VoNUJGVUc2QkcxUQ?oc=5",
-          "source": "au Webポータル",
-          "lang": "ja",
-          "published_at": "2026-05-11T12:11:22+00:00",
-          "title_ja": "スマート農業や理数系育成…福井県の3高校、教育改革を先導する拠点に 県総合教育会議、石田嵩人知事ら決定 - au Webポータル",
-          "title_en": "スマート農業や理数系育成…福井県の3高校、教育改革を先導する拠点に 県総合教育会議、石田嵩人知事ら決定 - au Webポータル",
-          "summary_ja": "スマート農業や理数系育成…福井県の3高校、教育改革を先導する拠点に 県総合教育会議、石田嵩人知事ら決定 au Webポータル",
-          "summary_en": "スマート農業や理数系育成…福井県の3高校、教育改革を先導する拠点に 県総合教育会議、石田嵩人知事ら決定 au Webポータル"
-        },
-        {
-          "id": "f7e7266703059035",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44Wmp4R2p2ZW1QeEVYQ3dFWDB2RFY3NUxURk1XUEFLUGNhWE5ydXRQa1RLMXRPaEZ3eFpiaWRZeVI1Q1pDb2JMRU53RHJiT3FaTlMwdHkyemdTMURyc0E?oc=5",
-          "source": "福井新聞社",
-          "lang": "ja",
-          "published_at": "2026-05-11T12:00:00+00:00",
-          "title_ja": "スマート農業や理数系育成…福井県の3高校、教育改革を先導する拠点に 県総合教育会議、石田嵩人知事ら決定 - 福井新聞社",
-          "title_en": "スマート農業や理数系育成…福井県の3高校、教育改革を先導する拠点に 県総合教育会議、石田嵩人知事ら決定 - 福井新聞社",
-          "summary_ja": "スマート農業や理数系育成…福井県の3高校、教育改革を先導する拠点に 県総合教育会議、石田嵩人知事ら決定 福井新聞社",
-          "summary_en": "スマート農業や理数系育成…福井県の3高校、教育改革を先導する拠点に 県総合教育会議、石田嵩人知事ら決定 福井新聞社"
-        },
-        {
-          "id": "1e731c7c5a3ad08f",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hVXFNcldkd1p6X1J1WC1LTkotZEpZdVJHWGJncFhCbjA1N2xTOWFZVzhCc0pzd0hvODAzMVZzOVVMYUFOMkNlYUtZU3FvNWNSVGpxMXY5NGk?oc=5",
-          "source": "NHKニュース",
-          "lang": "ja",
-          "published_at": "2026-05-11T07:33:00+00:00",
-          "title_ja": "自動運転田植え機やドローン 小学生がスマート農業体験 花巻 - NHKニュース",
-          "title_en": "自動運転田植え機やドローン 小学生がスマート農業体験 花巻 - NHKニュース",
-          "summary_ja": "自動運転田植え機やドローン 小学生がスマート農業体験 花巻 NHKニュース",
-          "summary_en": "自動運転田植え機やドローン 小学生がスマート農業体験 花巻 NHKニュース"
-        },
-        {
-          "id": "19b01379942f4950",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYzN5Q2FUWEVTeGRYaTNUMENzY3NZUWRHbVBOZ09JeU54UnhqdU9ERC1mUndQLXJKU2FRb29DZmk3Um45QXJmRnBCNEFTQmRzbXBkcWlkMXhnLWZOMlVETktWeUlleFdlVWJHNklpaExpRHl1TlBtc0pyZ2podEwyREhxbzE1VEp6UjRwR2Y5RWRyd1FBVktyUTJlY1prN3RRNjV2eTI3WHRsdXdB?oc=5",
-          "source": "Future Farming",
-          "lang": "en",
-          "published_at": "2026-05-11T07:03:35+00:00",
-          "title_ja": "Mathematical models help farm robots work together in real time - Future Farming",
-          "title_en": "Mathematical models help farm robots work together in real time - Future Farming",
-          "summary_ja": "Mathematical models help farm robots work together in real time Future Farming",
-          "summary_en": "Mathematical models help farm robots work together in real time Future Farming"
-        },
-        {
-          "id": "bd556bd69aab44ec",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcXM0bWZKcklweDlqeTdsNEpJOHBORkp5LUlFbWdCM1ZYZ2R5ZXRZT3ZFSkpRMWIyVkRLTGhjMDJwa1lJME15QU5MM3FkcTZJdjczS3RuaDF1YWdFN3BEQXh6cVFBR3NTQ1gxRzNZWTY0T3BCNWdqYkNGODEtaEgzTXJSMEdHb1dMX0NCc3VTTGtRckZvVlNlQ3BtcHpnZw?oc=5",
-          "source": "openPR.com",
-          "lang": "en",
-          "published_at": "2026-05-11T06:28:58+00:00",
-          "title_ja": "Livestock Monitoring Robot Market to Reach US$12.4 Bn by 2033 Growing at 16.8% CAGR - openPR.com",
-          "title_en": "Livestock Monitoring Robot Market to Reach US$12.4 Bn by 2033 Growing at 16.8% CAGR - openPR.com",
-          "summary_ja": "Livestock Monitoring Robot Market to Reach US$12.4 Bn by 2033 Growing at 16.8% CAGR openPR.com",
-          "summary_en": "Livestock Monitoring Robot Market to Reach US$12.4 Bn by 2033 Growing at 16.8% CAGR openPR.com"
         }
       ]
     },
@@ -4361,6 +4361,61 @@
       "color": "#06B6D4",
       "is_company": false,
       "items": [
+        {
+          "id": "7d7b4cf214e3ea1a",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE01bFRwV3VVT081UU5iNU42Q3otcXNGdlJiZE9nSzQ1NXg1U3VBVHdIY3RudTQyTWNpa2RyT05Zd1JZUGcwR1BSQg?oc=5",
+          "source": "LOGISTICS TODAY",
+          "lang": "ja",
+          "published_at": "2026-07-17T18:56:15+00:00",
+          "title_ja": "戸田建設、AMRとエレベーター連携し館内配送 - LOGISTICS TODAY",
+          "title_en": "戸田建設、AMRとエレベーター連携し館内配送 - LOGISTICS TODAY",
+          "summary_ja": "戸田建設、AMRとエレベーター連携し館内配送 LOGISTICS TODAY",
+          "summary_en": "戸田建設、AMRとエレベーター連携し館内配送 LOGISTICS TODAY"
+        },
+        {
+          "id": "b117869a0bfac798",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9EdzlkVHpCVzgtOTJLVy1sbW10OEZTbFRhdHBxOVNlV1QwV0tZZEVZa2xMU3M4VUtOTUx5blpvalFNU3lscjlNbw?oc=5",
+          "source": "LOGISTICS TODAY",
+          "lang": "ja",
+          "published_at": "2026-07-17T18:56:15+00:00",
+          "title_ja": "富士通など4社、物流ロボの協調制御基盤を検討 - LOGISTICS TODAY",
+          "title_en": "富士通など4社、物流ロボの協調制御基盤を検討 - LOGISTICS TODAY",
+          "summary_ja": "富士通など4社、物流ロボの協調制御基盤を検討 LOGISTICS TODAY",
+          "summary_en": "富士通など4社、物流ロボの協調制御基盤を検討 LOGISTICS TODAY"
+        },
+        {
+          "id": "455801bd125e88b5",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYkFJMzJnRG1XWVFsRE4zVDNyekc2VXdoS3paQ1hvOXNHSTRWeC1FbDZtZkVvN0NIRkhGMDBlMW5tYzV3T29YUGZORXdXWmtwWnVrcVhSeEZzck1yLW4xc3o0VkFfekw0VjFoTEtlTnY0M0RFRE1GNENxVGlUcXpJZGZfcXhJYzN1dW1NYW9Qei16amphSVZNRHc5MHRiMUozblc5Qi1wS01ESmlPUTZnQTB1Q0M2aHkxdVZyb3ZJYkpjbm92ZHZSMTNHdGVrckN0blVzcTNGNjA?oc=5",
+          "source": "Robotics & Automation News",
+          "lang": "en",
+          "published_at": "2026-07-17T10:04:56+00:00",
+          "title_ja": "Opinion: Exotec managing director highlights key warehouse automation trends for 2026 - Robotics & Automation News",
+          "title_en": "Opinion: Exotec managing director highlights key warehouse automation trends for 2026 - Robotics & Automation News",
+          "summary_ja": "Opinion: Exotec managing director highlights key warehouse automation trends for 2026 Robotics & Automation News",
+          "summary_en": "Opinion: Exotec managing director highlights key warehouse automation trends for 2026 Robotics & Automation News"
+        },
+        {
+          "id": "d9366e99f79c4f80",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1BVk1qaUpiV0VucFlVQXV4dmk3Q0hjUGtOZjBnTjd0VUlZTGdvUHVwQkNEdFVtM2ZqanFYVGFEcU02ZmpjdU9qeFZn0gFPQVVfeXFMUDI0ekJRbWU5VWJaQmVLeTVpRWk5c3loR011NHJ1S1A2TjdlVmI2QzhUUXBqT0ttSFJhcEJhMHdYOEh2N2J5V3ZXZHFXNDBCSQ?oc=5",
+          "source": "PHARMACY NEWSBREAK",
+          "lang": "ja",
+          "published_at": "2026-07-17T03:30:00+00:00",
+          "title_ja": "AMR対策、薬局で未使用薬を回収 - PHARMACY NEWSBREAK",
+          "title_en": "AMR対策、薬局で未使用薬を回収 - PHARMACY NEWSBREAK",
+          "summary_ja": "AMR対策、薬局で未使用薬を回収 PHARMACY NEWSBREAK",
+          "summary_en": "AMR対策、薬局で未使用薬を回収 PHARMACY NEWSBREAK"
+        },
+        {
+          "id": "04851a8a15c6a12f",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JU0poNVA3QjdJTEp4TEQtSW1BMThwcERZRWVaSVlZRTgwZjVfazk1RF90eWROOGZQODR6Mk5UaHIxcXBPN0pFLU9MeGtrem1Ma3FxbXJvckdQZnNfRDNEcUdnOVotUnR2ZFB5bDhsZmlkMjg2Ml9XaA?oc=5",
+          "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+          "lang": "ja",
+          "published_at": "2026-07-17T02:07:00+00:00",
+          "title_ja": "AMR リソーシズ、ナスダックで2億5,000万ドルのIPOを実施 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+          "title_en": "AMR リソーシズ、ナスダックで2億5,000万ドルのIPOを実施 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+          "summary_ja": "AMR リソーシズ、ナスダックで2億5,000万ドルのIPOを実施 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+          "summary_en": "AMR リソーシズ、ナスダックで2億5,000万ドルのIPOを実施 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
+        },
         {
           "id": "247aefec34403246",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWkUxWVNmTkFRTFQ1cndpbWhoLW0tODg1WTdlQ1pVWjRudzgzY3VidEZkcHJmNlVmbnEzX25KZUJOQTBBSGdNdGxGSElnX2RtUnJpNnV1TF9aQmpLVnlCd2ZscHVmYUJfWnpQMXZSNzA3VWF5NWtGMlVOZnFJSUgtQlNJUHFxN25XQVhWTmJtMGZITXBrcFQtWk9KbHFyVkVkQ0FrU0dvRm80VGxmYUZxN05vd19YQQ?oc=5",
@@ -4965,61 +5020,6 @@
           "title_en": "AGV「K1 S」日本別注カラー登場 どんなシーンにもピッタリな5色展開 - motomegane.com",
           "summary_ja": "AGV「K1 S」日本別注カラー登場 どんなシーンにもピッタリな5色展開 motomegane.com",
           "summary_en": "AGV「K1 S」日本別注カラー登場 どんなシーンにもピッタリな5色展開 motomegane.com"
-        },
-        {
-          "id": "7348dd9203441c59",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oelJkb2hsaUpONk4xOXNab2dCTFBUbFRFd2s3NnkwcDhSVFd0QzB1eTR2eDZBbGcxdkt2d2lvaXpNaXNpQWVORTlYNVYyXzVuR3NIc2hENGhOLVZLVlp0b2VITzNtWXpxVlBqejU1eVp5STUtY01RR0sxRXJuNDg?oc=5",
-          "source": "Yahoo!ニュース",
-          "lang": "ja",
-          "published_at": "2026-05-10T22:08:54+00:00",
-          "title_ja": "AGV『K1 S』に3万円台の高コスパな日本別注ソリッドカラー5色が追加! 納期は2026年夏予定（WEBヤングマシン） - Yahoo!ニュース",
-          "title_en": "AGV『K1 S』に3万円台の高コスパな日本別注ソリッドカラー5色が追加! 納期は2026年夏予定（WEBヤングマシン） - Yahoo!ニュース",
-          "summary_ja": "AGV『K1 S』に3万円台の高コスパな日本別注ソリッドカラー5色が追加! 納期は2026年夏予定（WEBヤングマシン） Yahoo!ニュース",
-          "summary_en": "AGV『K1 S』に3万円台の高コスパな日本別注ソリッドカラー5色が追加! 納期は2026年夏予定（WEBヤングマシン） Yahoo!ニュース"
-        },
-        {
-          "id": "30332cab5a8d3628",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5iQnFPSklzd1JDX3Fqd3pnb1VOR1IwM1JoUnpEWWZmT09maGVodVBtOEFudjJFTlBVb0NZblNVd0pBd1pwWm92djRpb2R2WGw1NFhZWk8yTU5OVGJmS3VwZEZueFd6VHRacGNkZVg1WQ?oc=5",
-          "source": "kakaku.com",
-          "lang": "ja",
-          "published_at": "2026-05-09T21:00:00+00:00",
-          "title_ja": "AGVの人気フルフェイス『K1S』に日本別注カラー5色が登場、アジアンフィット仕様で3万4100円 - kakaku.com",
-          "title_en": "AGVの人気フルフェイス『K1S』に日本別注カラー5色が登場、アジアンフィット仕様で3万4100円 - kakaku.com",
-          "summary_ja": "AGVの人気フルフェイス『K1S』に日本別注カラー5色が登場、アジアンフィット仕様で3万4100円 kakaku.com",
-          "summary_en": "AGVの人気フルフェイス『K1S』に日本別注カラー5色が登場、アジアンフィット仕様で3万4100円 kakaku.com"
-        },
-        {
-          "id": "f250ff904789bac1",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNb3VSbzk3azRTM2E4dlR4QkhQd2J1dDNZWWZWRmkxLVRCb1BHX2s2Y0lUTHJKWVRTb0xXUzJOVGV4OWZKdFl3VEdab081Q2JTYkFEMmJoRXd1RnNTcmJFdFM3RkRQbVRyVm15RzNzVG4yWGJQdHBRa3lOdjU1NEZlcmgwTENfNkp0VHJtakdWM3RyeFU3TWJxUElZcTZOc0JSc3F3UWNBdVhRMHFQVlM3ajZlbWRVb2J5blJvWGtOSjhhTXlidExlSkVEN0N4NGdrbUVsU01oNnJXczlFVnJz?oc=5",
-          "source": "Robotics & Automation News",
-          "lang": "en",
-          "published_at": "2026-05-09T11:19:47+00:00",
-          "title_ja": "Opinion: Autonomy is reshaping logistics, but its real value lies in better decision-making - Robotics & Automation News",
-          "title_en": "Opinion: Autonomy is reshaping logistics, but its real value lies in better decision-making - Robotics & Automation News",
-          "summary_ja": "Opinion: Autonomy is reshaping logistics, but its real value lies in better decision-making Robotics & Automation News",
-          "summary_en": "Opinion: Autonomy is reshaping logistics, but its real value lies in better decision-making Robotics & Automation News"
-        },
-        {
-          "id": "e7c8c7a8519c15ad",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KMldCdnA5aEpqbG9rbnIwVWVsUU5MbTcwMF94OE5ILWlHQlpVWkNIaG95RFdBUU9KTk5zdDhoS01TSDVCQTRDa1VYWUp6M0F1c2EwMmdVVHVXMTAxd3JaYzUyRDlidE84NTI0b2dfeUlxYTNSVnNxcjB4aUM?oc=5",
-          "source": "eWeek",
-          "lang": "en",
-          "published_at": "2026-05-08T14:00:26+00:00",
-          "title_ja": "South Korea Demo Shows Humanoids, ‘Robot Dogs’ Teaming Up in a Warehouse - eWeek",
-          "title_en": "South Korea Demo Shows Humanoids, ‘Robot Dogs’ Teaming Up in a Warehouse - eWeek",
-          "summary_ja": "South Korea Demo Shows Humanoids, ‘Robot Dogs’ Teaming Up in a Warehouse eWeek",
-          "summary_en": "South Korea Demo Shows Humanoids, ‘Robot Dogs’ Teaming Up in a Warehouse eWeek"
-        },
-        {
-          "id": "4602ad4e6e4e63d9",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1TVVTTnBNNDFvbm5GNC1Wam95TWxLWHlXaDhJNU9wN0RYdkgyODlwZ09TejlTdXNsNlp6SGg3dkkwQTRpNnl3Yl9mdlc2QUtBaWlzLVVR?oc=5",
-          "source": "Webikeプラス",
-          "lang": "ja",
-          "published_at": "2026-05-08T03:00:13+00:00",
-          "title_ja": "【新製品】AGVで人気の「K1S」シリーズに、ニュアンスを楽しむ5色の日本別注カラーが登場！ - Webikeプラス",
-          "title_en": "【新製品】AGVで人気の「K1S」シリーズに、ニュアンスを楽しむ5色の日本別注カラーが登場！ - Webikeプラス",
-          "summary_ja": "【新製品】AGVで人気の「K1S」シリーズに、ニュアンスを楽しむ5色の日本別注カラーが登場！ Webikeプラス",
-          "summary_en": "【新製品】AGVで人気の「K1S」シリーズに、ニュアンスを楽しむ5色の日本別注カラーが登場！ Webikeプラス"
         }
       ]
     },
@@ -5051,6 +5051,39 @@
           "title_en": "安い攻撃ドローン量産、米軍と5億ドル契約の新興企業 - WSJ",
           "summary_ja": "安い攻撃ドローン量産、米軍と5億ドル契約の新興企業 WSJ",
           "summary_en": "安い攻撃ドローン量産、米軍と5億ドル契約の新興企業 WSJ"
+        },
+        {
+          "id": "002b65353703d876",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMlZPNzl3MUZ2aEpQQ3FhRmplRGxnRUItZHB2T1V3OGN2UFIycU5DdURNNFE1UUFWQzhUbUttb1l2OVRFcXpjWTYtR3JFbzJMZG82ZXpuQW04QU0xbkxfYTFIUF9xdUd3YTJHeVdlZkNwSWJGS1JYLTJkVjRDNTM0bXJHTXBzcE83d3RlNlpCOUg1OEFBVlpmX2NpWUtndTg1RFdpRF9ibmdiSVdtc09z?oc=5",
+          "source": "WSJ",
+          "lang": "ja",
+          "published_at": "2026-07-16T21:36:00+00:00",
+          "title_ja": "安い攻撃ドローン量産、米軍と5億ドル契約の新興企業 - WSJ",
+          "title_en": "安い攻撃ドローン量産、米軍と5億ドル契約の新興企業 - WSJ",
+          "summary_ja": "安い攻撃ドローン量産、米軍と5億ドル契約の新興企業 WSJ",
+          "summary_en": "安い攻撃ドローン量産、米軍と5億ドル契約の新興企業 WSJ"
+        },
+        {
+          "id": "51a542a5b0c3e60c",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSXh0T2pEMGRyNVJmNnVYZTNSXzhzQzRUcHRheHBPS0xJTDVrckV4SFg3VUlndUR6WnBpT2ZVN0cxV3pfZS1EQ1dpNF96VlJRR2RVYTVmbUhTdG8yNG1SWUJFOHV4X19KOVBUeEhsd19pNi13S0ZWVWpwOGYzVlVqQlN0OGNXVVcxYW9LMm9sRDdfOUVpcGRlUjhFcVJtZjZ1ZVdjUV9mWFlSUQ?oc=5",
+          "source": "クーリエ・ジャポン",
+          "lang": "ja",
+          "published_at": "2026-07-16T21:36:00+00:00",
+          "title_ja": "安い攻撃ドローン量産、米軍と5億ドル契約の新興企業 - クーリエ・ジャポン",
+          "title_en": "安い攻撃ドローン量産、米軍と5億ドル契約の新興企業 - クーリエ・ジャポン",
+          "summary_ja": "安い攻撃ドローン量産、米軍と5億ドル契約の新興企業 クーリエ・ジャポン",
+          "summary_en": "安い攻撃ドローン量産、米軍と5億ドル契約の新興企業 クーリエ・ジャポン"
+        },
+        {
+          "id": "ea26938d2d2e4aca",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQUVhNHNyc1JPZmY5QldzQzZmU3FmUnlhRGd3dHl1MWV0T0hWeDJabnZ0Rnp3RElPS3A5MjVzc3ZNZXR6SGxLaGJJSm13VUFXMnRiYUpYamMzU0NtSjNBQVhfZFNZVEExc0J0M2Y0a3h0Y2RxeFVFM3hoZW4td2FDY0hVMVhNd3FxbWNKZkItaGdwOUdSNEE?oc=5",
+          "source": "Defence Security Asia",
+          "lang": "en",
+          "published_at": "2026-07-16T16:34:28+00:00",
+          "title_ja": "[VIDEO] \"UAE Drones Strike Iran? Bandar Abbas Footage Ignites Fears of Gulf-Wide War Over the Strait of Hormuz\" - Defence Security Asia",
+          "title_en": "[VIDEO] \"UAE Drones Strike Iran? Bandar Abbas Footage Ignites Fears of Gulf-Wide War Over the Strait of Hormuz\" - Defence Security Asia",
+          "summary_ja": "[VIDEO] \"UAE Drones Strike Iran? Bandar Abbas Footage Ignites Fears of Gulf-Wide War Over the Strait of Hormuz\" Defence Security Asia",
+          "summary_en": "[VIDEO] \"UAE Drones Strike Iran? Bandar Abbas Footage Ignites Fears of Gulf-Wide War Over the Strait of Hormuz\" Defence Security Asia"
         },
         {
           "id": "f04bf9e5a55e16b6",
@@ -5117,6 +5150,17 @@
           "title_en": "AI軍事ドローン銘柄SWMR、上場2日で株価5倍超 上昇トレンドに乗るか？ - Moomoo",
           "summary_ja": "AI軍事ドローン銘柄SWMR、上場2日で株価5倍超 上昇トレンドに乗るか？ Moomoo",
           "summary_en": "AI軍事ドローン銘柄SWMR、上場2日で株価5倍超 上昇トレンドに乗るか？ Moomoo"
+        },
+        {
+          "id": "9c88beeecfcdfb48",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xTTA5WGEzWkRkT25BZVY5SmlSbzJtSVBFOFVjU0dVaTRfSGF1Rzd0NWlLcThUaFBGUFJ4cjhEbGgyc3Q1V2VuNXdzRnBlelFFR3NUaUpTM21JVlVIa2JvOFAxMVA1eG80?oc=5",
+          "source": "Межа. Новини України.",
+          "lang": "ja",
+          "published_at": "2026-07-15T10:59:19+00:00",
+          "title_ja": "ロシアのシャヘド型攻撃ドローンがミコライウ州ノヴォブズカの農場を襲撃、67歳男性が死亡 - Межа. Новини України.",
+          "title_en": "ロシアのシャヘド型攻撃ドローンがミコライウ州ノヴォブズカの農場を襲撃、67歳男性が死亡 - Межа. Новини України.",
+          "summary_ja": "ロシアのシャヘド型攻撃ドローンがミコライウ州ノヴォブズカの農場を襲撃、67歳男性が死亡 Межа. Новини України.",
+          "summary_en": "ロシアのシャヘド型攻撃ドローンがミコライウ州ノヴォブズカの農場を襲撃、67歳男性が死亡 Межа. Новини України."
         },
         {
           "id": "d9dfb3aa1092c87f",
@@ -5645,50 +5689,6 @@
           "title_en": "Tank Stalker-Killer Drone Catches the Eye of the U.S. Army - autoevolution",
           "summary_ja": "Tank Stalker-Killer Drone Catches the Eye of the U.S. Army autoevolution",
           "summary_en": "Tank Stalker-Killer Drone Catches the Eye of the U.S. Army autoevolution"
-        },
-        {
-          "id": "b2f598d1eca1ad8d",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhVTQtdU9fXzU1d2JMTGJFeDV0eE95Vk15MVZhT0hnbjNXandzUHg5T2ZNdWk5S0k1OW5FTXB2REYxSVpEZDZYLUNKLWVxTmgzSlE?oc=5",
-          "source": "東洋経済オンライン",
-          "lang": "ja",
-          "published_at": "2026-05-03T00:57:36+00:00",
-          "title_ja": "〈ウクライナ北東部戦線〉ロシア軍が大量投入するイラン製攻撃ドローン｢シャヘド｣への果敢な防衛戦の内幕 - 東洋経済オンライン",
-          "title_en": "〈ウクライナ北東部戦線〉ロシア軍が大量投入するイラン製攻撃ドローン｢シャヘド｣への果敢な防衛戦の内幕 - 東洋経済オンライン",
-          "summary_ja": "〈ウクライナ北東部戦線〉ロシア軍が大量投入するイラン製攻撃ドローン｢シャヘド｣への果敢な防衛戦の内幕 東洋経済オンライン",
-          "summary_en": "〈ウクライナ北東部戦線〉ロシア軍が大量投入するイラン製攻撃ドローン｢シャヘド｣への果敢な防衛戦の内幕 東洋経済オンライン"
-        },
-        {
-          "id": "cfb9d7eeea620bb7",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUGhsdWEwWjBLQWVzOXdPYzJDT3VyQndqSGx6LTlZZE5YM1RyTUE1Zmg5QjRqNEd1YVczSGRnQUgzRi1aVEN5alBUcEtldGZjcjRLSXFaTVRFeU1ibVNoOTE4cDdPUmZQZ3NMeTZ3TUhmM1dUWFo1S3d1UXlyME9IbA?oc=5",
-          "source": "Reuters",
-          "lang": "ja",
-          "published_at": "2026-05-01T07:00:00+00:00",
-          "title_ja": "焦点：ウクライナを脅かす攻撃ドローン「シャヘド」、迎撃作戦の最前線 - Reuters",
-          "title_en": "焦点：ウクライナを脅かす攻撃ドローン「シャヘド」、迎撃作戦の最前線 - Reuters",
-          "summary_ja": "焦点：ウクライナを脅かす攻撃ドローン「シャヘド」、迎撃作戦の最前線 Reuters",
-          "summary_en": "焦点：ウクライナを脅かす攻撃ドローン「シャヘド」、迎撃作戦の最前線 Reuters"
-        },
-        {
-          "id": "c622e4a04d9e9210",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xbzJBMGRrbXg0dnRZczhoNTZtTHJFOHBqbmFNcUwzeDR2NHNqQl9XUUFDUTVzdlFEUHZoYmIwak1YaGlYTzhSWVRyOVE3Wkl3RU83LVNic2Q?oc=5",
-          "source": "Forbes JAPAN",
-          "lang": "ja",
-          "published_at": "2026-05-01T07:00:00+00:00",
-          "title_ja": "「待つ者」の脅威──ウクライナ戦線で進化する待ち伏せ攻撃ドローン戦術 - Forbes JAPAN",
-          "title_en": "「待つ者」の脅威──ウクライナ戦線で進化する待ち伏せ攻撃ドローン戦術 - Forbes JAPAN",
-          "summary_ja": "「待つ者」の脅威──ウクライナ戦線で進化する待ち伏せ攻撃ドローン戦術 Forbes JAPAN",
-          "summary_en": "「待つ者」の脅威──ウクライナ戦線で進化する待ち伏せ攻撃ドローン戦術 Forbes JAPAN"
-        },
-        {
-          "id": "e016d63bda53beb9",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUXNiTEV1UVVZYWRzVk5GbmtHV0JwbTlNT1lZWkF3R1pPRGFuWjlPN1RJeDFLM2Z3TFBTTnZsaUJMOTFycURkelZscmFUUDdNaXFMaFNaaVZkZHFrT0IyZ1lFbDJjNU1MeXJTTVlSR3UyQVkwaFFOT2liRUFxWkF4dGIwbGJEaDJQSDJUdmNpQ3lXR3fSAZgBQVVfeXFMTmxwRGhhZm1LQ0RiSFhFM3hJNnlqd1J1OGo3UGJpN0xhQ1Zwb2NxV3JvTDRhLUJ0OVZqY0FJSWIzenRwRnNQSGJNZGdocjRDc3BGWmF0THJvSGxJZmFqcjkxWTB4dGU4WlFSWW9yeVNWRVRFRDAyOHVVVFVhSTNUaWtFOHFaQ1FDMnpZd0IyNE1oTDd6OEtLYnU?oc=5",
-          "source": "The Defence Blog",
-          "lang": "en",
-          "published_at": "2026-04-30T07:00:00+00:00",
-          "title_ja": "Bundeswehr tests AI drone swarms with STARK loitering munitions - The Defence Blog",
-          "title_en": "Bundeswehr tests AI drone swarms with STARK loitering munitions - The Defence Blog",
-          "summary_ja": "Bundeswehr tests AI drone swarms with STARK loitering munitions The Defence Blog",
-          "summary_en": "Bundeswehr tests AI drone swarms with STARK loitering munitions The Defence Blog"
         }
       ]
     },
@@ -5699,6 +5699,28 @@
       "color": "#06B6D4",
       "is_company": true,
       "items": [
+        {
+          "id": "26c6e4727d9a41dc",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRDZaallvWXRPQXRjSXlrTElXbEY0ck5QMFNhb3kzeVJyXzZ2Y2JCVmRKSzB6Nk1Xbnh5Zk5vV1dxSnZ4R0llTFN2bkE3MTR0WmZDWEpfR3ZHODN6bV93ZzZ0bUhiSTZ3NzEwSmtTcjZNUmw2b0dPZWlIcnNZTUZWZjlvZGVLN0NIQTN0dllCUkdzLUpUQy03VWdnRk1kemEyeEVJdnBCbTBVUdIBqgFBVV95cUxPRDZaallvWXRPQXRjSXlrTElXbEY0ck5QMFNhb3kzeVJyXzZ2Y2JCVmRKSzB6Nk1Xbnh5Zk5vV1dxSnZ4R0llTFN2bkE3MTR0WmZDWEpfR3ZHODN6bV93ZzZ0bUhiSTZ3NzEwSmtTcjZNUmw2b0dPZWlIcnNZTUZWZjlvZGVLN0NIQTN0dllCUkdzLUpUQy03VWdnRk1kemEyeEVJdnBCbTBVUQ?oc=5",
+          "source": "simplywall.st",
+          "lang": "ja",
+          "published_at": "2026-07-17T05:48:50+00:00",
+          "title_ja": "ユビテック・ロボティクス（SEHK:9880）の量産型ヒューマノイド発表で割高感は変わるのか - simplywall.st",
+          "title_en": "ユビテック・ロボティクス（SEHK:9880）の量産型ヒューマノイド発表で割高感は変わるのか - simplywall.st",
+          "summary_ja": "ユビテック・ロボティクス（SEHK:9880）の量産型ヒューマノイド発表で割高感は変わるのか simplywall.st",
+          "summary_en": "ユビテック・ロボティクス（SEHK:9880）の量産型ヒューマノイド発表で割高感は変わるのか simplywall.st"
+        },
+        {
+          "id": "e20aab556d28879e",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUXZzRGZOcFYwTFhZLU51UEJkVEZ6NHJkcG9MeloySnBNV21zUmxMOVNnZDlrOEZIQVI5T3hHLWRqM0ZBWmVjM2x5M1lWTWdtTEtKd2docnBtbzJ6b2NsOThMRzh5UkowM1N0ajZocFAtS0NTTGg2bzhGUUNrODktek8xSnBBanl3cjdsR2x4T3dvWVctUE13UmhLXzNITEtUa1lSVDlxY0k4cWFjSUFmYXlWRQ?oc=5",
+          "source": "Moomoo",
+          "lang": "ja",
+          "published_at": "2026-07-16T14:00:29+00:00",
+          "title_ja": "UBTECH ROBOTICS：インサイダー情報 - 当社はH株の全流通を完了しました。 - Moomoo",
+          "title_en": "UBTECH ROBOTICS：インサイダー情報 - 当社はH株の全流通を完了しました。 - Moomoo",
+          "summary_ja": "UBTECH ROBOTICS：インサイダー情報 - 当社はH株の全流通を完了しました。 Moomoo",
+          "summary_en": "UBTECH ROBOTICS：インサイダー情報 - 当社はH株の全流通を完了しました。 Moomoo"
+        },
         {
           "id": "9c1b4b8153489cdf",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2THJHY2JMWlpIZkRydXZ6Qk9WVnhjcmdqQ2xha1Vscmc5c1hLZEhLdElKcGVVa2xHVUtCeWpNMGM5SVcwbXotX1kwZE4tMWJsTVplLWl2eWM5WUh2WjZTVkV5Zy1qQjFfQVlQdmxQc0tvdWNQ?oc=5",
@@ -5885,6 +5907,17 @@
           "title_en": "UBTECH製ヒューマノイドをGA Roboticsが国内で提供開始 研究開発・商用・産業用の3機種 - ロボスタ",
           "summary_ja": "UBTECH製ヒューマノイドをGA Roboticsが国内で提供開始 研究開発・商用・産業用の3機種 ロボスタ",
           "summary_en": "UBTECH製ヒューマノイドをGA Roboticsが国内で提供開始 研究開発・商用・産業用の3機種 ロボスタ"
+        },
+        {
+          "id": "97eb5322825d5b73",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOC1CcVg1NjNZMGU0Vi0wNDIyQV93OTRnMGtIU19VVW53NGtLNnFhYXhUeTZwSVBPUVZvQTZhUmhneGxpQTVaQVRBeVJEZWktakhVNjFqdXQ2REJNTURlRGtfbU51aEI1elNfLUFEMVI2TWRVNlBfbHdNd01LM0U2dVJNcVotbmluVkVfN2pHeV8wVGNUMFRDelA2eTdxS0tzZUtTTG0yTzhBQmZlMUloUHU3QmtjWDBrblU5OGZESGVzMFlsRGFpQ3NKYmxrTi1mZllqZ0tJR0M?oc=5",
+          "source": "Plataforma Media",
+          "lang": "en",
+          "published_at": "2026-07-01T02:40:00+00:00",
+          "title_ja": "UBTECH Launches UWORLD U1, the World's First Full-Size Mass-Produced Ultra-Bionic Humanoid Robot - Plataforma Media",
+          "title_en": "UBTECH Launches UWORLD U1, the World's First Full-Size Mass-Produced Ultra-Bionic Humanoid Robot - Plataforma Media",
+          "summary_ja": "UBTECH Launches UWORLD U1, the World's First Full-Size Mass-Produced Ultra-Bionic Humanoid Robot Plataforma Media",
+          "summary_en": "UBTECH Launches UWORLD U1, the World's First Full-Size Mass-Produced Ultra-Bionic Humanoid Robot Plataforma Media"
         },
         {
           "id": "8edab4096c742e9b",
@@ -6236,6 +6269,39 @@
       "color": "#EC4899",
       "is_company": true,
       "items": [
+        {
+          "id": "f6261d7a06f1f687",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TaVdRRTFzcVdlNWYxVkpkZ2x0SWRiaWlNZW4teXNFdzdrRUtjem44dnoyNDZXbmt5d19UOTBzY0xacU4ySWRHMlpNaWMyYWNVcTJ6WGxDT0NmOU04b2lwckY5eEhXU1BTTkE?oc=5",
+          "source": "BCN Retail",
+          "lang": "ja",
+          "published_at": "2026-07-17T10:00:00+00:00",
+          "title_ja": "フィジカルAI最前線 AIロボットはどこまで進化した？ 展示会で見えた最新技術と日本の可能性 - BCN Retail",
+          "title_en": "フィジカルAI最前線 AIロボットはどこまで進化した？ 展示会で見えた最新技術と日本の可能性 - BCN Retail",
+          "summary_ja": "フィジカルAI最前線 AIロボットはどこまで進化した？ 展示会で見えた最新技術と日本の可能性 BCN Retail",
+          "summary_en": "フィジカルAI最前線 AIロボットはどこまで進化した？ 展示会で見えた最新技術と日本の可能性 BCN Retail"
+        },
+        {
+          "id": "c1a7d2e22f2665aa",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1wQTZ1WVMwVVplaEN2SVhJMVczRV83SXo1ZmRjTEZ4NlB5c3g5eERlUV9ZRHdJOEZhT2l1czMtVXJIaHgwc0NTblF1aXp4WEVlM0JvUi1LNEVqd2dfNy1XTkxrd3ZteGUwSm1tNVJ0aFVXX2JhWnVRWjBoc9IBe0FVX3lxTE1wQTZ1WVMwVVplaEN2SVhJMVczRV83SXo1ZmRjTEZ4NlB5c3g5eERlUV9ZRHdJOEZhT2l1czMtVXJIaHgwc0NTblF1aXp4WEVlM0JvUi1LNEVqd2dfNy1XTkxrd3ZteGUwSm1tNVJ0aFVXX2JhWnVRWjBocw?oc=5",
+          "source": "FabScene",
+          "lang": "ja",
+          "published_at": "2026-07-17T09:03:09+00:00",
+          "title_ja": "ヒューマノイド「G1」を分解、CNC削り出しに見る市場優先の設計 - FabScene",
+          "title_en": "ヒューマノイド「G1」を分解、CNC削り出しに見る市場優先の設計 - FabScene",
+          "summary_ja": "ヒューマノイド「G1」を分解、CNC削り出しに見る市場優先の設計 FabScene",
+          "summary_en": "ヒューマノイド「G1」を分解、CNC削り出しに見る市場優先の設計 FabScene"
+        },
+        {
+          "id": "4c76f41792b53214",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nMFRlY1otdkJrVVNZOGRjWkduQmktbE1EajFreVM3cVVYdG81a2J2SWNKQjZtcEFfM1V1enlDemJyR21SNV9VWXNESkE3M0NqbVo5bw?oc=5",
+          "source": "ニコニコニュース",
+          "lang": "ja",
+          "published_at": "2026-07-17T03:03:18+00:00",
+          "title_ja": "TechShare, NVIDIA社のヒューマノイド基盤モデル「GR00T」に対応した Unitree - ニコニコニュース",
+          "title_en": "TechShare, NVIDIA社のヒューマノイド基盤モデル「GR00T」に対応した Unitree - ニコニコニュース",
+          "summary_ja": "TechShare, NVIDIA社のヒューマノイド基盤モデル「GR00T」に対応した Unitree ニコニコニュース",
+          "summary_en": "TechShare, NVIDIA社のヒューマノイド基盤モデル「GR00T」に対応した Unitree ニコニコニュース"
+        },
         {
           "id": "dd5827875086c956",
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcUxVWWF2X3JaZU4tYmhnTy1PaGNrYU8zOGJuV2dMQ3ZDei1XOExNa3ZWNlUwRXVLM2R2dTBQUnFkbkN4VWFUSl9DVTEybjh0LUZsRzV3NURzR3NSSVQ0N2VzY3ZyUVgyMjJONmlqenN6ZHlBakNQMno2T0M0NFZjLUJkVXM0WW9zaE9yTTlkRjhvbnBtQmFVSlJJWkhLWVZHRXRaYWZadmNhRHR2Tk81ekVwbHNZSHpma1VYcEZxdy1BQmtJMmdKZzVuaFBfYXM?oc=5",
@@ -6710,6 +6776,17 @@
           "summary_en": "Unitree Wins IPO Approval as Robot Makers Face Tougher Profit Challenges Gasgoo"
         },
         {
+          "id": "ecd2cf0a31fb125c",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ3VkcHVhdlI5WFh0bDNiRWlhNGR5NEV0X3FDam5TRm9pM0VtVFNTajJMRHAwT1E0aFp4Nlc1cHFKZkNkQWg0MVgyQUZ5UG5zSWt1QjlCLTV0MHR2bnM0UDVBODNHbzZKR0RqQWRRUkhrQjlOaU1rR1VRR1c3RjZrVFR5RQ?oc=5",
+          "source": "Hackaday",
+          "lang": "en",
+          "published_at": "2026-05-23T07:00:00+00:00",
+          "title_ja": "Unitree GO-M8018-6 Motor Reverse Engineering - Hackaday",
+          "title_en": "Unitree GO-M8018-6 Motor Reverse Engineering - Hackaday",
+          "summary_ja": "Unitree GO-M8018-6 Motor Reverse Engineering Hackaday",
+          "summary_en": "Unitree GO-M8018-6 Motor Reverse Engineering Hackaday"
+        },
+        {
           "id": "e59304fc97c73b91",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNkxaWU1CbG5EUXJ5X3puSXlkVU1CbWlHakJmZ2NFNkQ4VTZfQXRHRjg4Y2JZNzE4Z3A2TmlzZDdIWjAwWFMycmNXMVRpTmlqVnJETG1Db05xV2Z0TTVncl9IbHJ5VklwbkY1Y293TFJuMk9XWEZwb0xlZXo4MEUyOXFQTEk2VnZJaU04ZnIzREE1S0xBVlVlQg?oc=5",
           "source": "The National Interest",
@@ -6851,50 +6928,6 @@
           "title_en": "Moment real dog gets confused by AI robot pooch in Holland Park - London Evening Standard",
           "summary_ja": "Moment real dog gets confused by AI robot pooch in Holland Park London Evening Standard",
           "summary_en": "Moment real dog gets confused by AI robot pooch in Holland Park London Evening Standard"
-        },
-        {
-          "id": "432be10576ebdd26",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UTEVfQmU5dEt3bU4xQkh1ZWpTUlM5SGNYUUs2SHhRQ0lqX0phS0c0QW54YXEyT3VXTU1rWVlVcFVmTzVkNG5ld1AwNTROdWMzU2ow?oc=5",
-          "source": "36Kr",
-          "lang": "en",
-          "published_at": "2026-04-30T08:12:52+00:00",
-          "title_ja": "Unitree Unveils Upper - Body - Only Humanoid Robot; Company Execs Deny Panda Robot Copying Magic Atom - 36Kr",
-          "title_en": "Unitree Unveils Upper - Body - Only Humanoid Robot; Company Execs Deny Panda Robot Copying Magic Atom - 36Kr",
-          "summary_ja": "Unitree Unveils Upper - Body - Only Humanoid Robot; Company Execs Deny Panda Robot Copying Magic Atom 36Kr",
-          "summary_en": "Unitree Unveils Upper - Body - Only Humanoid Robot; Company Execs Deny Panda Robot Copying Magic Atom 36Kr"
-        },
-        {
-          "id": "557f8a46bb6b8e05",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5haGRSWmdRb0lKUjNSZW5zWXdtQ29pNTBRYktkY2NTMVp2Nl9uSkY2MExrUThvVHZ6V2VkbHplaUJHaENaVi1jTm1iejB3LXo3OGFrZ2RTbUtva29yZVFERWZR?oc=5",
-          "source": "Global Times",
-          "lang": "en",
-          "published_at": "2026-04-30T07:00:00+00:00",
-          "title_ja": "Unitree sells robots starting at around 10,000 yuan at its first directly operated offline store in downtown Beijing - Global Times",
-          "title_en": "Unitree sells robots starting at around 10,000 yuan at its first directly operated offline store in downtown Beijing - Global Times",
-          "summary_ja": "Unitree sells robots starting at around 10,000 yuan at its first directly operated offline store in downtown Beijing Global Times",
-          "summary_en": "Unitree sells robots starting at around 10,000 yuan at its first directly operated offline store in downtown Beijing Global Times"
-        },
-        {
-          "id": "a13580884852aad7",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1YUFVUVWpHdkQxTDJxalFwTEZjcVRfdmhlVHNHYzJNX0trTE1fdGJ5dnRVbFd1UWdDVXVyTHJnYXlDYWZCTTNCSA?oc=5",
-          "source": "LOGISTICS TODAY",
-          "lang": "ja",
-          "published_at": "2026-04-24T07:00:00+00:00",
-          "title_ja": "マクニカ、ユニツリーとフィジカルAIで協業 - LOGISTICS TODAY",
-          "title_en": "マクニカ、ユニツリーとフィジカルAIで協業 - LOGISTICS TODAY",
-          "summary_ja": "マクニカ、ユニツリーとフィジカルAIで協業 LOGISTICS TODAY",
-          "summary_en": "マクニカ、ユニツリーとフィジカルAIで協業 LOGISTICS TODAY"
-        },
-        {
-          "id": "82bd1cc38819ffc3",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoRmFLVHp2YklyNTJZdEhrRVAyWUh3cVJqZWhiWXk2WGJtR09Qa3YxN1JWbms1aHkyLUY4Rzl3M2h5Nkhta0ROUllDSm1FWGZwejBJNjhHbHN2a1haeDA2cS1WSk4?oc=5",
-          "source": "ロボスタ",
-          "lang": "ja",
-          "published_at": "2026-04-13T07:00:00+00:00",
-          "title_ja": "Unitree H1の秒速10m走行動画が世界で話題！ボルト級の速さへの驚きや恐怖を表すコメントなどを紹介 - ロボスタ",
-          "title_en": "Unitree H1の秒速10m走行動画が世界で話題！ボルト級の速さへの驚きや恐怖を表すコメントなどを紹介 - ロボスタ",
-          "summary_ja": "Unitree H1の秒速10m走行動画が世界で話題！ボルト級の速さへの驚きや恐怖を表すコメントなどを紹介 ロボスタ",
-          "summary_en": "Unitree H1の秒速10m走行動画が世界で話題！ボルト級の速さへの驚きや恐怖を表すコメントなどを紹介 ロボスタ"
         }
       ]
     },
@@ -9052,6 +9085,17 @@
           "title_en": "ETFs Investing in SIASUN Robot & Automation CO., Ltd. Class A Stocks - TradingView",
           "summary_ja": "ETFs Investing in SIASUN Robot & Automation CO., Ltd. Class A Stocks TradingView",
           "summary_en": "ETFs Investing in SIASUN Robot & Automation CO., Ltd. Class A Stocks TradingView"
+        },
+        {
+          "id": "439f63c6de92d153",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1KZGFWTDh5RURfZ0Rlc0JnTUliaksyOTFXbE51bVl5bHQ1LVhqVUpYYUE2c01FVm5QY0FHbktZREYxeTg2TFhibnl0dGdnb3RsbXNDM0ZrR2huN05ob1A5ZXZWT0RqU1cxY3VNNWdaZ0xRejlVTHA4aUpJdEE?oc=5",
+          "source": "Xinhua",
+          "lang": "en",
+          "published_at": "2026-06-30T11:29:15+00:00",
+          "title_ja": "Forging the future: the high-tech revival of northeast China's industrial heartland - Xinhua",
+          "title_en": "Forging the future: the high-tech revival of northeast China's industrial heartland - Xinhua",
+          "summary_ja": "Forging the future: the high-tech revival of northeast China's industrial heartland Xinhua",
+          "summary_en": "Forging the future: the high-tech revival of northeast China's industrial heartland Xinhua"
         },
         {
           "id": "d1104fa31bca0a53",
