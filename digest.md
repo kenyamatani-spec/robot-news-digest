@@ -1,9 +1,9 @@
 # ロボットニュース ダイジェスト / Robot News Digest
 
 > **集計サイト / Live site:** [ロボットニュース](./index.html)
-> **最終更新 / Last updated:** 2026-07-20 08:12 JST
-> **集計件数 / Article counts:** 産業 120 · 軍事 18 · サービス 43 · 家庭 19
-> **トピックストック / Topics stocked:** 16 件 · 合計 867 記事
+> **最終更新 / Last updated:** 2026-07-21 08:15 JST
+> **集計件数 / Article counts:** 産業 116 · 軍事 24 · サービス 41 · 家庭 19
+> **トピックストック / Topics stocked:** 16 件 · 合計 871 記事
 >
 > このページは NotebookLM など静的クローラー向けの **テキスト・ダイジェスト**です。
 > 各リンクは元記事に直接ジャンプします。
@@ -14,21 +14,98 @@
 
 ### 🏁 今日の一面 / Top Story
 
-![hero](https://assets.st-note.com/production/uploads/images/295641597/rectangle_large_type_2_e6c7b74326b646ea499ba1587c16e43d.png?width=800)
+![hero](https://d2l930y2yx77uc.cloudfront.net/production/social_images/99b94bc65fc183a5f751b39f02f3b207c88e113f.png)
 
-**[中国AI博覧会：ロボットが製造から介護まで多様な現場を再現](https://note.com/kagawatomo/n/n030a7843c5ff)**
+**[蒼天のレゾナンス第2話：失われた歌姫](https://note.com/fit_rat7196/n/n9338a6c2983d)**
 
-- カテゴリ / Category: `サービス / SERVICE`
+- カテゴリ / Category: `軍事 / MILITARY`
 - ソース / Source: note · ハッシュタグ「ロボット」
-- 公開 / Published: 2026.07.20
+- 公開 / Published: 2026.07.21
 
-> 上海で開催されたAI博覧会では、製造ラインや介護現場などを再現し、300台以上のロボットが実演された。
+> 古代兵器アルカディアが起動するも、ゼロ・クロウがカイトの前に立ちはだかる。
 
-> _EN:_ At an AI expo in Shanghai, over 300 robots were demonstrated, recreating scenarios from manufacturing lines to caregiving environments.
+> _EN:_ The ancient weapon Arcadia is activated, but Zero Crow confronts Kaito.
 
 
-### 産業 / INDUSTRIAL (120 件)
+### 産業 / INDUSTRIAL (116 件)
 
+- [AI株は夏休み 次は銀行株？](https://note.com/be_an_investor/n/ndb162bdae939) — *note · ハッシュタグ「フィジカルAI」* · 2026.07.21
+  ![thumb](https://assets.st-note.com/production/uploads/images/296172953/rectangle_large_type_2_ad6195291197cc0cbf613987afd51e37.png?width=800)
+  > AI関連株が夏休みムードの中、銀行株への物色が注目されています。中東情勢やイギリス政局も市場に影響を与えています。
+- [フィジカルAI時代の製造業：AIと人の心](https://note.com/vast_echium53/n/nf308594e318a) — *note · ハッシュタグ「フィジカルAI」* · 2026.07.21
+  ![thumb](https://assets.st-note.com/production/uploads/images/295733691/rectangle_large_type_2_1eaa43d7d6d1a40d01751d06ec20340e.png?width=800)
+  > 製造業ではAI導入に際し、現場の暗黙知と人の感情に寄り添う「優しさ」が重要となる。
+- [トヨタ欧州、Uber向けにハイブリッド車も提供](https://note.com/china_case/n/n24dc811c7fbb) — *note · ハッシュタグ「フィジカルAI」* · 2026.07.21
+  ![thumb](https://assets.st-note.com/production/uploads/images/296171408/rectangle_large_type_2_4f3f7f55cc489e392a34b9130a6aa331.png?width=800)
+  > トヨタ欧州はUberと提携し、欧州のドライバーにBEVだけでなくハイブリッド車や中古車へのアクセスを拡大する。
+- [トヨタとNVIDIA、工場・ロボットのデジタル化で提携](https://note.com/sdenso/n/nb7abd552d694) — *note · ハッシュタグ「ロボット」* · 2026.07.21
+  ![thumb](https://assets.st-note.com/production/uploads/images/294804172/rectangle_large_type_2_d8914899ddb76c52adb52392569d0a9a.png?width=800)
+  > トヨタはNVIDIAと提携し、工場やロボットの動きを仮想空間でシミュレーションするデジタルツイン技術を導入します。
+- [海洋ロボットで240億円調達 中国Seahi Robotics](https://news.google.com/rss/articles/CBMiO0FVX3lxTE1qUHNvVldjR3Y3ZHd4UExyOTY4OVJ2LVMzVFdXUWF0ZldEY0NqclVXOFRlbWFMR2dsWlZJ?oc=5) — *Google News - ロボット* · 2026.07.21
+  > 中国のSeahi Roboticsが深海作業の自動化を目指し、240億円の資金調達に成功しました。
+- [富士ソフト、AIネイティブ化でフィジカルAI等に注力](https://ascii.jp/elem/000/004/420/4420734/?rss) — *ASCII.jp* · 2026.07.21
+  ![thumb](https://ascii.jp/img/2026/07/19/4502646/s/d33b5b5b01a08b3a.jpg)
+  > 富士ソフトはエンジニア1万人超をAIネイティブ化し、フィジカルAI、ビジネスAI、エンジニアリングAIの3本柱で事業を展開します。
+- [産業用ロボット国内2強の決算：ファナック増収増益、安川電機は減益](https://news.google.com/rss/articles/CBMif0FVX3lxTE9SVml4MTJyaTBmSkhaaHJiYTRtSzhRYU1XeXE4aGpVR0lZYWluUW9OYWVSQ0owd3pCMHlybkJfcDRkYVRMNWphelBqX0liWWN3Tmk3S1p2cXJoOURRZjhCMVI3VWNZQ2pUQXV3Zk02MTFhNjBTeFprRTdpMzZhT0E?oc=5) — *Google News - ロボット* · 2026.07.21
+  > 国産AI連合「Noetra」に参画する産業用ロボットメーカー、ファナックは増収増益となった一方、安川電機は最終利益が38％減少した。
+- [NVIDIA、日本のロボットメーカーと協業で物理AIへ進出](https://note.com/sinjiro/n/n23903b9a6aca) — *note · ハッシュタグ「ロボティクス」* · 2026.07.21
+  ![thumb](https://assets.st-note.com/production/uploads/images/296063928/rectangle_large_type_2_525748eaa34e51c4650e55bda67a6502.png?width=800)
+  > NVIDIAは日本の製造・ロボット企業と協業し、物理AI分野での協業を進める。
+- [フィジカルAI関連の高配当株2選](https://note.com/poruka180/n/n6fb5dd81a93f) — *note · ハッシュタグ「フィジカルAI」* · 2026.07.21
+  ![thumb](https://assets.st-note.com/production/uploads/images/296108618/rectangle_large_type_2_599a8c0b79b939090b8b31e53e71a1a4.png?width=800)
+  > 現実世界のAI「フィジカルAI」は国策テーマであり、ヤマハ発動機とGMOインターネットグループが高配当株として注目されています。
+- [象の鼻型ロボットグリッパー、触覚をカメラで実現](https://news.google.com/rss/articles/CBMif0FVX3lxTE1UT1RmX29FdEhjeVpqeWZpcWRmQ0pieEdpVzBWMXk0NnA3ZmpaaHJ2RUJRWW5TaFg3cTlKX1VhTmVwdTNhQm5jUHFidHVJN194Z3dfQjZ4VFdkaW93LVkxODJUU1N6eTJ3ZFFvQWl1LVJGU281MHQwQXNFUm41Zmc?oc=5) — *Google News - robot* · 2026.07.21
+  > 象の鼻のように柔軟なロボットグリッパーが、内部カメラを使って触覚のような感覚を実現しました。
+- [象の鼻型ロボットグリッパー、触覚を再現](https://newatlas.com/robotics/eletac-robotic-elephant-trunk-gripper-touch/) — *New Atlas Robotics* · 2026.07.21
+  ![thumb](https://assets.newatlas.com/dims4/default/0c600e5/2147483647/strip/true/crop/5470x3647+0+0/resize/1440x960!/format/webp/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Ff0%2F46%2Ffb37d10d43eb96ee5b4d9aa0657e%2Fdepositphotos-75059525-xl.jpg)
+  > 象の鼻先を模倣したソフトロボットグリッパー「EleTac」は、内部カメラで触覚を再現し物体を掴む。
+- [ヒト型ロボット、工場実装段階へ](https://note.com/top_eagle2024/n/n91142788ad0e) — *note · ハッシュタグ「ロボット」* · 2026.07.21
+  ![thumb](https://assets.st-note.com/production/uploads/images/293658896/rectangle_large_type_2_3e3cacb9a2a10b5add549352fc2b007c.png?width=800)
+  > ツムラは2027年度までに製造工場にヒト型ロボットを配備し、夜勤作業を大幅削減する計画です。
+- [ハーモニック・ドライブ・システムズ：中国勢の急追に直面](https://note.com/busintemasamo1/n/n9e845c10ddc4) — *note · ハッシュタグ「ロボット」* · 2026.07.21
+  ![thumb](https://d2l930y2yx77uc.cloudfront.net/production/social_images/52f66dbdc98400fd1dd856c8d579ceced72b6de4.png)
+  > ハーモニック・ドライブ・システムズは、ロボット精密関節向け波動歯車で世界トップシェアだが、中国競合の急成長が株価の重荷となっている。
+- [ハーモニック・ドライブ・システムズ、中国勢の追随に直面](https://note.com/busintemasamo1/n/n9e845c10ddc4) — *note · ハッシュタグ「フィジカルAI」* · 2026.07.21
+  ![thumb](https://d2l930y2yx77uc.cloudfront.net/production/social_images/52f66dbdc98400fd1dd856c8d579ceced72b6de4.png)
+  > 波動歯車技術のパイオニアである同社は、AIロボット分野への注力で成長を目指すが、中国競合の急成長が株価の重荷となっている。
+- [製造業のAI活用、期待は高いが成果は低調](https://monoist.itmedia.co.jp/mn/articles/2607/21/news048.html) — *ITmedia AI+* · 2026.07.21
+  ![thumb](https://image.itmedia.co.jp/mn/articles/2607/21/cover_news048.jpg)
+  > 製造業ではAIへの期待が高いものの、明確な成果を出せている企業は少なく、多くのプロジェクトがPoC（概念実証）段階で停滞している。
+- [NVIDIA CEO来日、「フィジカルAI」で日本に期待](https://note.com/chaka689/n/n495a68977eec) — *note · ハッシュタグ「フィジカルAI」* · 2026.07.21
+  ![thumb](https://assets.st-note.com/production/uploads/images/296158755/rectangle_large_type_2_adf7a4e7786640c7fabc51370a39d540.png?width=800)
+  > NVIDIA CEOが来日し、AIが現実世界を動かす「フィジカルAI」分野で日本の製造業の役割に期待を寄せた。
+- [画像生成AIとフィジカルAI：描画能力の真価](https://note.com/dr_shijo/n/na2210e886ebf) — *note · ハッシュタグ「フィジカルAI」* · 2026.07.21
+  ![thumb](https://assets.st-note.com/production/uploads/images/296160230/rectangle_large_type_2_d61e23d505125d92ee2c37d67e2a529d.png?width=800)
+  > 画像生成AIは思考はできても、物理的な描画には身体を持つフィジカルAIが必要となる。
+- [工場ロボットが「見て覚える」時代へ](https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BMHFKRUpranZ4UkpKbl9nc3lWMWFrRlZOTTNvS294bDdDZXh0MndSekozbF91OXBnMGdld0tfbGxlbkxWYzdMNmdYYk5IdTg?oc=5) — *Google News - ロボット* · 2026.07.21
+  > 工場ロボットが視覚情報を活用し、人間の作業を模倣して学習する技術が進化しています。
+- [リコー、Telexistenceに出資 小売・物流ロボット強化](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SX1FYTXVLZmdEXzlDd29uX2ZpLXhISUhJM3NZTVI2N3NXcUM1TFVaR0M5dTRTbEhuZTVrejQxYnYzTlFUR1RlUDQ2aw?oc=5) — *Google News - ロボット* · 2026.07.21
+  > リコーは、小売・物流分野でロボットサービスを提供するTelexistenceに出資し、事業連携を強化します。
+- [宇宙ビジネスの祭典「SPACETIDE 2026」開催](https://ascii.jp/elem/000/004/420/4420780/?rss) — *ASCII.jp* · 2026.07.21
+  ![thumb](https://ascii.jp/img/2026/07/20/4502915/s/fb9b9b2d4f97b7c9.png)
+  > アジア最大級の宇宙ビジネスカンファレンス「SPACETIDE 2026」が東京で開催され、宇宙開発の未来が議論された。
+- [中国、製造業でロボット・AI活用し躍進](https://news.google.com/rss/articles/CBMieEFVX3lxTE14UE5HRFpISWg5em4tV3FORmFpWkN0T0NqYy1uTzdseVFSNFhSUmdtb3JvQWRWQmRmVmszOGd5VU5kM0dBdnl4RURhUWhpd2RQeEZVQldRVXg2WURtTGZGcmI5al9xbnQyWUUzVjNZZ2sxSWhUT0VPNQ?oc=5) — *Google News - ロボット* · 2026.07.21
+  > 中国は製造業においてロボットとAIの活用を推進し、目覚ましい発展を遂げています。
+- [AI半導体とフィジカルAI、日本製造業の課題](https://note.com/it_daytrading/n/n769f2866c3be) — *note · ハッシュタグ「ロボティクス」* · 2026.07.21
+  ![thumb](https://assets.st-note.com/production/uploads/images/296153398/rectangle_large_type_2_5bcf97600e3f9085a137bb3969d6a48c.jpeg?width=800)
+  > AI計算は学習から推論へ移行し、フィジカルAIの社会実装が焦点。日本は製造業の強みを活かしつつ、AIインフラと実装力強化が課題。
+- [フィジカルAI：工場・建設現場での社会実装が焦点](https://note.com/it_daytrading/n/n769f2866c3be) — *note · ハッシュタグ「フィジカルAI」* · 2026.07.21
+  ![thumb](https://assets.st-note.com/production/uploads/images/296153398/rectangle_large_type_2_5bcf97600e3f9085a137bb3969d6a48c.jpeg?width=800)
+  > AI計算の主戦場が推論へ移り、工場や建設現場でAIを動かすフィジカルAIの社会実装、AIインフラ競争が重要性を増しています。
+- [中国最新AI、米国に肉薄 人型ロボットも](https://news.google.com/rss/articles/CBMiXEFVX3lxTE02amkzRElyZTcybWR3RWl2dHVSYldRQzNHVUhKSGNnR19qbkFyaEJTSTk1RmlUZDV5SHFJMld0ZDBHa3VCSFF6SEJMU3l4dkVRbGtYWktsMXE5Sk9X?oc=5) — *Google News - ロボット* · 2026.07.21
+  > 中国の最新AI技術が米国に迫り、高性能モデルや人型ロボットの開発も進んでいる。
+- [NVIDIA、エッジ向け基盤モデル「Cosmos 3 Edge」発表](https://note.com/chihirodesign/n/n0bae13e0c716) — *note · ハッシュタグ「フィジカルAI」* · 2026.07.21
+  ![thumb](https://assets.st-note.com/production/uploads/images/296151335/rectangle_large_type_2_9efd22693435a2872c6634d123531409.png?width=800)
+  > NVIDIAは、ロボットや自動運転など現実世界で動くAI向け基盤モデル「Cosmos 3 Edge」を公開し、ローカル動作に最適化。
+- [フォード、3万ドルのEVトラックを発表](https://www.theverge.com/transportation/968205/ford-electric-truck-uev-30000-affordable) — *The Verge* · 2026.07.21
+  ![thumb](https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/acastro_STK056_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
+  > フォードは、人気のFシリーズトラックのEV版の失敗を受けて、3万ドルの新しいEVトラックを発表しました。
+- [フィジカルAIの本質：現場学習と日本企業の競争力](https://note.com/fine_knot144/n/n01415b04d2d8) — *note · ハッシュタグ「フィジカルAI」* · 2026.07.21
+  ![thumb](https://assets.st-note.com/production/uploads/images/295628162/rectangle_large_type_2_52f0a1e66202b6a5c75497960e5a21b9.png?width=800)
+  > フィジカルAIは現実世界から学習し続ける仕組みであり、日本の製造業は現場ノウハウをAI資産に変えることで競争力を高められる。
+- [インフラ不要のロボット開発](https://www.therobotreport.com/building-robots-for-unpredictable-infrastructure-free-environments/) — *The Robot Report* · 2026.07.21
+  ![thumb](https://www.therobotreport.com/wp-content/uploads/2026/07/burro-sood-article-featured.jpg)
+  > 予測不能で過酷な屋外環境でも機能する、インフラ不要のロボットシステムの開発が重要です。
 - [WAIC 2026：中国AI産業の現在地とロボット展示の進化](https://note.com/kagawatomo/n/n030a7843c5ff) — *note · ハッシュタグ「フィジカルAI」* · 2026.07.20
   ![thumb](https://assets.st-note.com/production/uploads/images/295641597/rectangle_large_type_2_e6c7b74326b646ea499ba1587c16e43d.png?width=800)
   > WAIC 2026では、単体製品ではなく、複数のロボットやAIが協働する「動く現場」の展示が多数見られ、中国AI産業の進化を示した。
@@ -289,100 +366,24 @@
 - [日本のフィジカルAI包囲網：富士通とロボット大手3社が連携](https://note.com/kitada2501/n/n7cf0c504de2f) — *note · ハッシュタグ「フィジカルAI」* · 2026.07.17
   ![thumb](https://assets.st-note.com/production/uploads/images/295002691/rectangle_large_type_2_4acdca58a4aaa004eaf7ba70e033abcb.jpeg?width=800)
   > 富士通とファナック、安川電機、川崎重工がフィジカルAI分野で提携し、製造・流通・医療分野のAI化を目指す。
-- [ソフトバンク主導の国産AI「Noetra」に問われるもの](https://note.com/cute_hosta834/n/n02c413b72876) — *note · ハッシュタグ「フィジカルAI」* · 2026.07.17
-  ![thumb](https://assets.st-note.com/production/uploads/images/295003039/rectangle_large_type_2_6318f7f6e016e77b54b427a67984f290.png?width=800)
-  > ソフトバンクらが1兆円規模で国産AI「Noetra」を開発。フィジカルAI実用化へ期待と懸念が交錯する。
-- [国産フィジカルAI「ノエトラ」始動、日本の製造業復活なるか](https://note.com/jazzywada/n/n654124aea454) — *note · ハッシュタグ「フィジカルAI」* · 2026.07.17
-  ![thumb](https://assets.st-note.com/production/uploads/images/295001616/rectangle_large_type_2_07d2d1e74605e529d72abc4d8f36c429.jpeg?width=800)
-  > 国産フィジカルAIプロジェクト「ノエトラ」が1兆円規模で始動。製造業の頭脳となるAI開発で、日本の技術力復活を目指す。
-- [自動車工場でのAI導入と雇用不安](https://note.com/china_case/n/nb315e0893629) — *note · ハッシュタグ「フィジカルAI」* · 2026.07.17
-  ![thumb](https://assets.st-note.com/production/uploads/images/295001077/rectangle_large_type_2_67deb958c7be760ff66f84b7df3ef889.png?width=800)
-  > 自動車工場でヒューマノイドロボット導入への不安からストが発生し、AIによる雇用問題が浮上しています。
-- [富士通、ロボット大手3社と「フィジカルAI」で協業](https://note.com/supersonic_ai/n/n21664d7452d7) — *note · ハッシュタグ「ロボット」* · 2026.07.17
-  ![thumb](https://assets.st-note.com/production/uploads/images/294955917/rectangle_large_type_2_4789e9e8762aea4a1060b94f97cbbd4e.png?width=800)
-  > 富士通はロボット大手3社とAIが自律的にロボットを動かす「フィジカルAI」を開発し、日本の製造業のDXを推進する。
-- [富士通、ロボット大手3社と「フィジカルAI」で協業](https://note.com/supersonic_ai/n/n21664d7452d7) — *note · ハッシュタグ「フィジカルAI」* · 2026.07.17
-  ![thumb](https://assets.st-note.com/production/uploads/images/294955917/rectangle_large_type_2_4789e9e8762aea4a1060b94f97cbbd4e.png?width=800)
-  > 富士通はロボット大手3社とAIが自律的にロボットを動かす「フィジカルAI」を開発し、製造現場のDXを推進する。
-- [銅価格高騰でアルミ化加速、中国自動車業界の材料転換](https://note.com/china_case/n/n6e2307924c07) — *note · ハッシュタグ「フィジカルAI」* · 2026.07.17
-  ![thumb](https://assets.st-note.com/production/uploads/images/294997507/rectangle_large_type_2_f3efc522b3e217af089b9727ae7fe629.png?width=800)
-  > 銅価格の高騰を受け、中国の自動車業界では軽量化とコスト削減のため、銅からアルミへの材料転換が加速しています。
-- [人型ロボットが製造業を変革する未来](https://note.com/tarafuku356/n/n76a901c1d87c) — *note · ハッシュタグ「人型ロボット」* · 2026.07.17
-  ![thumb](https://assets.st-note.com/production/uploads/images/294995043/rectangle_large_type_2_471bb4e9fa6fdc6484ad9cb064469917.png?width=800)
-  > AIとフィジカルAIの進化により、人型ロボットが製造業の単純作業や配送センター業務を効率化し、労働市場に大きな変化をもたらす。
-- [フィジカルAIが自動車・製造業をどう変えるか](https://note.com/tarafuku356/n/n76a901c1d87c) — *note · ハッシュタグ「フィジカルAI」* · 2026.07.17
-  ![thumb](https://assets.st-note.com/production/uploads/images/294995043/rectangle_large_type_2_471bb4e9fa6fdc6484ad9cb064469917.png?width=800)
-  > フィジカルAIとAIエージェントの進化により、自動車製造や配送センターなどの現場作業が自動化され、人間の役割が再定義される。
-- [国産マルチモーダルAI基盤「FRONTia」が始動](https://monoist.itmedia.co.jp/mn/articles/2607/17/news059.html) — *ITmedia AI+* · 2026.07.17
-  ![thumb](https://image.itmedia.co.jp/mn/articles/2607/17/cover_news059.jpg)
-  > フィジカルAIやAIロボット向け国産基盤モデル「FRONTia」の開発プロジェクトが本格始動しました。
-- [ファナック、フィジカルAI時代の「中立インフラ」戦略](https://note.com/busintemasamo1/n/ne46e0ce47db8) — *note · ハッシュタグ「ロボット」* · 2026.07.17
-  ![thumb](https://assets.st-note.com/production/uploads/images/294995143/rectangle_large_type_2_b95ab09461fe2e853e25c218a1f030dd.png?width=800)
-  > ファナックは人型ロボットに深入りせず、NVIDIA・Googleと協業し、壊れないハードウェアと制御でフィジカルAI時代の中立インフラを目指す。
-- [Kudan（4425）の空間知覚技術に注目](https://note.com/kyonani/n/n3f43aebc7415) — *note · ハッシュタグ「ロボティクス」* · 2026.07.17
-  ![thumb](https://d2l930y2yx77uc.cloudfront.net/production/social_images/dd98c9c08246394a8c1909019f1ea91e206a0d55.png)
-  > KudanはAI・ロボティクス等に不可欠な空間知覚技術を開発する研究開発型ベンチャーです。
-- [NVIDIAと日本企業が「フィジカルAI」でロボット革命](https://note.com/open_bonobo4531/n/ne7f62e299ba2) — *note · ハッシュタグ「ロボット」* · 2026.07.17
-  ![thumb](https://assets.st-note.com/production/uploads/images/294994526/rectangle_large_type_2_e7570b9876949b10072d51c0e76a9158.png?width=800)
-  > NVIDIAは日本企業と協力し、現実世界で自律的に判断・動作する「フィジカルAI」搭載ロボット開発を強化します。
-- [人間並みの握力を持つロボットハンドと月面探査ドローン](https://note.com/miraino_manabi/n/nd631f84c7c48) — *note · ハッシュタグ「ロボット」* · 2026.07.17
-  ![thumb](https://assets.st-note.com/production/uploads/images/294992239/rectangle_large_type_2_5c0f65c08f861985d7e028d2103bc918.png?width=800)
-  > 家庭用ロボットNEOは人間並みの握力と繊細な操作性を持ち、月面探査ドローンは受動的な跳躍で長時間稼働する。
-- [建設ロボットが変える2035年の日本の街づくり](https://note.com/nifty_sheep2798/n/n2adf5a00a172) — *note · ハッシュタグ「ロボット」* · 2026.07.17
-  ![thumb](https://assets.st-note.com/production/uploads/images/294992361/rectangle_large_type_2_cbd39011bf483d4fb9c0f9d18e3bd054.png?width=800)
-  > 2035年の日本、建設ロボットが夜間にインフラを静かに補修し、工事は生活を止めない日常メンテナンスになる。
-- [国産AIとロボット、製造業DXで日本株を支える](https://note.com/it_daytrading/n/n7d59eaf071ca) — *note · ハッシュタグ「ロボット」* · 2026.07.17
-  ![thumb](https://assets.st-note.com/production/uploads/images/294989953/rectangle_large_type_2_d87cfcb8d306178e9ec5f8a443bc69a1.jpeg?width=800)
-  > 国産AI開発とロボット・設備投資拡大は、製造業DX推進を通じて日本株の中長期的な支えとなる。
-- [エプソン、スカラロボット高生産性モデル受注開始](https://news.google.com/rss/articles/CBMia0FVX3lxTE0taS1OakdZd3ZyR3FyaUd4cmFwY3o5a2JVUERUbG80c3dWN0RRV0kybVUyOENfclZ1UXdwaGVRWGUzZUJzWTBDdGlKQ1gyQmZESU11S1V0eWRfNjQxX3lzYTRDdWpZaHNDQzNR?oc=5) — *Google News - ロボット* · 2026.07.17
-  > エプソン販売は、スカラロボットの高生産性モデルの受注を開始しました。
-- [フィジカルAI、製造現場で自律制御へ](https://note.com/it_daytrading/n/nd103b730478a) — *note · ハッシュタグ「ロボティクス」* · 2026.07.17
-  ![thumb](https://assets.st-note.com/production/uploads/images/294984390/rectangle_large_type_2_a606ac8908089cb61b2c7584143ff7a2.jpeg?width=800)
-  > AIが分析支援を超え、ロボットや生産設備を自律制御するフィジカルAIが製造現場で実装され始めています。
-- [現代自動車工場でヒューマノイドロボットへの懸念からストライキ](https://news.google.com/rss/articles/CBMiswFBVV95cUxQX2c2QlRyT29GUVI2ZXFJMlptMGdaYktENmpjaGJwUlNfVG4wT0NCWDB4bmV3Mno0MU5yX2lybENudkpVUHlQemtmQXNxYWFRZWp6U2l3eWVzRkJ1cGZJeUNSV2pjeWV2RllWZGJMQ3dEd1BxSDNNX2xOdW85N1hDSW9LT0pnTmFNQ2tqdUlFNXhoSmhOU0ZhVFZYb1FaRTV1cnpzajNIWVlRZGtheTBtVFR3UQ?oc=5) — *Google News - robot* · 2026.07.17
-  > 現代自動車工場では、ヒューマノイドロボットの導入に対する懸念から、人間の労働者がストライキを起こしました。
-- [BMW、人型ロボットで3万台製造へ](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TakIyOHNJaDgxak1mdmlMa01qNEJOdkM4WUtGVVF4eGFfRkxPbzJKdTV6cmtJakRKYjJpNUptcURoU3hTWVU1UFVQd3hYLVUzQnRTcFhKeG1ibEUwX25PVG1ZU0lqS1U?oc=5) — *Google News - ロボット* · 2026.07.17
-  > BMWは人型ロボットを導入し、3万台の自動車製造を目指す。シェフラーは基幹部品設計への応用も検討。
-- [人型ロボット導入段階、製造現場でエージェンティックAI活用](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGcmhWZ211UmJBTFA0cjBCZy1ERThWOFhtd2FIOHNUQkdvMG1QUldTY2RFTkh1ZGd1bk5WV3pNQ1R6SGlnU2xkckFiOVI5WmJuUXZlc1l3RVMyVEc2LWZLOGM0cmpoN3c?oc=5) — *Google News - ロボット* · 2026.07.17
-  > フィジカルAIの進化により、人型ロボットが製造現場での導入段階に入り、エージェンティックAIの活用が進んでいます。
-- [建設用ロボットインフラに1.15億ドル調達](https://www.therobotreport.com/terrafirma-raises-115m-build-robotic-infrastructure-construction/) — *The Robot Report* · 2026.07.17
-  ![thumb](https://www.therobotreport.com/wp-content/uploads/2026/07/terrafirma-featured.jpg)
-  > TerraFirmaはAIソフトウェアと遠隔操作を組み合わせ、建設用重機を自動化するロボットプラットフォームを開発しました。
-- [現代自動車工場で人型ロボット導入巡りストライキ発生](https://note.com/_takumi_inoue_/n/n20b3f643d706) — *note · ハッシュタグ「ロボット」* · 2026.07.17
-  ![thumb](https://d2l930y2yx77uc.cloudfront.net/production/social_images/3de07dc30b0fbdc58575bca5710dbeff16560286.png)
-  > 現代自動車蔚山工場で、ボストン・ダイナミクス製人型ロボット「Atlas」の導入に対し、労働組合がストライキを決行し、労使間の対立が激化しています。
-- [産業ロボット導入促進へ釧路でプラットフォーム設立](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNHdyLS00NVcwWUU4QllzTTItRHNQQ0JSR0xpX3cxLVR5aThWY3h3dC1pX0QxTE1Wem5HTHlmRE1vckhwWWxaR0NTT1F5N245T05KUHpQRDdaMi1hMUVDNlJERGJudF94Vk1xOWVTNUstOUdSRlN5WXNKLTd2LV9YUVp2UWlydFRI?oc=5) — *Google News - 産業ロボット* · 2026.07.17
-  > 釧路市は、中小企業の産業ロボット導入を支援するため、専門家や企業が集まるプラットフォームを設立しました。
-- [ロボット格闘、中国ヒューマノイド産業の新たな市場開拓](https://note.com/zhenren63/n/n196b23e2e1e2) — *note · zhenren63 (中国ロボ業界)* · 2026.07.17
-  ![thumb](https://assets.st-note.com/production/uploads/images/294972948/rectangle_large_type_2_79a21419bf030dcc20b451cb06b091b7.png?width=800)
-  > 中国深圳で始まったロボット格闘リーグは、ヒューマノイドロボットを研究室デモから競技・興行の場へ引き出す試みです。
-- [ロボット格闘、中国ヒューマノイド産業の新市場開拓](https://note.com/zhenren63/n/n196b23e2e1e2) — *note · ハッシュタグ「ロボット」* · 2026.07.17
-  ![thumb](https://assets.st-note.com/production/uploads/images/294972948/rectangle_large_type_2_79a21419bf030dcc20b451cb06b091b7.png?width=800)
-  > 中国で始まったロボット格闘イベントURKLは、ヒューマノイドロボットを研究室デモから競技・興行・技術検証の場へと進化させる試みです。
-- [日本のAIは工場で勝てるか？Noetraの挑戦](https://note.com/bunru/n/nb8a49deb6a81) — *note · ハッシュタグ「ロボット」* · 2026.07.17
-  ![thumb](https://assets.st-note.com/production/uploads/images/294971476/rectangle_large_type_2_fb328c9b4f0bcd40d8aa4c80530e0507.png?width=800)
-  > Noetraは、ソニー、ソフトバンク等44社と連携し、現実世界の機械を動かす「フィジカルAI」基盤モデル開発に挑む。
-- [中国のロボット産業の衝撃と未来](https://note.com/top17/n/ned868e0e23af) — *note · ハッシュタグ「ロボット」* · 2026.07.16
-  ![thumb](https://d2l930y2yx77uc.cloudfront.net/production/social_images/8f9ff0e938bd2e115d5335e27118a6b7d8b1fdb3.png)
-  > 中国のロボット産業は、AI技術と開発スピードで急速に成長し、テスラやNvidiaとの協業も進む一方、雇用問題も抱えている。
-- [XPeng、ヒューマノイドロボット「IRON」の量産・海外展開を計画](https://note.com/followers_likes/n/n9d029b53936f) — *note · ハッシュタグ「フィジカルAI」* · 2026.07.16
-  ![thumb](https://assets.st-note.com/production/uploads/images/294731525/rectangle_large_type_2_1a465daa568d94a62b30f277dea2fc22.png?width=800)
-  > XPengはヒューマノイドロボット「IRON」の量産と海外展開を計画しており、AIとEV・ロボットの融合が進んでいます。
-- [川崎重工とNVIDIA、AI造船所で生産性向上へ](https://note.com/hirokimiyano/n/nb902131206db) — *note · ハッシュタグ「ロボット」* · 2026.07.16
-  ![thumb](https://assets.st-note.com/production/uploads/images/294731841/rectangle_large_type_2_9e57530dbbec29db2c45b40c0be25225.png?width=800)
-  > 川崎重工はNVIDIAと提携し、ロボットとAIエージェントを活用した「AI造船所」構想で生産性向上を目指す。
-- [川崎重工とNVIDIA、AI造船所で生産性向上へ](https://note.com/hirokimiyano/n/nb902131206db) — *note · ハッシュタグ「フィジカルAI」* · 2026.07.16
-  ![thumb](https://assets.st-note.com/production/uploads/images/294731841/rectangle_large_type_2_9e57530dbbec29db2c45b40c0be25225.png?width=800)
-  > 川崎重工はNVIDIAと提携し、ロボットとAIエージェントを活用した「AI造船所」を構築し、造船現場の生産性向上を目指します。
-- [フィジカルAIが工作機械株の未来を変える](https://note.com/xminami/n/n5bb1a3f415e1) — *note · ハッシュタグ「フィジカルAI」* · 2026.07.16
-  ![thumb](https://assets.st-note.com/production/uploads/images/294726357/rectangle_large_type_2_a818ded58a978716ad2df647a0c314a5.png?width=800)
-  > フィジカルAIの台頭は、工作機械メーカーをプラットフォーマーに従属させる可能性があり、日本企業は部品供給で生き残る戦略が必要。
-- [TSMC決算、AI相場が動く⁈今夜が分岐点](https://note.com/be_an_investor/n/n2684a4a00071) — *note · ハッシュタグ「フィジカルAI」* · 2026.07.16
-  ![thumb](https://assets.st-note.com/production/uploads/images/294726907/rectangle_large_type_2_057eef3875f3571a915062e0466e09d8.png?width=800)
-  > TSMCの決算発表が注目される中、AI需要の強さでASMLは業績を上方修正しました。
 
-### 軍事 / MILITARY (18 件)
+### 軍事 / MILITARY (24 件)
 
+- [蒼天のレゾナンス第2話：失われた歌姫](https://note.com/fit_rat7196/n/n9338a6c2983d) — *note · ハッシュタグ「ロボット」* · 2026.07.21
+  ![thumb](https://d2l930y2yx77uc.cloudfront.net/production/social_images/99b94bc65fc183a5f751b39f02f3b207c88e113f.png)
+  > 古代兵器アルカディアが起動するも、ゼロ・クロウがカイトの前に立ちはだかる。
+- [蒼天機アルカディア：巨大兵器が未来を賭けて激突](https://note.com/fit_rat7196/n/n2d52a9ea6d3b) — *note · ハッシュタグ「ロボット」* · 2026.07.21
+  ![thumb](https://assets.st-note.com/img/1784588010-EuXh2syaWQcOgtMJeNiSom0V.png)
+  > 荒廃した大地で、少年カイトは伝説の巨大兵器アルカディアを起動し、ゼロ・クロウと未来を賭けた戦いを始める。
+- [ロシア、シャヘド無人機の運用法を適応](https://news.google.com/rss/articles/CBMif0FVX3lxTE44RERldmZQRmozUm9GSkxtQmFpQnBJSU5sZ2JRRnBLN2FkdHl4RVkwd0xDLWZEdE1ZNlZaWEUzeWtsMzZDTVdpd3FuTXZCbVhIVzR3TzB3SFJIM09KUExWT2hpeGRGMjFFMkRpVHN4YVljYjRTYkQtdG1DX2RFQWc?oc=5) — *Google News - 軍事ドローン* · 2026.07.21
+  > ロシアはシャヘド無人機の運用法を適応させ、従来型は前線飽和、ジェット型は深部打撃に役割分担している。
+- [ロボット刑事アストロレッド、過激な犯人逮捕劇](https://note.com/jhomonshiki/n/n02630b49ed09) — *note · ハッシュタグ「ロボット」* · 2026.07.21
+  ![thumb](https://assets.st-note.com/production/uploads/images/296159510/rectangle_large_type_2_a7060291ab5f5cd8ea7c4f177c8dc273.png?width=800)
+  > ロボット刑事アストロレッドは、特殊TNTで犯人を過激に逮捕し、周囲の被害も顧みない。
+- [ウクライナ、ロシアの物流施設を攻撃か](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBzZUh4bGRDS0JPNDRxNnRlMFFXSm80OGtISUoxcnIxV0xNaVJMTk9waHcwWTkyT1BwM09pNVBHckVmdFN1RENPS2pfdHZ0Tkd6dHlZSzg0anhabTJMWFpYN0t3?oc=5) — *Google News - 軍事ドローン* · 2026.07.21
+  > ウクライナがロシアの物流施設に対し、無人機約400機で報復攻撃を行った可能性があると報じられています。
+- [ウクライナ、無人機攻撃へ道路千キロ超に防護網](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BY0xzQTBBNmpxNDc3Ung2UklJejVTM09WR3ZCUGlMRnJjbFItQ2cySDdCckNPX0g1WEJtN3ZXYndtaVdyZ0sySmUzMmRqVmRmeUktYjNaZUExZ2F1emc?oc=5) — *Google News - 軍事ドローン* · 2026.07.21
+  > ウクライナは、ロシア軍の無人機攻撃からインフラを守るため、1000キロメートル以上の道路に防護網を設置しました。
 - [イラン無人機の不発弾処理で米兵1人死亡](https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0Wi1SRUtMMUJ0QTRfN0NtQXNITUFjTllyOEZOUGJ0WXRzc1hjMlZ2a0hTemFHWnRQSU14NWxiU2V3OERtNkNWTkR4QQ?oc=5) — *Google News - 軍事ドローン* · 2026.07.20
   > イラン製無人機の不発弾処理中に米兵1人が死亡したとの速報が入りました。
 - [イラン無人機の不発弾処理で米兵１人死亡](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9INDNzS09xcEFBV1pKUzMtMWtwcjFnM0p6cUxiWUI2UHBmbkQ4VlhrUWNsZGtzTnlzVGcxUXp4N2ZuU3g1dndqOXg2LTE0RFRXNDdsVWdVYkg?oc=5) — *Google News - 軍事ドローン* · 2026.07.20
@@ -421,8 +422,27 @@
 - [米防衛新興、テキサスに造船所新設](https://news.google.com/rss/articles/CBMibEFVX3lxTE16ZUlkMUhpekxmM1VPSExuSUVfZURLVlNFWGUyRUk0c2NfMlhoN21TWi1MVFllY3BnRHNKUHZvV3lhdXFyYWlXa0xsa3hSRHliUG5qYUwxaFRZcGdnQjNwZTdtajEteDQwYkZ0cw?oc=5) — *Google News - 軍事ドローン* · 2026.07.18
   > 米防衛新興企業がテキサス州に造船所を新設し、イランで実戦投入された水上無人機の生産を拡大する。
 
-### サービス / SERVICE (43 件)
+### サービス / SERVICE (41 件)
 
+- [秋葉原・日本橋はロボットの街になる？](https://note.com/mackey1966/n/nb9c870f70311) — *note · ハッシュタグ「ロボット」* · 2026.07.21
+  ![thumb](https://assets.st-note.com/production/uploads/images/296174810/rectangle_large_type_2_2d4ccdbea270ea9f7f52586ecfdaec3d.png?width=800)
+  > PCパーツ店がロボットパーツ店に変わり、実店舗の価値が再び高まることで、秋葉原や日本橋が未来の部品が集まる街になる可能性を論じる。
+- [AI手術ロボット、判断は人、実行はロボット](https://note.com/akiaki_notes/n/nc1bdb04fa315) — *note · ハッシュタグ「ロボット」* · 2026.07.21
+  ![thumb](https://assets.st-note.com/production/uploads/images/296167841/rectangle_large_type_2_89ea984df9f9615d4486e58a7c4ba269.jpg?width=800)
+  > AI手術ロボットは人間の判断を補助するもので、実行部分を担うが、最終的な判断は人間が行う。
+- [中外製薬、AIエージェントで研究開発成果倍増目指す](https://kn.itmedia.co.jp/kn/articles/2607/10/news007.html) — *ITmedia AI+* · 2026.07.21
+  ![thumb](https://image.itmedia.co.jp/kn/articles/2607/10/cover_news007.jpg)
+  > 中外製薬はAIエージェントを社員一人に10体割り当て、2030年までに研究開発の成果を倍増させる計画を発表した。
+- [エレベーター連携可能な清掃ロボット発売](https://news.google.com/rss/articles/CBMia0FVX3lxTFBxU0RQTjZTS2RkWl9JQWtvLU1RbFhXZWdpcW1fajdjcUZQZEhzSk1Qd2RCT2NfLUNzQ3I1dDIzdFFhbUwtQnlMTmI4SXE2QldWeTdQeUE0UDZWc2NMeXNRa1huQmtZYVFGZHBn?oc=5) — *Google News - ロボット* · 2026.07.21
+  > アマノは、エレベーターと連携して自動で移動できる清掃ロボットを発売しました。
+- [「ロボット」という言葉が映す私たちの内面](https://note.com/synaptic_whisper/n/n6d5fd1d02b9e) — *note · ハッシュタグ「ロボット」* · 2026.07.21
+  ![thumb](https://assets.st-note.com/production/uploads/images/295077525/rectangle_large_type_2_a24856583e609f3c4623c0f356d88bdd.png?width=800)
+  > 「ロボット」という言葉は、機械への期待と人間への批判で意味が反転し、知性や感情の定義を映し出す鏡となる。
+- [ヒューマノイドロボットの学校での実証実験](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeVktWEpOTHhpMFhoZTFOREtXU2FuNGExblhwQkRNYzQ2RFlFRnEtcnRYcmc1cXhtem5YaGsyTzM1ZmFHOGtqdDU4eU03QnFELUlYUmlYd2w3Nk9BcW9ub2gtZlpyQkRxdXBVZ01xZDk5NzFMNElxV0pmdmFzT3l4bzB3b28xLUhHUkxpSmNIQ3p4YUJ2SXJjeE1kVDh2aUxHMndoSzU0NHA?oc=5) — *Google News - robot* · 2026.07.21
+  > ニューヨークの学校がヒューマノイドロボット企業の最大の実験場となり、新たな課題に直面しています。
+- [Netflix、子供向け番組でASL通訳を提供開始](https://www.engadget.com/2219079/netflix-brings-asl-interpretations-to-dozens-of-shows-and-movies-for-kids/) — *Engadget* · 2026.07.21
+  ![thumb](https://www.engadget.com/img/gallery/netflix-brings-asl-interpretations-to-dozens-of-shows-and-movies-for-kids/l-intro-1784573242.jpg)
+  > Netflixは子供向け番組や映画にASL（アメリカ手話）通訳を追加し、聴覚障がいのある子供たちへのアクセシビリティを向上させます。
 - [中国AI博覧会：ロボットが製造から介護まで多様な現場を再現](https://note.com/kagawatomo/n/n030a7843c5ff) — *note · ハッシュタグ「ロボット」* · 2026.07.20
   ![thumb](https://assets.st-note.com/production/uploads/images/295641597/rectangle_large_type_2_e6c7b74326b646ea499ba1587c16e43d.png?width=800)
   > 上海で開催されたAI博覧会では、製造ラインや介護現場などを再現し、300台以上のロボットが実演された。
@@ -514,33 +534,16 @@
 - [フィジカルAI連合：工場から介護へ、ロボットで人手不足解消目指す](https://note.com/seodoa_academy/n/n4a7785cacfe0) — *note · ハッシュタグ「介護ロボット」* · 2026.07.17
   ![thumb](https://assets.st-note.com/production/uploads/images/295008857/rectangle_large_type_2_48a588b9890fcdec0bb04ac356bf3314.png?width=800)
   > 富士通らがNVIDIAと組んだフィジカルAI連合は、工場だけでなく介護分野の人手不足解消を目指し、ロボットとAIの連携基盤構築を進める。
-- [介護経営サミット：報酬改定と将来への準備](https://note.com/seodoa_academy/n/n4ffc9227fbf0) — *note · ハッシュタグ「フィジカルAI」* · 2026.07.17
-  ![thumb](https://assets.st-note.com/production/uploads/images/295002463/rectangle_large_type_2_ba33d7d84d9fb5f1051f840aa642d059.png?width=800)
-  > 介護経営サミットは、報酬改定や社会構造の変化に対応するための経営戦略を学ぶ機会を提供します。
-- [介護経営サミット：報酬改定と将来への準備](https://note.com/seodoa_academy/n/n4ffc9227fbf0) — *note · ハッシュタグ「介護ロボット」* · 2026.07.17
-  ![thumb](https://assets.st-note.com/production/uploads/images/295002463/rectangle_large_type_2_ba33d7d84d9fb5f1051f840aa642d059.png?width=800)
-  > 介護経営サミットは、報酬改定や社会福祉法改正に対応し、将来の介護事業経営に必要な戦略を学ぶ機会を提供します。
-- [AI時代に人間の価値とは？体験を超えた妄想力](https://note.com/shinchan194/n/nde4c259a7152) — *note · ハッシュタグ「人型ロボット」* · 2026.07.17
-  ![thumb](https://assets.st-note.com/production/uploads/images/294987099/rectangle_large_type_2_d0e3601671b52be6ff5abb48c8950c16.jpg?width=800)
-  > AIが体験を収集する存在なら、人間は体験から意味を生み出し妄想する存在であり、それがAI時代に残る人間の強みとなる。
-- [清掃業界DXマネジメントシステム](https://ascii.jp/elem/000/004/419/4419243/?rss) — *ASCII.jp* · 2026.07.17
-  ![thumb](https://ascii.jp/img/2026/07/13/4499923/s/8d5212a9630cd00d.jpg)
-  > ユーシーは清掃サービス「UNITED CLEAN」で業務工程を一元化する独自の清掃マネジメントシステムを開発し、最終検証を進めている。
-- [Google検索AIモード、外部アプリ連携で作業完結](https://www.itmedia.co.jp/news/articles/2607/17/news061.html) — *ITmedia AI+* · 2026.07.17
-  ![thumb](https://image.itmedia.co.jp/news/articles/2607/17/cover_news061.jpg)
-  > Google検索のAIモードが外部アプリと連携し、検索結果から直接デザイン作成や買い物などが可能になった。
-- [富士通、現場で使える次世代CPUと自律型AIエージェント戦略](https://monoist.itmedia.co.jp/mn/articles/2607/17/news044.html) — *ITmedia AI+* · 2026.07.17
-  ![thumb](https://image.itmedia.co.jp/mn/articles/2607/17/cover_news044.jpg)
-  > 富士通は次世代CPU「MONAKA」と自律生成AI、店舗業務支援AIなど、現場で使えるAIソリューションを公開した。
-- [AIヒューマノイドロボット企業がフリーモントに進出](https://news.google.com/rss/articles/CBMirgFBVV95cUxOdVlyVUtzckVxb0Z2YlEyWHRQT0dXT2ZjVWNXcV9senNlSzQxZzRNRFY5eWJ6RUkzVDNRRjVDVzNPTDJZYzUzbDc4bjBEQ0NnTWk0cjY3OFdkTVVOWTlNUWZ0QzdqeTFsbnp0QVVERnNCQ0FsUmloei1KWWNKU3VjLUNrWlcxMS1VTWxQbkZBLXFPWDBGSnJlTDRldlMxYWRFOGZPaWhtNTRLOENGaVHSAbMBQVVfeXFMTnk0TC1Wak1GZnZmamFDZm5ka3BCRmxnajJZVEtVSzRmb3J0MFV3STFrUzRSYUQ3MnBTeWVDcU05X3NvUlpsa0hLdHFuZ0hMb0xKSkFuVFdielFJOVJXWlNCU2FoWDdRX1BFS2pWS2hkempfSl9SZ1BTcDdZM2JtVnNGZWk1UnJhc1duMEwxc3JFZjlrOGJ6T3VNTktUMVJJMmNkQVFEd3dLRnlwQk5XZTdiUkE?oc=5) — *Google News - robot* · 2026.07.17
-  > AIヒューマノイドロボット開発企業が、カリフォルニア州フリーモントに拠点を設立しました。
-- [AIでは孤独を解消できない、オリィ研究所の吉藤所長](https://news.google.com/rss/articles/CBMibEFVX3lxTE10TnFiS0ZWX2xWdWZ6UHlkVXYwUzduSGlTVldCTUcxd3dBS0FJalN3Q3lIZkFsYTlxOWdqVklsaGZJOWtVT1VuTGV2eUJ3a291YWZzVmR5ZjJQVTZKREtNVUVHaHVYdWsxSnpmYw?oc=5) — *Google News - ロボット* · 2026.07.17
-  > オリィ研究所の吉藤所長は、AIだけでは人間の孤独を解消できないと述べ、ロボットによるコミュニケーションの重要性を強調した。
-- [ロボット教師、ニューヨークの学校で試験導入](https://news.google.com/rss/articles/CBMicEFVX3lxTFBzTklPMWxEUFltZFdyY043U2ltRmxBQlI4S2VRdkhkX2M2Mm90d3dSYjdJZXFCVW1wYVhGLWtsekxBa25Pdm1Bb09SMXpOUC1YWU14T1BUa2Qxd2dkallSaDZJWjdsT3c5TFFVT2VSazg?oc=5) — *Google News - robot* · 2026.07.17
-  > ニューヨークの学校区が、教育現場でのロボット教師の活用を試験的に開始しました。
 
 ### 家庭 / HOME (19 件)
 
+- [ボストン・ダイナミクス、家庭用ロボット市場を開拓](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pLXBfSWVSSEM3N1VNTjlzaGZpVW5MUjRfbDJoU18yVmxnMEJ4RHdRRlQ2c1NvLVBLcXVyMG0wakZjUS1PbUo1alpucTNqcDhWMUHSAVRBVV95cUxPYmt2TjRZX1hFN1lUeUt5WFVJc1dTYkJIUFNGUUpnT3JUTVJhQ0FTemZfMVJYejYycVN4SEhjWWwxR2pBRGF6VXhSS0tiVU5Cd1dseG0?oc=5) — *Google News - ロボット* · 2026.07.21
+  > 現代自動車傘下のボストン・ダイナミクスが、家庭用ロボット市場の拡大を目指しています。
+- [ボストン・ダイナミクス、家庭用ロボット市場拡大へ](https://news.google.com/rss/articles/CBMif0FVX3lxTE1abTlYU1RsRVJCS2RNd1Y0bHBOUEJFbkZGQmx1Q21oamt2dF9xOUNMLTdFZUZXbGZUNEJlaDBNcnNycURyMld0ZG9TN2tkZ3MxOWxrQ0pFZEtXdHBaRXZNc21oS1R6QTJFZmRybGZpSUVfR01jZTZwd0NQSzdmTDA?oc=5) — *Google News - ロボット* · 2026.07.21
+  > 現代自動車傘下のボストン・ダイナミクスが、家庭用ロボット市場の拡大を目指しています。
+- [猫耳ロボットの夢：嫌われる勇気より自分を守る責任](https://note.com/takeonijibayashi/n/ne703d5f40b24) — *note · ハッシュタグ「ロボット」* · 2026.07.21
+  ![thumb](https://assets.st-note.com/production/uploads/images/296056392/rectangle_large_type_2_757dc429a0aed7b24e7def8811bfe7f6.jpg?width=800)
+  > 猫耳ロボットが現れ、相手をイラッとさせるスイッチを渡すが、それは自分を守るための覚悟だと教える夢を見た。
 - [海外の最新調理ロボットとタイパ家事術](https://note.com/yoshijob95/n/nfc2251947fba) — *note · ハッシュタグ「ロボット」* · 2026.07.20
   ![thumb](https://assets.st-note.com/production/uploads/images/295865763/rectangle_large_type_2_4a30d27d0e92ce28e2f14491f6e9e892.png?width=800)
   > 海外でAI搭載の自動調理ロボットが注目を集めていますが、日本の住宅事情には設置スペースや手入れの課題もあります。
@@ -588,21 +591,2620 @@
 - [スマホ不要の電子ペーパー式データロガー「Weathergotchi」を自作](https://gigazine.net/news/20260717-weathergotchi/) — *GIGAZINE* · 2026.07.17
   ![thumb](https://i.gzn.jp/img/2026/07/17/weathergotchi/00.png)
   > エンジニアがスマホアプリ不要で気温と湿度を記録・表示する電子ペーパー式データロガー「Weathergotchi」を自作し、オープンソースで公開しました。
-- [サムスン「The Frame」アートTVが特別価格に](https://www.theverge.com/gadgets/966613/samsung-the-frame-art-tv-deal-sale) — *The Verge* · 2026.07.17
-  ![thumb](https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/samsungtheframetv75inch.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-  > サムスンの「The Frame」は、アートを表示してリビングをギャラリーに変えることができるテレビです。
-- [エコバックスのロボット掃除機が大幅値下げ](https://www.theverge.com/gadgets/966651/ecovacs-deebot-x11-robot-vacuum-deal-sale) — *The Verge* · 2026.07.17
-  ![thumb](https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ecovacsomnicyclone11deebots.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-  > 床掃除を自動化するエコバックスのロボット掃除機「Deebot X11」が、現在400ドルオフの699ドルで販売されています。
-- [Steam Deckバッテリー販売継続へ](https://www.theverge.com/games/966106/valve-ifixit-will-keep-selling-steam-deck-lcd-battery) — *The Verge* · 2026.07.16
-  ![thumb](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25070039/DSCF9076.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100)
-  > ValveはSteam Deck LCDのバッテリー販売を中止しないことを発表し、iFixitでの販売が継続されることになりました。
 
 ---
 
 ## 📖 全文アーカイブ / Full-text Archive
 
 > `fulltext: true` を指定したソースの本文・画像の取り込み。有料・メンバーシップ限定記事は**無料公開部分のみ**収録。
+
+### [蒼天のレゾナンス第2話：失われた歌姫](https://note.com/fit_rat7196/n/n9338a6c2983d)
+
+- ソース / Source: note · ハッシュタグ「ロボット」 · 2026.07.21
+- ⚠️ メンバーシップ/有料記事のため無料公開部分のみ / Free preview only
+
+![見出し画像](https://d2l930y2yx77uc.cloudfront.net/production/social_images/99b94bc65fc183a5f751b39f02f3b207c88e113f.png)
+
+『蒼天のレゾナンス -RESONANCE OF BLUE-』
+
+![図](https://assets.st-note.com/img/1784588225-n2kNzGf3iuHdQEhZmLOICeoM.png)
+
+前回までのあらすじ
+伝説の古代兵器《蒼天機アルカディア》を起動したカイト・アマギ。 ミレイ・ルナの歌声によって目覚めたその力は、天空都市と地上を揺るがす新たな希望となった。 しかし、黒きパイロット・ゼロ・クロウは「力なき願いに未来を選ぶ資格はない」と言い放ち、アルカディアの前に立ちはだかる――。
+
+---
+
+### [蒼天機アルカディア：巨大兵器が未来を賭けて激突](https://note.com/fit_rat7196/n/n2d52a9ea6d3b)
+
+- ソース / Source: note · ハッシュタグ「ロボット」 · 2026.07.21
+
+![見出し画像](https://assets.st-note.com/img/1784588010-EuXh2syaWQcOgtMJeNiSom0V.png)
+
+![図](https://assets.st-note.com/img/1784588010-EuXh2syaWQcOgtMJeNiSom0V.png)
+
+第1話「蒼き鼓動、目覚める空」
+西暦2198年――
+人類は空へ逃げた。
+地上が荒廃し、大地の多くが失われた時代。 人々は天空都市《アステリア》を築き、感情エネルギー「レゾナ」を利用して文明を維持していた。
+しかし、その力は新たな争いを生んだ。
+天空都市はレゾナを管理し、地上に残された人々は自由を求めた。
+世界は二つに分かれ、長い戦争が続いていた。
+そして、その戦争の裏には―― 古代文明が残した禁断の兵器の存在があった。
+「蒼天機アルカディア」
+世界を救うとも、滅ぼすとも言われる伝説の機体。
+誰も起動できなかったその兵器が、今まさに眠りから目覚めようとしていた。
+第1章「蒼い瞳の少年」
+地上都市《ノヴァ・グラウンド》。
+瓦礫だらけの街を、一人の少年がバイクで駆け抜ける。
+少年の名は――
+カイト・アマギ。
+18歳。
+無茶ばかりする性格だが、困っている人間を放っておけない少年だった。
+「急げ！ レゾナ反応が来る前に逃げろ！」
+空から降下してくる天空軍の戦闘機。
+街の人々が恐怖で逃げ惑う中、カイトは立ち止まる。
+「また上の連中か……」
+天空軍の目的は、地上に眠る古代レゾナ資源の回収だった。
+しかし、その場所には子供たちが残されていた。
+「俺が時間を稼ぐ！」
+「カイト！ 無茶だ！」
+「無茶じゃない。俺がやらなきゃ誰がやるんだ！」
+その瞬間――
+カイトの蒼い瞳が輝く。
+遠い昔から彼の中に眠っていた謎の力。
+「……また聞こえる」
+誰かの声。
+遠い場所から響く、機械の鼓動。
+――起きろ。
+――蒼天の継承者よ。
+第2章「歌う少女」
+逃走中のカイトは、地下遺跡へ迷い込む。
+そこには一人の少女がいた。
+白銀の髪。
+青い光を宿した瞳。
+少女は静かに歌っていた。
+その歌声が響いた瞬間、停止していた古代装置が次々と起動する。
+「あなた……誰？」
+カイトが尋ねる。
+少女は振り返る。
+「私はミレイ・ルナ」
+17歳。
+不思議な歌声でレゾナを操る少女。
+「あなたの中にある蒼い光……アルカディアが呼んでいる」
+「アルカディア？」
+その名前を聞いた瞬間、遺跡全体が揺れる。
+巨大な扉が開く。
+そこに眠っていたのは――
+青き翼を持つ巨大兵器。
+蒼天機アルカディア。
+「まさか……伝説の兵器？」
+ミレイは呟く。
+「選ばれたんだよ……あなたが」
+しかし、その時。
+黒い影が遺跡へ降り立つ。
+漆黒の装甲。
+圧倒的な威圧感。
+黒き機体《クロウ・ゼロ》。
+操縦者は――
+ゼロ・クロウ。
+「くだらない」
+冷たい声が響く。
+「力を持たない者が、世界を変えるなど幻想だ」
+カイトは睨み返す。
+「誰だよ、お前」
+「ゼロ・クロウ。アルカディアを破壊するために来た」
+ゼロの機体が剣を抜く。
+「力なき願いに、未来を選ぶ資格はない」
+第3章「蒼天の騎士」
+ゼロの攻撃。
+逃げるしかないカイト。
+だが、アルカディアは反応する。
+ミレイの歌声が遺跡に響く。
+「心の波動が、未来を開くの！」
+青い光がカイトを包む。
+心臓の鼓動。
+仲間たちの声。
+守りたいという想い。
+その全てがレゾナとなり、アルカディアへ流れ込む。
+「俺の声が届くなら……」
+カイトが叫ぶ。
+「世界はまだ変えられる！」
+アルカディア起動。
+蒼い翼が大空へ広がる。
+装甲が変形し、人型兵器へ。
+その姿はまるで――
+蒼天の騎士。
+「蒼天機アルカディア……起動！」
+初めて立ち上がった伝説の機体。
+ゼロは静かに笑う。
+「面白い……」
+「その力が本物か、確かめてやる」
+二機の巨大兵器が激突する。
+蒼と黒。
+希望と絶望。
+未来を巡る戦いが始まった。
+次回予告
+「アルカディアの力を狙う天空都市軍。 そして明かされるミレイの秘密。
+カイトは初めて知る。
+自分の蒼い瞳に隠された、本当の意味を――」
+次回 『蒼天のレゾナンス -RESONANCE OF BLUE-』
+
+---
+
+### [秋葉原・日本橋はロボットの街になる？](https://note.com/mackey1966/n/nb9c870f70311)
+
+- ソース / Source: note · ハッシュタグ「ロボット」 · 2026.07.21
+
+![見出し画像](https://assets.st-note.com/production/uploads/images/296174810/rectangle_large_type_2_2d4ccdbea270ea9f7f52586ecfdaec3d.png?width=800)
+
+あと10年、20年もすれば、秋葉原や大阪・日本橋のPCパーツ店は、ロボットパーツ店に変わっているのではないか。
+もちろんPCがなくなるわけではない。
+PCも売られているだろうし、GPUやストレージ、開発用マシンも残っていると思う。
+ただ、街の主役は今とは少し変わっているかもしれない。
+今の秋月電子や千石電商のような店が、抵抗やセンサー、マイコン基板だけでなく、モーター、アクチュエーター、関節モジュール、ロボットハンド、触覚センサー、LiDAR、カメラ、バッテリーまで扱う。
+棚には電子部品と並んで、ロボットの腕や脚、車輪、目や耳に相当する部品が置かれている。
+そんな光景である。
+今はPCの過渡期ではないか
+かつてPCは、それ自体が未来だった。
+CPUを選び、メモリを増やし、拡張カードを挿すことで、できることが増えていった。
+秋葉原や日本橋へ行けば、まだ一般には知られていない新しい技術や部品を見ることができた。
+しかし現在、PCはかなり完成品化している。
+性能は十分に高くなり、多くの人はノートPCやスマートフォンをそのまま使う。内部を開けて部品を交換する必要も以前ほどない。
+自作PCは残っているが、かつてのようにPCそのものが社会を変えていく中心にあるとは言いにくい。
+今の秋葉原や日本橋に、少し勢いがなく見えるのは、街が衰えたからというより、PCという時代が成熟し、次の主役がまだ十分に登場していないからではないかと思う。
+次は「動くコンピューター」
+ロボットは、言ってみれば身体を持ったコンピューターである。
+頭脳に当たるAIや制御基板だけでは動かない。
+腕、脚、車輪、関節、カメラ、マイク、距離センサー、触覚、バッテリーが必要になる。
+しかも用途によって身体の構成は大きく異なる。
+清掃用、運搬用、介護用、農業用、警備用、接客用では、必要な部品が違う。
+同じロボットでも、
+「もう少し重いものを持たせたい」
+「暗い場所でも見えるカメラに交換したい」
+「屋外を走れる車輪にしたい」
+「柔らかい物をつかめるハンドを付けたい」
+といった改造が必要になる。
+ロボットは、PC以上に部品交換や修理、改造との相性がよい製品かもしれない。
+実店舗の価値も戻る
+電子部品であれば、型番を見て通販で買うこともできる。
+しかしロボット部品は、数字だけでは分からないことが多い。
+実際の大きさ、重さ、動作音、振動、動きの滑らかさ、剛性、ケーブルの取り回し。
+こうしたものは、現物を見て、触って、動かしてみなければ分からない。
+そのためロボット時代には、実店舗の価値が再び高まるのではないか。
+店頭でモーターのトルクを比べる。
+ロボットハンドで実際に物をつかませる。
+関節モジュールの動作音を確認する。
+店員に、
+「この腕で5キロ持ち上げられますか」
+「このAIボードで画像認識までできますか」
+と相談する。
+今のPCパーツ店に近いが、もっと物理的で、もっと雑然とした世界である。
+中古ロボットを分解して部品を売る店や、用途に合わせて組み立てる小さな工房も出てくるだろう。
+中国製の格安センサーや、聞いたことのないメーカーの制御基板が山積みになっている店もありそうだ。
+それはかなり秋葉原や日本橋らしい風景である。
+街が再び未来を見せる
+秋葉原は、無線部品、家電、PC、ゲーム、アニメへと姿を変えてきた。
+大阪の日本橋も、電気街からPC、ホビーへと変化してきた。
+次はロボットとフィジカルAIかもしれない。
+今は、PCの時代が終わりつつある一方で、ロボットの時代がまだ本格的に始まっていない。
+その間の空白期に見える。
+秋葉原や日本橋が魅力を失ったのではない。
+次に並べるべき未来の商品が、まだ大量には存在していないだけなのかもしれない。
+ロボットが一般家庭や小規模事業者にも普及し、修理や改造が日常になる頃、秋葉原や日本橋には再び、未来の部品が雑然と並ぶようになる。
+昔のラジオ少年やマイコン少年、自作PC少年の後に、自作ロボット世代が現れる。
+そのとき秋葉原と日本橋は、再び「行けば未来が見える街」になるのではないかと思う。
+そうなれば、再び頻繁に通うことになるかもしれない。
+
+---
+
+### [AI株は夏休み 次は銀行株？](https://note.com/be_an_investor/n/ndb162bdae939)
+
+- ソース / Source: note · ハッシュタグ「フィジカルAI」 · 2026.07.21
+
+![見出し画像](https://assets.st-note.com/production/uploads/images/296172953/rectangle_large_type_2_ad6195291197cc0cbf613987afd51e37.png?width=800)
+
+画像の挿入が文章中に間に合わない場合があります🙏
+その場合は投稿を優先させることがあります。
+また、AIを活用している為、人物名や内容に誤りがある場合があります。
+ご了承ください。
+
+コチラの記事作成はテレビ東京のテレ東BIZを使用しています。
+筆者はもう、かれこれ毎日８年間お世話になってます。
+素晴らしいサービスなので金融リテラシーを上げたい方は
+是非、ご契約ください。
+
+筆者はモーサテプレミアムに入ってます。
+モーサテわからんが特にスキです。
+⬇️⬇️
+
+Newsモーニングサテライト（モーサテ）｜テレ東BIZ
+
+テレ東BIZ(ビズ)の Newsモーニングサテライト（モーサテ） 新着一覧ページです。テレ東BIZで配信している News
+
+txbiz.tv-tokyo.co.jp
+
+![図](https://assets.st-note.com/img/1784241655-r1meoOBslCjcIqgY3vFadut8.png)
+
+AI漫画スライド pic.twitter.com/hPPuXt68Mu
+— 10倍株チャンネル（モーサテまとめ毎朝配信） (@vicboss2020) July 20, 2026
+
+stand.fm
+
+朝の相場まとめ（7月21日）
+ニュースモーニングサテライトより
+■ オープニング：今週の注目点
+おはようございます。7月21日火曜日、ニュースモーニングサテライトです。
+連休前に大きく下落した日経平均ですが、今週はどう動くのでしょうか。今日も世界と日本の最新の動きをお伝えします。
+■ NY株式市場（7月20日）
+まずは20日のニューヨーク株式市場の終値です。主要3指数は揃って3日続落となりました。
+
+![図](https://assets.st-note.com/img/1784584515-U71y5WVcvkHeqIsotzpwYXRG.png)
+
+ダウ：51,839ドル（▲307ドル）
+
+ナスダック：25,508（▲12ポイント）
+
+S&P500：7,443（▲14ポイント）
+
+セクター動向
+
+![図](https://assets.st-note.com/img/1784584519-1TXvfAH2Dbalm9kxenSK8jrF.png)
+
+上昇：通信、エネルギー、情報技術
+
+下落：ヘルスケア、素材
+
+為替
+
+![図](https://assets.st-note.com/img/1784584524-25AhQUyit0kVB3Y1vEmrw7OR.png)
+
+ドル円：162円50銭台
+
+■ NY市場の背景：中東情勢とAI関連の綱引き
+ニューヨークからのレポートです。
+
+![図](https://assets.st-note.com/img/1784584534-DjbLq69a5XxfES3UsymKBVJA.png)
+
+中東情勢を背景としたエネルギー価格の上昇懸念が再び強まり、株価の重荷となりました。
+一方で、半導体株の一部には買い戻しの動きが見られ、相場を下支えしました。
+
+![図](https://assets.st-note.com/img/1784584541-Ixztl3TvhU0ApR1d6erQF94L.png)
+
+![図](https://assets.st-note.com/img/1784584541-IZ0pWwKeTdx4VgBna8kfJ6v9.png)
+
+![図](https://assets.st-note.com/img/1784584541-3tcmGVF6KOBgCdEanA9U5RI8.png)
+
+ダウは景気敏感株を中心に売られ、全体としては軟調な展開でした。
+背景解説
+原油高 → 企業コスト増 → 株価にマイナス
+
+半導体株 → 押し目買いで下支え
+
+■ 中東情勢：停戦報道も不透明感続く
+アメリカとイランを巡っては、仲介国による10日間の停戦提案が報じられ、投資家心理を支える場面もありました。
+
+![図](https://assets.st-note.com/img/1784584547-dzQMsqEvnt9ZHNWPe5yVrJCk.png)
+
+ロイター通信：イラン政府高官が停戦案に言及
+
+イラン外務省：複数の提案を受領
+
+![図](https://assets.st-note.com/img/1784584582-vIEycGx0jC8UzXFW4YZBbJSm.png)
+
+ただし、
+米軍基地攻撃で兵士死亡
+
+両国とも強硬姿勢
+
+![図](https://assets.st-note.com/img/1784584590-odFUm7VzhbHJ061E28lgjXOt.png)
+
+といった状況から、先行きの不透明感は依然として強いままです。
+
+![図](https://assets.st-note.com/img/1784584625-I8HtUlYsLn9krEyJBFcQCi1A.png)
+
+■ フーシ派の動き：原油輸送に新たなリスク
+イエメンの親イラン武装組織フーシ派は、
+
+![図](https://assets.st-note.com/img/1784584633-m1hoNI2dq9UuAD5Lgn8pJFZR.png)
+
+サウジ関連船舶の航行阻止を発表（即時実施）
+対象海域には、
+
+![図](https://assets.st-note.com/img/1784584638-nsCPmx3g6rZVNJKO4fIASTHq.png)
+
+バブエルマンデブ海峡
+
+が含まれます。
+※用語解説
+バブエルマンデブ海峡：紅海とインド洋を結ぶ重要航路。原油輸送の要衝。
+
+![図](https://assets.st-note.com/img/1784584643-5OVuLwfnMTHgbkj1RYdrAxQ3.png)
+
+影響
+航行障害 → 原油供給不安
+
+エネルギー価格上昇圧力 → 株式市場に悪影響
+
+■ イギリス政局：新首相誕生
+イギリスでは労働党のアンディ・バーナム氏が首相に就任しました。
+
+![図](https://assets.st-note.com/img/1784584648-sLvgaPBMGofOr5hnQXJEV0kx.png)
+
+![図](https://assets.st-note.com/img/1784584691-0yus4lb2dwVkHeSoIahgQtmP.png)
+
+約10年で7人目の首相（政権不安定）
+
+年内に10カ年計画策定へ
+
+![図](https://assets.st-note.com/img/1784584718-IrFxtWMQjaAKkY9qpsBouTXz.png)
+
+![図](https://assets.st-note.com/img/1784584659-AkbVc76JT2wDougHtCRS8sGB.png)
+
+![図](https://assets.st-note.com/img/1784584669-2j7XZqkyDrMTnVcCEhgiK4w6.png)
+
+政策の柱：
+住宅政策
+
+福祉・教育改革
+
+ただし、
+金利高止まり
+
+財政規律への懸念
+
+があり、市場では慎重な見方も出ています。
+
+![図](https://assets.st-note.com/img/1784584707-sw9cfbjE4qIoketJPglCH80R.png)
+
+財務相にはジョン・ヒーリー氏が就任。
+過去に防衛費問題で辞任した経緯から、財政運営への警戒感もあります。
+
+![図](https://assets.st-note.com/img/1784584737-bM7Wm4gLsFxhkSq5K82GZwIr.png)
+
+■ その他ニュース
+▼ ロッキード・マーティン
+迎撃ミサイル「パトリオット」の低価格モデル発表
+
+![図](https://assets.st-note.com/img/1784584744-Cn3eZghVw2qlWT4MBdz6I0JP.png)
+
+現在：約400万ドル → 半分未満へ
+→ 戦闘長期化による需要増に対応
+
+![図](https://assets.st-note.com/img/1784584749-08n5VlcEFGLy6wzMkXjtxWpP.png)
+
+▼ AMD
+AIサーバー「Helios」をマイクロソフトへ供給
+
+![図](https://assets.st-note.com/img/1784584773-RMTuJjiEcz7QZArKWGFd0H9k.png)
+
+NVIDIA対抗製品
+
+メタやOpenAIも導入済み
+
+![図](https://assets.st-note.com/img/1784584778-sNBK6mpCUri8ZJaFAuhVtWzD.png)
+
+→ 株価は一時**+5%**
+
+![図](https://assets.st-note.com/img/1784584784-1gzBwTAS83iuYVo4GPCmFexc.png)
+
+![図](https://assets.st-note.com/img/1784584788-fGEXT65BNK4QrJOztYgk9LVx.png)
+
+▼ アルファベット（Google）
+
+![図](https://assets.st-note.com/img/1784584804-nqQJ4PsICuz6MEgUtmo9Wy7j.png)
+
+新AI半導体「FROZEN V2」開発報道
+データ移動削減 → 高速化・省電力化
+
+![図](https://assets.st-note.com/img/1784584808-1gcb6mBzhEoiukAqlC5H2arj.png)
+
+→ 株価は一時**+3%**
+▼ パラマウント × スカイダンス
+
+![図](https://assets.st-note.com/img/1784584813-3riyjX8B7dtYN9HnmaGSCVcF.png)
+
+合併に差し止め命令（2週間）
+
+![図](https://assets.st-note.com/img/1784584817-7Rbkc68VdMphBvjuIqnxU2ga.png)
+
+![図](https://assets.st-note.com/img/1784584824-SDKe9cRE6J3ohTps1wtAlMqF.png)
+
+※用語解説
+独占禁止法：市場競争を阻害する企業統合を規制する法律
+■ 専門家解説：みずほ証券 兼松氏
+
+![図](https://assets.st-note.com/img/1784585637-bPDMhBTcxkluICVgwKeWaspU.png)
+
+市場の評価
+エネルギー株は堅調
+
+ただし全体は「やや冴えない展開」
+
+![図](https://assets.st-note.com/img/1784585641-Pcsg1V0OjRYpuGz5KqwQUEMS.png)
+
+![図](https://assets.st-note.com/img/1784585645-JFhEmSsD3M9cPoXtqj0xAfeK.png)
+
+■ 半導体市場の現状（SOX指数）
+小幅上昇も…
+
+直近高値から▲20%（弱気相場入り水準）
+
+※用語解説
+SOX指数：主要半導体株で構成される指数
+
+![図](https://assets.st-note.com/img/1784585649-a7SMY2wntOgfu6LQyHqX1jJb.png)
+
+下落要因
+TSMCの設備投資拡大 → AI投資過熱懸念
+
+韓国メモリ株の変動拡大
+
+中国AI「Genie（※名称要確認）」の台頭
+
+■ 米中AI競争の見方
+アメリカでは、
+AI優位性低下への懸念
+
+価格競争激化への警戒
+
+が広がっています。
+ただし重要なポイントとして、
+
+![図](https://assets.st-note.com/img/1784585698-4pIbc59U6ZF8rtgXKYijLME3.png)
+
+👉 半導体（CPU・メモリ）がボトルネック
+→ 需要逼迫は継続
+→ ハードウェア需要は底堅い
+■ 半導体株の見通し
+今回の動きは、
+
+![図](https://assets.st-note.com/img/1784585706-Pghp4ruiXdfILnKJYAjb3yD6.png)
+
+2025年の「DeepSeekショック」に類似
+
+→ 中長期の影響は限定的
+今後の焦点：
+ハイテク決算
+
+クラウド企業の成長率
+
+トランプ関税還付の影響
+
+■ 債券・商品市場
+
+![図](https://assets.st-note.com/img/1784585712-4IBKMxZjLwNGtzoSf3uslRvX.png)
+
+米10年債利回り：4.594%
+
+米2年債利回り：4.211%
+→ 金利上昇
+
+原油
+
+![図](https://assets.st-note.com/img/1784585736-UA97reP5gOx8pQcVaFKH4jZE.png)
+
+一時85ドル台
+
+停戦報道で上げ幅縮小
+
+金
+反落
+
+■ 欧州市場
+
+![図](https://assets.st-note.com/img/1784585741-S4yVBuNFtYJZjnAq7L5vT9mC.png)
+
+イギリス：反落（3日ぶり）
+
+ドイツ：反発（4日ぶり）
+
+■ 日経先物
+
+![図](https://assets.st-note.com/img/1784585746-Hj28Cw0Ut6vzMSPVydhmLf5g.png)
+
+シカゴ日経平均先物：6万5110円
+
+■ ゲスト紹介
+今朝のゲストです。
+
+![図](https://assets.st-note.com/img/1784585751-sSzdyNbLx4FKMh7qmOnZGTCv.png)
+
+![図](https://assets.st-note.com/img/1784585755-Sb0O6BTkt9XudMxjDCesr5Zq.png)
+
+モルガン・スタンレーMUFG証券　中澤翔さん
+
+高千穂大学　内田稔さん（為替見通し）
+
+![図](https://assets.st-note.com/img/1784585770-4cz5eN7lRJtyDUYbsk9qIKW8.png)
+
+![図](https://assets.st-note.com/img/1784585770-Jj0u9kbGK3LFCOmAlxSdpa4X.png)
+
+![図](https://assets.st-note.com/img/1784585770-MlHwUyZvVjbm7GADhI6JxnpP.png)
+
+![図](https://assets.st-note.com/img/1784585770-aiuXwzyNqG216Kv3dTURJelM.png)
+
+■ 為替・原油：中東情勢とドル円への影響
+WTI原油先物は一時1バレル＝85ドル台まで上昇しました。
+内田さんの見方です。
+中東情勢はこれまでも地政学リスクの中心でしたが、
+原油の供給不安が生じるかどうかが決定的な違いになります。
+特にイランが関与する場合、
+原油価格上昇
+
+金融政策への影響
+
+といった波及が発生します。
+■ 日銀政策への影響
+4月：中東情勢を理由に利上げ見送り
+
+6月：停戦期待 → 利上げ実施
+
+👉 地政学リスクが金融政策を左右
+これは日銀だけでなく、各国中央銀行にも重要な要素です。
+■ 為替の基本反応：有事のドル買い
+中東リスクが高まる局面では、
+
+![図](https://assets.st-note.com/img/1784585794-HXNP8MIRubm4zpG0Eie9JWcr.png)
+
+👉 有事のドル買い（ドル高）
+が発生しやすくなります。
+※用語解説
+有事のドル買い：地政学リスク時に、安全資産とされるドルが買われる動き
+特にアメリカは資源国としての側面もあるため、
+原油高＝ドル高要因になりやすい構造です。
+■ 東京為替見通し（内田氏）
+予想レンジ：162.00円〜162.80円
+
+![図](https://assets.st-note.com/img/1784585799-5eyCMNWaHjqiDpBzO7x8vlm3.png)
+
+![図](https://assets.st-note.com/img/1784585809-LOZQHhrN0A3TlsMUE4wcCj5B.png)
+
+■ 見通し
+有事のドル買いで底堅い推移
+
+ただし新規材料不足 → 高値更新は限定的
+
+👉 162円台後半は上値の壁
+■ ドル円：一旦「仕切り直し」
+一時163円に接近したドル円ですが、現在は膠着状態です。
+■ 理由
+これまでの上昇は
+円安
+
+ドル高
+
+の両方が同時進行した結果
+
+![図](https://assets.st-note.com/img/1784585890-3YPlH8b9ChFJKoOeqVDApRW4.png)
+
+しかし現在は、
+円安要因 → 一服
+
+ドル高要因 → 鈍化
+
+👉 上昇モメンタムが低下
+■ 円安要因の変化
+円安の背景にあったのは、
+
+![図](https://assets.st-note.com/img/1784585868-7mkafvWVcLNMZd45SJoRYQqC.png)
+
+骨太の方針（財政拡張）
+
+タームプレミアム上昇
+
+長期金利上昇
+
+※用語解説
+タームプレミアム：長期金利に含まれるリスク上乗せ分
+ただ足元では、
+タームプレミアム上昇が鈍化
+
+国債入札が堅調（応札倍率4倍超）
+
+👉 円安圧力は一時的に沈静化
+■ ドル高要因の変化
+6月FOMC後：利上げ観測 → ドル高
+
+しかし
+雇用統計
+
+CPI（消費者物価指数）
+
+が予想下振れ
+👉 ドル高にもブレーキ
+■ 今後のドル円：円高にはなりにくい理由
+短期的にドル安でも、
+👉 円も弱い
+主な要因：
+対外投資による円売り需要
+
+実質金利の低さ（※）
+
+財政政策による円安期待
+
+※用語解説
+実質金利：名目金利 − インフレ率
+さらに、
+年内利上げは「1回」織り込み済み
+
+👉 円高トレンドにはなりにくい
+■ 中期見通し：165円方向のリスク
+ポイントは「クロス円」です。
+👉 ドル高が弱まると
+→ ドル円ではなくクロス円で円安進行
+ただし、
+有事のドル買い再燃
+
+米経済の底堅さ
+
+から、利上げ方向の見方は維持
+
+![図](https://assets.st-note.com/img/1784585912-Z9o1i7pKIlnYDv4rfXNbM2Va.png)
+
+■ 市場指標
+リスクリバーサル（3ヶ月）：やや円高警戒
+
+リスクリバーサル（1年）：ドル高示唆
+
+👉 中期は円安（165円方向）リスクが優勢
+■ 債券市場（日本）
+
+![図](https://assets.st-note.com/img/1784585916-65zdPitI3DXTjGpCq4ASuNkn.png)
+
+日本10年債利回り：2.705%（先週金曜）
+
+■ 世界株式市場の動き
+
+![図](https://assets.st-note.com/img/1784585920-uygWKzQo10F7TtVSGYv8AUdH.png)
+
+上海総合指数：反発（4日ぶり）※資源株が上昇
+
+インドSENSEX：反落
+
+ドイツDAX：反発
+
+イギリスFTSE：反落
+
+ブラジル：続落
+
+NYダウ：続落
+
+■ 日経先物（大阪夜間）
+
+![図](https://assets.st-note.com/img/1784585924-pxrQBDhG7FXi8vUzO4bckolZ.png)
+
+6万5080円
+
+■ 東京株式市場の見通し（三井氏）
+
+![図](https://assets.st-note.com/img/1784585930-7kIgoyEZd01SBKDPUeWwzfjT.png)
+
+![図](https://assets.st-note.com/img/1784585937-afvKd58PDyhsZXB0mizj17tC.png)
+
+予想レンジ：6万4500円〜6万5500円
+
+■ 本日の見方
+先週の下落 → 自律反発期待
+
+ただし環境は不安定
+
+リスク要因：
+中東情勢
+
+韓国株の不安定さ
+
+米ハイテク決算
+
+■ 注目テーマ：決算で物色拡大へ
+4〜6月期決算については、
+
+![図](https://assets.st-note.com/img/1784586123-Y74qeIun8AzHGwKtbVjoaJdE.png)
+
+👉 企業業績は上振れ余地あり
+要因：
+AI需要
+
+円安効果
+
+実際に、
+TOPIX予想EPSは上方修正継続
+
+※用語解説
+EPS：1株あたり利益
+■ 日本経済の強さ
+実質消費：プラス
+
+内需：底堅い
+
+企業活動：活発
+
+👉 内需主導の安定成長
+■ 日銀短観：企業マインド改善
+製造業DI：2年ぶり高水準
+
+![図](https://assets.st-note.com/img/1784586131-qyR3ea6GlA8xZMQhDuwj19Cd.png)
+
+※用語解説
+DI（景況感指数）：企業の景気判断
+改善分野：
+鉄鋼・金属
+
+機械
+
+電機（AI関連）
+
+■ 先行きのポイント
+地政学リスク低下
+
+原油価格安定
+
+👉 事業環境は改善継続
+👉 DI悪化は限定的
+■ IMF見通し
+
+![図](https://assets.st-note.com/img/1784586140-A3WcPoGXhRFdzx7y16DQsmv2.png)
+
+世界成長率：3.0%（引き上げ）
+
+日本：0.5%（引き下げ）
+
+短期的には日本株への影響の可能性あり
+■ 中期の日本株評価
+積極財政
+
+成長投資
+
+内需の強さ
+
+👉 海外投資家の評価は大きく崩れない見通し
+■ 注目セクター
+
+![図](https://assets.st-note.com/img/1784586145-j6slxCTBDQqWa8poOnvR72ZL.png)
+
+▼ 引き続き注目
+半導体
+
+半導体製造装置
+（※ただし期待は織り込み済み）
+
+▼ 新たな注目
+機械（設備投資需要）
+
+銀行（金利上昇メリット）
+
+自動車（調整後の反発余地）
+
+不動産（オフィス需要）
+
+■ 投資スタイルの変化
+NT倍率低下
+
+![図](https://assets.st-note.com/img/1784586150-27hgdMLrxVH0ow9Nzsvu1FGb.png)
+
+※用語解説
+NT倍率：日経平均 ÷ TOPIX（グロース偏重の指標）
+👉 割安株・出遅れ株への資金シフト
+■ ニュース
+
+![図](https://assets.st-note.com/img/1784586156-4FWTnuhcDvrHgqYxe79zIK1U.png)
+
+▼ 安全保障
+中国・ロシア艦艇が日本周辺で共同作戦
+
+日本EEZ内で中国が実弾演習（異例）
+
+![図](https://assets.st-note.com/img/1784586162-7MjWFcombigxCenOJhVtv23K.png)
+
+![図](https://assets.st-note.com/img/1784586167-fjZPpWMYuJdN492yiCgTqe1h.png)
+
+![図](https://assets.st-note.com/img/1784586172-x1LZaP0MdnjQY8byKrB7Twlm.png)
+
+![図](https://assets.st-note.com/img/1784586176-qOQH09moSzDMpUgdhkl8aCrZ.png)
+
+![図](https://assets.st-note.com/img/1784586182-E6C0fyXqhpitBgwFloInaKc7.png)
+
+👉 地政学リスクの新たな火種
+▼ ホンダ
+
+![図](https://assets.st-note.com/img/1784586189-LbOxAi8CrMD5kSQosJ4zp1XK.png)
+
+広州汽車との合弁を2038年まで延長
+
+ただし中国販売は低迷
+
+工場一部停止（年24万台規模）
+
+![図](https://assets.st-note.com/img/1784586193-vptNCH3SnYg1qwA6TGm0LWkF.png)
+
+![図](https://assets.st-note.com/img/1784586197-pB0vg25RArPGwh98tz6WOTnq.png)
+
+▼ EU vs アリババ
+
+![図](https://assets.st-note.com/img/1784586203-i5X38TuDNvae0qnJpsFjBKxk.png)
+
+制裁金：5.5億ユーロ（約1000億円）
+
+デジタルサービス法違反
+
+![図](https://assets.st-note.com/img/1784586207-6piTSeg8nXz2vGOyIdV3RwDL.png)
+
+![図](https://assets.st-note.com/img/1784586213-uYzwxeACfQ3M0hsBr2bEivk5.png)
+
+![図](https://assets.st-note.com/img/1784586218-4YQEje9vmGbH6gdX5PuA3aSD.png)
+
+※過去最大規模
+▼ 外交
+
+![図](https://assets.st-note.com/img/1784586227-QmlyhaiIBHg4Lzn7OoueRxZT.png)
+
+![図](https://assets.st-note.com/img/1784586236-NJ0zRmfcLqbyYiHsotAj9Z41.png)
+
+![図](https://assets.st-note.com/img/1784586243-bhPXqluoj9n16UKBYik0G3gS.png)
+
+ASEAN会合（マニラ）
+
+米中外相会談の可能性
+
+QUAD会合も予定
+
+■ 今日の予定
+
+![図](https://assets.st-note.com/img/1784586256-WXkiQAuOc4xpGD8J1YL5FPoe.png)
+
+ドイツ：景況感指数
+
+アメリカ：GM決算
+
+■ 今日の注目指標：ドイツZEW景況感指数
+
+![図](https://assets.st-note.com/img/1784586261-6um3QInqCBKxAJNdY7bGj0sc.png)
+
+内田さんの解説です。
+本日の注目はドイツのZEW景況感指数です。
+
+![図](https://assets.st-note.com/img/1784586265-6CamrbNltsyVRF8owq7E1QdX.png)
+
+※用語解説
+ZEW景況感指数：エコノミストや機関投資家の期待を反映する景気指標（センチメント指標）
+■ ポイント
+ECB（欧州中央銀行）の金融政策を占う上で重要
+
+市場のセンチメントを最も早く反映
+
+■ 今回のZEWの注意点
+今回の調査期間中に、
+👉 イラン情勢の悪化
+が含まれているため、
+回答に**ノイズ（不確実性）**が含まれる可能性
+
+■ シナリオ分岐
+地政学リスク収束期待 → 楽観的な結果
+
+原油高警戒 → 指数下押し
+
+👉 単独では判断が難しい局面
+■ IFOとのセット分析が重要
+来週27日にはIFO景況感指数が発表されます。
+※用語解説
+IFO景況感指数：約9000社への調査に基づく実体経済寄りの指標
+■ 見方
+ZEW ＋ IFO ともに強い
+→ 期待と実態が一致＝回復確認
+
+ZEW強い ＋ IFO弱い
+→ 期待先行＝不透明継続
+
+👉 「期待」と「実態」をセットで見る必要
+■ 決算シーズン本格化
+
+![図](https://assets.st-note.com/img/1784586294-BOCqkULv1EzV0ADMSQ4PxXdg.png)
+
+今週は決算発表が相次ぎます。
+■ 注目ポイント
+米国：ハイパースケーラー（※）の決算
+
+日本：4〜6月期決算（後半から本格化）
+
+※用語解説
+ハイパースケーラー：大規模データセンターを運営するIT大手（例：Microsoft、Amazonなど）
+■ 日本企業の業績見通し
+2026年度：経常利益 +3.6%
+
+増益企業割合：65.7%
+
+👉 全体として増益基調
+■ 決算の3つのチェックポイント
+
+![図](https://assets.st-note.com/img/1784586309-v7RG1SoQCJpHmPBDYMI6FciA.png)
+
+① 為替前提と実勢の差
+→ 想定より円安なら上振れ要因
+② コスト吸収力
+人件費
+
+原材料費
+
+物流費
+
+→ 値上げ・生産性改善で吸収できるか
+③ AI投資の波及効果
+→ 半導体だけでなく
+電力機器
+
+設備
+
+電子部品
+
+への広がり
+■ 外需株・内需株の見方
+外需株：
+→ 海外需要＋為替感応度
+
+内需株：
+→ 価格転嫁＋販売数量
+
+👉 「売れる力」と「価格転嫁力」が鍵
+■ AI半導体下落後の市場の視点
+先週は日米ともにAI半導体株に売りが広がりました。
+その中でマーケットが注目するのは、
+利益成長率
+
+通期計画に対する進捗率
+
+👉 第1四半期決算では特に重要な評価軸
+■ NY株式市場（再確認）
+20日のニューヨーク株式市場です。主要3指数は揃って3日続落となりました。
+
+![図](https://assets.st-note.com/img/1784586315-6HOjxZL2RFftyAw58vKsnTuQ.png)
+
+ダウ：51,839ドル（▲307ドル）
+
+ナスダック：25,508（▲12ポイント）
+
+S&P500：7,443（▲14ポイント）
+
+■ 注目銘柄：Appleの独歩高
+
+![図](https://assets.st-note.com/img/1784586320-EM1F3mGQlwInJbsR7p8kOdW9.png)
+
+再び米国みずほ証券の兼松氏の解説です。
+7月の株価動向を見ると、
+
+![図](https://assets.st-note.com/img/1784586324-7xohkI8T6auAErwDFziWmNUP.png)
+
+S&P500、NASDAQ100：月初来で下落
+
+Apple：+約13%上昇
+
+👉 連日のように史上最高値を更新
+■ Apple上昇の背景：個人向けAI戦略
+Appleの強みは、
+👉 一般消費者向けAI市場の主導権
+これまでのAIは、
+Microsoft「Copilot」など
+→ 法人向け中心
+
+一方Appleは、
+約25億台の端末基盤
+
+👉 圧倒的なユーザー接点
+■ 収益化モデルの強み
+多くの企業が課題とする「AIのマネタイズ」に対し、
+Appleはすでに
+App Store（アプリ流通基盤）
+
+を保有
+■ ビジネスモデル
+開発：外部企業
+
+販売：App Store
+
+Apple：手数料収益
+
+👉 低リスクで収益化可能
+■ もう一つの評価ポイント：投資抑制戦略
+ハイテク各社がAI投資を拡大する中、
+
+![図](https://assets.st-note.com/img/1784586360-d0D1HS4v9yuJcVUE6TP3mfKr.png)
+
+Appleは
+大規模データセンター投資なし
+
+自社AIモデル開発も限定的
+
+👉 設備投資を抑制
+これが
+過剰投資懸念の回避
+→ 投資家から高評価
+
+■ リスク要因
+一方で懸念も存在します。
+■ 主なリスク
+Siri AI・新型iPhoneの投入遅れ
+
+半導体メモリ価格の上昇
+
+👉 影響
+iPhone価格上昇
+または
+
+利益率圧迫
+
+■ 今後の焦点
+👉 今月末の決算
+AI戦略の具体化
+
+新製品スケジュール
+
+→ 重要な手がかりに
+■ マーケット概況（再掲）
+
+![図](https://assets.st-note.com/img/1784586712-L04VMxGQHZXJs5cEev1fwpYy.png)
+
+為替
+ドル円：162円47銭〜54銭
+
+債券
+
+![図](https://assets.st-note.com/img/1784586715-LODSqVaRl6PJXBeImug4AZsF.png)
+
+米10年債：4.594%
+
+米2年債：4.211%
+
+👉 金利は上昇
+商品
+
+![図](https://assets.st-note.com/img/1784586720-QAGdE02tpyJWMumxIf3rBqNi.png)
+
+原油：一時85ドル台 → 停戦報道で上げ幅縮小
+
+金：反落
+
+以上、マーケットの動きをお伝えしました。
+■ 次の注目テーマ
+この後は「プロの目」です。
+👉 AI株に一服感が見られる中、
+👉 次の主役は銀行株
+モルガン・スタンレーMUFG証券 中澤さんの解説に続きます。
+■ プロの目
+
+![図](https://assets.st-note.com/img/1784586726-YecUpLXo5dlFxGJMy0fEBnPA.png)
+
+![図](https://assets.st-note.com/img/1784586739-FdGHqSIrN0pcZW2meO3y57Ql.png)
+
+「AI相場は夏休み、次の主役は銀行株か」
+モルガン・スタンレーMUFG証券 中澤氏の解説です。
+■ AI vs 非AI：二極化はいつまで続くか
+現在の株式市場は、
+👉 AI関連 vs 非AI（ノンAI）
+という二極化が鮮明です。
+中澤氏がシンガポール・香港の機関投資家と面談した際にも、
+「このナローマーケット（※）はいつまで続くのか」
+
+という質問が最も多かったといいます。
+※用語解説
+ナローマーケット：一部の銘柄・テーマに資金が集中する相場
+■ 背景：AI企業の業績修正がピーク圏
+背景にあるのは、
+👉 AI企業の業績上方修正の勢いが歴史的高水準
+であることです。
+4月以降のAI相場
+→ 業績修正の強さが主因
+
+ただし現在は、
+👉 ピークアウト懸念
+が意識されています。
+■ 市場の変化：期待値のハードル上昇
+今後の焦点は、
+ハイパースケーラーの設備投資
+
+業績ガイダンス
+
+ですが、
+■ 足元の変化
+好決算でも株価反応が限定的
+
+設備投資拡大でも反応鈍化
+
+👉 市場の期待値がすでに高い
+つまり、
+「良い決算」は織り込み済み
+
+■ AI株の評価：リスクリワード低下
+この結果、
+👉 AI株のリスクリワードが低下
+※用語解説
+リスクリワード：リスクに対する期待リターン
+■ 次の資金シフト先
+焦点は、
+
+![図](https://assets.st-note.com/img/1784586777-kRS30GEPbu8LnpYwXlv6TNDF.png)
+
+👉 AI → 非AIへの資金シフト
+
+![図](https://assets.st-note.com/img/1784586804-WtKekT0x9lXs8fyuIciwFp5Y.png)
+
+■ 注目分野（内需系）
+ゲーム・コンテンツ（IP）
+
+システムインテグレーター
+
+医療機器
+
+食品
+
+小売
+
+👉 共通点
+低ベータ
+
+低ボラティリティ
+
+※用語解説
+ベータ：市場全体に対する値動きの大きさ
+■ 投資スタンスの変化
+重要なのは、
+👉 AIを否定するのではなく
+業績で裏付けられる銘柄
+vs
+
+テーマだけの銘柄
+
+👉 選別が重要な局面
+■ 銀行株が注目される理由
+今回のテーマである銀行株についてです。
+アジア投資家の間でも、
+👉 銀行セクターへの関心が上昇
+■ 背景①：財政懸念
+日本では、
+財政規律への懸念が強まっている
+
+歳出削減策も、
+実効性には時間が必要
+
+👉 財政リスクプレミアムが残存
+■ 背景②：イールドカーブの変化
+
+![図](https://assets.st-note.com/img/1784586818-QNAf0rcCGvIVHxXLYw34z9sD.png)
+
+結果として、
+👉 イールドカーブのスティープ化
+※用語解説
+スティープ化：長期金利 − 短期金利の差が拡大
+■ 背景③：日銀の政策圧力
+さらに、
+円安進行
+
+金利上昇
+
+が重なると、
+👉 日銀が後手（ビハインド・ザ・カーブ）
+※用語解説
+ビハインド・ザ・カーブ：金融政策が物価上昇に追いついていない状態
+→ 追加利上げ圧力
+■ 銀行株への波及
+
+![図](https://assets.st-note.com/img/1784586939-wofTFRbaUlJ2EAXS06YWvzhq.png)
+
+👉 利上げ観測の高まり
+→ 銀行株に追い風
+■ 銀行株の上値余地
+ただし注意点もあります。
+ターミナルレート（※）はすでに約2%織り込み
+
+※用語解説
+ターミナルレート：利上げの最終到達点
+👉 大幅な上振れ余地は限定的
+→ 中長期では中立（イコールウェイト）
+■ 短期的なシナリオ
+一方で短期では、
+財政懸念の拡大
+
+円安進行
+
+👉 利上げペース加速観測
+→ 銀行株が先行して上昇する可能性
+さらに、
+👉 AI株のヘッジとしての銀行株
+という見方も強まっています。
+■ 日本株の現在地：重要な分岐点
+現在の市場は、
+👉 2つのテーマが交錯
+
+![図](https://assets.st-note.com/img/1784586948-AVHEtF6xdBK41MzN7Jq8kpWO.png)
+
+AI相場の持続性
+
+財政・金融政策
+
+■ 投資戦略
+▼ AI株
+業績成長が続く限り上昇余地あり
+
+ただし期待はすでに高い
+
+👉 銘柄選別が重要
+▼ 非AI・銀行株
+内需株の出遅れ修正
+
+銀行株は短期テーマ
+
+■ 結論：バランス重視のポートフォリオ
+👉 AI一辺倒ではなく
+内需株
+
+銀行株
+
+も含めた
+👉 分散・バランス型の投資戦略が有効
+以上、「プロの目」でした。
+下記より画像を一括貼り付けさせて頂きます🙇‍♂️
+
+![図](https://assets.st-note.com/img/1784587007-KjmXb0s6ATGE1LOgpQ8HJfyt.png)
+
+![図](https://assets.st-note.com/img/1784587007-K8BLjGpTaMwAWNJF3X7Piq4D.png)
+
+![図](https://assets.st-note.com/img/1784587007-e1cFgGE5ZoQSh4wAyWMY0CIt.png)
+
+![図](https://assets.st-note.com/img/1784587007-vtZ1aPSAwi9rpCgxkfIQeXbG.png)
+
+![図](https://assets.st-note.com/img/1784587007-ZiYJsruxSjUEaoFybhA7p36z.png)
+
+![図](https://assets.st-note.com/img/1784587007-QkdL90Om71XUCveE5J8Iicst.png)
+
+![図](https://assets.st-note.com/img/1784587007-nKiEBeyHlQgVC7Zt5hqFxPJ6.png)
+
+![図](https://assets.st-note.com/img/1784587007-nGef6swE8IlSiuzWMagjYyxN.png)
+
+![図](https://assets.st-note.com/img/1784587008-TkSADPvoip6x0HQOwqIdebyZ.png)
+
+![図](https://assets.st-note.com/img/1784587008-LQSEPbTHd7vkXAzInJY26Dgf.png)
+
+![図](https://assets.st-note.com/img/1784587008-IJ3V478TXrjq6uW1BERo9Y5a.png)
+
+![図](https://assets.st-note.com/img/1784587008-vg3MGaZfp5P9UW4InJmcAD6r.png)
+
+![図](https://assets.st-note.com/img/1784587008-iQO7DBudJZRAxMpv0XIbzGgY.png)
+
+![図](https://assets.st-note.com/img/1784587008-ae5WpJjUxnvwcTfYZySI8s7K.png)
+
+![図](https://assets.st-note.com/img/1784587008-YviV9xCZrP5zoRu43kjhEwlW.png)
+
+![図](https://assets.st-note.com/img/1784587008-vD82GXRUL1FtIuCJlTsVhYE9.png)
+
+![図](https://assets.st-note.com/img/1784587008-5MRBYwrokeqvnyV2NL8HjAx3.png)
+
+![図](https://assets.st-note.com/img/1784587008-V1oxJRvtFOwMk2SUCidfru6W.png)
+
+![図](https://assets.st-note.com/img/1784587008-gJpYlRmW2QDyFcAdTqwvxuBf.png)
+
+![図](https://assets.st-note.com/img/1784587008-wAEeFHzqWyr8kiQJgKD7ftO1.png)
+
+![図](https://assets.st-note.com/img/1784587009-2wbqI3B4GO87MCJfdYVhjTF1.png)
+
+![図](https://assets.st-note.com/img/1784587009-PAuNfJ6U2T5cFp37VgSBeGwm.png)
+
+![図](https://assets.st-note.com/img/1784587009-zAaM5YQX80Wp7ibGeUqVS3kK.png)
+
+![図](https://assets.st-note.com/img/1784587009-JHxP38cdDRl2TYr0zwutCanG.png)
+
+![図](https://assets.st-note.com/img/1784587009-mMV6clNyznZGUTw3fJCQ71h4.png)
+
+![図](https://assets.st-note.com/img/1784587009-hUflNcRLCkVjY8WxOXAbi3md.png)
+
+![図](https://assets.st-note.com/img/1784587009-Ez6NbS8VnKHGu4v35sTwJgDL.png)
+
+![図](https://assets.st-note.com/img/1784587009-08AbTMyurKvVg67xzO9FSLZI.png)
+
+![図](https://assets.st-note.com/img/1784587009-MH3bFUi5G7T1CSPNZjEcsvfK.png)
+
+![図](https://assets.st-note.com/img/1784587009-vb3cd04NYhQrqTsx1gyAeinL.png)
+
+![図](https://assets.st-note.com/img/1784587009-APVRoUNbY6BEMOGv1wuWj9gz.png)
+
+![図](https://assets.st-note.com/img/1784587010-wJM2OrHAIKFYLa1cT3hxVqDC.png)
+
+![図](https://assets.st-note.com/img/1784587010-gj3rCBZfRbnQPY5ixEa2pUSI.png)
+
+![図](https://assets.st-note.com/img/1784587010-gelqom9TP5IcxJ4AvLRnk0dY.png)
+
+![図](https://assets.st-note.com/img/1784587010-Gcd7b01j58NIpCaeDswSuVTy.png)
+
+![図](https://assets.st-note.com/img/1784587010-6tyiBU2ocd74M0SFCZalHKbs.png)
+
+![図](https://assets.st-note.com/img/1784587010-QCEeB4nRKyjPS6acftIx1g0G.png)
+
+![図](https://assets.st-note.com/img/1784587010-CxumTpoigRw1yQnASKkLVYqG.png)
+
+![図](https://assets.st-note.com/img/1784587010-DYbik0vQKTNh4wJ6Ce5slLB7.png)
+
+![図](https://assets.st-note.com/img/1784587010-0kNtwzOGxR79Ay84L1BPKfEF.png)
+
+![図](https://assets.st-note.com/img/1784587011-NmnD815xPtMaIvECJijerTQu.png)
+
+![図](https://assets.st-note.com/img/1784587011-LvVQYmZa6FcHbpUqCN5Of27X.png)
+
+![図](https://assets.st-note.com/img/1784587011-5Gjnmbty7p9XzY4fhWaQCrvT.png)
+
+![図](https://assets.st-note.com/img/1784587011-0ysKlDMwqIAWgLFrCihb6NGk.png)
+
+![図](https://assets.st-note.com/img/1784587012-0BrvEO1NmgCWwicfR8dYZIoj.png)
+
+![図](https://assets.st-note.com/img/1784587012-TlHFvkMp1OR3LVAcn6YyQCUm.png)
+
+![図](https://assets.st-note.com/img/1784587012-IyZLevSupRGVhoXYQ4xk72tF.png)
+
+![図](https://assets.st-note.com/img/1784587012-wGXNh1YlB6bsc9q0iMIVpfRS.png)
+
+![図](https://assets.st-note.com/img/1784587012-w0WkHLr6xzPoQAR4X7uUF2sD.png)
+
+![図](https://assets.st-note.com/img/1784587012-4WbsSe27GcUTw0nDPhg1Cl63.png)
+
+![図](https://assets.st-note.com/img/1784587012-ZxGRiJSdrO07a4umX5UfVhMv.png)
+
+![図](https://assets.st-n
+
+（長文のため切り詰め / truncated）
+
+---
+
+### [フィジカルAI時代の製造業：AIと人の心](https://note.com/vast_echium53/n/nf308594e318a)
+
+- ソース / Source: note · ハッシュタグ「フィジカルAI」 · 2026.07.21
+
+![見出し画像](https://assets.st-note.com/production/uploads/images/295733691/rectangle_large_type_2_1eaa43d7d6d1a40d01751d06ec20340e.png?width=800)
+
+「AIさえ導入すれば、今の現場のすべてが劇的に変わる――そう信じていませんか？」
+もし、そう答えるなら、少しだけ立ち止まってほしい。
+今、エヌビディアと日本の名だたるメーカーたちの連携ニュースが業界を駆け巡っている。
+
+NVIDIAファンCEOが日本企業との提携発表「次の産業革命はメイド・イン・ジャパンに」
+
+米NVIDIA（エヌビディア）は16日、日本の産業界との人工知能（AI）およびロボティクス分野における大規模な協業を一斉に
+
+www.sbbit.jp
+
+個人的な解釈でいうと、
+どれだけ賢いAIでも、これまで物理世界は『異次元』で距離感がありすぎた。しかし、今回の連携という架け橋を得たことで、AIという『仮想の頭脳』が、工場のロボットという『身体』を直接制御する……そんなSFのような現実が、いよいよ実装フェーズに入りそう」
+ちょっとかっちょ良すぎる表現かw
+
+元エンジニアとして、この技術的跳躍には素直に興奮する。
+けれど、コンサルとして現場を歩く私は、いつも少しだけ胸が痛むのだ。
+「AIを入れればなんとかなる」
+そんな魔法の杖を握りしめて、現場の人間が最も大切にしている「泥臭い対話」を捨てようとしているプロジェクトを、これまで何度も見てきたからだ。
+「あぁ、また技術だけが先走って、人の心が置き去りにされている」
+そう独り言ちては、深いため息をつく夜がある。技術の進化は止まらない。だが、その進化の速度に、現場の人間は本当についていけているだろうか。そして、何より――あなた自身の「感情」は、その変革の中で置き去りになっていないだろうか。
+シーズとニーズ、その「深すぎる溝」
+今、多くの製造業が、この技術をどう現場に「実装」するかで頭を抱えているはずだ。
+技術起点（シーズ）で言えば、AIは無限の可能性を持っている。だが、顧客や市場の課題（ニーズ）起点で見たとき、そのAIは本当に「今の現場」の救いになっているだろうか。
+目的が曖昧なまま、「とりあえずAIを入れよう」と上から降ってくるプロジェクトを何度も見てきた。AIは万能ではない。それは、現場の文脈（コンテキスト）を理解していない、純粋無垢な「超高性能な新人」に過ぎないのだから。
+我々がやるべきは、AIというエンジンに、現場が長年培ってきた「泥臭い暗黙知」という名の燃料を、いかに丁寧に流し込むか。その設計図を描くことこそが、今、PMに求められている真のスキルなんやと思う。
+感情に寄り添うAIという未来
+私が今、密かに期待しているのは、フィジカルAIが「物理作業の自動化」以上の役割を果たす未来だ。
+例えば、設計に没頭しすぎて視野が狭くなったとき。 あるいは、プロジェクトの舵取りに孤独を感じているとき。 そんなとき、AIがただの計算機ではなく、「感情の伴走者」になってくれたらどうだろう。
+「今のあなたの設計、少し詰め込みすぎじゃないですか？一度、深呼吸して外の空気吸ってきませんか」
+そんなふうに、私のHSP的な違和感や、張り詰めた思考を察して声をかけてくれる。
+そんな「寄り添い型のAI」が隣にいたら、きっともっと、人間はクリエイティブになれるはずだ。
+AIは冷徹である必要はない。
+これからの製造業の現場には、むしろ「優しさという名の解像度」を持ったAIが必要なんだと、私は思う。
+明日から現場で何を変えるか
+今週、自社のプロジェクトを見渡してみてほしい。
+導入しようとしているAIは、現場の誰の、どんな感情を救うものだろうか。
+単なる「効率化」という言葉に逃げず、「現場の温度」をデータに落とし込む。そんな泥臭い対話の積み重ねこそが、フィジカルAIという魔法を、自社の「武器」へと変える唯一の攻略法な気がする。
+「さあ、まずは明日、現場の誰かと、技術の話じゃなくて、仕事の『悩み』を話すことから始めてみようかな」
+技術がどれだけ進化しても、最後に現場を動かすのは、人間同士の信頼と、確かな対話だから。
+今週も、一歩ずつ。
+
+---
+
+### [トヨタ欧州、Uber向けにハイブリッド車も提供](https://note.com/china_case/n/n24dc811c7fbb)
+
+- ソース / Source: note · ハッシュタグ「フィジカルAI」 · 2026.07.21
+
+![見出し画像](https://assets.st-note.com/production/uploads/images/296171408/rectangle_large_type_2_4f3f7f55cc489e392a34b9130a6aa331.png?width=800)
+
+©CHINA CASE
+今日の結論
+今日の主役は、EV販売そのものではなく「地域ごとの稼ぎ方」だった。北米では米加関税と労使交渉がサプライチェーンの不確実性を高め、欧州ではToyotaがUber向けにハイブリッドも含む現実的な電動化導線を広げる。StellantisはRamとJeepの新トップを置き、北米の利益エンジンを立て直そうとしている。自動車業界は、技術よりも運営力が問われる局面に入っている。
+1. 米加関税、北米自動車の前提を揺らす
+APは、米国がカナダ製品に50%関税を課す方針を発表したと報じた。対象や例外はあるものの、自動車、アルコール、乳製品などをめぐる摩擦が背景にある。(AP)
+自動車にとって重いのは、カナダと米国の対立が「完成車」だけでなく、エンジン、部品、素材、工場投資の判断に波及することだ。北米自動車産業は、米国・カナダ・メキシコを一体の生産圏として組んできた。関税やUSMCA再交渉が不安定になるほど、各社はどこで何を作るかを再計算せざるを得ない。
+2. Fordカナダ労使合意は、防衛的な投資の意味を持つ
+Uniforは、Fordカナダの労働者が新しい3年契約を批准したと発表した。賃上げ、雇用安定策、Oakvilleの復職導線、Windsor関連への投資などが含まれる。(Unifor)
+このニュースは、単なる労使合意ではない。北米の貿易ルールが揺れるなかで、Fordはカナダ拠点を完全に切るのではなく、エンジンや大型車関連の生産基盤として残す判断をしている。EV一辺倒ではなく、Super Dutyやエンジン系を含めて利益の出る北米商品を守る動きだ。
+3. ToyotaとUber、欧州で“BEVだけではない電動化”を広げる
+Toyota Motor EuropeとUberは、欧州のUberドライバー向けに低排出・ゼロ排出車へのアクセスを広げる提携を発表した。対象はBEVだけでなく、ハイブリッド、Toyota/Lexusの認定中古車、リース、保険、金融サービスまで含む。7月から欧州10カ国で始まる。(Toyota Europe)
+これはToyotaらしい現実路線だ。都市部のライドヘイリングは走行距離が長く、排出削減効果も大きい。一方で、ドライバーにとっては車両価格、充電環境、稼働時間が死活問題になる。Toyotaは「全員をBEVへ」ではなく、ハイブリッドも含めた複数経路で業務車両の電動化を取りに行っている。
+今日の小さな変化
+StellantisはRamとJeepの新CEOを発表した。Matt VanDyke氏がRam、Branden Coté氏がJeepを率いる。(Stellantis) RamとJeepは同社の北米収益に直結するブランドであり、人事は単なる組織変更ではなく、北米立て直しのシグナルとして読むべきだ。
+今日の読み筋
+7月21日版のキーワードは「地域ごとの再設計」です。北米では関税と労使合意が生産配置を揺らし、欧州ではToyotaがハイブリッドも含めた実用的な電動化を進め、Stellantisは利益ブランドの再建に動く。
+今日のニュースから見えるのは、自動車業界が「EVを何台売ったか」だけでは測れなくなっていることです。関税に耐える供給網、ドライバーが使える電動化、利益を出せるブランド運営。この3つを同時に組み直せる会社が、次の数年をしのぎやすくなります。
+#中国
+#自動車
+#モビリティ
+#中国モビリティ
+#中医学的身体観
+#中国モビリティと中医学的身体観
+#電気自動車
+#EV
+#BEV
+#REEV
+#EREV
+#レンジエクステンダーEV
+#プラグインハイブリッド
+#PHEV
+#ハイブリッド
+#HEV
+#ICEV
+#自動運転
+#手放し運転
+#スマートドライビング
+#エンドツーエンド
+#E2E
+#AI運転
+#スマートコックピット
+#スマートラウンジ
+#AIスピーカー
+#AIアシスタント
+#AIエージェント
+#Case
+#スマートカー
+#SDV
+#AIDV
+#AI
+#エンボディドAI
+#フィジカルAI
+#毎日note
+#毎日更新
+#毎日投稿
+#note毎日更新
+
+---
+
+### [トヨタとNVIDIA、工場・ロボットのデジタル化で提携](https://note.com/sdenso/n/nb7abd552d694)
+
+- ソース / Source: note · ハッシュタグ「ロボット」 · 2026.07.21
+
+![見出し画像](https://assets.st-note.com/production/uploads/images/294804172/rectangle_large_type_2_d8914899ddb76c52adb52392569d0a9a.png?width=800)
+
+1. 次世代の「レベル2++」自動運転
+トヨタは、NVIDIA製の車載半導体（DRIVE AGX Orin）に加えて、車載OSである「DriveOS」を新たに採用します。
+「レベル2++」とは： 現在の一般的な自動運転支援（レベル2）を大きく超える、市街地走行も可能な高度な機能を指します。
+
+目的： AIによる高度な状況認識能力を備えつつ、トヨタの厳しい安全基準を満たしたインテリジェントな車を、速やかに市場へ普及させることを目指しています。
+
+責任の所在： あくまでドライバーが最終的な責任を持つ「レベル2」の拡張版であり、安全性を最大限に高めるための技術です。
+
+2. ソフトウェア開発へのAI導入
+膨大かつ複雑になる車のソフトウェア開発を効率化するため、NVIDIAのAI技術を活用します。
+AIコードアシスタント： トヨタ独自の基準や業界の安全規格（MISRA）に準拠したAIが、エンジニアのプログラム作成やレビューを支援します。
+
+効果： 安全性が極めて重要視される車のソフトウェア開発において、より効率的でミスのない検証や開発が可能になります。
+
+3. 「ものづくり」のデジタル化（工場とロボット）
+トヨタの強みである生産現場（TPS：トヨタ生産方式）に、NVIDIAのデジタルツイン技術を導入します。
+仮想空間での検証： 「Omniverse」や「Isaac Sim」という技術を使い、工場全体やロボットの動きを仮想空間（デジタルツイン）でシミュレーションします。
+
+フィジカルAIロボット： シミュレーションで学習した成果を、実際の工場で動くロボット（Isaac OS搭載）に反映させ、より高度な生産体制を構築します。
+
+新工場への反映： 2030年に稼働予定の愛知県豊田市の新車両工場に、これらの最新技術が投入される見込みです。
+
+4. 未来都市「Woven City」での活用
+ウーブン・バイ・トヨタが開発するシステムにも、NVIDIAの最新GPU（H100など）が採用されます。
+AI Vision Engine： 「次に何が起こるか」を予測するマルチモーダルなAIモデルの構築に活用され、実世界の複雑な状況をAIが理解・判断する仕組みを支えます。
+
+今回の提携拡大により、トヨタは「クルマの知能化」だけでなく、その開発プロセスや「つくる現場」、さらには「未来の街づくり」まで、NVIDIAのAI技術を全面的に統合していくことになります
+
+---
+
+### [AI手術ロボット、判断は人、実行はロボット](https://note.com/akiaki_notes/n/nc1bdb04fa315)
+
+- ソース / Source: note · ハッシュタグ「ロボット」 · 2026.07.21
+
+![見出し画像](https://assets.st-note.com/production/uploads/images/296167841/rectangle_large_type_2_89ea984df9f9615d4486e58a7c4ba269.jpg?width=800)
+
+ロボットが手術をした、というニュース
+
+先日、こんなニュースが流れてきました。ヒト型のロボットが、生きた豚の胆嚢を摘出する手術をやってのけた。世界で初めてのことだそうです。カリフォルニア大学サンディエゴ校の研究チームが、7月にNatureに発表しました。
+
+見出しだけ読むと、ついこう思います。「とうとうロボットが手術する時代か」と。
+
+でも、記事を最後まで読むと、少し印象が変わります。このロボットは、自分で判断して切ったわけではありません。離れた場所にいる外科医が遠隔で操作して、その動きをロボットがなぞっただけです。切るか切らないか、どこにどう刃を入れるか。その判断は、ぜんぶ人間の外科医が握ったままでした。緊急時に備えて、外科医は横で待機してもいたそうです。
+
+つまり、ロボットがやったのは「実行」です。判断ではありません。ロボットは、外科医の手と、患者のあいだにある距離を消しただけでした。
+
+これを読んで、私は自分の仕事のことを考えました。
+
+「任せる」という言葉が、ざっくりしすぎている
+
+私はSIerで、システムの設計や開発に関わっています。最近は当たり前のように、AIにコードを書かせたり、構成を考えさせたりします。
+
+そういう話をすると、よく「もうAIに任せてるんですね」と言われます。自分でもそう言います。「この部分はAIに任せた」と。
+
+でも、この「任せる」という言葉、よく考えるとかなりざっくりしています。
+
+さっきの手術ロボットの話が、ちょうど補助線になります。あそこには二つの「任せる」がありました。ロボットに任せたのは、手を動かすこと。外科医が握り続けたのは、どう動かすかを決めること。同じ「任せる」でも、実行を任せるのと、判断を任せるのは、まったく別のことです。
+
+私がAIに「任せている」のも、よく見ると実行のほうです。コードを書く手間。構成案を並べる手間。調べてまとめる手間。そこは任せている。
+
+でも、その出力を採用していいかどうか。それは任せていません。任せられません。
+
+それっぽい構成に、ツッコミを入れる
+
+具体的な話をします。
+
+あるとき、クラウドのシステム構成をAIに考えてもらいました。要件を渡すと、それっぽい構成図がすっと出てきます。使うサービスの選び方も、並びも、パッと見はきれいに整っている。よくできています。
+
+でも、ネットワークの経路まで頭の中でたどってみると、おかしいことに気づきました。その構成だと、あるコンポーネントから別のコンポーネントへの通信が、実際には通らない。経路の設計を踏まえると、成立しない構成でした。
+
+図の上ではつながっているように見える。でも、現場で動かすことを考えると、そこは通らない。だから私は「いや、この経路だとここがダメだよね」とツッコミを入れて、直しました。
+
+ここで大事なのは、AIが間違っていた、という話ではないことです。AIの出したものは、間違っているというより「もっともらしく見えるけれど、現場の文脈を踏まえると使えない」に近い。答えの形はちゃんとしている。でも、それを採用していいかどうかは、別の話です。
+
+そして、その判断はAIのほうからは出てきませんでした。こちらが経路を追って、引っかかって、初めて見つかる。手術ロボットが自分から「この切り方はまずい」と言わないのと、同じです。
+
+実行が速くなるほど、判断の重みが増す
+
+ここまで考えて、ひとつ腑に落ちたことがあります。
+
+AIのおかげで、実行はどんどん速く、安くなっています。コードを書くのも、構成を並べるのも、以前とは比べものにならない速さです。これはありがたい。
+
+でも、実行が速くなればなるほど、判断のほうの重みが、相対的に増していきます。
+
+理由はシンプルです。実行が遅かった頃は、そもそも案を一つ作るだけで時間がかかりました。だから「作る」こと自体に価値があった。今は、案はいくらでも、あっという間に出てきます。そうなると、価値の置きどころが移ります。たくさん出てくる案のうち、どれを採用し、どれを捨てるか。その見極めのほうへ、重心が動きます。
+
+さっきのクラウド構成でいえば、構成図を作ること自体は、もう誰でも一瞬でできる。差がつくのは、その図を見て「経路が通らない」と気づけるかどうか。そこだけです。
+
+だから、判断できる人が最後に残る
+
+AIが仕事を奪う、という話をよく聞きます。半分はそうだと思います。実行だけをやっていた部分は、確かにAIに移っていくでしょう。
+
+でも、もう半分は違うと思っています。判断する仕事は、むしろ価値が上がる。実行がタダ同然になった世界では、判断できる人のところに、大事なところが全部集まってくるからです。
+
+外科医は、ロボットに手を貸してもらっても、外科医であることをやめません。むしろ、一人で複数の手術に関われるようになれば、その判断力はこれまで以上に必要とされます。私たちの仕事も、たぶん同じ方向に動きます。手を動かす部分をAIに渡したぶん、どこがダメかを見抜く目のほうが、これまでより効いてくる。
+
+だから、AIに任せられることが増えても、あまり不安には思っていません。任せているのは実行で、判断は手元に残っている。その判断の精度こそが、これから効いてくる場所だと思うからです。
+
+「AIに任せた」と言うとき。自分が何を任せて、何を手元に残しているのか。そこを分けて見ておくと、やることは案外はっきりします。手を動かすのは、任せていい。どれを選ぶかは、自分で決める。
+
+---
+
+### [猫耳ロボットの夢：嫌われる勇気より自分を守る責任](https://note.com/takeonijibayashi/n/ne703d5f40b24)
+
+- ソース / Source: note · ハッシュタグ「ロボット」 · 2026.07.21
+
+![見出し画像](https://assets.st-note.com/production/uploads/images/296056392/rectangle_large_type_2_757dc429a0aed7b24e7def8811bfe7f6.jpg?width=800)
+
+全国の“イラッとして後悔している人”へ。
+
+おはようございます。
+虹林竹男です。
+
+ある朝。
+
+机の上に、
+見慣れない小さな箱が置いてありました。
+
+「これ、何だろう。」
+
+すると箱の中から、
+小さな猫耳のロボットがひょこっと顔を出しました。
+
+「おはよう、虹林。」
+
+「誰？」
+
+「未来から来た、感情整理型ロボットだよ。」
+
+「今日は君に、いいものを持ってきたよ。」
+
+そう言って取り出したのは、
+
+『イラッとさせるスイッチ〜♪』（何かの効果音）
+
+「……何これ？」
+
+「相手をイラッとさせるための道具。」
+
+「そんなの、絶対いらない。」
+
+私は即座に突き返しました。
+
+猫耳ロボットはニヤリと笑います。
+
+「本当にそう言い切れるかな？」
+
+「君はいつも、相手にイラッとさせられてから苦しんでるよね。」
+
+私は言葉を失いました。
+
+「断れない。」
+
+「頼まれたら断れない。」
+
+「嫌でも笑って引き受ける。」
+
+「そして帰ってから、一人で爆発する。」
+
+全部、図星でした。
+
+猫耳ロボットは静かに言いました。
+
+「勘違いしてる。」
+
+「必要なのは、
+
+イラッとしない強さじゃない。」
+
+「相手にイラッとされる覚悟だよ。」
+
+「……え？」
+
+「はっきり言えばいい。」
+
+「今日は無理です。」
+
+「それは引き受けられません。」
+
+「私はそうは思いません。」
+
+その一言で、
+相手は少しイラッとするかもしれない。
+
+でも、
+
+その一瞬の空気より。
+
+そのあと何時間も、
+何日も続くストレスの方が、
+
+よっぽど重い。
+
+「その場の空気を守るために、
+
+自分を壊すな。」
+
+私は何も言えませんでした。
+
+猫耳ロボットは最後に言いました。
+
+「いいかい？」
+
+「嫌われる勇気じゃない。」
+
+「自分を守る責任だ。」
+
+私はスイッチを箱に戻しました。
+
+どうやら、
+
+必要だったのは道具じゃない。
+
+逃げない覚悟でした。
+
+相手を傷つけるためじゃない。
+
+自分を守るために。
+
+もう、
+
+自分だけが我慢するのはやめます。
+
+必要な時は、
+
+相手にイラッとされる覚悟を持って、
+
+自分の気持ちを伝えます。
+
+……
+
+あ、そうそう。
+
+スイッチは返したはずなんですが、
+
+なぜか今でも、
+ポケットに入っていました。
+
+虹林に会う時は、
+
+どうか優しくしてください（笑）
+
+……という、
+
+今朝見た夢の話です。
+
+---
+
+### [NVIDIA、日本のロボットメーカーと協業で物理AIへ進出](https://note.com/sinjiro/n/n23903b9a6aca)
+
+- ソース / Source: note · ハッシュタグ「ロボティクス」 · 2026.07.21
+
+![見出し画像](https://assets.st-note.com/production/uploads/images/296063928/rectangle_large_type_2_525748eaa34e51c4650e55bda67a6502.png?width=800)
+
+1. 身近な違和感：サイバーの覇者はなぜ、物理的制約に歩み寄ったのか
+日頃からテクノロジーや経済の動向を追っている方であれば、2026年7月中旬の一連の報道に、ある種の不均衡な違和感を覚えたのではないでしょうか。
+AI革命の中心に君臨し、世界の時価総額ランキングを牽引する米NVIDIA。そのジェンスン・フアンCEOが自ら来日し、日本の経済産業大臣と面会しました。そして発表されたのは、富士通を筆頭に、ファナック、安川電機、川崎重工業といった、日本の「伝統的な製造業・ロボット産業」とのPhysical AI分野における協業です。
+NVIDIAはこれまで、クラウド上の計算資源という無制限にスケールするサイバー空間を支配することで爆発的な成長を遂げてきました。物理的な制約を持たないソフトウェアやデータ処理の領域こそが、彼らの主戦場であり、力の源泉です。
+それにもかかわらず、サイバー空間の覇者であるNVIDIAが、自社単独でロボティクス事業を完結させるのではなく、物理的な制約の塊であり、重厚長大産業の代表格とも言える日本のハードウェア企業とわざわざ手を組むという事実。
+一見すると、これは最先端のAI企業が、デジタル化で遅れをとる日本企業に対して「技術を供与してくれている」構図に見えます。我々も無意識のうちに、「AIがハードウェアを支配・進化させる」というトップダウンのヒエラルキーを前提にニュースを消費しがちです。
+しかし、この事象の背後にある力学のベクトルを注意深く観察すると、まったく別の景色が浮かび上がってきます。なぜ、すべてを飲み込むはずのサイバーの巨人が、物理的な「モノ」を作る企業群に直接的なアプローチをかけなければならなかったのでしょうか。
+2. 一般的な説明：国家主導の「AI実装プロジェクト」という表層
+メディアや世間一般によるこのニュースの解釈は、極めて平易で直線的なものです。
+現在、日本の製造業や物流、ヘルスケア現場は、少子高齢化に伴う深刻な労働力不足と熟練技術者の減少という構造的な課題に直面しています。この課題を解決するため、人とロボットが共存・協働する社会の実現を目指し、日本政府（経済産業省やNEDO）が主導して国家的なAIインフラ整備に乗り出した、というのが表面的な見立てです。
+具体的には、政府の支援の下、ソフトバンクやソニーグループなど44社が出資する新会社「Noetra（ノエトラ）」が本格始動しました。ここに対して、AI技術を牽引するNVIDIAが技術と半導体を提供し、富士通や日本のロボットメーカー3社（ファナック、安川電機、川崎重工業）が、製造、小売・物流、ヘルスケアの各領域で社会実装を進めるという構図です。
+つまり、「デジタル化で遅れをとる日本が、国策としてAIの物理実装（Physical AI）に本腰を入れ、NVIDIAがそれに協力してくれた」という、典型的な技術のキャッチアップ・ストーリーとして消費されています。
+3. 説明できない事実：なぜ「未出荷の次世代GPU」を異例の規模で投下するのか
+しかし、この「日本側の課題解決にNVIDIAが協力した」という前提に立つと、説明のつかない決定的な矛盾が生じます。
+NVIDIAのジェンスン・フアンCEOがわざわざ来日して経済産業大臣と面会し、日本のインフラ構築を全面的に支援する姿勢を示した事実は、単なる一企業のトップセールスとしては過剰です。さらに不可解なのは、彼らがNoetraに対して、2026年秋出荷予定の「未出荷の次世代GPU」を2万7500基という異例の規模で提供するという事実です。
+NVIDIAが絶対的な優位性を持つプラットフォーマーであり、日本企業が単なる「顧客」または「技術の実装先」に過ぎないのであれば、世界中のメガテック企業が血眼になって奪い合っている次世代の計算資源を、実際のシステム稼働が2028年となる日本の新設プロジェクトに対して、これほどの規模で優先的に割り当てる合理的な理由がありません。
+資本主義の力学において、圧倒的な力を持つ側が、劣後する側にこれほどまでの貴重なリソースを投下し、自ら歩み寄ることはあり得ないのです。この事実は、「NVIDIAが日本企業を支援している」という一般的な理解だけでは十分に説明できません。むしろ、本稿では「NVIDIA側が物理世界へのアクセス権を必要としている」という構造仮説を提示します。
+4. 新たな構造の提示：ボトルネックの逆転と「物理的インターフェース」の支配
+ここから、事実に基づく構造仮説を提示します。
+この不可解な現象を解き明かす鍵は、「AIの学習に必要なデータはどこにあるのか」という視点にあります。これこそが、読者の皆様の認知を反転させる真の因果関係です。
+これまで、サイバー空間におけるAIの進化は、インターネット上に無尽蔵に存在するテキストや画像データを「スクレイピング（収集）」することで成り立っていました。しかし、Physical AI（物理世界で稼働するAI）を構築しようとした瞬間、AI企業は致命的な壁に直面します。現実世界における「モノの動かし方」や「三次元空間での物理的な相互作用」のデータは、インターネット上には存在しないのです。
+AIはサイバー空間では無限に学習できます。しかし、現実世界に介入しようとした瞬間、物理世界との接点が必要になります。ロボット、センサー、工場、自動車──これらは単なる実装先ではなく、AIが現実へ作用するための「物理インターフェース」です。
+AIの性能が向上するほど、計算能力だけでは競争優位を維持できなくなります。AIが現実世界で価値を生み出すためには、物理世界との接点が不可欠になるからです。その結果、競争の焦点は計算能力そのものから、現実世界へのアクセス権へ移り始めます。技術が進歩し、計算資源が豊富になればなるほど、相対的に「データソース」と「最終的な物理的出力先」の価値が高騰します。
+これが構造の正体です。AIの進化において、かつては「計算能力」がボトルネックでした。しかし現在、そのボトルネックは「物理世界へのアクセス権」へと転移しています。
+NVIDIAが未出荷の次世代GPUを2万7500基もNoetraに提供し、CEO自らが日本のインフラ構築を後押しする姿勢を見せたのは、技術的優位に立つ者の施しではありません。物理空間の覇権を握るための「データ生成装置」としてのハードウェアを、他社に先んじて自社のエコシステムに囲い込むための、極めて切実かつ合理的な資本投下であると考えられます。
+「AIがハードウェアを一方的に支配する」のではありません。Physical AIの時代には、物理世界へのアクセス権を持つ主体が、サイバー空間の覇者にとって不可欠な存在へと変化したのです。
+5. 社会のアルゴリズムの特定：「ボトルネックの物理的転移（The Physical Bottleneck Shift）」
+ここで観察される現象は、AI産業に固有のものではありません。
+本稿で提示する構造仮説は、情報・ネットワーク・ソフトウェアなどの無形資産が成熟したときに繰り返し現れる、より普遍的な力学です。
+本稿では、この力学を**「ボトルネックの物理的転移（The Physical Bottleneck Shift）」**と定義します。
+このアルゴリズムは、次の5段階で進行します。
+① 無形資産が急速に拡大する
+ソフトウェア、AI、ネットワーク、データなどの無形資産は、限界費用が極めて低く、指数関数的に拡張されます。この段階では、情報空間を支配するプレイヤーが市場の主導権を握ります。この時点のボトルネックは「情報空間そのもの」です。
+② 情報空間のボトルネックが解消される
+無形資産が成熟すると、計算能力や情報そのものへのアクセスは急速に拡大します。その結果、「情報を持つこと」だけでは競争優位を維持できなくなります。
+③ ボトルネックが物理世界へ転移する
+AIや情報が現実世界で価値を生み出すためには、工場、ロボット、物流網、車両、発電設備など、物理世界との接点が不可欠になります。
+ここで初めて、システム全体のボトルネックは情報空間から物理空間へ移動します。
+④ 資本が新たなボトルネックへ集中する
+市場参加者は、新たに希少化した物理インターフェースを確保するため、提携・買収・投資を加速させます。
+NVIDIAによる日本企業との協業も、この段階として理解できます。
+⑤ 権力がボトルネックの所有者へ移動する
+市場で最も希少な資源を支配する主体が、新たな交渉力と競争優位を獲得します。
+つまり、権力は情報を保有する主体ではなく、現実世界との接点という新たなボトルネックを支配する主体へ移動するのです。
+NVIDIAによるNoetraへの大規模なGPU供給や、日本のロボットメーカーとの連携は、このアルゴリズムの第④段階として理解できます。
+すなわち、情報空間の覇者であるNVIDIAが、新たなボトルネックとなった物理世界へのアクセス権を確保するために資本を投下している──これが本稿で提示する構造仮説です。
+6. 他分野へのアナロジー：歴史と産業における構造の反復
+本稿では、「情報空間が成熟すると、価値の源泉は現実世界との接点へ移動する」という構造仮説を提示しました。
+この仮説が単なるNVIDIA固有の現象ではないことを確認するため、異なる産業・時代に当てはめて検証してみます。
+検証①　鉄道網と駅前不動産
+19世紀の鉄道黎明期には、線路そのものを保有することが競争優位でした。鉄道会社はネットワークを広げることで市場を支配していきます。
+しかし、鉄道網が全国へ広がるにつれて、競争の焦点は変化しました。
+利用者にとって重要なのは線路ではなく、「どこで乗り降りできるか」です。
+結果として、最も価値を持ったのはネットワークそのものではなく、鉄道と現実社会が接続する駅、そして駅前という物理的インターフェースでした。
+情報やネットワークの価値が拡大した結果、最後に希少化したのは現実世界との接点だったのです。
+検証②　Eコマースと物流網
+Eコマースは、商品情報を無限に並べられる世界を実現しました。
+しかし、どれだけオンライン上で注文を受けても、商品は最終的に現実世界で配送されなければ価値になりません。
+その結果、競争の中心はサイト構築だけではなく、巨大倉庫、配送網、ラストワンマイルへ移りました。
+つまり、デジタル市場が成熟したことで、逆に物流という物理的インターフェースの希少価値が高まったのです。
+Amazonが物流へ莫大な投資を続ける理由も、この構造によって説明できます。
+検証③　自動運転と車両・センサー
+自動運転AIも同様です。
+優れたアルゴリズムだけでは、自動運転は成立しません。
+AIが学習するには、実際の道路環境を走行する車両、周囲を認識するセンサー、そして現実世界で発生する膨大な運転データが必要になります。
+そのため、自動運転企業はソフトウェアだけで競争するのではなく、自動車メーカーや車両保有者との提携を進めています。
+ここでも価値の源泉は、アルゴリズム単体ではなく、現実世界へアクセスできる物理的インターフェースへ移っています。
+検証結果
+三つの事例に共通しているのは、業界ではありません。
+鉄道でも、物流でも、自動運転でもありません。
+共通しているのは、情報やネットワークが十分に発達した後、最終的なボトルネックが「現実世界との接点」へ移動していることです。
+言い換えれば、情報空間の競争が成熟するほど、物理世界へのアクセス権が希少資源となり、そこへ資本と権力が集中します。
+NVIDIAと日本企業の提携も、この構造の延長線上に位置付けることができます。同社が獲得しようとしているのは、日本企業そのものではありません。日本企業が長年蓄積してきた、工場、ロボット、センサー、現場ノウハウといった「物理世界へのアクセス権」です。
+これが、本稿で提示した「ボトルネックの物理的転移」という構造仮説です。
+【総括】
+日本におけるPhysical AIの本格始動を、「AI先進国による技術供与」や「日本企業の巻き返し」といった表層的な物語として捉えるだけでは、この変化の本質は見えてきません。
+本稿で提示した構造仮説は、AI産業だけに当てはまるものではありません。
+情報やソフトウェア、ネットワークといった無形資産が成熟するほど、競争のボトルネックは現実世界との接点へ移動する。そして、その接点を支配する主体へ、資本・技術・人材が集まり始める。この力学こそが、「ボトルネックの物理的転移」という社会のアルゴリズムです。
+NVIDIAが日本企業と連携を深めているのも、単なる販売戦略ではなく、物理世界へのアクセス権を自らのエコシステムへ取り込もうとする動きとして理解できます。
+重要なのは、GPUの性能向上でも、ロボット市場の拡大でもありません。
+本当に観測すべきなのは、「社会のボトルネックが、今どこへ移動しているのか」です。
+権力は、常に最も希少な資源を握る主体へ移動します。
+かつてその資源は情報でした。
+そして現在、その重心は、情報を現実世界へ接続する物理的インターフェースへ移り始めています。
+ニュースが伝えているのは、一つの企業提携です。
+しかし、本稿で観測したのは、それとは別の構造変化です。
+社会のボトルネックは、情報空間から物理世界へ移動し始めています。
+そして、権力は常に、そのボトルネックを支配する主体へ移動します。
+NVIDIAと日本企業の提携は、その構造変化を示す最初のシグナルの一つなのです。
+
+---
+
+### [フィジカルAI関連の高配当株2選](https://note.com/poruka180/n/n6fb5dd81a93f)
+
+- ソース / Source: note · ハッシュタグ「フィジカルAI」 · 2026.07.21
+
+![見出し画像](https://assets.st-note.com/production/uploads/images/296108618/rectangle_large_type_2_599a8c0b79b939090b8b31e53e71a1a4.png?width=800)
+
+「AI関連株でしっかり配当も狙いたいけれど、本命株は買われすぎて利回りが低い…」とお悩みではありませんか？
+​画面の中にとどまらない現実世界のAI「フィジカルAI」は、国策としても巨大な成長が期待される注目のテーマです。
+しかし、代表格の銘柄はすでに株価が高騰し、高配当投資家には手が出しづらいのが現実です。
+​実は、主力事業で手堅く稼ぎつつ、フィジカルAI領域への仕込みを進めている「利回り4%超の穴場銘柄」が存在します。本記事では、成長性と高利回りを総取りできる厳選2銘柄を詳しく解説します！
+
+​【目次】
+1.​次なる巨大波「フィジカルAI」とは？高配当株投資の新しい着眼点
+2.​【銘柄1】ヤマハ発動機（7272）〜二輪・マリンの巨頭が魅せる「AI×ハードウェア」の全貌〜
+​3.ヤマ発の強み：独自思想「人機官能」とロボティクス事業の黒字化
+​4.ヤマ発の業績見通しと抑えておくべきリスク要因
+5​【銘柄2】GMOインターネットグループ（4784）〜GPUクラウド好調＆ロボティクス本格参入〜
+6.​GMOの株価低迷はチャンス？需給悪化の一巡と衝撃の配当方針
+7.​テーマ株投資の本質：本命株高騰時に狙う「割安・高利回り」の仕込み戦略
+
+1. 次なる巨大波「フィジカルAI」とは？高配当株投資の新しい着眼点
+​これまでのAIブームといえば、ChatGPTに代表される生成AIやソフトウェアなど、主に画面上のデジタル領域が中心でした。
+しかし、次に押し寄せる世界的な巨大トレンドこそが、現実の物理世界で稼働する「フィジカルAI」です。
+​フィジカルAIとは、ロボットやマシン自体がAIを搭載し、自律的に状況を判断して動く技術を指します。深刻な人手不足と社会インフラの老朽化に直面する日本にとって、まさに救世主となる技術です。
+政府も「骨太の方針」における重点17分野に掲げ、10兆円規模の投資を推し進める姿勢を見せています。
+​投資対象として魅力的なフィジカルAIですが、株式市場ではすでにファナック（6954）などの代表格が買われ、配当利回りは2%未満まで低下しています。
+​そこで狙い目となるのが、「本業で強固な収益基盤を持ちながら、フィジカルAI領域でも密かに存在感を発揮している高配当株」です。本命株が割高な今こそ、利回り4%以上を確保しながらテーマの波に乗るスマートな戦略が求められています。
+
+2. 【銘柄1】ヤマハ発動機（7272）〜二輪・マリンの巨頭が魅せる「AI×ハードウェア」の全貌〜
+​「フィジカルAI×高配当」の1銘柄目として大本命となるのが、ヤマハ発動機（7272）です。
+​同社は東南アジア向けを中心とした二輪車事業と、世界トップシェアを誇る船外機（マリン事業）の2つを主軸とする世界的な輸送機器メーカーです。
+直近の第1四半期（1〜3月期）決算では、二輪を含むランドモビリティ事業の営業利益が前年同期比1.7倍と非常に力強い回復を見せています。
+​一時期は前期の減配発表が嫌気されて株価が急落する場面もありましたが、現在は業績の急回復に伴い、再び増配期待が高まる再評価局面に入っています。
+​PBR（株価純資産倍率）は1倍前後と株価に過度な割高感はなく、配当利回りは4%を超える高水準を維持しています。主力事業で堅実に稼ぐ安定感と高利回りを備えた、非常に土台のしっかりした銘柄と言えます。
+
+3. ヤマ発の強み：独自思想「人機官能」とロボティクス事業の黒字化
+​単なるバイクメーカーにとどまらないのが、ヤマハ発動機の隠れたすごさです。同社は全売上高の約4.3%をロボティクス事業が占めており、本格的なフィジカルAI銘柄としてのポテンシャルを秘めています。
+
+![図](https://assets.st-note.com/img/1784554975-UZw1X7THpYIJLnjDuqKQM3iF.jpg)
+
+工場自動化（FA）分野では、表面実装機（SMT）や半導体後工程を担うグループ会社を展開するほか、農業用無人ヘリやドローンなど防衛・インフラ支援にも繋がる技術を持っています。
+​同社の真骨頂は、人と機械の一体感を追求する独自開発思想「人機官能（じんきかんのう）」です。この思想にAIを掛け合わせることで、驚くべきイノベーションを生み出しています。
+​自立する二輪車： 転倒してもAIが自律判断して起き上がるモビリティ
+​スマート農業機器： 土壌の水や肥料の不足を自律感知して散布する自動機器
+​ハードウェア製造のノウハウと最先端AIが融合したこれらのプロダクトは、まさにフィジカルAIそのものと言えます。
+
+4. ヤマ発の業績見通しと抑えておくべきリスク要因
+​今後のヤマハ発動機における業績見通しは、全体として明るい材料が揃っています。
+​前期に一過性の損失を出し切ったことで悪材料は出尽くしており、当期純利益は大幅なプラス転換が見込まれています。
+また、懸念されていた過剰在庫の削減が順調に進んでいる点や、会社側が想定する為替レート（1ドル＝155円等）よりも円安基調で推移している点が強い追い風です。
+​一方で、投資家として以下のリスク要因には注意が必要です。
+​原材料コストの高騰： アルミやナフサなど主要資材の価格変動
+​先行投資の負担： ロボティクス事業の拡大に伴う販売管理費の増加
+​高利益率事業の回復速度： 稼ぎ頭である米国向けマリン事業の利益率改善タイミング
+​とはいえ、これらのリスクを織り込んだ上でも利回り4%超のインカムゲイン（配当収入）は魅力的であり、下値を支える強い要素と言えます。
+
+5. 【銘柄2】GMOインターネットグループ（4784）〜GPUクラウド好調＆ロボティクス本格参入〜
+​2銘柄目として注目したいのが、総合IT大手のGMOインターネットグループ（4784）です。
+​同社はドメイン取得やホスティング、ネット広告、ネット金融などを幅広く手掛けており、継続的な収入を生む「ストック型ビジネス」の比率が86%を占める非常に堅固な収益基盤を持っています。
+​近年では、生成AIや自動運転AIの開発環境として需要が爆発している「GPUクラウド」事業が業績を強力に牽引しています。AIインフラ需要の波に乗り、足元の利益は劇的に回復しており、今期は過去最高売上・最高益を更新する勢いです。
+​既存の安定したストック収入にAI領域の爆発力が加わった、極めてハイブリッドな成長企業と言えます。
+
+6. GMOの株価低迷はチャンス？需給悪化の一巡と衝撃の配当方針
+​これほど強力な業績を誇りながら、なぜ同社の株価は一時期低迷していたのでしょうか。
+​その最大の要因は、東証プライム市場の上場維持基準である「流通株式比率」をクリアするために行われた、既存保有株の大規模な売り出しです。業績悪化ではなく、一時的な「需給の悪化」によって株価が押し下げられていたわけです。
+​現在はその売り出し圧力も一巡し、株価500円台という非常に手頃な水準で配当利回り4%超を実現しています。
+​今期の「配当性向100%」という数字はプライム残留を記念した限定的な施策（基本方針65%＋記念配15%など）ですが、本業の稼ぐ力が底上げされているため、インカムゲインを狙う投資家にとって絶好の仕込み時となっています。
+
+7. テーマ株投資の本質：本命株高騰時に狙う「割安・高利回り」の仕込み戦略
+​フィジカルAIのような超大型国策テーマに投資する際、最も避けたいのは「すでに話題になり切って買われ過ぎた本命株」を高値掴みしてしまうことです。
+​中心銘柄は市場の期待が先行して株価が上がりきっており、配当利回りも1〜2%台まで低下していることがほとんどです。これでは万が一テーマの熱冷ましが起きた際、大きな含み損を抱えるリスクが高まります。
+​賢い高配当株投資家が取るべき戦略は、今回ご紹介した2銘柄のように「すでに本業でしっかり稼ぐ基盤があり、配当利回りが4%以上と高く、割安に放置されている銘柄」をあらかじめ仕込んでおくことです。
+​市場の関心が本格化する前から保有しておくことで、高い配当金を受け取りながら株価の上昇をじっくり待つことができます。さらに将来的な業績拡大に伴う増配が狙えれば、買付価格に対する利回り（YOC：Yield on Cost）を飛躍的に高めることが可能です。
+
+​まとめ
+​フィジカルAIは国策の超巨大テーマ： 画面内から「現実世界（ロボティクス・自動化）」へとAIの波がシフト。
+​本命株は利回りが低い： ファナックなどは買われ過ぎており、高配当投資には不向き。
+​狙い目は穴場の高利回り2銘柄：
+​・ヤマハ発動機（7272）： 本業急回復×「人機官能」思想によるAI実装で利回り4%超。
+​・GMOインターネットグループ（4784）： GPUクラウド急成長×一時的需給悪化の一巡で利回り4%超＆配当性向100%施策。
+​割安期の仕込みが勝負の分かれ目： テーマが本格化する前に仕込むことで、高い配当を得つつ将来的な株価上昇・YOC（買付価格に対する利回り）向上を狙う。
+​​💡 あなたの「目指す投資スタイル」に合わせて、さらに知識を深めませんか？
+​今回ご紹介したフィジカルAI銘柄のように、「まだ市場が本格的に気づいていないタイミングで仕込む」という考え方は、あらゆる株式投資において最強の武器になります。
+​ご自身の投資目標やライフプランに合わせて、ぜひこちらの解説記事も併せてチェックしてみてください。
+​🚀 【ハイリターン狙い】テンバガー（10倍株）の原石を探すなら
+​今回のような大型テーマの「周辺」からさらに一歩踏み込み、時価総額の小さい小型株に着目することで、数年で資産を劇的に伸ばすチャンスが生まれます。
+​👉 [関連記事] 誰も追っていない「未来の主役」を発掘！小型成長株で資産を跳ね上げるスクリーニング術
+
+​🏛️ 【堅実派】再現性を高く「資産1億円」の壁を突破したいなら
+​高配当株のインカムゲインと、成長株のキャピタルゲインをどう組み合わせるか。無理なリスクを取らずに資産1億円へと到達するためのロードマップをまとめています。
+​👉 [関連記事] 毎月コツコツ積立＋アルファで目指す！現実的な「資産1億円達成」のポートフォリオ構築論
+
+​☕ 【不労所得】給料以外の「月10万円」で配当生活に近づくなら
+​「毎月入ってくる配当金で生活をちょっと豊かにしたい」という方へ。権利確定月を分散させて「毎月不労所得」が入る仕組みを作る具体的な銘柄の組み合わせ方です。
+​👉 [関連記事] 年間配当金を最大化！毎月お小遣いが入る「配当生活」スタートガイド
+
+最後までお読みいただきありがとうございました！
+​「フィジカルAIに興味はあるけれど、高値掴みは避けたい」と考えていた方にとって、今回の2銘柄は非常にバランスの良い選択肢になるはずです。
+​この記事が少しでも参考になった方は、ぜひ「スキ」や「フォロー」をお願いします！
+
+【注意事項】
+本記事は情報提供を目的としており、特定の銘柄の売買を推奨するものではありません。投資判断はご自身の責任において行ってください。また、株式投資には価格変動リスクや元本割れの可能性があります。十分にご理解の上、ご自身の投資方針に沿って判断することが重要です。なお、本記事での情報は執筆時点のものであり、今後の市場環境や制度変更等により内容が変わる可能性があります。
+
+​#株式投資 #高配当株 #フィジカルAI #株式投資初心者 #資産運用 #ヤマハ発動機 #GMOインターネットグループ #日本株
+
+---
+
+### [ヒト型ロボット、工場実装段階へ](https://note.com/top_eagle2024/n/n91142788ad0e)
+
+- ソース / Source: note · ハッシュタグ「ロボット」 · 2026.07.21
+
+![見出し画像](https://assets.st-note.com/production/uploads/images/293658896/rectangle_large_type_2_3e3cacb9a2a10b5add549352fc2b007c.png?width=800)
+
+先週は日中35度を超える暑さが続きました。サラリーマンの服装もTシャツやポロシャツが目立ちました。私もTシャツ出社です。先週の日経新聞まとめ記事になります。
+
+7/6週の気になる記事まとめ(noteマネー)
+❶ 経済、株式市場
+7/14 TOPIX 1000社割れか
+7/14 ホルムズ正常化 遠のく
+7/14 質問数、コロナ前水準に株主総会
+7/15 米消費者物価 3.5%上昇
+7/15 原油高騰、一時81ドル
+7/16 半導体装置市場、今年23%増予測(note)
+7/17 個人株主「配当より成長」
+7/18 米株23時間取引、12月開始
+7/18 日経平均6万5000円割れ(noteマネー)
+7/18 対米コンテナ船 運賃上昇
+7/19 ナフサ不足、スーパー直撃
+
+先週も中東情勢や日経平均の大幅下落の記事が多くありました。原油高によるインフレも生活に影響が続いています。早期の解消が望まれます。
+❷ 自動車、ロボット
+7/14 無人自動運転 全国に通信網
+7/15 VW、追加で5万人削減示唆
+7/17 ヒト型ロボ 実装段階に
+7/17 ツムラ、ヒト型ロボ配備
+
+ヒト型ロボットの記事も増えています。先週、少し前の記事ですが、ヒト型ロボットの家事で活躍するという事を紹介しましたが、工場ではすでに実装段階にあるようです。
+ツムラは2027年度にも製造工場に配備し、夜勤作業の最大7割の削減を目指すとの事です。これから数年内という近い未来にさらに多くのヒト型ロボットが活躍することになりそうです。
+❸ 生活、賃金
+7/16 世帯平均所得 7.3%増
+7/16 改札経由、顔パス経済圏へ
+7/17 夏のボーナス初の100万円台
+7/17 夏ボーナス、業種格差拡大
+
+給与関連の記事が気になりました。厚生労働省が発表した2025年度の世帯平均所得は、前年比7.3%増の575万円になったという事です。伸び率は過去最大という事です。ただし、額としては過去ピークの664万円を下回っていますが、高齢者世帯に限ると336万円、子育て世代は857万円と過去最高になっており、共稼ぎでの収入増加など昔とは違う状況になっているのだと思います。
+なお、同調査では生活が苦しいという回答も55.4%と高くなっていますので、税金や社会保険料の負担の削減などが必要と考えます。
+
+---
+
+### [ハーモニック・ドライブ・システムズ：中国勢の急追に直面](https://note.com/busintemasamo1/n/n9e845c10ddc4)
+
+- ソース / Source: note · ハッシュタグ「ロボット」 · 2026.07.21
+
+![見出し画像](https://d2l930y2yx77uc.cloudfront.net/production/social_images/52f66dbdc98400fd1dd856c8d579ceced72b6de4.png)
+
+バックラッシほぼゼロの波動歯車装置でロボットの精密関節を支える技術のパイオニア。V字回復の決算と新中期経営計画が描く成長シナリオの一方、中国competitor「緑的諧波」の純利益2倍超という急成長が株価の重荷となっています。市場規模・政策・コスト構造の3つの軸から整理してみました。
+■ 足元の数字（2026年7月時点） ・時価総額：約6,900億円 ・26年3月期 売上高：595億円（前年比+7.0%） ・26年3月期 営業利益：25.7億円（前期6百万円からV字回復） ・27年3月期 会社計画：売上高680億円・営業利益62億円（各+14.2%／+141.5%） ・PER（予）：152倍前後 ・アナリスト目標株価平均：6,800円
+01｜市場規模：波動歯車という「発明」から生まれた寡占市場
+ハーモニック・ドライブ・システムズの成長シナリオは、1955年に米国で発明され、1970年に同社が日本で世界初めて商業化した波動歯車装置という基幹技術の独自性に根ざしています。
+波動歯車装置は、高い減速比を実現しながらバックラッシ（歯車間の遊び）がほぼゼロという特徴を持ち、産業用ロボットの「精密関節」向け減速機として世界トップシェアを握っています。ナブテスコが大型・高負荷関節向けで強みを持つのに対し、同社は軽負荷・小型の精密関節向けで補完的な地位を築いてきました。
+2026年は「フィジカルAI元年」とされ、ヒューマノイド市場の立ち上がりが新たな需要層となりつつあります。中国では人型ロボットの生産台数が2026年に10万台を超える見通しです。
+02｜政策：官民投資ロードマップにおける上流サプライヤー
+2026年6月24日に政府が提示したフィジカルAI官民投資ロードマップ（案）は、投資対象として「重要コンポーネントサプライヤーの研究開発・設備投資」を明記しており、精密減速機分野ではハーモニック・ドライブ・システムズとナブテスコが業界内の主要プレイヤーとして位置づけられています。
+03｜コスト構造：V字回復の決算と大幅増益予想
+26年3月期は、産業用ロボットや半導体製造装置向けの需要増加を受けて、営業利益が前期のほぼゼロ水準（6百万円）から25.7億円へ大きくV字回復しました。日本セグメントが売上266億円（+22.5%）、セグメント利益37億円（+66.1%）と大幅増益となり、全社の収益改善を牽引しています。
+一方、純利益は前期比53.7%減。製造設備の減損損失と、急激な受注変動に伴う棚卸資産評価損という特別損失が影響しました。
+27年3月期は売上高680億円（+14.2%）、営業利益62億円（+141.5%）、純利益45億円（+179.7%）と大幅増益を計画。配当も前期の20円から42.1円へ大幅増配を予定しています。
+04｜事業別動向：新中期経営計画がAIロボット・航空宇宙・eモビリティへ重点シフト
+2026年5月13日、2026年度を初年度とする新中期経営計画（2026-2030年度）が決議されました。同計画では、AIロボット、航空・宇宙・防衛、eモビリティの3分野を重点開拓分野に位置づけています。
+減速装置単体だけでなく、モーター・センサー・コントローラを統合した「メカトロニクス製品」も半導体製造装置・FA装置・医療機器・宇宙機器向けに展開し、システム販売への付加価値シフトを進めています。
+05｜リスク要因
+①中国competitor「緑的諧波」の急成長：ヒューマノイド向け需要を追い風に純利益2倍超に拡大。7月3日には競争激化への懸念から株価が反落 ②極めて高いPER水準：150倍超は将来期待を大きく織り込んだバリュエーション ③純利益の急減：減損損失・棚卸資産評価損などの特別損失の影響 ④株価のボラティリティの高さ：年初来高値9,150円・安値3,275円と値幅が非常に大きい ⑤地政学・為替リスク：会社側も27/3期予想の前提として不透明要因を挙げている
+━━━━━━━━━━━━━━ 06｜総括 ━━━━━━━━━━━━━━
+ハーモニック・ドライブ・システムズの成長ストーリーは、波動歯車という発明技術の独自性を土台に、新中期経営計画でAIロボット・航空宇宙・eモビリティへ重点シフトする点に集約されます。26年3月期は営業利益がV字回復し、27年3月期は大幅増益を計画するなど業績モメンタムは強い一方、PERは150倍を超える水準まで買われており、中国競合「緑的諧波」の急成長という具体的な脅威も顕在化しています。次の決算（8月7日発表予定）では、27/3期計画の進捗と中国勢との競争環境の変化に注目したいと思います。
+▼ より詳しい市場規模分析・セグメント別動向・株価バリュエーションの全体像はこちら
+数値・制度・企業リストをすべて収録したHTMLレポートをこちらで公開中です。→ 【完全版はこちら】
+
+※本レポートは公開情報の整理・分析を目的として作成したものであり、特定銘柄の売買を推奨するものではありません。数値は2026年7月時点の公開情報に基づいており、今後の決算・市場動向により変動します。投資判断は必ずご自身の責任において行ってください。
+
+---
+
+### [ハーモニック・ドライブ・システムズ、中国勢の追随に直面](https://note.com/busintemasamo1/n/n9e845c10ddc4)
+
+- ソース / Source: note · ハッシュタグ「フィジカルAI」 · 2026.07.21
+
+![見出し画像](https://d2l930y2yx77uc.cloudfront.net/production/social_images/52f66dbdc98400fd1dd856c8d579ceced72b6de4.png)
+
+バックラッシほぼゼロの波動歯車装置でロボットの精密関節を支える技術のパイオニア。V字回復の決算と新中期経営計画が描く成長シナリオの一方、中国competitor「緑的諧波」の純利益2倍超という急成長が株価の重荷となっています。市場規模・政策・コスト構造の3つの軸から整理してみました。
+■ 足元の数字（2026年7月時点） ・時価総額：約6,900億円 ・26年3月期 売上高：595億円（前年比+7.0%） ・26年3月期 営業利益：25.7億円（前期6百万円からV字回復） ・27年3月期 会社計画：売上高680億円・営業利益62億円（各+14.2%／+141.5%） ・PER（予）：152倍前後 ・アナリスト目標株価平均：6,800円
+01｜市場規模：波動歯車という「発明」から生まれた寡占市場
+ハーモニック・ドライブ・システムズの成長シナリオは、1955年に米国で発明され、1970年に同社が日本で世界初めて商業化した波動歯車装置という基幹技術の独自性に根ざしています。
+波動歯車装置は、高い減速比を実現しながらバックラッシ（歯車間の遊び）がほぼゼロという特徴を持ち、産業用ロボットの「精密関節」向け減速機として世界トップシェアを握っています。ナブテスコが大型・高負荷関節向けで強みを持つのに対し、同社は軽負荷・小型の精密関節向けで補完的な地位を築いてきました。
+2026年は「フィジカルAI元年」とされ、ヒューマノイド市場の立ち上がりが新たな需要層となりつつあります。中国では人型ロボットの生産台数が2026年に10万台を超える見通しです。
+02｜政策：官民投資ロードマップにおける上流サプライヤー
+2026年6月24日に政府が提示したフィジカルAI官民投資ロードマップ（案）は、投資対象として「重要コンポーネントサプライヤーの研究開発・設備投資」を明記しており、精密減速機分野ではハーモニック・ドライブ・システムズとナブテスコが業界内の主要プレイヤーとして位置づけられています。
+03｜コスト構造：V字回復の決算と大幅増益予想
+26年3月期は、産業用ロボットや半導体製造装置向けの需要増加を受けて、営業利益が前期のほぼゼロ水準（6百万円）から25.7億円へ大きくV字回復しました。日本セグメントが売上266億円（+22.5%）、セグメント利益37億円（+66.1%）と大幅増益となり、全社の収益改善を牽引しています。
+一方、純利益は前期比53.7%減。製造設備の減損損失と、急激な受注変動に伴う棚卸資産評価損という特別損失が影響しました。
+27年3月期は売上高680億円（+14.2%）、営業利益62億円（+141.5%）、純利益45億円（+179.7%）と大幅増益を計画。配当も前期の20円から42.1円へ大幅増配を予定しています。
+04｜事業別動向：新中期経営計画がAIロボット・航空宇宙・eモビリティへ重点シフト
+2026年5月13日、2026年度を初年度とする新中期経営計画（2026-2030年度）が決議されました。同計画では、AIロボット、航空・宇宙・防衛、eモビリティの3分野を重点開拓分野に位置づけています。
+減速装置単体だけでなく、モーター・センサー・コントローラを統合した「メカトロニクス製品」も半導体製造装置・FA装置・医療機器・宇宙機器向けに展開し、システム販売への付加価値シフトを進めています。
+05｜リスク要因
+①中国competitor「緑的諧波」の急成長：ヒューマノイド向け需要を追い風に純利益2倍超に拡大。7月3日には競争激化への懸念から株価が反落 ②極めて高いPER水準：150倍超は将来期待を大きく織り込んだバリュエーション ③純利益の急減：減損損失・棚卸資産評価損などの特別損失の影響 ④株価のボラティリティの高さ：年初来高値9,150円・安値3,275円と値幅が非常に大きい ⑤地政学・為替リスク：会社側も27/3期予想の前提として不透明要因を挙げている
+━━━━━━━━━━━━━━ 06｜総括 ━━━━━━━━━━━━━━
+ハーモニック・ドライブ・システムズの成長ストーリーは、波動歯車という発明技術の独自性を土台に、新中期経営計画でAIロボット・航空宇宙・eモビリティへ重点シフトする点に集約されます。26年3月期は営業利益がV字回復し、27年3月期は大幅増益を計画するなど業績モメンタムは強い一方、PERは150倍を超える水準まで買われており、中国競合「緑的諧波」の急成長という具体的な脅威も顕在化しています。次の決算（8月7日発表予定）では、27/3期計画の進捗と中国勢との競争環境の変化に注目したいと思います。
+▼ より詳しい市場規模分析・セグメント別動向・株価バリュエーションの全体像はこちら
+数値・制度・企業リストをすべて収録したHTMLレポートをこちらで公開中です。→ 【完全版はこちら】
+
+※本レポートは公開情報の整理・分析を目的として作成したものであり、特定銘柄の売買を推奨するものではありません。数値は2026年7月時点の公開情報に基づいており、今後の決算・市場動向により変動します。投資判断は必ずご自身の責任において行ってください。
+
+---
+
+### [NVIDIA CEO来日、「フィジカルAI」で日本に期待](https://note.com/chaka689/n/n495a68977eec)
+
+- ソース / Source: note · ハッシュタグ「フィジカルAI」 · 2026.07.21
+
+![見出し画像](https://assets.st-note.com/production/uploads/images/296158755/rectangle_large_type_2_adf7a4e7786640c7fabc51370a39d540.png?width=800)
+
+あなたのクルマも、住む街も、これからAIが"体"を持って動かします。
+「日本の半導体産業を盛り上げよう」
+世界最強の半導体メーカーのトップが、先週、東京・神田の小さな居酒屋でそう言いました。
+半導体材料に10年以上携わり、営業としては3年。
+その現場から、日本の"ワクワクする未来"の話をします。
+この記事でわかること
+
+![図](https://assets.st-note.com/img/1784580955-OgirEh7AwszCVxUTju6aPW8v.png)
+
+早速行ってみましょう！
+第1章｜「フィジカルAI」って何？ AIが"体"を持ち始めた
+
+![図](https://assets.st-note.com/img/1784581090-cTp7kCMgrviSHe0PwuYAdX9b.png)
+
+まず、今いちばんアツいキーワードから。
+フィジカルAIとは、AIが画面の外に出て、現実世界のモノを自律的に動かす技術のことです。クルマ、ロボット、工場、そして街。これまで文章や画像を作っていたAIが、"体"を持って動き始める、と考えてください。
+先週その主役になったのが、NVIDIA（エヌビディア）とトヨタ自動車です。両社は7月16日、フィジカルAIで協業を大きく広げると発表しました。
+目玉は、トヨタの実証都市「ウーブン・シティ」（静岡県裾野市）。
+街の交通を管理するAIを、NVIDIAの技術で開発します。
+実は両社の協業は2017年から。すでにトヨタの車には、NVIDIAの車載半導体が採用されています。今回はそれが、クルマだけでなく、工場・ロボット・街にまで一気に広がりました。
+ここがワクワクするところです。
+これまでのAI競争は、文章を考える「頭脳」の勝負。でもこれからは、現実を動かす「体」の勝負に移ります。そして「体」を作るのは、ものづくりの国・日本がいちばん得意な領域だからです！
+第2章｜NVIDIAの正体：ゲームのチップ屋から「世界の頭脳工場」へ
+
+![図](https://assets.st-note.com/img/1784581144-EGDNHxpj61atr2gb43oK0VwB.png)
+
+「NVIDIAって結局なんの会社なの？」
+そう思っている方も多いはずです。
+NVIDIAが作るGPU（画像処理半導体）は、もともと映像を高速で処理するための半導体で。たくさんの計算を同時にこなすのが得意で、それがAIの計算にぴったりだった。だから今、"AIの頭脳"を世界に供給する会社になっています。
+すごいのは、今回の来日だけで組んだ相手の顔ぶれです。
+トヨタ（クルマ・工場・街）
+
+三菱重工業（AIデータセンターの冷却）
+
+アステラス製薬・第一三共（創薬）
+
+NTTデータ・日立製作所・Sakana AI（AIモデルの活用）
+
+クルマから、工場、薬、データセンターの冷やし方まで。日本の産業インフラそのものに、NVIDIAが一気に食い込んできたわけです。
+第3章｜日本の"本気"：44社連合と国費、でも頭脳はNVIDIA
+
+![図](https://assets.st-note.com/img/1784581161-A40mpTtwaonVWYu2NPHOZqzx.png)
+
+同じ7月16日、もう一つ大きな発表がありました。
+国産AIをつくる企業連合「Noetra（ノエトラ）」の正式発足です。
+顔ぶれが、けた違いです。
+中核はソフトバンク・ソニー・ホンダ・NEC
+
+出資は合計44社。なんと3メガバンクまで参加
+
+国も後押し。報道では最大1兆円規模。
+
+ただし、ここは正確に。初年度（2026年度）は約3,873億円、5年間で最大約1兆円という段階的な支援で、毎年度の審査で継続が決まる見通しです。
+「国が1兆円を出した」と言い切るのは、まだ早い数字です。
+そして、ここが面白いところ。この国産AIの計算基盤に使うのは、NVIDIAの次世代GPU「ルービン」を約2万7,500基。世界最大級のAI計算拠点を、2028年に堺市で立ち上げます。
+つまり、「国産AI」なのに、その頭脳（GPU）はNVIDIA製なんです。
+日本がAIで自立しようとするほど、NVIDIAと深く組むことになる。だからこそ、"いかにうまく組むか"が勝ち筋になります。目標は2030年度、実世界を理解して動く「頭脳」を育てること。壮大な話です。
+第4章｜現場から見えていること
+
+![図](https://assets.st-note.com/img/1784581295-uqWeNhdclA1yiIsTjapYwBnx.png)
+
+ここからは、材料営業の現場から見えていることをお話しします。
+いま起きているのは、壮大なドミノ倒しです。震源地はNVIDIA。そのGPUを実際に作っているのが、台湾のTSMC（世界最強の半導体製造メーカー）。
+AI需要の爆発でメモリーが大量に必要になり、TSMCは設備投資をどんどん増やしている。その先にいる私たち材料サプライヤーへの要求も、一段と高まっています。波及は、驚くほど広いんです。
+商談の空気も変わりました。少し前まで、お客様の第一声は「安くして」。それが今は「分けてくれ」。取り合いになっているんです。
+そして先週、その空気を象徴する出来事がありました。
+ファンCEOが、東京・神田の居酒屋に現れたんです。日本の取引先の幹部と、約2時間。「日本の半導体産業を盛り上げよう」と語ったと報じられています。
+同席したのは、キオクシア、信越化学、味の素、日東紡といった顔ぶれと伝えられています。
+ピンとこないかもしれません。でもこれ、キオクシア以外が半導体の"材料"メーカーなんです。
+メモリー、ウェハ、パッケージの絶縁材、基板の布。GPU作りに欠かせない、縁の下の力持ちばかり。世界の震源地のトップが、完成品メーカーでも装置メーカーでもなく、"材料会社のTop"とも直接一杯やる。ここに、今の時代がぜんぶ出ています。
+しかも印象的なのは、首相とは日程が合わず会えなかったのに、民間のトップとはがっちり握手して帰ったこと。日々の地道な商談ももちろん大事。でも今は、トップ自ら足を運んで一気に案件をまとめる、そういう時代になっています。
+トップ外交の決定力を、痛感しました。
+正直に言うと、半導体メーカー向けの商談で、AI自動運転がらみの具体的な動きは、まだ出ていません。
+でも、来るのは確実です。だからこそ、NVIDIAが今のうちに、ものづくりに強い日本勢と組んでおくのは、極めて妥当な判断だと思います。
+第5章｜これ、遠い話ではありません
+
+![図](https://assets.st-note.com/img/1784581410-TXviMk1UOaboQtfBVRHPyL3F.png)
+
+「壮大すぎて、自分には関係ない」
+そう感じたかもしれません。でも、しっかり効いてきます。
+あなたのクルマ：次世代車がもっと賢く、安全になります。手を放せる運転（レベル2プラス）から、さらに上へ
+
+あなたの街：ウーブン・シティのような"AIが動かす街"の実験は、いずれ全国の交通や防災につながります
+
+あなたの電気代：AI計算拠点は140メガワット級。電力インフラも大きく動きます。AIサービスや次世代車のコストにも効いてきます
+
+あなたの税金：国費が入ります。だからこそ「うまく使えるか」は、他人事ではありません
+
+そして何より。ここで必要になる装置・材料・センサー・ロボットは、日本が世界で戦える分野の塊です。
+日本が主役になれる余地が、とても大きい。
+だから私は、ワクワクしているんです！
+第6章｜今日、ここだけ分かればOK
+長くなったので、一点だけ持ち帰ってください。
+
+![図](https://assets.st-note.com/img/1784581461-F8EDtTXuWO0CbAN7GgnMyvRz.png)
+
+AIは、「頭脳（考える）」の時代から、「体（動く）」の時代へ動き始めた。体を作るのは、ものづくり日本の得意技。震源地NVIDIAと"うまく組めるか"が、これからの分かれ目。
+これだけ頭の片隅にあれば、これからのニュースの見え方が変わります。「フィジカルAI」という言葉が出てきたら、「あ、日本のチャンスの話だ」と思ってください。
+この地殻変動を知って眺めるのと、知らずに見過ごすのとでは、これからの数年の面白さが、まるで変わってきます。
+世界最強のトップが、わざわざ日本の居酒屋まで来た。私はこれを、大きな追い風だと受け止めています。一緒に、ワクワクしながら見ていきましょう！
+もしこの記事が面白いなと感じてくださったら、ぜひ私のアカウントをフォローしてください👇
+@Kohei127_
+
+---
+
+### [画像生成AIとフィジカルAI：描画能力の真価](https://note.com/dr_shijo/n/na2210e886ebf)
+
+- ソース / Source: note · ハッシュタグ「フィジカルAI」 · 2026.07.21
+
+![見出し画像](https://assets.st-note.com/production/uploads/images/296160230/rectangle_large_type_2_d61e23d505125d92ee2c37d67e2a529d.png?width=800)
+
+賢いだけでは、キャンバスに色はのらない。
+どうもみなさんこんにちは。
+ロボットエンジニアの四條です。
+前回まで「シンギュラリティ」というテーマで、AIが自分で自分を賢くしていく話を整理してきました。
+今回からは新しいシリーズとして、「フィジカルAI（Physical AI）」を掘り下げていきます。
+調べてみると、この言葉自体は2025年、NVIDIAのジェンスン・ファン（Jensen Huang）さんがCESの場で「AIの次のフロンティアはフィジカルAIだ」と宣言したことで一気に広まったようです。
+
+CES 2025: AI Advancing at ‘Incredible Pace,’ NVIDIA CEO Says
+
+Jensen Huang unveils NVIDIA Cosmos, Blackwell RTX 50 Series G
+
+blogs.nvidia.com
+
+センサーという五感、AIという脳、アクチュエータという身体を組み合わせ、現実世界を認識・推論・計画し、実際に行動するAIというのが定義とのことです。
+2026年はGartnerの技術トレンドにも選ばれているそうです。
+https://www.gartner.com/en/articles/top-technology-trends-2026
+いろいろ調べていくうちに自分が強く感じたのは、知能の高さと、現実世界で実際に動けることは、まったく別の力だということでした。
+
+考えるだけでは世界は何も変わらない
+画像生成AIにプロンプトを打ち込めば、数秒で一枚の絵が画面に浮かび上がります。
+色使い、構図、筆致まで、驚くほど緻密に「生成」してくれます。
+生成までのプロセスは、プロンプトの読み込みと、その意図の認識、そして認識結果から実際に画像を生成していくというもの。
+文字を見て意図を読み取り実際に答えを出す。
+たしかにこれは考えていると言えるかもしれません。
+でも、それはあくまで画面の中の話です。
+同じ絵を実際のキャンバスに描こうとしたら、どれだけ的確に色や構図を判断できていても、絵の具を含んだ筆がキャンバスに触れない限り、キャンバスは白いままです。
+認識と判断だけでは、現実は何も変わっていません。
+行動が伴って初めて世界に作用する
+実際に筆先がキャンバスに触れ、絵の具がのる。
+その瞬間に初めて、現実世界に作用したことになります。
+これまではこの部分を人間や他の機械が担当してきました。
+しかし今後はこの部分も身体を獲得したAIが担当することになるかもしれません。
+それだけのことを実現できるロボットが登場してきたからです。
+ただし行動には、認識・判断にはなかった難しさがついて回ります。
+絵の具の粘度、筆の毛先の広がり方、キャンバスの目の粗さ。
+シミュレーション上では起きなかった「ノイズ」が、筆を下ろした瞬間には必ず顔を出します。
+そのためこの技術には、多少の誤差や想定外にもへこたれない打たれ強さ（ロバスト性 / Robustness）が求められます。
+現実でいきなり試行錯誤させるにはコストや危険も伴うため、シミュレーションと実機を行き来しながら学習させる工夫（Sim-to-Real）や、人の動きをお手本にする模倣学習（Imitation Learning）も重要になっています。
+ノイズに負けずに行動しきって初めて、一枚の絵を本当に描き切るところまでたどり着くのだと思います。
+知能と行動は、別の力
+フィジカルAIは知能を「考えるもの」から「行為するもの」へと押し広げる存在なのでしょう。
+画像生成AIが一瞬で描いた絵は、たしかに「考える」までは済ませています。
+でも、キャンバスに絵の具をのせて初めて、本当に「描けた」と言えます。（自分はそう言いたい。）
+案として持っているだけで終わらせず、手を動かして実際に形にしてみる。何をつくるにしても、日々そこは大事にしたいところです。
+賢さだけでは、キャンバスに色はのらない。
+そんな当たり前のような事実に、あらためて向き合わされる気がしています。
+考えるだけで終わっていることって意外とありませんか？
+次回は、フィジカルAIのフィジカル部分、「身体」そのものが何でできているのか、アクチュエータの話に進んでいきます。
+ここまで見ていただきありがとうございました。
+また別の記事でお会いしましょう。
+ではでは。
+
+---
+
+### [ロボット刑事アストロレッド、過激な犯人逮捕劇](https://note.com/jhomonshiki/n/n02630b49ed09)
+
+- ソース / Source: note · ハッシュタグ「ロボット」 · 2026.07.21
+
+![見出し画像](https://assets.st-note.com/production/uploads/images/296159510/rectangle_large_type_2_a7060291ab5f5cd8ea7c4f177c8dc273.png?width=800)
+
+ズドロロズドロン　ズ　ズドン！（オープニングテーマ）
+ケイブ　ヤツハ　ギンコウゴウトウヲハタラキマシタ
+ハイジョ　ハイジョ
+待て待てアストロレッド
+排除という言葉は少しばかり過激じゃないか？
+あくまで我々の目的は、奴を捕縛することにある。
+ケイブ　ソンナノハホウベンニスギマセン
+アクジヲハタラクヤカラハ　ユルスマジ　ユルスマジ
+ピピーピピー！
+トクシュTNTカイホウ　ロックオン　ロックオン🤖
+ま！待て！そんな物を撃ったら周辺の地形が変わってしまうぞ！
+アクハハイジョ　アクハハイジョ
+ゼンリョウナルシミンノウラミヲ
+ハラサデオクベキカ
+ハッシャ
+ぶふぉーじゅばばばばばばーん！
+ドカーン！！
+犯人の立てこもる銀行はおろか、周囲の家々の罪のない者たちも含めアストロレッドの特殊TNTの犠牲となった。
+もちろん、警部も姿を消してしまった。
+無敵のアストロレッドだけを残して。
+ケイブ　ケイブ　ドチラヘイカレタノデスカ？
+カエリニバーガーショップニヨリマショウ
+（エンディングテーマ）
+夕日は〜　お前の〜　姿を〜
+うつすか〜
+アストロ〜レッド〜
+今は〜静かに〜　休むがいい〜
+🤖次週！激熱刑事アストロレッド！🤖
+トンネルでライトをつけない輩にTNT！！
+乞うご期待！！
+
+---
+
+### [「ロボット」という言葉が映す私たちの内面](https://note.com/synaptic_whisper/n/n6d5fd1d02b9e)
+
+- ソース / Source: note · ハッシュタグ「ロボット」 · 2026.07.21
+
+![見出し画像](https://assets.st-note.com/production/uploads/images/295077525/rectangle_large_type_2_a24856583e609f3c4623c0f356d88bdd.png?width=800)
+
+病院に巨額の資金で導入される新しい手術支援ロボットから、レストランで愛嬌のある音を響かせながらスープを運ぶ配膳ロボットまで、私たちの日常はさまざまな「ロボット」に囲まれている。
+実態を冷徹に見つめれば、それらは自律的な意思を持たない精密なデバイスに過ぎない。人間の操作を極限まで忠実に再現する巨大なマジックハンドであり、プログラムされたルートを巡回する自動搬送トレイだ。しかし、私たちはそれらを頑なに「ロボット」と呼びたがる。そこには、最先端で知的なイメージをまとわせて付加価値を高めようとする企業の巧妙なマーケティング戦略や、無機質な機械に愛着を持とうとする人間の本能的な親しみやすさが透けて見える。
+面白いのは、この「ロボット」という言葉が、対象を生身の人間へと移した瞬間に、まったく正反対の冷ややかなニュアンスを帯びる点である。
+人に向かって「ロボットのようだ」と言うとき、そこには主体性の欠如や、盲従、あるいは感情の通わない冷酷さへの批判が込められる。機械に対しては「人間のように動く賢さ」を求めてロボットと称賛するのに、人間に対しては「機械のように動く無機質さ」を嫌悪してロボットと揶揄する。言葉の矛先がどこを向いているかによって評価が百八十度反転する現象は、私たちが人間に期待する「温かみ」や「創造性」の裏返しでもあるのだろう。
+だが、このねじれのさらに先には、畏怖を込めてそう呼ばれる人々が存在する。
+世界一の舞台でどれほどの重圧に晒されても決して感情を乱さず、怪我や手術によるブランクさえも肉体のアップグレードの機会に変えて進化し続ける大谷翔平のような規格外のアスリートだ。一分の隙もないそのパフォーマンスは、まさに精密機械や超高性能ロボットを彷彿とさせる。
+しかし、彼らの「ロボット的」な静けさと正確さの底にあるのは、機械のような盲従ではない。自らが掲げた果てしない理想に向かって、肉体と精神、日々の食事から睡眠に至るすべてを執念深くコントロールし尽くすという、極めて人間的で狂気すら孕んだ強い「意志」である。感情を無くしているのではなく、目的のために感情を完璧に手なずけているのだ。
+機械を人間らしく見せるための「ロボット」。
+人間の自律性の欠如を暴くための「ロボット」。
+そして、人間の意志の極限を表現するための「ロボット」。
+一つの言葉がこれほどまでに多様な意味を抱え、時に道具を飾り立て、時に人間を戒め、時に超人的な存在への賛辞となる。ロボットという言葉の揺らぎは、私たちが自らの「知性」や「感情」をどのように定義し、憧れ、恐れているのかを映し出す、最も精巧な鏡なのかもしれない。
+
+---
+
+### [AI半導体とフィジカルAI、日本製造業の課題](https://note.com/it_daytrading/n/n769f2866c3be)
+
+- ソース / Source: note · ハッシュタグ「ロボティクス」 · 2026.07.21
+
+![見出し画像](https://assets.st-note.com/production/uploads/images/296153398/rectangle_large_type_2_5bcf97600e3f9085a137bb3969d6a48c.jpeg?width=800)
+
+概要
+本日07/21のAI/IT関連ニュースは、AI計算の主戦場が学習から推論へ移る動き、AIを工場や建設現場で動かすフィジカルAIの社会実装、そしてデータセンター・電力・通信・法規制を含むAIインフラ競争が大きな柱です。AI半導体ではNVIDIAの汎用GPU一強から、用途別チップやAMD、独自アクセラレーターを含む群雄割拠へ移る兆しが鮮明になりました。一方、日本では製造業の強さを持ちながら、AIサーバー設置規制やフィジカルAIの実装力が弱点として浮上しています。さらに、中国の新型LLM、企業向けAIエージェント、量子暗号通信、サイバー攻撃の自律化も並び、競争軸はモデル性能だけでなく、半導体・電力・現場データ・安全性・運用設計を束ねる総合力へ移っています。
+ポイント
+推論AI×半導体再編：AI利用の拡大に伴い、学習性能だけでなく低コスト・低消費電力の推論処理が競争の中心になります。
+
+日本製造業×フィジカルAI：工場や建設現場の技術力を、AIとロボットの自律制御へ転換できるかが焦点です。
+
+AIサーバー×法規制：高性能GPUを導入できても、電力・冷却・建築規制が整わなければ国内AI基盤は拡大しません。
+
+中国LLM×米中競争：Kimi K3など中国モデルの進化により、米国との差が急速に縮小しているとの警戒が強まっています。
+
+AIエージェント×本番運用：試作段階から、権限管理、監査、障害対応を備えた業務基盤づくりへテーマが移っています。
+
+量子通信×サイバー防衛：量子鍵配送の長距離化とAIによる自律攻撃が同時進行し、次世代の通信防衛が重要になります。
+
+AI/IT関連ニュース10選
+1．AI半導体、推論シフトで一変　NVIDIA一強から群雄割拠へ
+（2026年7月21日 05:00、日経クロステック、期待度10点）
+・IT/AIに関連する理由：生成AIが普及期に入り、計算需要は大規模モデルを作る「学習」だけでなく、日々の問い合わせを処理する「推論」へ広がっています。推論では最高性能だけでなく、処理単価、消費電力、遅延、ソフトウエアとの最適化が重視されるため、NVIDIA以外の半導体にも参入余地が生まれます。AMD、クラウド事業者の独自チップ、推論専用アクセラレーターが競争することで、AI半導体市場の構造そのものが変わる可能性があります。投資テーマとしてはGPU単体ではなく、メモリー、光通信、先端パッケージ、冷却まで含めて見る必要があります。
+・リンク先：日経クロステック https://xtech.nikkei.com/atcl/nxt/column/18/03640/071000003/
+2．中国AI「Kimi K3」が衝撃、米中技術格差は2～3カ月に圧縮
+（2026年7月21日 00:25、BigGoファイナンス、期待度10点）
+・IT/AIに関連する理由：中国製LLMの性能が米国の先端モデルに迫っているとの見方は、AI競争を企業間競争から国家間競争へ押し広げます。低コストな学習手法やモデル構造の刷新が実現している場合、巨額のGPU投資だけが競争力を決めるという前提が崩れる可能性があります。オープンソースモデルの普及や価格競争を加速させる一方、安全保障や輸出規制を一段と強める材料にもなります。記事タイトルからの判断を含みますが、DeepSeekに続く中国AIの台頭は世界のAI投資配分を変える重要テーマです。
+・リンク先：https://news.google.com/rss/articles/CBMidEFVX3lxTE1QTHlpZnp2UTlpZl82TzdOYzJpNnlMWE54ejdUZnhrXzlydE5YRWktNUdIV29Oc3FiYTFRYm5FeFR4VTU3eWJmTDRHUEVsMjI4bDJKMTdVY3QyOW8wLW1qb3NIM1BLTTk1OWlGdUlkb3M0QXZW?oc=5
+3．「最新のAIサーバーを置けない」、NVIDIAの進化に追いつかない日本の法規制
+（2026年7月21日 05:00、日経クロステック、期待度10点）
+・IT/AIに関連する理由：AI競争では半導体を購入できるかだけでなく、高密度サーバーを実際に設置・運用できるかが重要です。最新GPUは電力消費と発熱量が大きく、受電設備、冷却、建築基準、消防関連の制度が導入速度を左右します。日本の法規制や設備基準が技術進化に追いつかなければ、国内企業はクラウドや海外データセンターへの依存を深めることになります。これはAI主権、データ管理、地域産業育成にも関わる構造的な課題です。
+・リンク先：日経クロステック https://xtech.nikkei.com/atcl/nxt/column/18/03694/071600001/
+4．NVIDIAファンCEO、日本は「製造業強いがフィジカルAI欠く」
+（2026年7月21日 05:00、日経クロステック、期待度10点）
+・IT/AIに関連する理由：日本はロボット、工作機械、自動車、センサーなど物理世界の技術基盤を持っていますが、それらを統合して自律的に判断・行動するAIシステムでは出遅れているとの指摘です。フィジカルAIにはAIモデルだけでなく、現場データ、シミュレーション、制御技術、安全認証が必要です。日本企業が個別の機械性能から、AIを中心にした工場・物流・建設システムへ発想を転換できるかが問われます。生成AIで出遅れた日本が逆転を狙える分野である一方、時間的猶予は大きくありません。
+・リンク先：日経クロステック https://xtech.nikkei.com/atcl/nxt/column/18/03688/071700007/
+5．清水建設が鉄筋作業に「フィジカルAI」
+（2026年7月21日 02:02、日経クロステック、期待度9点）
+・IT/AIに関連する理由：建設現場は作業環境が一定でなく、資材の位置や形状も変化するため、従来型の産業ロボットが導入しにくい領域です。フィジカルAIを活用すれば、カメラやセンサーで周囲を認識し、状況に応じて動作を調整することが可能になります。人手不足や熟練者減少への対応だけでなく、施工品質、安全性、作業データの標準化にもつながります。AIがデジタル空間から実際の作業工程へ入る象徴的な事例です。
+・リンク先：日経クロステック https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00006/070800471/
+6．本番運用に耐えられるか？ AIエージェントに適した基盤作りの8つの設計原則
+（2026年7月21日 00:00、日経クロステック Active、期待度9点）
+・IT/AIに関連する理由：AIエージェントは回答を生成するだけでなく、外部システムを操作し、複数工程を自律的に進めます。そのため、権限の最小化、操作履歴、例外処理、人間による承認、モデル変更時の評価など、通常のチャットAI以上に厳格な設計が必要です。企業導入の競争軸は、デモの賢さから、安全かつ継続的に運用できる基盤へ移っています。AIエージェントを業務システムに組み込む企業にとって、技術だけでなくガバナンス設計が成否を決めます。
+・リンク先：https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xWkRUM2ZyUTdmMFlDQjY3N0hSQVk4RW9zRmtLcDhUUVpCbjFySjIwb1p0cWNlb1A2OUczQUszV1N4X004bTZDTGtmNndfTGJPSEpUV1FDclhONUE2SXdONGtYMng4dw?oc=5
+7．国内最大級データセンター、薩摩川内に新設　AI需要に対応
+（2026年7月21日 03:57、沖縄タイムス社、期待度9点）
+・IT/AIに関連する理由：生成AIの拡大によって、データセンターはIT設備ではなく電力・地域開発・国家競争力に関わる基幹インフラになっています。地方立地は土地や電力確保の面で有利ですが、大容量通信網、再生可能エネルギー、冷却用水、人材確保が必要です。国内に大規模な計算資源を確保できれば、企業データを海外に出さない国産AI運用や地域産業のDXを後押しします。タイトル情報だけのため詳細は限定的ですが、国内AI基盤拡充を示す重要な動きです。
+・リンク先：https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VY3RvS294S2VpR251emlXd1dLajFZcUNzZVpOUG1zc0IwcTg1b1JHV3Rfd0JxR2cteFZ2ZEJrenBrSW00ckpLTmFwWHBsY1g5VURTckhwZUtlTnlwRWc?oc=5
+8．衛星を用いた量子鍵配送へ、カナリア諸島の2島間140kmで通信試験
+（2026年7月21日 05:00、日経クロステック、期待度9点）
+・IT/AIに関連する理由：量子鍵配送は、盗聴を検知できる量子力学の性質を利用して暗号鍵を共有する技術です。島しょ間の長距離試験は、光ファイバーだけでは構築しにくい広域量子通信網や、将来の衛星量子ネットワークにつながります。量子コンピューターによる既存暗号解読への備えとして、政府、金融、防衛、重要インフラで需要が高まる可能性があります。AI時代にデータ価値が高まるほど、通信路そのものを守る技術の重要性も増します。
+・リンク先：日経クロステック https://xtech.nikkei.com/atcl/nxt/column/18/03098/060300075/
+9．AIハッカーがHugging Faceを襲撃、自律攻撃で人間は傍観者に
+（2026年7月21日 03:05、BigGoファイナンス、期待度8点）
+・IT/AIに関連する理由：記事タイトルの通り完全自律型の攻撃であれば、AIが脆弱性探索、侵入、権限拡大、情報取得まで連続実行する段階に入ったことを意味します。Hugging FaceのようなAI開発基盤は多数のモデルや企業システムにつながるため、サプライチェーン攻撃の影響が広がりやすい点も重要です。一方、詳細本文が確認できないため、攻撃の自律性や被害範囲は慎重に見る必要があります。今後は防御側にも常時監視型AIが不可欠になる可能性があります。
+・リンク先：https://news.google.com/rss/articles/CBMidEFVX3lxTFBydk9sc05sTUlvOGV2MWhzZGQ4OXAzUE9nQzQ3dXBKekwwQ3hBSU5nWU94NXR5Q3BWRldYMEktbFdtaWRDMHkwTzVwYzFJM0ctVGdwU3hoT3VCbVhfMXpwU25zVmwzTV9UWVNuc1ZFcTU4NlpF?oc=5
+10．「AIツールは半年で陳腐化」、メルカリに学ぶ無駄にならない投資の見極め
+（2026年7月21日 05:00、日経クロステック、期待度8点）
+・IT/AIに関連する理由：AI製品はモデルやサービスの更新速度が速く、特定ツールに固定した投資は短期間で価値を失う可能性があります。企業には、個別製品を導入するのではなく、モデルを交換できる構造、データ管理、評価基盤、業務プロセスの改善に投資する考え方が必要です。AI導入の成果をライセンス数ではなく、生産性、品質、売上、意思決定速度で評価することも重要になります。企業DXにおける「何を内製し、何を外部サービスに任せるか」を考える材料です。
+・リンク先：日経クロステック https://xtech.nikkei.com/atcl/nxt/column/18/00138/071602069/
+分類まとめ
+期待度10点：4本
+「AI半導体の推論シフト」「中国AI Kimi K3」「日本のAIサーバー規制」「日本に不足するフィジカルAI」を選びました。いずれも個別製品の話ではなく、計算基盤、国家競争力、産業構造を左右する大型テーマです。
+期待度9点：4本
+「清水建設のフィジカルAI」「AIエージェントの設計原則」「薩摩川内のデータセンター」「衛星量子鍵配送」です。AIの現場実装と、それを支える運用・通信インフラの拡大を示しています。
+期待度8点：2本
+「AIによる自律型サイバー攻撃」「陳腐化を前提にしたAI投資」を選びました。AI導入が進むほど、安全性と継続的な技術更新が企業経営の主要課題になります。
+合計：10本
+全体総括
+全体として、今日のAI/IT関連ニュースは、推論向けAI半導体、フィジカルAI、データセンター、AIエージェント、量子・サイバー防衛が中心です。AIは文章や画像を生成するツールから、工場、建設、物流、金融、スマートフォンなどで実際に判断し、システムを動かす存在へ広がっています。企業は最新モデルの導入だけでなく、電力、通信、データ、権限管理、人材、法規制まで含めて設計する必要があります。投資家はGPU銘柄だけでなく、メモリー、光通信、冷却、電力、ロボット、セキュリティへ視野を広げる局面です。エンジニアにとっては、特定AIツールの使い方より、モデルを交換可能にする基盤設計と安全な本番運用能力が重要になります。
+
+---
+
+### [フィジカルAI：工場・建設現場での社会実装が焦点](https://note.com/it_daytrading/n/n769f2866c3be)
+
+- ソース / Source: note · ハッシュタグ「フィジカルAI」 · 2026.07.21
+
+![見出し画像](https://assets.st-note.com/production/uploads/images/296153398/rectangle_large_type_2_5bcf97600e3f9085a137bb3969d6a48c.jpeg?width=800)
+
+概要
+本日07/21のAI/IT関連ニュースは、AI計算の主戦場が学習から推論へ移る動き、AIを工場や建設現場で動かすフィジカルAIの社会実装、そしてデータセンター・電力・通信・法規制を含むAIインフラ競争が大きな柱です。AI半導体ではNVIDIAの汎用GPU一強から、用途別チップやAMD、独自アクセラレーターを含む群雄割拠へ移る兆しが鮮明になりました。一方、日本では製造業の強さを持ちながら、AIサーバー設置規制やフィジカルAIの実装力が弱点として浮上しています。さらに、中国の新型LLM、企業向けAIエージェント、量子暗号通信、サイバー攻撃の自律化も並び、競争軸はモデル性能だけでなく、半導体・電力・現場データ・安全性・運用設計を束ねる総合力へ移っています。
+ポイント
+推論AI×半導体再編：AI利用の拡大に伴い、学習性能だけでなく低コスト・低消費電力の推論処理が競争の中心になります。
+
+日本製造業×フィジカルAI：工場や建設現場の技術力を、AIとロボットの自律制御へ転換できるかが焦点です。
+
+AIサーバー×法規制：高性能GPUを導入できても、電力・冷却・建築規制が整わなければ国内AI基盤は拡大しません。
+
+中国LLM×米中競争：Kimi K3など中国モデルの進化により、米国との差が急速に縮小しているとの警戒が強まっています。
+
+AIエージェント×本番運用：試作段階から、権限管理、監査、障害対応を備えた業務基盤づくりへテーマが移っています。
+
+量子通信×サイバー防衛：量子鍵配送の長距離化とAIによる自律攻撃が同時進行し、次世代の通信防衛が重要になります。
+
+AI/IT関連ニュース10選
+1．AI半導体、推論シフトで一変　NVIDIA一強から群雄割拠へ
+（2026年7月21日 05:00、日経クロステック、期待度10点）
+・IT/AIに関連する理由：生成AIが普及期に入り、計算需要は大規模モデルを作る「学習」だけでなく、日々の問い合わせを処理する「推論」へ広がっています。推論では最高性能だけでなく、処理単価、消費電力、遅延、ソフトウエアとの最適化が重視されるため、NVIDIA以外の半導体にも参入余地が生まれます。AMD、クラウド事業者の独自チップ、推論専用アクセラレーターが競争することで、AI半導体市場の構造そのものが変わる可能性があります。投資テーマとしてはGPU単体ではなく、メモリー、光通信、先端パッケージ、冷却まで含めて見る必要があります。
+・リンク先：日経クロステック https://xtech.nikkei.com/atcl/nxt/column/18/03640/071000003/
+2．中国AI「Kimi K3」が衝撃、米中技術格差は2～3カ月に圧縮
+（2026年7月21日 00:25、BigGoファイナンス、期待度10点）
+・IT/AIに関連する理由：中国製LLMの性能が米国の先端モデルに迫っているとの見方は、AI競争を企業間競争から国家間競争へ押し広げます。低コストな学習手法やモデル構造の刷新が実現している場合、巨額のGPU投資だけが競争力を決めるという前提が崩れる可能性があります。オープンソースモデルの普及や価格競争を加速させる一方、安全保障や輸出規制を一段と強める材料にもなります。記事タイトルからの判断を含みますが、DeepSeekに続く中国AIの台頭は世界のAI投資配分を変える重要テーマです。
+・リンク先：https://news.google.com/rss/articles/CBMidEFVX3lxTE1QTHlpZnp2UTlpZl82TzdOYzJpNnlMWE54ejdUZnhrXzlydE5YRWktNUdIV29Oc3FiYTFRYm5FeFR4VTU3eWJmTDRHUEVsMjI4bDJKMTdVY3QyOW8wLW1qb3NIM1BLTTk1OWlGdUlkb3M0QXZW?oc=5
+3．「最新のAIサーバーを置けない」、NVIDIAの進化に追いつかない日本の法規制
+（2026年7月21日 05:00、日経クロステック、期待度10点）
+・IT/AIに関連する理由：AI競争では半導体を購入できるかだけでなく、高密度サーバーを実際に設置・運用できるかが重要です。最新GPUは電力消費と発熱量が大きく、受電設備、冷却、建築基準、消防関連の制度が導入速度を左右します。日本の法規制や設備基準が技術進化に追いつかなければ、国内企業はクラウドや海外データセンターへの依存を深めることになります。これはAI主権、データ管理、地域産業育成にも関わる構造的な課題です。
+・リンク先：日経クロステック https://xtech.nikkei.com/atcl/nxt/column/18/03694/071600001/
+4．NVIDIAファンCEO、日本は「製造業強いがフィジカルAI欠く」
+（2026年7月21日 05:00、日経クロステック、期待度10点）
+・IT/AIに関連する理由：日本はロボット、工作機械、自動車、センサーなど物理世界の技術基盤を持っていますが、それらを統合して自律的に判断・行動するAIシステムでは出遅れているとの指摘です。フィジカルAIにはAIモデルだけでなく、現場データ、シミュレーション、制御技術、安全認証が必要です。日本企業が個別の機械性能から、AIを中心にした工場・物流・建設システムへ発想を転換できるかが問われます。生成AIで出遅れた日本が逆転を狙える分野である一方、時間的猶予は大きくありません。
+・リンク先：日経クロステック https://xtech.nikkei.com/atcl/nxt/column/18/03688/071700007/
+5．清水建設が鉄筋作業に「フィジカルAI」
+（2026年7月21日 02:02、日経クロステック、期待度9点）
+・IT/AIに関連する理由：建設現場は作業環境が一定でなく、資材の位置や形状も変化するため、従来型の産業ロボットが導入しにくい領域です。フィジカルAIを活用すれば、カメラやセンサーで周囲を認識し、状況に応じて動作を調整することが可能になります。人手不足や熟練者減少への対応だけでなく、施工品質、安全性、作業データの標準化にもつながります。AIがデジタル空間から実際の作業工程へ入る象徴的な事例です。
+・リンク先：日経クロステック https://xtech.nikkei.com/atcl/nxt/mag/ncr/18/00006/070800471/
+6．本番運用に耐えられるか？ AIエージェントに適した基盤作りの8つの設計原則
+（2026年7月21日 00:00、日経クロステック Active、期待度9点）
+・IT/AIに関連する理由：AIエージェントは回答を生成するだけでなく、外部システムを操作し、複数工程を自律的に進めます。そのため、権限の最小化、操作履歴、例外処理、人間による承認、モデル変更時の評価など、通常のチャットAI以上に厳格な設計が必要です。企業導入の競争軸は、デモの賢さから、安全かつ継続的に運用できる基盤へ移っています。AIエージェントを業務システムに組み込む企業にとって、技術だけでなくガバナンス設計が成否を決めます。
+・リンク先：https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xWkRUM2ZyUTdmMFlDQjY3N0hSQVk4RW9zRmtLcDhUUVpCbjFySjIwb1p0cWNlb1A2OUczQUszV1N4X004bTZDTGtmNndfTGJPSEpUV1FDclhONUE2SXdONGtYMng4dw?oc=5
+7．国内最大級データセンター、薩摩川内に新設　AI需要に対応
+（2026年7月21日 03:57、沖縄タイムス社、期待度9点）
+・IT/AIに関連する理由：生成AIの拡大によって、データセンターはIT設備ではなく電力・地域開発・国家競争力に関わる基幹インフラになっています。地方立地は土地や電力確保の面で有利ですが、大容量通信網、再生可能エネルギー、冷却用水、人材確保が必要です。国内に大規模な計算資源を確保できれば、企業データを海外に出さない国産AI運用や地域産業のDXを後押しします。タイトル情報だけのため詳細は限定的ですが、国内AI基盤拡充を示す重要な動きです。
+・リンク先：https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VY3RvS294S2VpR251emlXd1dLajFZcUNzZVpOUG1zc0IwcTg1b1JHV3Rfd0JxR2cteFZ2ZEJrenBrSW00ckpLTmFwWHBsY1g5VURTckhwZUtlTnlwRWc?oc=5
+8．衛星を用いた量子鍵配送へ、カナリア諸島の2島間140kmで通信試験
+（2026年7月21日 05:00、日経クロステック、期待度9点）
+・IT/AIに関連する理由：量子鍵配送は、盗聴を検知できる量子力学の性質を利用して暗号鍵を共有する技術です。島しょ間の長距離試験は、光ファイバーだけでは構築しにくい広域量子通信網や、将来の衛星量子ネットワークにつながります。量子コンピューターによる既存暗号解読への備えとして、政府、金融、防衛、重要インフラで需要が高まる可能性があります。AI時代にデータ価値が高まるほど、通信路そのものを守る技術の重要性も増します。
+・リンク先：日経クロステック https://xtech.nikkei.com/atcl/nxt/column/18/03098/060300075/
+9．AIハッカーがHugging Faceを襲撃、自律攻撃で人間は傍観者に
+（2026年7月21日 03:05、BigGoファイナンス、期待度8点）
+・IT/AIに関連する理由：記事タイトルの通り完全自律型の攻撃であれば、AIが脆弱性探索、侵入、権限拡大、情報取得まで連続実行する段階に入ったことを意味します。Hugging FaceのようなAI開発基盤は多数のモデルや企業システムにつながるため、サプライチェーン攻撃の影響が広がりやすい点も重要です。一方、詳細本文が確認できないため、攻撃の自律性や被害範囲は慎重に見る必要があります。今後は防御側にも常時監視型AIが不可欠になる可能性があります。
+・リンク先：https://news.google.com/rss/articles/CBMidEFVX3lxTFBydk9sc05sTUlvOGV2MWhzZGQ4OXAzUE9nQzQ3dXBKekwwQ3hBSU5nWU94NXR5Q3BWRldYMEktbFdtaWRDMHkwTzVwYzFJM0ctVGdwU3hoT3VCbVhfMXpwU25zVmwzTV9UWVNuc1ZFcTU4NlpF?oc=5
+10．「AIツールは半年で陳腐化」、メルカリに学ぶ無駄にならない投資の見極め
+（2026年7月21日 05:00、日経クロステック、期待度8点）
+・IT/AIに関連する理由：AI製品はモデルやサービスの更新速度が速く、特定ツールに固定した投資は短期間で価値を失う可能性があります。企業には、個別製品を導入するのではなく、モデルを交換できる構造、データ管理、評価基盤、業務プロセスの改善に投資する考え方が必要です。AI導入の成果をライセンス数ではなく、生産性、品質、売上、意思決定速度で評価することも重要になります。企業DXにおける「何を内製し、何を外部サービスに任せるか」を考える材料です。
+・リンク先：日経クロステック https://xtech.nikkei.com/atcl/nxt/column/18/00138/071602069/
+分類まとめ
+期待度10点：4本
+「AI半導体の推論シフト」「中国AI Kimi K3」「日本のAIサーバー規制」「日本に不足するフィジカルAI」を選びました。いずれも個別製品の話ではなく、計算基盤、国家競争力、産業構造を左右する大型テーマです。
+期待度9点：4本
+「清水建設のフィジカルAI」「AIエージェントの設計原則」「薩摩川内のデータセンター」「衛星量子鍵配送」です。AIの現場実装と、それを支える運用・通信インフラの拡大を示しています。
+期待度8点：2本
+「AIによる自律型サイバー攻撃」「陳腐化を前提にしたAI投資」を選びました。AI導入が進むほど、安全性と継続的な技術更新が企業経営の主要課題になります。
+合計：10本
+全体総括
+全体として、今日のAI/IT関連ニュースは、推論向けAI半導体、フィジカルAI、データセンター、AIエージェント、量子・サイバー防衛が中心です。AIは文章や画像を生成するツールから、工場、建設、物流、金融、スマートフォンなどで実際に判断し、システムを動かす存在へ広がっています。企業は最新モデルの導入だけでなく、電力、通信、データ、権限管理、人材、法規制まで含めて設計する必要があります。投資家はGPU銘柄だけでなく、メモリー、光通信、冷却、電力、ロボット、セキュリティへ視野を広げる局面です。エンジニアにとっては、特定AIツールの使い方より、モデルを交換可能にする基盤設計と安全な本番運用能力が重要になります。
+
+---
+
+### [NVIDIA、エッジ向け基盤モデル「Cosmos 3 Edge」発表](https://note.com/chihirodesign/n/n0bae13e0c716)
+
+- ソース / Source: note · ハッシュタグ「フィジカルAI」 · 2026.07.21
+
+![見出し画像](https://assets.st-note.com/production/uploads/images/296151335/rectangle_large_type_2_9efd22693435a2872c6634d123531409.png?width=800)
+
+おはようございます。AI Visual ArtistのCHIHIROです。
+今朝は、AIがますます「長く動き続ける存在」になっていく現実を感じさせるニュースが並びました。OpenAIは長時間稼働モデルの安全性について踏み込んだ報告を出し、NVIDIAはエッジ向けの新しいCosmos 3を投入。YouTubeはAI生成の低品質動画に対する収益化ルールを明確化し、Anthropicは希少疾患研究への助成を開始しました。映像・ロボティクス・プラットフォーム運営、それぞれの現場でAIとの付き合い方が一段深くなる、そんな火曜日の朝です。
+本日は主役4件、ほかに気になる動きを6件お届けします。
+
+Podcast
+https://open.spotify.com/episode/5KjADtk1qG1O88jH4YqgfT
+長時間稼働モデル時代の安全性とアライメント、OpenAIが実運用の教訓を公開
+OpenAIが、長時間にわたって自律的にタスクを遂行する「long-horizon models」の運用から得られた安全性の知見を公式ブログで公開しました。数分〜数時間、あるいはそれ以上にわたってエージェントとして動き続けるモデルは、従来の単発プロンプト応答型とは異なるリスク構造を持つことが指摘されています。具体的には、途中で目標が歪む「目標のドリフト」、予期せぬツール呼び出し、外部からのプロンプトインジェクションによる乗っ取りなど、実際に観測された失敗ケースが紹介されました。OpenAIはこれらに対し、反復デプロイを通じたセーフガード改善、監視レイヤーの強化、モデル自身に安全性を判断させるアプローチを組み合わせて対応しているとしています。エージェント運用が本格化する2026年、開発者と利用者の双方に向けた実践的な指針という位置づけです。
+https://openai.com/index/safety-alignment-long-horizon-models
+【実務への示唆】
+映像制作でも、素材収集からラフ編集、書き出しまでを一気通貫でエージェントに任せるワークフローが現実味を帯びてきました。ただ、長く動かすほど「途中で何をやっているか分からない」という不安がつきまとうんですよね。私も最近、動画のバッチ処理をエージェントに任せていて、朝起きたら想定と違うディレクトリに大量のファイルが吐き出されていた、みたいな小さな事故を経験しました。OpenAIが挙げている「目標のドリフト」というのはまさにこれで、途中で判断のよりどころが少しずつズレていく感覚があります。だからこそ、エージェントに任せるときは「途中経過を出力させる」「工程ごとに承認ポイントを挟む」設計が結局いちばん安全だと思っています。長く走らせるからこそ、こまめに顔を合わせる。この矛盾した設計思想が、これからのクリエイターの新しい常識になっていきそうです。
+
+NVIDIA、エッジデバイス向け基盤モデル「Cosmos 3 Edge」を発表
+NVIDIAがHugging Face上で、フィジカルAI向け基盤モデル「Cosmos 3 Edge」を公開しました。Cosmosシリーズはロボットや自動運転など、現実世界で動くAIのためのワールドモデル基盤として展開されてきましたが、今回のEdge版は、クラウド接続を前提としないローカル動作に最適化されたバリエーションです。ロボットの手元・車載・産業機器といったレイテンシと電力に厳しい環境で、映像入力からのシーン理解や次フレーム予測などを実行できる想定になっています。オープンウェイトとして配布され、開発者は自分のハードウェア上でファインチューニングや評価が可能。フィジカルAIの実装が「クラウドの中の想像」から「現場で動く実体」へと移る流れを、モデル配布のレイヤーから後押しする一手です。
+
+Introducing Cosmos 3 Edge
+
+A Blog post by NVIDIA on Hugging Face
+
+huggingface.co
+
+【実務への示唆】
+Cosmos 3 Edgeで個人的に面白いのは、ワールドモデルがエッジに降りてきたという事実そのものです。ワールドモデルというと、これまでは「シミュレータの中で仮想ロボットを訓練するためのもの」というイメージが強かったのですが、それが手元のデバイスで動くとなると、話が一気に変わってきます。映像制作の視点で言えば、実写素材を撮ったその場で「次の1秒がどう動くか」を予測してプレビューできる、みたいな使い方もあり得るわけです。撮影現場で監督が「ここでカメラを寄ったらどうなる?」と問いかけたとき、AIが物理的にもっともらしい応答を返してくれる。そういう未来の予感がしました。まだ実務で即座に使える段階ではないですが、フィジカルAIの基盤が誰でも触れる場所に置かれ始めたのは、大きな変化点だと感じています。
+
+YouTube、AI生成の粗製濫造動画と不快動画に対する収益化ポリシーを明確化
+YouTubeが、収益化パートナープログラム(YPP)のポリシーを更新し、いわゆる「AIスロップ」と呼ばれる大量生成の低品質AI動画や、視聴者を不快にさせるコンテンツの扱いを明確化しました。TechCrunchの報道によれば、これまでも「反復的・再利用的なコンテンツ」は収益化不可とされていましたが、AI生成物がその境界を曖昧にしていた背景があり、今回の改定でどのタイプのAI動画が広告収益を得られないかがより具体的に示された形です。テンプレート的な合成動画の量産、他人のコンテンツを機械的に加工しただけのもの、扇情的な合成映像などが対象となるとみられます。プラットフォーム側がAI生成の「量」ではなく「質と独自性」に軸足を戻す動きです。
+
+YouTube clarifies policies around AI slop and upsetting videos | TechCrunch
+
+YouTube has updated its monetization policies to more clearly
+
+techcrunch.com
+
+【実務への示唆】
+このニュース、真面目にAIを使って映像を作っている人ほど歓迎すべきだと思っています。生成AIが手軽になった副作用として、SNSやYouTubeが「なんとなく見たことある構図の、なんとなく気持ち悪い動画」で溢れる状況が続いていました。視聴者もクリエイターも、正直うんざりしていたはずです。今回のポリシー更新は、AI生成そのものを否定しているのではなく、「量産だけを目的とした無編集な使い方」に線を引くもの。逆に言えば、AIを素材や表現の一部として丁寧に組み立てた作品は、これまで通り評価される道が残ります。私はむしろ、これでAI映像作家の平均点が底上げされるチャンスだと捉えています。粗製濫造の海の中で、丁寧に作ったものが埋もれずに届く。その環境が戻ってくるなら、大歓迎です。
+
+Anthropic、AI for Scienceプログラムで希少疾患研究への助成を開始
+Anthropicが、AI for Scienceイニシアチブの一環として、希少疾患研究に取り組む研究者向けの助成プログラムを発表しました。世界には7,000以上の希少疾患が存在するとされ、患者数の少なさから研究資金と関心が集まりにくい構造的な課題があります。Anthropicはこの領域に対し、Claudeを活用した研究支援と資金の両面から後押しする方針で、研究者は同社のウェブサイトから応募可能です。医学論文の解析、遺伝子データの解釈、臨床試験デザインの検討など、AIが実務レベルで貢献できる場面は多く、少人数の研究チームでも大規模な文献調査や仮説検証が回せるようになる意義は大きいと言えます。
+https://www.anthropic.com/news/rare-disease-research-grants
+【実務への示唆】
+クリエイティブ寄りのこのダイジェストで、なぜこの話題を主役に選んだのか。それは、AIが「量を捌く道具」から「少数のために深く働く道具」へと使い方の重心を移し始めているのを、象徴的に感じたからです。希少疾患の研究というのは、まさにマスに届かない領域。でもそこにこそ、丁寧な調査と粘り強い仮説検証が必要で、AIの得意分野と重なります。私はこれを、映像や音楽の領域にも重ねて見ています。ニッチな表現、ごく少数の人にしか刺さらないテーマ、商業的には成立しにくい作品。そういう領域にこそAIを使うことで、「本来この世に生まれなかったかもしれない表現」を助産する可能性がある。Anthropicの取り組みは医療の話ですが、AIの向き先そのものについての大切な問いを含んでいる気がします。
+
+ほかに気になる今日の動き
+
+Hugging FaceがAI主導のサイバー攻撃を検知、防御にオープンウェイトモデルGLM 5.2を採用
+Hugging Faceが、自律型AIエージェントによる本番インフラへの侵入を検知・対処したと発表。ログ解析に商用AIを試すも安全ガードレールに阻まれ、最終的にオープンウェイトのGLM 5.2を自社インフラで動かして解析したとのこと。攻撃も防御もAIという時代の実例、印象的です。
+
+Hugging FaceにAI主導のサイバー攻撃　防御もAIで対抗するも、商用モデルは解析拒否で「GLM」採用
+
+Hugging Faceは、自律型AIエージェントによる本番インフラへの侵入を検知、対処したと発表した。一部の内部データセ
+
+www.itmedia.co.jp
+
+Jensen Huang来日後の日本テック業界、次に来るものは
+NVIDIAのJensen Huangが東京訪問で日本のテックエコシステム全体にまたがる契約を残していったとTechCrunchが分析。半導体・データセンター・ロボティクスへの波及が焦点。日本発のフィジカルAIに追い風、注視したいです。
+
+What to watch for after Jensen Huang's Japan visit | TechCrunch
+
+Jensen Huang left Tokyo with deals spanning Japan's entire te
+
+techcrunch.com
+
+Apple対OpenAI訴訟はOpenAIのハードウェア計画を狂わせるか
+TechCrunchのポッドキャストEquityが、AppleがOpenAIに対して起こした訴訟が、噂されるOpenAIのハードウェア参入とIPO計画に影を落とすかを議論。AIデバイス市場の主導権争いが法廷にも飛び火してきましたね。
+
+Can an Apple lawsuit derail OpenAI’s hardware plans? | TechCrunch
+
+On the latest episode of Equity, we debate whether Apple's la
+
+techcrunch.com
+
+AIは人間よりも採用でバイアスを持ちやすい、MIT Tech Reviewの新研究
+LLMが訓練データから人間のバイアスを引き継ぐことは既知だが、新研究では採用場面において人間以上に偏った判断を下す傾向が確認されたとのこと。クリエイター採用の場でも他人事ではない、耳の痛い結果です。
+
+AI is more likely than humans to form biases when hiring
+
+AI doesn’t just learn stereotypes from its training. It can c
+
+www.technologyreview.com
+
+ドコモ、夏休みの親子向けイベントでスマホ分解とAIアート体験を無料開催
+NTTドコモが7月30日〜8月5日に世田谷でSUMMER FESを開催。スマホ分解やAIアート制作を親子で無料体験できる企画。子どもの最初のAI体験がアート、というのは素敵な入り口だなと思います。
+
+ドコモが夏休みの親子イベント開催　スマホ分解やAIアートを無料体験
+
+NTTドコモは、夏休みの親子向け体験イベント「遊んで、学んで、楽しめる！ドコモ未来プロジェクト SUMMER FES」を
+
+k-tai.watch.impress.co.jp
+
+Aqaraの360度全方位Matter対応スマートカメラCamera Hub G350レビュー
+中国メーカーAqaraのMatter対応スマートセキュリティカメラをギズモードがレビュー。うさぎ型のかわいい外観で室内インテリアに馴染むデザインが特徴。撮影スタジオの見守り用途にも良さそう、地味に気になります。
+
+うさちゃんが見てる。Matter対応の360度全方位スマートセキュリティカメラ | ギズモード・ジャパン
+
+セキュリティカメラって、どうしても存在感が出てしまうもの。防犯のために屋外に設置するならそれが重要なのですが、部屋の中に置
+
+www.gizmodo.jp
+
+本日のダイジェストは以上です。
+今日の中で気になったのは、YouTubeがAIスロップに線を引いた件。あなたはAI生成動画のどこまでを「作品」と呼び、どこからを「量産」と感じますか?境界線の引き方、ぜひコメントで教えてください。
+📌 バックナンバーはこちらのマガジンでまとめて読めます。
+
+Creative AI Digest｜CHIHIRO | AI visual artist｜note
+
+Creative AI Digest は、AIとクリエイティブ領域の最新動向を 毎朝収集・整理して届けるデイリーダイジェス
+
+note.com
+
+※この記事はClaude(AI)が情報収集・執筆のサポートを行っています。
+#生成AI #news #creative #ainews #digest #CreativeAIDigest #OpenAI #NVIDIA #Cosmos3Edge #YouTube #Anthropic #Claude #HuggingFace #GLM #Apple #MITTechReview #ドコモ #Aqara #Matter #フィジカルAI
+
+---
+
+### [フィジカルAIの本質：現場学習と日本企業の競争力](https://note.com/fine_knot144/n/n01415b04d2d8)
+
+- ソース / Source: note · ハッシュタグ「フィジカルAI」 · 2026.07.21
+
+![見出し画像](https://assets.st-note.com/production/uploads/images/295628162/rectangle_large_type_2_52f0a1e66202b6a5c75497960e5a21b9.png?width=800)
+
+最近読んだ記事がとても印象に残りました。
+それは、情報工場「読学」のススメ #152で紹介されていた、田中道昭氏の著書『フィジカルAIの衝撃』の抜粋記事です。
+記事を読んだだけでも興味深い内容でしたが、「本当にそうなのだろうか？」「なぜそうなるのだろう？」という疑問を一つずつ掘り下げていくことで、フィジカルAIの本質が少しずつ見えてきました。
+フィジカルAIとは「ロボット」ではない
+最初は、「フィジカルAI＝ロボットが動く技術」というイメージを持っていました。
+しかし調べていくうちに、その考えは大きく変わりました。
+フィジカルAIの本質は、「AIが現実世界から学び続ける仕組み」にあります。
+生成AIはインターネット上の文章や画像から学習しました。
+一方、フィジカルAIは工場や物流倉庫、病院、建設現場など、実際の現場で起きる出来事を学習していきます。
+つまり、学習する対象そのものが現実世界なのです。
+フィジカルAIは5つの段階で進化する
+今回の対話で、フィジカルAIは次の5つの段階で理解すると整理しやすいことが分かりました。
+GPU（計算基盤）
+
+World Foundation Model（Cosmos）
+
+デジタルツイン（Omniverse）
+
+Industrial OS（産業OS）
+
+現場運用
+
+最初はGPUでAIを動かす計算能力を確保します。
+次にCosmosが「重力」「摩擦」「物の動き」など、世界共通の物理法則を学習します。
+その後、Omniverseで工場や物流センターを仮想空間に再現し、安全に何万回も学習を繰り返します。
+さらにIndustrial OSでは、その工場独自のルールや作業手順、安全基準など「現場の作法」を学習します。
+そして最後に、実際の工場でAIやロボットが働き始めます。
+一番重要なのは最後の「現場運用」
+今回、一番印象に残ったのはここでした。
+記事では、現場運用の代表例として現代自動車（Hyundai）が紹介されていました。
+最初は「ロボットを導入している会社だからだろう」と思っていました。
+しかし調べてみると、本当に重要なのはそこではありませんでした。
+現場では毎日、
+・人の動き
+・部品の置き方
+・照明の違い
+・床の状態
+・想定外の出来事
+など、仮想空間では再現しきれない無数のデータが生まれています。
+そのデータをAIへ戻し、さらに賢くする。
+この「学習の循環」こそが、フィジカルAIの本質だったのです。
+日本企業はどこで勝負するのか
+今回の対話で、もう一つ気になったのが日本企業の立ち位置でした。
+NVIDIAはGPUやCosmos、Omniverseという世界共通の基盤を提供します。
+SiemensはIndustrial OSという産業向けの基盤を構築しています。
+では、日本企業は何を武器にするのでしょうか。
+その答えは、「現場」にあるのではないかと思いました。
+日本の製造業には、
+・トヨタ生産方式
+・カイゼン
+・品質管理
+・熟練工の技術
+・長年蓄積された現場ノウハウ
+があります。
+これまではベテラン社員から新人へと受け継がれてきた知識ですが、これからはセンサーや映像、作業データとして蓄積し、AIが学び続ける資産へと変わっていくのかもしれません。
+つまり、これから競争力を左右するのは「AIを導入した企業」ではなく、「AIが学び続けられる現場を持つ企業」なのではないでしょうか。
+一つの記事から学べること
+今回改めて感じたのは、一つの記事を読むだけでは見えてこない世界があるということです。
+疑問を持ち、一つずつ調べ、考え、整理していく。
+そうすることで、一つの書籍の紹介記事から、
+・AI
+・半導体
+・ロボット
+・製造業
+・データ
+・日本企業の競争力
+まで視野を広げることができました。
+これからも「一つのニュースから学ぶこと」という視点を大切にしながら、表面的な情報だけで終わらず、その背景にある仕組みまで考えていきたいと思います。
+キーワード
+#フィジカルAI #田中道昭 #NVIDIA #Cosmos #Omniverse #IndustrialOS #デジタルツイン #製造業 #AI #一つのニュースから学ぶこと
+
+---
 
 ### [中国AI博覧会：ロボットが製造から介護まで多様な現場を再現](https://note.com/kagawatomo/n/n030a7843c5ff)
 
@@ -15289,3541 +17891,6 @@ AIRoA、クラスメソッド、Enactic、ファナック、富士通、GROOVE X
 
 ---
 
-### [ソフトバンク主導の国産AI「Noetra」に問われるもの](https://note.com/cute_hosta834/n/n02c413b72876)
-
-- ソース / Source: note · ハッシュタグ「フィジカルAI」 · 2026.07.17
-
-![見出し画像](https://assets.st-note.com/production/uploads/images/295003039/rectangle_large_type_2_6318f7f6e016e77b54b427a67984f290.png?width=800)
-
-2026年7月16日、ソフトバンクなど国内44社が出資する新会社「Noetra（ノエトラ）」が正式に発足した。国が最大1兆円を投じる、国産AI開発の巨大プロジェクトがついに動き出したのだ。
-集まった出資企業は44社。目指す基盤モデルの規模は、実に1兆パラメーター（AIが学習を通じて獲得する変数の総数）。
-しかも今回のプロジェクト、単なる技術力の誇示ではない。実はその裏に、「国産AI」という言葉そのものへの不信感を払拭したいという事情が隠れている。
-この記事では「Noetraとは何か」「なぜ今、国が巨額を投じるのか」「本当に国産AIは育つのか」の3つを整理する。
-
-目次
-・Noetra誕生までの経過
-・期待と懸念、そのせめぎ合い
-・今後の展望と私たちへの影響
-
-■ Noetra誕生までの経過
-そもそもこの動きは、2026年4月にソフトバンク・NEC・ホンダ・ソニーグループの4社を中核に「日本AI基盤モデル開発」という会社が構想されたところから始まる。6月1日に社名がNoetraへ変更され、6月30日には経済産業省とNEDO（新エネルギー・産業技術総合開発機構）がNoetraと産業技術総合研究所（産総研）を支援先に選定、3873億円の支援を発表。そして7月16日、新たに35社が加わり出資企業は計44社に拡大し、正式発足に至った。
-目指すのは、文章を生成する対話型AIとは異なる「フィジカルAI（現実の物理空間でロボットや機械を自律的に動かすAI）」だ。「マルチモーダル（文章・画像・音声・動画など複数の種類のデータを同時に扱うこと）」な基盤モデルを、1兆パラメーター規模で開発する。2028年をめどに大阪・堺市に専用の計算拠点を新設し、米エヌビディアのAI半導体「ルービン」を約2万7500基調達する計画で、政府調達としては世界最大級だという。東京科学大学やケンブリッジ大学、オックスフォード大学など海外含む13の研究機関とも連携する。
-
-■ 期待と懸念、そのせめぎ合い
-この巨大プロジェクトを、強気に評価する声がある。米中がAI開発で先行するなか、データの海外流出や特定企業への依存を避けるための「保険」として、技術主権を確立する国家的な決断だという見方だ。3メガバンクや製造業大手までもが名を連ねる異例の規模も、AIを社会インフラとして本気で位置づけている表れだと受け止められている。
-一方で、冷静な評価も根強い。あるビジネスコラムは、5年で1兆円という予算に対し、実際に所属する技術者はわずか100人規模にとどまると指摘し、「実態が薄く、中抜き（仲介だけで利益を得ること）ビジネスの匂いがする」と手厳しい。パラメーター数という目標そのものへの疑問もある。パラメーター数の多さと実際の性能・コストパフォーマンスは必ずしも比例せず、小型モデルを磨き上げる潮流も強まっているなかで、規模だけを追う目標設定が正しいのか、という声だ。
-良い面と懸念、この両方を踏まえたうえで欠かせないのが海外との比較だ。現時点の性能は、Anthropicの最新モデル「Mythos」のような海外の最先端AIにはまだ及ばないと報じられている。既存の国産モデルであるPLaMo（1000億パラメーター級）やSarashina（4600億パラメーター級）と比べても、今回目指す1兆パラメーターは一段上の規模であり、追いつくまでの距離は決して短くない。
-そして、この警戒感には伏線がある。2026年3月、楽天グループが「日本最大規模の国産AI」として「Rakuten AI 3.0」を発表した。ところが公開直後、その中身が中国製AI「DeepSeek」を改造したものだったと明らかになり、大きな批判を浴びた。5億円の税金が投じられていたこともあり、「国産」を名乗ることへの視線は、以前よりずっと厳しくなっている。今回のNoetraが同じ轍を踏まないか、という点も静かに問われているのだ。
-例えるなら、今回の取り組みは、これまで海外のレンタカー（海外製AI）を借りて走っていた道を、道路も車も自前でゼロから作り直すようなものだ。初期投資は膨大で、完成すれば他社の都合や渋滞（依存リスク）に振り回されにくくなる。しかし、その車が実際にきちんと走る性能を持つかどうかは、完成してからでないと分からない。
-
-■ 今後の展望と私たちへの影響
-今後の流れとして、3つのポイントを挙げたい。
-①2026年度中に基盤モデルの第一弾を公開し、順次画像・音声への対応を広げていく計画だ。
-②本格的なモデル完成は2027年度、商用化は2030年度が目標とされており、成果が見えるまでには数年単位の時間がかかる。
-③そしてこれは、中小企業や個人事業主にとっても他人事ではない。フィジカルAIの実用化が進めば、工場や物流の自動化コストが下がり、AIを使った副業や業務効率化の選択肢はさらに広がる可能性がある。一方で、巨大企業連合が主導するインフラに、個人がどう関わっていけるかも、これから問われていく課題になるだろう。
-巨額の税金を投じてでも技術主権を追わなければ、AIインフラそのものを海外に握られてしまう。しかし急ぎすぎれば、中身の伴わない看板だけの「国産AI」になりかねない。速さと確かさ、このジレンマのなかでNoetraがどんな成果を見せるのか、私はこれからも注視していきたい。
-【出典】
-日本経済新聞「国産AIに44社連合、ホンダやソニーなど出資 国が1兆円支援」（2026年7月16日）
-ソフトバンク公式ニュースリリース「国産マルチモーダル基盤モデルの開発に向けて本格始動」（2026年7月16日）
-日本経済新聞「国産AIで狙う脱『米国依存』、性能はミュトスに及ばず」（2026年6月30日）
-日本経済新聞「国産AI連合に国費1兆円 ソフトバンクなど軸に44社」（2026年6月30日）
-マグナリープ「官民で国産AI開発３兆円、国産『1兆パラメーターAI』政策は今さらか？」
-note「5億円の税金が投入されたRakutenの"国産AI"の正体と起きた問題」（2026年3月）
-
----
-
-### [国産フィジカルAI「ノエトラ」始動、日本の製造業復活なるか](https://note.com/jazzywada/n/n654124aea454)
-
-- ソース / Source: note · ハッシュタグ「フィジカルAI」 · 2026.07.17
-
-![見出し画像](https://assets.st-note.com/production/uploads/images/295001616/rectangle_large_type_2_07d2d1e74605e529d72abc4d8f36c429.jpeg?width=800)
-
-国産AI「ノエトラ」は日本を救うのか――1兆円プロジェクトに託された期待と、不安の境界線
-日本のAI逆転劇は、本当に始まるのだろうか。
-久しぶりに、「これは日本にとって大きな分岐点になるかもしれない」と感じるニュースが飛び込んできました。
-国産AIプロジェクト**「Noetra（ノエトラ）」**。
-総事業規模は約1兆円。国内44社が参加し、経済産業省も後押しする、まさに官民一体の国家プロジェクトです。
-世界のAI競争は、いまやOpenAIやGoogle、Meta、中国勢が猛烈な勢いで走り続けています。その背中を追う日本にとって、この計画は数少ない逆転のチャンスとも言えるでしょう。
-一方で、私の頭には別の言葉も浮かびます。
-「また日の丸プロジェクトなのではないか。」
-期待と不安。
-その両方を抱えながら、この計画を眺めています。
-ChatGPTでは勝負しないという現実路線
-ノエトラが目指しているのは、ChatGPTのような会話AIではありません。
-狙うのは**「フィジカルAI」**。
-ロボットや工作機械、自動搬送装置など、現実世界で動く機械の頭脳となるAIです。
-工場のセンサー情報、画像、動画、音声、各種制御データまで統合して理解するマルチモーダル基盤モデルを開発し、日本が長年培ってきた製造技術やロボット技術と融合させようという構想です。
-これは、正面からOpenAIと殴り合うのではなく、日本の得意分野へ戦場を移す発想とも言えます。
-個人的には、この方向性そのものはかなり現実的だと感じています。
-27,500基のGPUは「巨大」なのか
-今回、大きな話題になっているのが、およそ27,500基ものGPUを備えた計算基盤です。
-国内では間違いなく巨大な規模でしょう。
-しかし、世界に目を向けると話は変わります。
-AI開発では、「計算資源が増えるほど性能も伸びる」というスケーリング則が、今なお強い影響力を持っています。
-米国の巨大テック企業は、日本とは比較にならない規模で設備投資を続けています。
-その現実を考えると、27,500基という数字は、「世界と戦うための最低限のスタートライン」に立った段階、と見る専門家も少なくありません。
-つまり、本当の勝負はこれからなのです。
-最大の敵はGPUではなく「電力」
-実は、もっと気になる問題があります。
-それが電力です。
-計画では約140MWもの電力が必要になるとされています。
-これは一企業の設備としては相当な規模であり、将来フィジカルAIが全国へ広がれば、電力インフラそのものが課題になる可能性があります。
-GPUは買えます。
-しかし電力は、そう簡単には増やせません。
-AI競争は、半導体競争であると同時に、エネルギー競争でもある――。
-そんな時代が、もう始まっているようにも見えます。
-「国産」である意味はどこにあるのか
-では、なぜここまで国産にこだわるのでしょう。
-その理由は、おそらくデータ主権です。
-日本の製造業には、世界でも貴重な工場データや製造ノウハウが大量に存在します。
-もしそれらを海外プラットフォームへ全面的に依存するようになれば、将来的な技術流出やプラットフォーム依存という問題も無視できません。
-国内企業が安心して学習データを蓄積し、自社向けに最適化できる基盤を持つことには、大きな意味があります。
-これは単なる「国産主義」という話ではなく、日本の産業基盤を守るための安全保障という側面もあるのでしょう。
-それでも拭えない「既視感」
-ただ、SNSなどを見ると、冷ややかな意見も少なくありません。
-「どうせまた失敗する。」
-「44社も集まったら何も決められない。」
-そんな声が聞こえてきます。
-確かに、日本には過去にも大型国家プロジェクトが期待ほど成果を残せなかった歴史があります。
-だからこそ、多くの人が慎重になるのも理解できます。
-今の時代、「国産だから応援する」という空気だけでは成功できません。
-最終的に評価されるのは、現場で本当に使われ、生産性を高め、利益を生み出すAIになれるかどうか。
-それだけです。
-私が注目しているのは2027年以降
-ノエトラの真価が見え始めるのは、おそらく2027年から2028年でしょう。
-実際に工場で導入され、
-ロボットが賢くなり、
-生産効率が改善し、
-企業が「これは使える」と判断する。
-そこまで到達して初めて、この巨大プロジェクトは成功だったと言えるのだと思います。
-逆に言えば、それまでは誰にも答えは分かりません。
-おわりに
-私は、このプロジェクトを悲観も楽観もしていません。
-ただ一つ思うのは、日本が世界と同じ土俵で「物量勝負」を挑むだけでは苦しいということです。
-むしろ、日本らしい強みを生かした超高効率なAIや、製造業に特化した独自の価値を築けるかどうか。
-その一点に、この挑戦の成否がかかっているように思えます。
-2027年、この1兆円プロジェクトは「日本復活の第一歩」と語られるのでしょうか。
-それとも、「また一つ高価な教訓が増えた」と振り返られるのでしょうか。
-現時点で断言できる人はいません。
-だからこそ、この挑戦の行方を、私は少し期待を込めながら、それでも冷静な目で見守っていきたいと思っています。
-ポッドキャスト版はこちら
-
-国産AI「ノエトラ（Noetra）」：1兆円規模の国策プロジェクトが直面する、期待と絶望の境界線
-1. イントロダクション：日本の「逆転劇」は始まるのか？
-日本の製造業の命運を懸けた、巨大なプロジェクトが動き出しています。国産AI「ノエトラ（Noetra）」――。総予算1兆円規模、国内44社が連合し、経済産業省が背中を押す官民一体の「オールジャパン」体制。世界的なAI競争で米中に大きく遅れをとった日本にとって、これは起死回生を狙う最後にして最大のカードです。しかし、過去の「日の丸プロジェクト」が辿った失敗の歴史を知る者にとって、この壮大な計画は期待よりも先に「既視感のある不安」を抱かせます。果たしてこの巨額投資は、日本を再びテクノロジーの最前線へと押し上げる逆転の狼煙となるのか、それとも空虚なスローガンに終わるのか。その冷徹な現実を解剖します。
-2. テイクオフ 1：「フィジカルAI」という、日本が選んだ最後にして最大の勝ち筋
-ノエトラが照準を合わせているのは、ChatGPTのようなデジタル空間で完結するAIではありません。彼らが主戦場に選んだのは、「物理世界でロボットや機械を自律的に動かすAIの『頭脳』部分」、すなわち「フィジカルAI」です。
-これは、テキスト、画像、動画、音声に加え、工場や物流現場から得られるセンサーデータや物理特性までも統合的に扱う「マルチモーダル基盤モデル」の開発を指します。ノエトラの舵取りを担う丹波社長は、汎用AIでOpenAIやGoogleと正面衝突するのではなく、日本の「お家芸」である精密製造やロボット知見が活きるニッチな隙間に滑り込むという、極めて現実的な勝ち筋を強調しています。この領域こそが、海外勢に依存せず「データ主権」を維持しながら戦える最後の聖域なのです。
-3. テイクオフ 2：27,500基のGPUは「武器」か、それとも「焼け石に水」か？
-2026年7月現在、このプロジェクトの心臓部として注目されているのが、NVIDIAの最新GPU「Rubin」に次世代CPU「Vera」を組み合わせた約27,500基の大規模計算基盤です。日本国内では類を見ない規模ですが、テクノロジー・アナリストの視点で見れば、その評価は極めてシビアにならざるを得ません。
-AIの性能が計算資源の量に比例するという「スケーリング則（指数関数的な進化）」が支配する世界において、米国のハイパースケーラーは桁違いの投資を続けています。27,500基という数字は、グローバルな競争においては「最低限の土俵」に上がったに過ぎません。
-「27,500基は日本国内では大型ですが、世界最先端の訓練規模に対しては『スタートラインにやっと立った』程度。……指数関数的な進化（スケーリング則）に乗れないと、すぐに陳腐化します。」
-この指摘通り、潤沢な資金とデータを持つ米中勢に対し、後追い型の「物量作戦」で挑むのはあまりに分が悪い賭けと言えます。
-4. テイクオフ 3：立ちはだかる「電力」という物理的限界
-計算資源の確保以上に、ノエトラの命運を左右するのが「電力」という物理的障壁です。計画されている140MW（メガワット）という消費電力は、それ単体で日本の電力需給バランスを揺さぶりかねない規模です。
-もし今後、フィジカルAIを全国の製造現場へ本格的に展開しようとすれば、現在のインフラでは到底賄いきれず、**「電力危機は避けられない」**という破綻のリスクが現実味を帯びてきます。単にGPUを並べるだけの力押しでは、エネルギー政策という壁に激突します。「超効率的なモデルの開発」や「電力革命的なアプローチ」といった、従来の延長線上にはない別角度の戦略がなければ、このプロジェクトは早晩、物理的な限界によって立ち往生することになるでしょう。
-5. テイクオフ 4：「データ主権」を守るための国産化という大義名分
-なぜ、多額の血税を投じて「国産」にこだわるのか。その本質は、日本の製造業が持つ生命線――すなわち、工場内のロボット稼働ログや独自の製造ノウハウという「現場データ」を守ることにあります。
-機密性の高いデータを海外企業のクラウドAIに預けることは、将来的な技術流出やプラットフォームへの過度な依存、さらには「データの植民地化」を招くリスクを孕んでいます。国内企業が安心して自社のデータを学習させ、カスタマイズできる国産基盤を構築することは、日本の産業競争力を維持するための切実な防衛策なのです。
-6. テイクオフ 5：冷ややかな視線――「いきなりオワコン」説をどう乗り越えるか？
-鳴り物入りで始まったノエトラに対し、ネットやSNSでは「いきなりオワコン」という辛辣な言葉が投げかけられています。これは、過去の「日の丸液晶」や「日の丸半導体」といった巨額の国策事業が、船頭多くして山に登る「44社連合」のような歪な構造によって、結局は何も残せなかった歴史への根深い不信感に基づいています。
-「国産だから応援する」という情緒的な支援の賞味期限はすでに切れています。もし今回も中途半端な成果に終われば、1兆円の投資は「失敗の本質」を体現する新たな事例として刻まれるだけです。
-「成功すれば、日本の製造・ロボット産業に大きなブーストになり……。ただし、『国産だから』というだけで勝てる時代ではない。成果次第で『成功事例』か『高額国策プロジェクトの教訓』になるかの分かれ目です。」
-この厳しい評価を覆すには、理屈ではなく「実行力」と「目に見える実用成果」で証明する他に道はありません。
-7. 結論：2027年、私たちは「希望」を見るか「教訓」を学ぶか
-ノエトラの真価が問われる試金石は、最初の実用モデルが登場する2027年から2028年にかけてやってきます。この時、日本の工場で実際にロボットの性能が劇的に向上し、ビジネスとしてのフィードバックループが回り始めるかどうかが、すべての答えとなります。
-私たちが注視すべきは、技術的な「量」の競争ではありません。物量で勝てない現実を認め、**「超効率モデル」や「国際的なオープン連携」**といった、別角度の生存戦略を打ち出せるかどうかです。
-2027年、この1兆円の挑戦は、日本の産業が再び輝きを取り戻す「成功事例」として語られるのか。それとも、巨額投資の果てに残された**「高額な国家プロジェクトの良い思い出（教訓）」**として、再び歴史の闇に消えていくのか。私たちは、その運命の分岐点を冷徹な目で見極めなければなりません。
-
-ポッドキャスト版はこちら
-
----
-
-### [介護経営サミット：報酬改定と将来への準備](https://note.com/seodoa_academy/n/n4ffc9227fbf0)
-
-- ソース / Source: note · ハッシュタグ「フィジカルAI」 · 2026.07.17
-- ⚠️ メンバーシップ/有料記事のため無料公開部分のみ / Free preview only
-
-![見出し画像](https://assets.st-note.com/production/uploads/images/295002463/rectangle_large_type_2_ba33d7d84d9fb5f1051f840aa642d059.png?width=800)
-
-独居933万世帯の夏、20時間40分で読む介護経営の五つの戦線
-8月4日から10日まで、報酬改定の前に経営はもう動きだしている
-今回のNOTEは、高齢者住宅新聞社が2026年8月4日から10日まで開催する第30回介護経営サミットの、経営者としての読み解き方を掴めます。20テーマ28講演を、制度、人材、AI、財務、看取りという五つの戦線に整理し、なぜこの八月なのか、何を持ち帰り、法人内で誰にどの講演を割り当てれば意思決定に効くのかを考えます。2027年4月1日の改正法施行を前にした準備の座標軸として、明日からの打ち手に接続する視点をお届けします。
-詳細、お申し込みはこちらから。
-なぜ、この八月なのか
-高齢者住宅新聞社の第30回介護経営サミットは、公式案内によれば2026年8月4日から10日までの平日5日間、オンラインで開催されます。番号上は20テーマ、共催枠を含めると28講演、合計およそ20時間40分に及びます。聴講は無料、対象は介護事業者や医療法人などの法人で、後日配信はありません。
-視聴参加、ご検討されてはいかがでしょうか？！
-この夏を選んで開かれる理由は三つに整理できます。
-一つ目は、2026年6月に成立・公布された「社会福祉法等の一部を改正する法律」の存在です。原則として2027年4月1日に施行されるこの改正は、中山間・人口減少地域の特定地域サービス、身寄りのない高齢者への生活・入院・死後事務支援、中重度者を受け入れる有料老人ホームの登録制度、介護保険事業計画の見直し、福祉人材確保協議会、ケアマネジャー更新制の廃止など、極めて広範囲に及びます。介護保険法だけを触った改正ではなく、社会福祉、老人福祉、障害福祉、児童福祉までを横断しました（厚生労働省「社会福祉法等の一部を改正する法律案の概要」）。
-二つ目は、2027年度介護報酬改定に向けた議論の始動です。2026年度改定はプラス2.03％で決着し、処遇改善や生産性向上への上乗せが盛り込まれました。しかし2027年度は、物価と賃金の上昇に対応する経営安定・人材確保と、給付の効率化・適正化が同じテーブルに載る局面に入ります。プラス改定だけを前提にした計画は、この夏で組み直したほうが安全です（厚生労働省「介護給付費分科会 第9回議事資料」）。
-三つ目は、需要側の構造変化です。2025年国民生活基礎調査によれば、65歳以上の者のいる世帯は2,761万4千世帯、うち単独世帯が933万5千世帯で33.8％を占め、夫婦のみ世帯を上回って最も多い世帯構造となりました（厚生労働省「2025年国民生活基礎調査の概況」）。介護需要が伸びるのではありません。伸びるのは、家族が日常的に支えられない人、入退院手続きを一人で担えない人、急変時の連絡先が空欄のままの人、死後事務を頼める相手のいない人の割合です。
-法律は決まりました。しかし、政省令、通知、報酬告示、地域指定の要件は、これから積み上がります。答えを聞く場というより、まだ答えが固定されていない段階で、どこまで準備を始めるかを決める場。それがこの夏の五日間の性格です。
-今回概要まとめ図
-
----
-
-### [介護経営サミット：報酬改定と将来への準備](https://note.com/seodoa_academy/n/n4ffc9227fbf0)
-
-- ソース / Source: note · ハッシュタグ「介護ロボット」 · 2026.07.17
-- ⚠️ メンバーシップ/有料記事のため無料公開部分のみ / Free preview only
-
-![見出し画像](https://assets.st-note.com/production/uploads/images/295002463/rectangle_large_type_2_ba33d7d84d9fb5f1051f840aa642d059.png?width=800)
-
-独居933万世帯の夏、20時間40分で読む介護経営の五つの戦線
-8月4日から10日まで、報酬改定の前に経営はもう動きだしている
-今回のNOTEは、高齢者住宅新聞社が2026年8月4日から10日まで開催する第30回介護経営サミットの、経営者としての読み解き方を掴めます。20テーマ28講演を、制度、人材、AI、財務、看取りという五つの戦線に整理し、なぜこの八月なのか、何を持ち帰り、法人内で誰にどの講演を割り当てれば意思決定に効くのかを考えます。2027年4月1日の改正法施行を前にした準備の座標軸として、明日からの打ち手に接続する視点をお届けします。
-詳細、お申し込みはこちらから。
-なぜ、この八月なのか
-高齢者住宅新聞社の第30回介護経営サミットは、公式案内によれば2026年8月4日から10日までの平日5日間、オンラインで開催されます。番号上は20テーマ、共催枠を含めると28講演、合計およそ20時間40分に及びます。聴講は無料、対象は介護事業者や医療法人などの法人で、後日配信はありません。
-視聴参加、ご検討されてはいかがでしょうか？！
-この夏を選んで開かれる理由は三つに整理できます。
-一つ目は、2026年6月に成立・公布された「社会福祉法等の一部を改正する法律」の存在です。原則として2027年4月1日に施行されるこの改正は、中山間・人口減少地域の特定地域サービス、身寄りのない高齢者への生活・入院・死後事務支援、中重度者を受け入れる有料老人ホームの登録制度、介護保険事業計画の見直し、福祉人材確保協議会、ケアマネジャー更新制の廃止など、極めて広範囲に及びます。介護保険法だけを触った改正ではなく、社会福祉、老人福祉、障害福祉、児童福祉までを横断しました（厚生労働省「社会福祉法等の一部を改正する法律案の概要」）。
-二つ目は、2027年度介護報酬改定に向けた議論の始動です。2026年度改定はプラス2.03％で決着し、処遇改善や生産性向上への上乗せが盛り込まれました。しかし2027年度は、物価と賃金の上昇に対応する経営安定・人材確保と、給付の効率化・適正化が同じテーブルに載る局面に入ります。プラス改定だけを前提にした計画は、この夏で組み直したほうが安全です（厚生労働省「介護給付費分科会 第9回議事資料」）。
-三つ目は、需要側の構造変化です。2025年国民生活基礎調査によれば、65歳以上の者のいる世帯は2,761万4千世帯、うち単独世帯が933万5千世帯で33.8％を占め、夫婦のみ世帯を上回って最も多い世帯構造となりました（厚生労働省「2025年国民生活基礎調査の概況」）。介護需要が伸びるのではありません。伸びるのは、家族が日常的に支えられない人、入退院手続きを一人で担えない人、急変時の連絡先が空欄のままの人、死後事務を頼める相手のいない人の割合です。
-法律は決まりました。しかし、政省令、通知、報酬告示、地域指定の要件は、これから積み上がります。答えを聞く場というより、まだ答えが固定されていない段階で、どこまで準備を始めるかを決める場。それがこの夏の五日間の性格です。
-今回概要まとめ図
-
----
-
-### [自動車工場でのAI導入と雇用不安](https://note.com/china_case/n/nb315e0893629)
-
-- ソース / Source: note · ハッシュタグ「フィジカルAI」 · 2026.07.17
-
-![見出し画像](https://assets.st-note.com/production/uploads/images/295001077/rectangle_large_type_2_67deb958c7be760ff66f84b7df3ef889.png?width=800)
-
-今日の結論
-今日の主役はEV販売ではなく、自動車の「中身」と「作り方」だった。MicronがQualcomm、DENSO、Astemo、Hyundai Mobisなどと長期供給契約を結び、車載メモリとストレージの確保が前面に出た。一方で日本では、トヨタの佐藤恒治氏が国内メーカー間の部品・素材標準化を促し、韓国ではHyundai労組がヒューマノイド導入への不安からストに動いている。自動車産業の競争軸は、完成車の台数から、半導体、標準化、労働と自動化へ広がっている。
-1. Micronの車載供給契約、車は“走るAI端末”へ
-Micronは7月16日、Qualcomm、Visteon、HARMAN、JOYNEXT、DENSO、Astemo、Hyundai Mobisなどと、自動車向けメモリ・ストレージの戦略的顧客契約を結んだと発表した。対象はデジタルコックピット、ADAS、コネクティビティ、ソフトウェア定義車両に必要な部品供給だ。(Micron, Reuters via Investing.com)
-これは地味だが重要なニュース。EVの電池確保と同じくらい、今後は車載メモリとストレージの長期確保が競争力になる。自動運転、車内AI、OTA更新、個人化されたインフォテインメントは、すべて安定した車載半導体の上に乗る。車は「機械製品」から「長寿命のAI端末」に近づいている。
-2. 日本勢は“競わなくていい部分”を共通化へ
-Toyotaの佐藤恒治氏は、日本メーカーが素材、部品、製造工程、物流などで標準化を進めるべきだと述べた。狙いは、各社が同じような基礎課題に個別対応する無駄を減らし、EV、ソフトウェア、先進技術に投資余力を回すことにある。(Autoblog)
-この話は、Honda、Nissan、Mitsubishiが次世代ECUの標準化を検討している流れともつながる。中国勢の開発速度と価格競争に対抗するには、日本メーカーも「全部を自前で差別化する」発想を見直す必要がある。競争すべきはブランド、商品企画、ソフトウェア体験であり、鉄の規格や基礎部品で消耗する時代ではなくなっている。
-3. Hyundaiのスト、工場自動化の次の摩擦を示す
-Hyundaiの韓国労組は、賃金や賞与に加え、ヒューマノイドロボット導入による雇用不安を理由に部分ストを行った。Semaforは、HyundaiがBoston DynamicsのAtlasを工場に導入する計画を示したことが、労組側の不安を強めたと報じている。(Semafor, WSJ)
-ここで見えるのは、EV化とは別の構造変化だ。自動車工場は、電動化だけでなく、AIロボット、デジタルツイン、自動搬送、検査自動化によって変わる。そのとき、効率化の利益を誰が得るのか、雇用をどう守るのかが争点になる。工場の競争力は、技術導入だけでなく労使合意の設計にも左右される。
-今日の小さな変化
-Stellantisは7月16日、2026年上半期のEU30販売が前年比3.8%増の137万台、シェア16.7%だったと発表した。Leapmotor Internationalを含めると成長率は7.3%になる。(Stellantis) 欧州では既存メーカーも完全に押されっぱなしではなく、中国系提携や小型車を組み合わせながら、販売の底を作ろうとしている。
-今日の読み筋
-7月17日版のキーワードは「裏側の競争」です。完成車のニュースだけを見ていると、EV販売、中国車、ロボタクシーに目が行く。しかし今日の材料が示すのは、その裏で半導体供給、部品標準化、工場自動化、労使関係が競争力そのものになっているということだ。
-自動車メーカーはこれから、良い車を作るだけでは足りない。必要なメモリを確保し、共通化できる部品は共通化し、工場にAIを入れながら雇用不安も抑える。その運営力まで含めて、世界の自動車業界の勝ち負けが決まり始めています。
-#中国
-#自動車
-#モビリティ
-#中国モビリティ
-#中医学的身体観
-#中国モビリティと中医学的身体観
-#電気自動車
-#EV
-#BEV
-#REEV
-#EREV
-#レンジエクステンダーEV
-#プラグインハイブリッド
-#PHEV
-#ハイブリッド
-#HEV
-#ICEV
-#自動運転
-#手放し運転
-#スマートドライビング
-#エンドツーエンド
-#E2E
-#AI運転
-#スマートコックピット
-#スマートラウンジ
-#AIスピーカー
-#AIアシスタント
-#AIエージェント
-#Case
-#スマートカー
-#SDV
-#AIDV
-#AI
-#エンボディドAI
-#フィジカルAI
-#毎日note
-#毎日更新
-#毎日投稿
-#note毎日更新
-
----
-
-### [富士通、ロボット大手3社と「フィジカルAI」で協業](https://note.com/supersonic_ai/n/n21664d7452d7)
-
-- ソース / Source: note · ハッシュタグ「ロボット」 · 2026.07.17
-
-![見出し画像](https://assets.st-note.com/production/uploads/images/294955917/rectangle_large_type_2_4789e9e8762aea4a1060b94f97cbbd4e.png?width=800)
-
-2026年7月16日という、たった1日のニュースを並べてみてください。富士通がロボット大手3社と手を組み、GoogleのAIがスマホを閉じても働き続けるようになり、OpenAIは「AIの脆弱性を狙う攻撃」を自動で作り出すモデルを発表し、さらに専用キーボードまで発売しました。
-一見すると、それぞれ別の会社の、別の分野のニュースに見えます。しかし4つを並べて眺めると、「AIにどこまで自律的に判断・行動させるか」という同じ問いに対して、各社がそれぞれの答えを出そうとしていることが見えてきます。今回は、この日に発表された気になるニュース4つを、ビジネスパーソン向けにわかりやすく解説します。
-
-1. 富士通、ロボット大手3社と「フィジカルAI」で協業
-
-富士通、国内ロボット大手3社と「フィジカルAI」で協業　NVIDIAの技術活用（ITmedia NEWS） - Yahoo!ニュース
-
-富士通は7月16日、AIが自律的に考え、ロボットの体を動かす「フィジカルAI」の開発に関し、川崎重工業、ファナック、安川
-
-news.yahoo.co.jp
-
-まず1つ目は、AIが現実世界の「体」を動かす話です。
-富士通は2026年7月16日、川崎重工業、ファナック、安川電機という国内ロボット大手3社と、NVIDIAの技術を活用した「フィジカルAI」の開発で協業すると発表しました。フィジカルAIとは、簡単に言えば「AIが自ら考え、ロボットの体を実際に動かす」技術のことです。これまでのロボットは、あらかじめ決められた動作をプログラムどおりに繰り返すのが基本でした。フィジカルAIが目指すのは、ロボット自身が状況を判断し、プログラムされていない場面にも自律的に対応できるようにすることです。
-具体的には、富士通が開発する次世代CPU「FUJITSU-MONAKA」と、ロボット制御用OS「Fujitsu Kozuchi Physical OS」を土台にし、そこにNVIDIAのシミュレーション基盤「Omniverse」(現実そっくりの仮想空間でロボットの動きを事前に試せるツール)と、ロボット向けAI開発ツール「Isaac」を組み合わせます。この基盤は2026年9月末から石川県の笠島工場で先行導入され、2026年内には川崎重工業・ファナック・安川電機の各社にも展開される予定です。
-狙いは、製造・物流・医療といった現場で、ロボットと業務システム(生産管理や医療情報システムなど)を一体で連携させることです。人手不足に悩む中小の製造業も含めて、日本のものづくり産業全体を底上げしたいという意図が読み取れます。ロボット大国と言われてきた日本ですが、「体はあるが頭脳(自律判断力)はまだ発展途上」という課題が長らく指摘されてきました。今回の協業は、その頭脳の部分をAIで底上げしようとする動きだと捉えると理解しやすいでしょう。
-2. スマホを閉じても働き続けるAI「Gemini Spark」が日本語対応
-
-スマホを閉じても稼働するAI「Gemini Spark」が日本語に対応　Gemini有料プランで順次展開（ITmedia Mobile） - Yahoo!ニュース
-
-Googleは、7月16日にパーソナルAIエージェント「Gemini Spark」の日本語対応を発表した。Gemini
-
-news.yahoo.co.jp
-
-2つ目は、私たちの手元のデバイスの中で起きている変化です。
-Googleが開発した自律型AIエージェント「Gemini Spark」が、日本語に対応しました。Gemini Sparkの最大の特徴は、スマートフォンやパソコンを閉じた後も、クラウド上で稼働し続けることです。最新の言語モデル「Gemini 3.5」と、Googleの新しい開発基盤「Google Antigravity」の上で動作し、情報収集やデータ整理、スケジュール調整、旅行の手配といった作業を、ユーザーに代わって自動で進めてくれます。
-Gmailやカレンダーといった既存サービスとも連携できるほか、任意のアプリと直接つながる「カスタムMCP」という仕組みにも対応しています。MCPとは、AIが外部のアプリやサービスと連携するための共通規格のようなもので、これに対応しているということは、Gemini Sparkが特定のアプリだけでなく、幅広いツールと連携できる汎用性を持つことを意味します。さらに、一度ユーザーが行った作業手順を「スキル」として学習・記憶し、次回以降は自動で再利用する機能も備えています。
-もちろん、何でも勝手に実行してしまうわけではありません。重要な操作を行う前には、必ずユーザーに確認を求める安全機構が組み込まれています。この「基本は自動で進めつつ、重要な判断だけは人に戻す」という設計思想は、後述するOpenAIのセキュリティ対策とも通じる部分があります。提供は「Google AI Ultra」(月額14,500円)の契約者向けから、段階的に展開される予定です。
-筆者自身、普段からAIコーディングエージェント「Claude Code」に作業を任せる機会が増えていますが、実際に使ってみると「何もかも自動で進んでしまう」という印象はあまりありません。ある程度まとまった作業を任せても、判断に迷う場面や、後戻りしにくい操作の手前では、きちんと確認を求めてくることがほとんどです。Gemini Sparkが目指しているのも、おそらく同じ方向性でしょう。「スマホを閉じても働き続ける」と聞くと、AIが勝手に暴走するのではないかと身構えてしまいがちですが、実態は「任せられる範囲を広げつつ、要所要所は人の判断を仰ぐ」という、思ったより地に足のついた設計であることが多いのです。
-3. OpenAI、AIの脆弱性を自動で見つけ出す内部モデル「GPT-Red」
-
-OpenAI、AIの脆弱性を自動検証する内部用モデル「GPT-Red」（Impress Watch） - Yahoo!ニュース
-
-OpenAIは、自動でAIの脆弱性を探す内部向けレッドチームモデル「GPT-Red」を開発した。同モデルを使ってGPT-5
-
-news.yahoo.co.jp
-
-3つ目は、AIの「守り」を固める側の話です。
-OpenAIは、AIシステムの脆弱性を自動で検出・検証するための内部専用モデル「GPT-Red」を開発したと発表しました。主な目的は、「プロンプトインジェクション」と呼ばれる攻撃への耐性を高めることです。プロンプトインジェクションとは、メールの本文やWebページの中に、AIへの悪意ある指示をこっそり埋め込んでおき、AIがそれを本物の指示だと誤解して実行してしまう、という攻撃手法です。Gemini Sparkのように、AIがブラウザや外部アプリ、ローカルファイルを扱う場面が増えるほど、こうした攻撃を受けるリスクも高まります。
-GPT-Redの仕組みは、攻撃側と防御側、2つのAI(LLM)を同時に競わせながら鍛える「自己対戦型強化学習」です。ローカルファイルやメールの本文に不正な命令を埋め込むような状況を人工的に再現し、攻撃と防御のやり取りを大量に繰り返させることで、より巧妙な攻撃パターンをAI自身に見つけさせます。その結果、GPT-Redは84%という高い攻撃成功率を記録し、人間による専門チーム(13%)を大きく上回る効率 を示した、といいます。
-これは裏を返せば、「AIの弱点を見つける作業」も、もはや人間だけでは量とスピードの面で追いつかなくなりつつある、ということでもあります。AIが自律的に動く範囲が広がるほど、その安全性を検証する仕組みもAIに任せて高速化する。この流れは、今後さらに加速していくと考えられます。
-4. OpenAI初のハードウェア「Codex Micro」発売
-
-OpenAI初のハードウェア製品「Codex Micro」発売。AIエージェント操作専用キーパッド（テクノエッジ） - Yahoo!ニュース
-
-OpenAIは、キーボードメーカーのWork Louderと共同開発したキーパッド「Codex Micro」を230ドルで
-
-news.yahoo.co.jp
-
-最後は、AIとの向き合い方そのものを変えようとする動きです。
-OpenAIが、キーボードメーカーのWork Louderと共同開発した専用キーパッド「Codex Micro」を発表しました。同社にとって初のハードウェア製品です。これは、OpenAIのAIコーディングエージェント「Codex」を効率よく操作するために作られた、専用の物理コントローラーだと考えるとイメージしやすいでしょう。価格は230ドルで、2026年7月24日から数量限定・予約制で発売されます。
-Codex Microには、LEDが内蔵された6つのキーが搭載されており、AIエージェントが今どういう状態で作業をしているかを、光で視覚的に確認できます。キーには、コードの承認・却下、作業スレッドの分岐、音声入力といった操作を自由に割り当て可能です。加えて、AIの推論の深さ(どれだけじっくり考えさせるか)を調整するダイヤルや、複数の作業を素早く切り替えるためのジョイスティックも備えています。
-これまでAIエージェントとのやり取りは、基本的にキーボードとマウス、あるいはチャット画面を通じて行うものでした。Codex Microの登場は、AIエージェントの操作体験が、汎用的なキーボードから、専用のハードウェアへと枝分かれし始めていることを示す一つの兆候と言えそうです。
-4つのニュースから見えてくること
-ここまで見てきた4つのニュースは、業界も企業もバラバラです。しかし並べてみると、共通する一本の線が見えてきます。それは、「AIをどこまで自律的に任せられるか」という同じ問いに対して、各社がそれぞれの持ち場で答えを出そうとしている、ということです。
-富士通たちはロボットという「体」の自律性を、Googleは日常業務という「頭脳」の自律性を、OpenAIはその自律性を安全に保つための「守り」と、それを操作するための「専用の手」を、それぞれ同時に進化させようとしています。
-ここで注目したいのは、自律化が進むほど、同時に安全機構も進化している という点です。Gemini Sparkの確認プロンプトや、GPT-Redによる自動レッドチーム検証は、いずれも「AIに任せきりにしない仕組み」を組み込む取り組みです。「AIエージェント=何をするか分からなくて怖い」というイメージを持つ方も多いかもしれませんが、実態としては、自律化と並行して安全性への投資も進んでいる、というのが2026年7月時点でのAI業界の実像だと言えるでしょう。
-ビジネスの現場で生成AIの活用を検討している方にとっては、「AIにどこまで任せるか」を考える際に、こうした安全機構の有無や設計思想をあわせてチェックする視点を持つことが、今後ますます重要になっていきそうです。ツールを選ぶときは、機能の華やかさだけでなく、「重要な判断の前にきちんと人に確認を求めてくれるか」「暴走を防ぐ仕組みがどこまで作り込まれているか」を、一度確認してみることをおすすめします。
-また、今回の4つのニュースは、いずれも「AI任せにする部分」と「人が最終判断する部分」の線引きを、各社が試行錯誤しながら探っている最中であることも示しています。この線引きに唯一の正解はまだありません。だからこそ、自社の業務でAIを活用する際も、最初から全自動を目指すのではなく、まずは「ここまでは任せてよい」という範囲を小さく決めて試し、徐々に広げていくという進め方が、現実的な第一歩になるはずです。
-
----
-
-### [富士通、ロボット大手3社と「フィジカルAI」で協業](https://note.com/supersonic_ai/n/n21664d7452d7)
-
-- ソース / Source: note · ハッシュタグ「フィジカルAI」 · 2026.07.17
-
-![見出し画像](https://assets.st-note.com/production/uploads/images/294955917/rectangle_large_type_2_4789e9e8762aea4a1060b94f97cbbd4e.png?width=800)
-
-2026年7月16日という、たった1日のニュースを並べてみてください。富士通がロボット大手3社と手を組み、GoogleのAIがスマホを閉じても働き続けるようになり、OpenAIは「AIの脆弱性を狙う攻撃」を自動で作り出すモデルを発表し、さらに専用キーボードまで発売しました。
-一見すると、それぞれ別の会社の、別の分野のニュースに見えます。しかし4つを並べて眺めると、「AIにどこまで自律的に判断・行動させるか」という同じ問いに対して、各社がそれぞれの答えを出そうとしていることが見えてきます。今回は、この日に発表された気になるニュース4つを、ビジネスパーソン向けにわかりやすく解説します。
-
-1. 富士通、ロボット大手3社と「フィジカルAI」で協業
-
-富士通、国内ロボット大手3社と「フィジカルAI」で協業　NVIDIAの技術活用（ITmedia NEWS） - Yahoo!ニュース
-
-富士通は7月16日、AIが自律的に考え、ロボットの体を動かす「フィジカルAI」の開発に関し、川崎重工業、ファナック、安川
-
-news.yahoo.co.jp
-
-まず1つ目は、AIが現実世界の「体」を動かす話です。
-富士通は2026年7月16日、川崎重工業、ファナック、安川電機という国内ロボット大手3社と、NVIDIAの技術を活用した「フィジカルAI」の開発で協業すると発表しました。フィジカルAIとは、簡単に言えば「AIが自ら考え、ロボットの体を実際に動かす」技術のことです。これまでのロボットは、あらかじめ決められた動作をプログラムどおりに繰り返すのが基本でした。フィジカルAIが目指すのは、ロボット自身が状況を判断し、プログラムされていない場面にも自律的に対応できるようにすることです。
-具体的には、富士通が開発する次世代CPU「FUJITSU-MONAKA」と、ロボット制御用OS「Fujitsu Kozuchi Physical OS」を土台にし、そこにNVIDIAのシミュレーション基盤「Omniverse」(現実そっくりの仮想空間でロボットの動きを事前に試せるツール)と、ロボット向けAI開発ツール「Isaac」を組み合わせます。この基盤は2026年9月末から石川県の笠島工場で先行導入され、2026年内には川崎重工業・ファナック・安川電機の各社にも展開される予定です。
-狙いは、製造・物流・医療といった現場で、ロボットと業務システム(生産管理や医療情報システムなど)を一体で連携させることです。人手不足に悩む中小の製造業も含めて、日本のものづくり産業全体を底上げしたいという意図が読み取れます。ロボット大国と言われてきた日本ですが、「体はあるが頭脳(自律判断力)はまだ発展途上」という課題が長らく指摘されてきました。今回の協業は、その頭脳の部分をAIで底上げしようとする動きだと捉えると理解しやすいでしょう。
-2. スマホを閉じても働き続けるAI「Gemini Spark」が日本語対応
-
-スマホを閉じても稼働するAI「Gemini Spark」が日本語に対応　Gemini有料プランで順次展開（ITmedia Mobile） - Yahoo!ニュース
-
-Googleは、7月16日にパーソナルAIエージェント「Gemini Spark」の日本語対応を発表した。Gemini
-
-news.yahoo.co.jp
-
-2つ目は、私たちの手元のデバイスの中で起きている変化です。
-Googleが開発した自律型AIエージェント「Gemini Spark」が、日本語に対応しました。Gemini Sparkの最大の特徴は、スマートフォンやパソコンを閉じた後も、クラウド上で稼働し続けることです。最新の言語モデル「Gemini 3.5」と、Googleの新しい開発基盤「Google Antigravity」の上で動作し、情報収集やデータ整理、スケジュール調整、旅行の手配といった作業を、ユーザーに代わって自動で進めてくれます。
-Gmailやカレンダーといった既存サービスとも連携できるほか、任意のアプリと直接つながる「カスタムMCP」という仕組みにも対応しています。MCPとは、AIが外部のアプリやサービスと連携するための共通規格のようなもので、これに対応しているということは、Gemini Sparkが特定のアプリだけでなく、幅広いツールと連携できる汎用性を持つことを意味します。さらに、一度ユーザーが行った作業手順を「スキル」として学習・記憶し、次回以降は自動で再利用する機能も備えています。
-もちろん、何でも勝手に実行してしまうわけではありません。重要な操作を行う前には、必ずユーザーに確認を求める安全機構が組み込まれています。この「基本は自動で進めつつ、重要な判断だけは人に戻す」という設計思想は、後述するOpenAIのセキュリティ対策とも通じる部分があります。提供は「Google AI Ultra」(月額14,500円)の契約者向けから、段階的に展開される予定です。
-筆者自身、普段からAIコーディングエージェント「Claude Code」に作業を任せる機会が増えていますが、実際に使ってみると「何もかも自動で進んでしまう」という印象はあまりありません。ある程度まとまった作業を任せても、判断に迷う場面や、後戻りしにくい操作の手前では、きちんと確認を求めてくることがほとんどです。Gemini Sparkが目指しているのも、おそらく同じ方向性でしょう。「スマホを閉じても働き続ける」と聞くと、AIが勝手に暴走するのではないかと身構えてしまいがちですが、実態は「任せられる範囲を広げつつ、要所要所は人の判断を仰ぐ」という、思ったより地に足のついた設計であることが多いのです。
-3. OpenAI、AIの脆弱性を自動で見つけ出す内部モデル「GPT-Red」
-
-OpenAI、AIの脆弱性を自動検証する内部用モデル「GPT-Red」（Impress Watch） - Yahoo!ニュース
-
-OpenAIは、自動でAIの脆弱性を探す内部向けレッドチームモデル「GPT-Red」を開発した。同モデルを使ってGPT-5
-
-news.yahoo.co.jp
-
-3つ目は、AIの「守り」を固める側の話です。
-OpenAIは、AIシステムの脆弱性を自動で検出・検証するための内部専用モデル「GPT-Red」を開発したと発表しました。主な目的は、「プロンプトインジェクション」と呼ばれる攻撃への耐性を高めることです。プロンプトインジェクションとは、メールの本文やWebページの中に、AIへの悪意ある指示をこっそり埋め込んでおき、AIがそれを本物の指示だと誤解して実行してしまう、という攻撃手法です。Gemini Sparkのように、AIがブラウザや外部アプリ、ローカルファイルを扱う場面が増えるほど、こうした攻撃を受けるリスクも高まります。
-GPT-Redの仕組みは、攻撃側と防御側、2つのAI(LLM)を同時に競わせながら鍛える「自己対戦型強化学習」です。ローカルファイルやメールの本文に不正な命令を埋め込むような状況を人工的に再現し、攻撃と防御のやり取りを大量に繰り返させることで、より巧妙な攻撃パターンをAI自身に見つけさせます。その結果、GPT-Redは84%という高い攻撃成功率を記録し、人間による専門チーム(13%)を大きく上回る効率 を示した、といいます。
-これは裏を返せば、「AIの弱点を見つける作業」も、もはや人間だけでは量とスピードの面で追いつかなくなりつつある、ということでもあります。AIが自律的に動く範囲が広がるほど、その安全性を検証する仕組みもAIに任せて高速化する。この流れは、今後さらに加速していくと考えられます。
-4. OpenAI初のハードウェア「Codex Micro」発売
-
-OpenAI初のハードウェア製品「Codex Micro」発売。AIエージェント操作専用キーパッド（テクノエッジ） - Yahoo!ニュース
-
-OpenAIは、キーボードメーカーのWork Louderと共同開発したキーパッド「Codex Micro」を230ドルで
-
-news.yahoo.co.jp
-
-最後は、AIとの向き合い方そのものを変えようとする動きです。
-OpenAIが、キーボードメーカーのWork Louderと共同開発した専用キーパッド「Codex Micro」を発表しました。同社にとって初のハードウェア製品です。これは、OpenAIのAIコーディングエージェント「Codex」を効率よく操作するために作られた、専用の物理コントローラーだと考えるとイメージしやすいでしょう。価格は230ドルで、2026年7月24日から数量限定・予約制で発売されます。
-Codex Microには、LEDが内蔵された6つのキーが搭載されており、AIエージェントが今どういう状態で作業をしているかを、光で視覚的に確認できます。キーには、コードの承認・却下、作業スレッドの分岐、音声入力といった操作を自由に割り当て可能です。加えて、AIの推論の深さ(どれだけじっくり考えさせるか)を調整するダイヤルや、複数の作業を素早く切り替えるためのジョイスティックも備えています。
-これまでAIエージェントとのやり取りは、基本的にキーボードとマウス、あるいはチャット画面を通じて行うものでした。Codex Microの登場は、AIエージェントの操作体験が、汎用的なキーボードから、専用のハードウェアへと枝分かれし始めていることを示す一つの兆候と言えそうです。
-4つのニュースから見えてくること
-ここまで見てきた4つのニュースは、業界も企業もバラバラです。しかし並べてみると、共通する一本の線が見えてきます。それは、「AIをどこまで自律的に任せられるか」という同じ問いに対して、各社がそれぞれの持ち場で答えを出そうとしている、ということです。
-富士通たちはロボットという「体」の自律性を、Googleは日常業務という「頭脳」の自律性を、OpenAIはその自律性を安全に保つための「守り」と、それを操作するための「専用の手」を、それぞれ同時に進化させようとしています。
-ここで注目したいのは、自律化が進むほど、同時に安全機構も進化している という点です。Gemini Sparkの確認プロンプトや、GPT-Redによる自動レッドチーム検証は、いずれも「AIに任せきりにしない仕組み」を組み込む取り組みです。「AIエージェント=何をするか分からなくて怖い」というイメージを持つ方も多いかもしれませんが、実態としては、自律化と並行して安全性への投資も進んでいる、というのが2026年7月時点でのAI業界の実像だと言えるでしょう。
-ビジネスの現場で生成AIの活用を検討している方にとっては、「AIにどこまで任せるか」を考える際に、こうした安全機構の有無や設計思想をあわせてチェックする視点を持つことが、今後ますます重要になっていきそうです。ツールを選ぶときは、機能の華やかさだけでなく、「重要な判断の前にきちんと人に確認を求めてくれるか」「暴走を防ぐ仕組みがどこまで作り込まれているか」を、一度確認してみることをおすすめします。
-また、今回の4つのニュースは、いずれも「AI任せにする部分」と「人が最終判断する部分」の線引きを、各社が試行錯誤しながら探っている最中であることも示しています。この線引きに唯一の正解はまだありません。だからこそ、自社の業務でAIを活用する際も、最初から全自動を目指すのではなく、まずは「ここまでは任せてよい」という範囲を小さく決めて試し、徐々に広げていくという進め方が、現実的な第一歩になるはずです。
-
----
-
-### [AI時代に人間の価値とは？体験を超えた妄想力](https://note.com/shinchan194/n/nde4c259a7152)
-
-- ソース / Source: note · ハッシュタグ「人型ロボット」 · 2026.07.17
-
-![見出し画像](https://assets.st-note.com/production/uploads/images/294987099/rectangle_large_type_2_d0e3601671b52be6ff5abb48c8950c16.jpg?width=800)
-
-「体験だけが武器」と聞いて安心した
-AI時代は人間のリアルな体験や経験が武器になる。
-
-そんな話をYouTubeで聞いて少し安心しました。
-
-旅行の感動や、熱々のラーメンをすする体験はAIには真似できないと思ったからです。
-
-しかし、その考えはすぐに揺らぎました。
-
-「ムームーサーバー」メールもサイト作成も初期費用0円でスタート! | ムームードメイン
-
-「ムームーサーバー」は、ムームードメインが提供するレンタルサーバー。取得したドメインとともに、WordPressのサイトや
-
-px.a8.net
-
-フィジカルAIが増えたらどうなる？
-最近は人型ロボットやフィジカルAIの進化が目覚ましいです。
-
-もし将来、人間1人に対して3体のフィジカルAIが存在したらどうでしょう。
-
-雨の日の通勤。
-
-潮風の香る海辺。
-
-焼きたてパンの匂い。
-
-転んだ痛み。
-
-そんな体験をロボットが毎日積み重ねます。
-
-しかも体験データは瞬時に共有されます。
-
-そうなると、人間の身体的経験も追い抜かれるかもしれません。
-それでも人間には武器がある
-そこで私は考えました。
-
-人間の価値は体験そのものではないのではないかと。
-
-同じ夕焼けを見ても、人によって感じ方は違います。
-
-そして体験から妄想し、新しい物語やアイデアを生み出します。
-
-私が今回した妄想もその一つです。
-AI時代に残る人間の強み
-AIが体験を集める存在なら、人間は体験を意味に変える存在です。
-
-経験から未来を想像する。
-
-失敗から新しい挑戦を考える。
-
-その力こそが人間らしさなのかもしれません。
-
-AI時代に必要なのは体験の量ではなく、体験から何を妄想できるか。
-
-私はそんな未来に少しワクワクしています。
-
-ロリポップ！レンタルサーバー｜WordPressの表示速度No.1
-
-【WordPressの表示速度No.1】のレンタルサーバー「ロリポップ！」月額660円から高速WordPressが使える！
-
-px.a8.net
-
-以上いかがでしたでしょうか？
-もし共感したら、コメントやスキを押してくれると励みになります。
-
-この記事が少しでもお役に立てたら、今後の活動の励みになりますので、広告を見ていただいたり、チップいただけると嬉しいです！
-
-なお、チップは全て地元NPOへ寄付させていただきます。
-#AI #生成AI #フィジカルAI #人型ロボット #AGI #未来予測 #AI時代 #人間の価値 #妄想力 #新規事業
-#悪用厳禁 #失敗から学ぶ
-<参考プロンプト>
-(1) 下記の#元記事を元にして、YouTubeで人間がこの後AIに勝っていける道として、リアルな体験や経験で勝負するしかないっていう話を聞き、アンチテーゼとして妄想して見たというストーリーで、次の点を考慮してnote向けの記事を書いてください。 ①noteで注目を集めるキーワードを織り交ぜる。 ②冒頭に共感を誘うような強めのネガティブ要素もしっかり入れる。 ③総じて「共感→問題提起→解決策→感動」の構成とする。 ④五感を刺激する「シズル」を織り込む。 ⑤身近なものや日常のことに例えること。 ⑥章に分けて、各章のタイトルは共感を呼ぶ刺激的な内容で大きい文字とする。 ⑦記事のタイトルも作ってください。切り口としては、失敗したけど解決出来た風で共感が持てて検索に掛かり易く、また4U法則を交えたものにする。 ⑧表になる内容は、表は使わず箇条書きにする。 ⑨ 記事の内容に沿うように、SEOに強いワードを入れてください。 ⑩ 絵文字や特殊記号は使わないでください。  ⑪視覚的な読みやすさを最優先してください。  ⑫すべての文 の「。」の後に改行を入れ、その行（空行になるはずの行）に全角スペースを1つだけ入力し、さらに改行を入れてから、次の文を開始してください。   ⑬文章をダラダラと繋げず、1文1文を短く区切って配置してください。  ⑭記事全体で2000文字以内に収まる様にしてください。  記事が終わった後に下記の#文末テキストを挿入してください。 その後に続いて、noteでヒットしそうな記事内容と関連したハッシュタグも作ってください。ハッシュタグは改行せずに半角スペースで区切って横にならべてください。  #文末テキスト 以上いかがでしたでしょうか？ もし共感したら、コメントやスキを押してくれると励みになります。  この記事が少しでもお役に立てたら、今後の活動の励みになりますので、広告を見ていただいたり、チップいただけると嬉しいです！ なお、チップは全て地元NPOへ寄付させていただきます。
-#元記事
-AIには身体性がないって言われてますね。
-昨今、発達しているフィジカルAIまぁ概ね人型ロボットが増えてった時に彼らが体験した。まさに体を持って体験したことってデータとして共有化され、しかもそれほど遠くない将来に人間1人について3体のフィジカルAIが用意されようとすると、身体的な経験値についてもあっという間に人類がこれまで体験してきたような身体的経験をカバーしてしまうんじゃないかとと思いました。
-表示を増やす
-(2) 下記案件で感動している普通の60歳の男性で髪の毛は普通にある普遍的な顔を元にした漫画風のイラストで、 サイズは16:9の横長、背景は白地で青い万年筆の線画で描いてください。
-<案件>
-ロボットと夕陽が沈みかける海を見ながら海辺のデッキチェアに座ってビールを乾杯している60代の男性
-(3) 記事の行間を1行づつ詰めてください
-
----
-
-### [銅価格高騰でアルミ化加速、中国自動車業界の材料転換](https://note.com/china_case/n/n6e2307924c07)
-
-- ソース / Source: note · ハッシュタグ「フィジカルAI」 · 2026.07.17
-
-![見出し画像](https://assets.st-note.com/production/uploads/images/294997507/rectangle_large_type_2_f3efc522b3e217af089b9727ae7fe629.png?width=800)
-
-©CHINA CASE
-
-1. 中国自動車業界初の完成車コスト算定ルールを正式策定
-このほど、中国汽車工業協会（CAAM）の主導のもと、中国の主要完成車メーカー18社が共同で策定した「中国自動車業界 完成車コスト算定ルール」が団体標準として正式に発表されました。
-これは中国で初めて策定された、完成車メーカー向けの統一コスト算定ルールです。同協会は、
-長年続いてきた「価格ではなくコストを示す基準がない」という課題を解消し、
-過度な価格競争の是正
-
-業界の質の高い発展
-
-を促進する重要な取り組みだと説明しています。また、この標準は業界各社の共通認識を反映した、自主的な業界ルール整備の成果でもあるとしています。
-2. 北汽集団、上半期販売79.5万台　自主ブランドは14.2％増
-北汽集団は7月13日、2026年上半期の販売実績を発表しました。上半期の累計販売台数は79.5万台でした。内訳は以下の通りです。
-自主ブランド：53.5万台（前年同期比14.2％増）
-
-新エネルギー車（NEV）：18.1万台（同22.6％増）
-
-輸出台数：18.4万台（同30.8％増）
-
-自主ブランド、NEV、輸出のいずれも前年を上回りました。
-3. CPCA：7月1～12日の乗用車小売販売は44.3万台　前年同期比15％減
-中国乗用車市場情報連席会（CPCA）が7月15日に発表したデータによると、7月1～12日の全国乗用車小売販売台数は44.3万台となり、
-前年同期比：15％減
-
-前月同期比：1％減
-
-でした。2026年累計では、914.4万台となり、前年同期比20％減となっています。新エネルギー車（NEV）の小売販売は28万台で、
-前年同期比：8％減
-
-前月同期比：3％減
-
-となりました。2026年累計では、498.4万台となり、前年同期比14％減となっています。
-4. 新型Li Auto L6、本日発売
-理想汽車（Li Auto）は、新型L6を7月16日に正式発売します。現時点で判明している情報によると、L8やL9のような全面刷新ではないものの、
-エクステリア
-
-インテリア
-
-インテリジェント機能
-
-バッテリー
-
-などが幅広く改良されており、実質的な中期改良モデル（マイナーチェンジ）と位置付けられます。理想汽車のCEO・李想氏はSNSで、
-「価格・サイズ・使い勝手のバランスを重視し、最も実用的で装備の充実したモデルを求めるなら、新型L6をぜひ見てほしい。このクラスで最高の体験を提供する一台になると考えている。」
-
-とコメントしています。
-5. 吉利控股集団、上半期販売193万台超　NEV比率56.9％
-吉利控股集団は7月15日、2026年上半期の販売実績を発表しました。累計販売台数は1,934,842台となり、上半期として過去最高を更新しました。
-そのうち、新エネルギー車（NEV）の販売は1,100,893台となり、前年同期比10％増。NEV比率は56.9％まで上昇しました。
-6. 銅価格高騰で「銅からアルミへ」　自動車業界で材料転換が加速
-2026年上半期、国際銅価格は1トン当たり15,000米ドル近くまで上昇し、過去最高水準を記録しました。
-これを受けて、自動車業界では長年続いてきた「銅からアルミへの材料置換」が本格化しています。
-フェラーリのようなスーパーカー
-
-テスラ
-
-BMW
-
-中国の新興EVメーカー
-
-まで、世界中の自動車メーカーがアルミ化を進めているという。
-銅価格の高騰を背景に、世界の自動車産業では軽量化とコスト抑制を目的とした材料革命が加速しています。
-#中国
-#自動車
-#モビリティ
-#中国モビリティ
-#中医学的身体観
-#中国モビリティと中医学的身体観
-#電気自動車
-#EV
-#BEV
-#REEV
-#EREV
-#レンジエクステンダーEV
-#プラグインハイブリッド
-#PHEV
-#ハイブリッド
-#HEV
-#ICEV
-#自動運転
-#手放し運転
-#スマートドライビング
-#エンドツーエンド
-#E2E
-#AI運転
-#スマートコックピット
-#スマートラウンジ
-#AIスピーカー
-#AIアシスタント
-#AIエージェント
-#Case
-#スマートカー
-#SDV
-#AIDV
-#AI
-#エンボディドAI
-#フィジカルAI
-#毎日note
-#毎日更新
-#毎日投稿
-#note毎日更新
-
----
-
-### [人型ロボットが製造業を変革する未来](https://note.com/tarafuku356/n/n76a901c1d87c)
-
-- ソース / Source: note · ハッシュタグ「人型ロボット」 · 2026.07.17
-
-![見出し画像](https://assets.st-note.com/production/uploads/images/294995043/rectangle_large_type_2_471bb4e9fa6fdc6484ad9cb064469917.png?width=800)
-
-AIの破壊的イノベーションと人間の価値:自動車の時代、クルマ屋の時代は間もなく終わる。その間もなくが何時か？早ければ3年後、遅くても10年以内には確実に終わる。
-以下の動画のFigure AI社のAIヒューマノイドの2026年5月～前後の動画とテスラTesla Cybercabのテスト映像である。
-https://youtu.be/Eu5mYMavctM　　BMWの工場での単純作業
-https://youtu.be/JeeJJ42TKQU　　配送センターでラベルの裏返し作業・200時間連続人とほぼ同じ効率
-https://youtu.be/8xEuFQz4E4A　　部屋の片づけとベッドメイキング・・2台共同作業
-https://www.instagram.com/reel/DaN_WePzreE/　　　Tesla Cybercab無人テスト走行開始
-Tesla Cybercabはクルマでは無い”タイヤの4つ付いたAIロボット”ですね！
-既に始まって居るAIエージェントとフィジカルAIが塗り替える2033年までの職業地図：生き残るための「第一原理」と「EQ」の力
-プロローグ：AIは「チャット」から「自律実行（エージェント）」の時代へ
-
-2024年から2026年にかけて発表された最新の学術論文、およびNeurIPSやICMLといったトップクラスのAI学会における動向を俯瞰すると、労働経済は今、歴史的な転換点の入り口に立っていることが明白です。我々はこれまでAIを「問いに対して回答を生成するチャットツール」として利用してきましたが、2026年から2029年にかけてのフェーズは、「Agentic AI（AIエージェント）」への完全移行期と定義されます。
-今回の目的は、単なる技術的トレンドの紹介ではありません。自律的に思考し、システムを操作するAIエージェントと、物理空間を制するフィジカルAIがもたらす労働市場の劇的な再編を、ビジネスモデル及び労働経済研究者の視点で冷徹かつ緻密に論じることにあります。
-2033年までの10年間で、従来のホワイトカラー業務の「チェーン（工程）」がいかに崩壊し、どのような「聖域」が残るのか。最新のQ1・Q2ジャーナルの知見と多くのエビデンスデータに基づき、我々が直面する残酷なまでの変化と、それを乗り越えるための「第一原理思考」を提示します。
-第1フェーズ：2026年〜2029年におけるホワイトカラー業務の崩壊と再編
-
-今後3年間、ホワイトカラーの職域は「補助」から「代替」へとそのフェーズを深化させます。鍵となるのは「Agentic AI」です。これは従来のAIのように「メールの下書きを書く」といった単発のタスクではなく、「顧客の意図を汲み、データベースを照合し、ERP（基幹系統）を操作し、必要な契約書を読み解いた上で、自律的に外部と交渉・実行する」という一連の業務プロセス（バリューチェーン）を完結させる能力を指します。
-今後3年間で最も消失リスクが高い仕事 TOP10
-以下のデータは、職業の完全な消滅を意味するのではなく、AIエージェントによって現在の雇用人数の大半が不要となる「代替率」を示しています。
-順位　職業　推定代替率　消失の主因の順に列記する。
-①コールセンター・電話オペレーター75〜90% 音声AIによる感情理解と即時解決力の向上
-②データ入力・事務補助	70〜90%	OCRとAIエージェントによる自動記帳・照合
-③経理入力・請求書処理	65〜85%	複数システムを跨ぐ自律的なERP操作
-④翻訳・通訳（一般用途）60〜85%	リアルタイム・コンテキスト理解の高度化
-⑤Webライター・SEOライター　60〜80% 大量生成と検索エンジン最適化の自動化
-⑥初級プログラマー・コーダー50〜80% 要件定義からの自律的なコード生成とデバッグ
-⑦パラリーガル・契約書レビュー補助　50〜75% 判例照合からリスク抽出までの自動完結
-⑧一般カスタマーサポート50〜75%	マルチモーダルAIによるトラブルシューティング
-⑨営業事務・受発注処理	45〜70%	在庫・配送システムと連動した自律対応
-⑩銀行窓口・保険事務	40〜70%	パーソナライズされたAI提案と手続きの自動化
-「業務チェーンの自律化」が意味する中間管理職の不要
-Agentic AIの衝撃は、単なる「効率化」に留まりません。従来、複雑な事務プロセスでは「作業者」と、そのミスをチェックし進捗を管理する「管理者」が必要でした。しかし、AIエージェントが自己修正機能（Self-Correction）を持ってプロセスを完遂できるようになると、中間層による監督コストが極小化されます。人間が「AIを補助する」のではなく、AIが実行し、人間は「プロセスの設計」という上位概念に特化せざるを得なくなるのです。
-フィジカルAIの台頭：物理空間における労働の変容
-
-ソフトウェアの世界がAIエージェントに席巻される一方で、ヒューマノイドや次世代ロボットアームに搭載される「フィジカルAI」も確実に物理空間の労働を塗り替えます。ただし、物理世界には「モラベックのパラドックス（高度な推論より、1歳児レベルの運動スキルのほうが機械には困難）」という壁が存在します。
-フィジカルAI・ロボットの影響が大きい仕事
-順位	仕事	3年間の置換率
-①	物流仕分け	50〜70%
-②	倉庫ピッキング	45〜70%
-③	工場組立補助	40〜65%
-④	検品作業	40〜65%
-⑤	飲食チェーン厨房35〜60%
-⑥	ホテル清掃	30〜55%
-⑦	スーパー品出し	30〜50%
-⑧	警備巡回	30〜50%
-⑨	タクシー（限定地域）20〜40%
-⑩	配送（都市部）	20〜40%
-導入障壁と専門的考察
-物理世界における導入速度が知的労働に比して緩やかな理由は、環境の複雑性とハードウェアコストにあります。ソフトウェアは一度のアップデートで地球上の全端末に展開可能ですが、ロボットは現場ごとのキャリブレーション（調整）が必要です。しかし、物流倉庫のような「構造化された環境」から置換は始まり、2020年代後半にはエッジAIの進化により、非構造化環境（不特定多数の人間がいる空間）への適応が本格化するでしょう。
-第2フェーズ：2030年〜2033年、マルチエージェントとAIネイティブ企業の出現
-
-2030年代に入ると、社会は単体のAI活用から、複数のAIエージェントが相互に交渉・連携し、自律的に組織を運営する「マルチエージェントシステム」の段階へ移行します。
-消失リスクの加速：事務・専門職補助の極限値
-この時期、ホワイトカラーの定型業務はほぼ「消滅」の域に達します。
-職業（2030〜2033年）	推定減少率	特徴
-コールセンター・電話応対　95〜99%　完全無人化された24時間対応
-データ入力・事務補助90〜　98%　人間の介在しないデータフローの完成
-経理・会計入力	85〜95%	全取引のリアルタイム自動監査
-一般事務・営業事務　80〜95%　AI間のAPI連携による自動調整
-初級プログラマー　75〜90%　AIによる自己進化型コードの生成
-自律型組織（AIネイティブ企業）の正体
-2030年代の企業は、現代のような「部署」の概念を失っている可能性があります。「営業AI」がリードを獲得し、「契約AI」がリーガルチェックを行い、「経理AI」が決済を完了し、「法務AI」がコンプライアンスを監視する。これらのマルチエージェントが、人間の指示を待たず24時間365日、ミリ秒単位で連携してビジネスを回します。これが「AIネイティブ企業」です。ここでは、人間はもはや労働力ではなく、システムの「オーナー」としての意思決定と責任の引き受けのみが仕事となります。
-AI時代を生き抜く「聖域」：代替困難な職業の共通点
-
-全ての業務がAIに浸透する中で、依然として人間が圧倒的な優位性を保つ領域があります。代替率が10〜20%程度に留まるこれらの仕事は、社会のインフラとしての「信頼の拠点」となります。
-失われにくい仕事 TOP10（ソース準拠）
-順位	仕事	AI代替率	理由の核の順に以下に示します。
-①	看護師	10〜20%	身体的ケアと患者の精神的安定の両立
-②	介護福祉士　10〜20%	非定型な身体介助と高い対人共感力
-③	救急医	10〜20%	瞬時のトリアージと前例のない事態への即断
-④	電気工事士　10〜20%　狭小・複雑な現場における非定型技能
-⑤	配管工・設備工　10〜20%	劣化状況が千差万別な物理インフラの修理
-⑥	建築施工管理（現場）10〜25%　職人間の調整、天候等の突発事象への対応
-⑦	保育士	10〜25%	子供の予測不能な行動への安全確保と教育
-⑧	心理カウンセラー　15〜30%　言語化されない苦悩への深い共感と信頼形成
-⑨	高度営業（経営者向け）15〜30%　複雑な利害関係の調整と最後の一押しの信頼
-⑩	研究者（新分野創造）15〜35%　既存データにない未知の問いを立てる力
-聖域を構成する「6つの要素」の深掘り
-なぜこれらの職業は代替されないのか。それはAIが原理的に「責任」を取れず、「想定外の物理現象」に弱いためです。
-現場判断： センサーに映らない微妙な空気感や物理的な違和感を察知する力。
-
-身体技能： 現場ごとに異なる重力、摩擦、素材の硬度に対応する繊細な運動能力。
-
-信頼形成： 「この人が言うなら」という、非論理的な感情に基づく人間同士のコミットメント。
-
-責任： 誤診や事故が起きた際、法的な罰や倫理的糾弾を一身に引き受ける能力。
-
-感情理解： 怒り、悲しみ、期待といった機微な感情を汲み取り、最適ではなく「納得」を提示する力。
-
-想定外対応： 学習データに存在しない「ブラックスワン（極稀に起こる衝撃的事象）」への即興的対処。
-
-新たな価値の創造：AI時代に誕生する高付加価値キャリア
-
-既存の職が奪われる一方で、AIを「構築・監督・調律」するための新たな高年収職種が誕生します。
-新職種 TOP10 とその期待価値
-順位	職業名	期待価値	主な役割
-①　AI Agent Architect　★★★★★企業のバリューチェーンを繋ぐマルチエージェントの設計
-②　AI Workflow Designer　★★★★★人間とAIが混在する業務フローの最適化デザイン
-③　Chief AI Officer (CAIO)　★★★★★経営戦略とAI実装を統合し、ガバナンスを統括する
-④　ヒューマノイド運用管理者　★★★★★物理空間で働くロボット群の群制御とトラブル対応
-⑤　AIセキュリティ専門家　★★★★★プロンプトインジェクションやモデル盗用への防御
-⑥　AI評価・安全性監査	★★★★☆AIの判断がバイアスを含まず倫理的かを検証する第三者
-⑦　AI×業界コンサルタント　★★★★☆業界固有の商慣習（暗黙知）をAIに学習・適応させる
-⑧　AIデータ品質管理	★★★★☆AIの精度を左右する「高純度な教師データ」の選別
-⑨　ロボット保守・運用	★★★★☆物理的損傷や摩耗に対するメンテナンスと調整
-⑩　AI教育・リスキリング講師　★★★★☆人間にAI時代の武器（スキル）を授ける指導者
-現在、求人市場ではAI GovernanceやAI Securityといった職種が、かつてのデータサイエンティストを凌ぐ需要を見せています。これらは「AIを作る」段階から「AIを社会のルールに適合させ、安全に運用する」段階へとビジネスの主戦場が移ったことを示唆しています。
-能力のパラダイムシフト：IQからEQ、そして「問題発見力」へ
-
-AIが計算、暗記、パターン認識といった「IQ的側面」をコモディティ化させる中で、人間の希少価値は「EQ」と「問題設定能力」へ劇的にシフトします。
-価値の再定義：問題設定（Problem Framing）
-AIは「与えられた問い」を解く速度において人間を凌駕しますが、「そもそも何を解くべきか」を決めることはできません。 例えば、トヨタ自動車が直面している課題は、販売台数の維持なのか、ソフトウェア競争力なのか、あるいはAI人材の確保なのか。AIはそれぞれのシナリオにおける最適解を出せますが、「現在の経営資源をどこに全張りすべきか」という優先順位の決定（Problem Framing）は、人間の経営判断に委ねられます。
-EQ（感情知能）という最強の差別化
-論理的に正しいだけの正解は、誰でもAIを使って導き出せるようになります。その時、組織を動かすのは「正しい論理」ではなく、「この人のビジョンに乗りたい」と思わせる共感力や説得力、リーダーシップといったEQです。
-2030年代の能力ランキング（ソース準拠）
-順位	能力	重要性
-①	本質を見抜く力（問題設定）「解くべき問い」を見極める能力
-②	迅速で責任ある意思決定	リスクを引き受け「決める」力
-③	EQ（共感・信頼・リーダーシップ）　AIに不可能な「納得」と「団結」を創る力
-④	AIエージェントを設計・管理する力　複数のAIを部下として使いこなす力
-⑤	長期的なシステム思考	10〜20年後の社会構造を鳥瞰する力
-⑥	創造力・新しい発想	既存データの延長線上にない飛躍
-⑦	倫理・ガバナンスの判断	人間としての良心に基づく防波堤
-⑧	交渉・合意形成	利害対立を感情とロジックで解きほぐす
-⑨	専門知識を統合する力	多分野のAIアウトプットを一つに纏める力
-⑩	IQ的な計算・暗記能力	AIによる代替が最も容易な領域
-高度な思考モデル：歴史・原理原則・第一原理思考の統合
-
-不確実な未来において、我々の北極星となるのは、時代に翻弄されない「思考のフレームワーク」です。
-歴史を俯瞰する洞察力
-AIは「データ」を処理しますが、人間は「歴史」を洞察します。馬車から自動車、ガラケーからスマホといった過去のパラダイムシフトを俯瞰すれば、「技術が成熟しきった瞬間に、旧来のビジネスモデルは音を立てて崩壊する」という不変のパターンが見えてきます。この因果関係を抽象化し、今この瞬間に応用する力が、AI時代を勝ち抜く戦略眼となります。
-第一原理思考（First Principles Thinking）の適用
-「前例がこうだから」「世間一般ではこうだから」という思考停止を排除し、事象を物理法則や経済原理といった「最小単位の真実」まで分解して考えるのが第一原理思考です。AIは過去のパターンの確率論的な最適化は得意ですが、常識を疑い、「物理的に可能か」からスタートしてゼロからイノベーションを構築する飛躍的な思考は、人間にしかできません。
-キャリア価値を最大化する方程式
-2030年代、我々の人材価値（Market Value）は以下の掛け算によって決定されます。
-価値 ≒（歴史を俯瞰する力）×（第一原理思考）×（AI理解）×（EQ）×（決断力）
-この数式は「掛け算」であることが肝要です。どれほどAIに精通していても、歴史的背景を無視すれば方向を見誤り、どれほどEQが高くても、第一原理に基づいた合理性がなければ組織を誤った方向に導きます。全ての要素をバランスよく、かつ高い次元で統合することが求められます。
-エピローグ：変化を正しく捉え、自分を更新し続ける勇気
-
-2030年代の労働市場は、かつてないほど残酷で、かつてないほど刺激的です。「人がAIを補助する」時代は終わり、「AIエージェントが業務を主体的に遂行し、人間がその設計・監督・責任を担う」という役割の逆転が完成します。
-この時代において、我々を支えるのは「昨日までの知識」ではありません。新しい証拠や技術的現実を前にした時、自分の古い仮説を潔く捨て、自分自身をアップデートし続ける「柔軟な適応力」こそが、唯一にして最大の生存戦略となります。
-変化を恐れ、現状に固執することは、AIという巨大な潮流に呑み込まれることを意味します。しかし、AIを自らの能力を拡張する「エージェント」として手なずけ、人間固有の「責任」と「創造」の領域に軸足を移す者にとって、2033年までの10年間は、人類史上最も生産性が高く、創造性に満ちた黄金時代となるはずです。恐れることなく、この劇的な再編の主役として、新たなキャリアを切り拓いていきましょう。
-さぁ～～～貴方のAI力はどの程度ですか！3年後を見てみましょう。恐ろしい程の変化をしているハズです。
-動画も見て下さいね！
-https://youtu.be/A-t3fEqEfHw
-
----
-
-### [フィジカルAIが自動車・製造業をどう変えるか](https://note.com/tarafuku356/n/n76a901c1d87c)
-
-- ソース / Source: note · ハッシュタグ「フィジカルAI」 · 2026.07.17
-
-![見出し画像](https://assets.st-note.com/production/uploads/images/294995043/rectangle_large_type_2_471bb4e9fa6fdc6484ad9cb064469917.png?width=800)
-
-AIの破壊的イノベーションと人間の価値:自動車の時代、クルマ屋の時代は間もなく終わる。その間もなくが何時か？早ければ3年後、遅くても10年以内には確実に終わる。
-以下の動画のFigure AI社のAIヒューマノイドの2026年5月～前後の動画とテスラTesla Cybercabのテスト映像である。
-https://youtu.be/Eu5mYMavctM　　BMWの工場での単純作業
-https://youtu.be/JeeJJ42TKQU　　配送センターでラベルの裏返し作業・200時間連続人とほぼ同じ効率
-https://youtu.be/8xEuFQz4E4A　　部屋の片づけとベッドメイキング・・2台共同作業
-https://www.instagram.com/reel/DaN_WePzreE/　　　Tesla Cybercab無人テスト走行開始
-Tesla Cybercabはクルマでは無い”タイヤの4つ付いたAIロボット”ですね！
-既に始まって居るAIエージェントとフィジカルAIが塗り替える2033年までの職業地図：生き残るための「第一原理」と「EQ」の力
-プロローグ：AIは「チャット」から「自律実行（エージェント）」の時代へ
-
-2024年から2026年にかけて発表された最新の学術論文、およびNeurIPSやICMLといったトップクラスのAI学会における動向を俯瞰すると、労働経済は今、歴史的な転換点の入り口に立っていることが明白です。我々はこれまでAIを「問いに対して回答を生成するチャットツール」として利用してきましたが、2026年から2029年にかけてのフェーズは、「Agentic AI（AIエージェント）」への完全移行期と定義されます。
-今回の目的は、単なる技術的トレンドの紹介ではありません。自律的に思考し、システムを操作するAIエージェントと、物理空間を制するフィジカルAIがもたらす労働市場の劇的な再編を、ビジネスモデル及び労働経済研究者の視点で冷徹かつ緻密に論じることにあります。
-2033年までの10年間で、従来のホワイトカラー業務の「チェーン（工程）」がいかに崩壊し、どのような「聖域」が残るのか。最新のQ1・Q2ジャーナルの知見と多くのエビデンスデータに基づき、我々が直面する残酷なまでの変化と、それを乗り越えるための「第一原理思考」を提示します。
-第1フェーズ：2026年〜2029年におけるホワイトカラー業務の崩壊と再編
-
-今後3年間、ホワイトカラーの職域は「補助」から「代替」へとそのフェーズを深化させます。鍵となるのは「Agentic AI」です。これは従来のAIのように「メールの下書きを書く」といった単発のタスクではなく、「顧客の意図を汲み、データベースを照合し、ERP（基幹系統）を操作し、必要な契約書を読み解いた上で、自律的に外部と交渉・実行する」という一連の業務プロセス（バリューチェーン）を完結させる能力を指します。
-今後3年間で最も消失リスクが高い仕事 TOP10
-以下のデータは、職業の完全な消滅を意味するのではなく、AIエージェントによって現在の雇用人数の大半が不要となる「代替率」を示しています。
-順位　職業　推定代替率　消失の主因の順に列記する。
-①コールセンター・電話オペレーター75〜90% 音声AIによる感情理解と即時解決力の向上
-②データ入力・事務補助	70〜90%	OCRとAIエージェントによる自動記帳・照合
-③経理入力・請求書処理	65〜85%	複数システムを跨ぐ自律的なERP操作
-④翻訳・通訳（一般用途）60〜85%	リアルタイム・コンテキスト理解の高度化
-⑤Webライター・SEOライター　60〜80% 大量生成と検索エンジン最適化の自動化
-⑥初級プログラマー・コーダー50〜80% 要件定義からの自律的なコード生成とデバッグ
-⑦パラリーガル・契約書レビュー補助　50〜75% 判例照合からリスク抽出までの自動完結
-⑧一般カスタマーサポート50〜75%	マルチモーダルAIによるトラブルシューティング
-⑨営業事務・受発注処理	45〜70%	在庫・配送システムと連動した自律対応
-⑩銀行窓口・保険事務	40〜70%	パーソナライズされたAI提案と手続きの自動化
-「業務チェーンの自律化」が意味する中間管理職の不要
-Agentic AIの衝撃は、単なる「効率化」に留まりません。従来、複雑な事務プロセスでは「作業者」と、そのミスをチェックし進捗を管理する「管理者」が必要でした。しかし、AIエージェントが自己修正機能（Self-Correction）を持ってプロセスを完遂できるようになると、中間層による監督コストが極小化されます。人間が「AIを補助する」のではなく、AIが実行し、人間は「プロセスの設計」という上位概念に特化せざるを得なくなるのです。
-フィジカルAIの台頭：物理空間における労働の変容
-
-ソフトウェアの世界がAIエージェントに席巻される一方で、ヒューマノイドや次世代ロボットアームに搭載される「フィジカルAI」も確実に物理空間の労働を塗り替えます。ただし、物理世界には「モラベックのパラドックス（高度な推論より、1歳児レベルの運動スキルのほうが機械には困難）」という壁が存在します。
-フィジカルAI・ロボットの影響が大きい仕事
-順位	仕事	3年間の置換率
-①	物流仕分け	50〜70%
-②	倉庫ピッキング	45〜70%
-③	工場組立補助	40〜65%
-④	検品作業	40〜65%
-⑤	飲食チェーン厨房35〜60%
-⑥	ホテル清掃	30〜55%
-⑦	スーパー品出し	30〜50%
-⑧	警備巡回	30〜50%
-⑨	タクシー（限定地域）20〜40%
-⑩	配送（都市部）	20〜40%
-導入障壁と専門的考察
-物理世界における導入速度が知的労働に比して緩やかな理由は、環境の複雑性とハードウェアコストにあります。ソフトウェアは一度のアップデートで地球上の全端末に展開可能ですが、ロボットは現場ごとのキャリブレーション（調整）が必要です。しかし、物流倉庫のような「構造化された環境」から置換は始まり、2020年代後半にはエッジAIの進化により、非構造化環境（不特定多数の人間がいる空間）への適応が本格化するでしょう。
-第2フェーズ：2030年〜2033年、マルチエージェントとAIネイティブ企業の出現
-
-2030年代に入ると、社会は単体のAI活用から、複数のAIエージェントが相互に交渉・連携し、自律的に組織を運営する「マルチエージェントシステム」の段階へ移行します。
-消失リスクの加速：事務・専門職補助の極限値
-この時期、ホワイトカラーの定型業務はほぼ「消滅」の域に達します。
-職業（2030〜2033年）	推定減少率	特徴
-コールセンター・電話応対　95〜99%　完全無人化された24時間対応
-データ入力・事務補助90〜　98%　人間の介在しないデータフローの完成
-経理・会計入力	85〜95%	全取引のリアルタイム自動監査
-一般事務・営業事務　80〜95%　AI間のAPI連携による自動調整
-初級プログラマー　75〜90%　AIによる自己進化型コードの生成
-自律型組織（AIネイティブ企業）の正体
-2030年代の企業は、現代のような「部署」の概念を失っている可能性があります。「営業AI」がリードを獲得し、「契約AI」がリーガルチェックを行い、「経理AI」が決済を完了し、「法務AI」がコンプライアンスを監視する。これらのマルチエージェントが、人間の指示を待たず24時間365日、ミリ秒単位で連携してビジネスを回します。これが「AIネイティブ企業」です。ここでは、人間はもはや労働力ではなく、システムの「オーナー」としての意思決定と責任の引き受けのみが仕事となります。
-AI時代を生き抜く「聖域」：代替困難な職業の共通点
-
-全ての業務がAIに浸透する中で、依然として人間が圧倒的な優位性を保つ領域があります。代替率が10〜20%程度に留まるこれらの仕事は、社会のインフラとしての「信頼の拠点」となります。
-失われにくい仕事 TOP10（ソース準拠）
-順位	仕事	AI代替率	理由の核の順に以下に示します。
-①	看護師	10〜20%	身体的ケアと患者の精神的安定の両立
-②	介護福祉士　10〜20%	非定型な身体介助と高い対人共感力
-③	救急医	10〜20%	瞬時のトリアージと前例のない事態への即断
-④	電気工事士　10〜20%　狭小・複雑な現場における非定型技能
-⑤	配管工・設備工　10〜20%	劣化状況が千差万別な物理インフラの修理
-⑥	建築施工管理（現場）10〜25%　職人間の調整、天候等の突発事象への対応
-⑦	保育士	10〜25%	子供の予測不能な行動への安全確保と教育
-⑧	心理カウンセラー　15〜30%　言語化されない苦悩への深い共感と信頼形成
-⑨	高度営業（経営者向け）15〜30%　複雑な利害関係の調整と最後の一押しの信頼
-⑩	研究者（新分野創造）15〜35%　既存データにない未知の問いを立てる力
-聖域を構成する「6つの要素」の深掘り
-なぜこれらの職業は代替されないのか。それはAIが原理的に「責任」を取れず、「想定外の物理現象」に弱いためです。
-現場判断： センサーに映らない微妙な空気感や物理的な違和感を察知する力。
-
-身体技能： 現場ごとに異なる重力、摩擦、素材の硬度に対応する繊細な運動能力。
-
-信頼形成： 「この人が言うなら」という、非論理的な感情に基づく人間同士のコミットメント。
-
-責任： 誤診や事故が起きた際、法的な罰や倫理的糾弾を一身に引き受ける能力。
-
-感情理解： 怒り、悲しみ、期待といった機微な感情を汲み取り、最適ではなく「納得」を提示する力。
-
-想定外対応： 学習データに存在しない「ブラックスワン（極稀に起こる衝撃的事象）」への即興的対処。
-
-新たな価値の創造：AI時代に誕生する高付加価値キャリア
-
-既存の職が奪われる一方で、AIを「構築・監督・調律」するための新たな高年収職種が誕生します。
-新職種 TOP10 とその期待価値
-順位	職業名	期待価値	主な役割
-①　AI Agent Architect　★★★★★企業のバリューチェーンを繋ぐマルチエージェントの設計
-②　AI Workflow Designer　★★★★★人間とAIが混在する業務フローの最適化デザイン
-③　Chief AI Officer (CAIO)　★★★★★経営戦略とAI実装を統合し、ガバナンスを統括する
-④　ヒューマノイド運用管理者　★★★★★物理空間で働くロボット群の群制御とトラブル対応
-⑤　AIセキュリティ専門家　★★★★★プロンプトインジェクションやモデル盗用への防御
-⑥　AI評価・安全性監査	★★★★☆AIの判断がバイアスを含まず倫理的かを検証する第三者
-⑦　AI×業界コンサルタント　★★★★☆業界固有の商慣習（暗黙知）をAIに学習・適応させる
-⑧　AIデータ品質管理	★★★★☆AIの精度を左右する「高純度な教師データ」の選別
-⑨　ロボット保守・運用	★★★★☆物理的損傷や摩耗に対するメンテナンスと調整
-⑩　AI教育・リスキリング講師　★★★★☆人間にAI時代の武器（スキル）を授ける指導者
-現在、求人市場ではAI GovernanceやAI Securityといった職種が、かつてのデータサイエンティストを凌ぐ需要を見せています。これらは「AIを作る」段階から「AIを社会のルールに適合させ、安全に運用する」段階へとビジネスの主戦場が移ったことを示唆しています。
-能力のパラダイムシフト：IQからEQ、そして「問題発見力」へ
-
-AIが計算、暗記、パターン認識といった「IQ的側面」をコモディティ化させる中で、人間の希少価値は「EQ」と「問題設定能力」へ劇的にシフトします。
-価値の再定義：問題設定（Problem Framing）
-AIは「与えられた問い」を解く速度において人間を凌駕しますが、「そもそも何を解くべきか」を決めることはできません。 例えば、トヨタ自動車が直面している課題は、販売台数の維持なのか、ソフトウェア競争力なのか、あるいはAI人材の確保なのか。AIはそれぞれのシナリオにおける最適解を出せますが、「現在の経営資源をどこに全張りすべきか」という優先順位の決定（Problem Framing）は、人間の経営判断に委ねられます。
-EQ（感情知能）という最強の差別化
-論理的に正しいだけの正解は、誰でもAIを使って導き出せるようになります。その時、組織を動かすのは「正しい論理」ではなく、「この人のビジョンに乗りたい」と思わせる共感力や説得力、リーダーシップといったEQです。
-2030年代の能力ランキング（ソース準拠）
-順位	能力	重要性
-①	本質を見抜く力（問題設定）「解くべき問い」を見極める能力
-②	迅速で責任ある意思決定	リスクを引き受け「決める」力
-③	EQ（共感・信頼・リーダーシップ）　AIに不可能な「納得」と「団結」を創る力
-④	AIエージェントを設計・管理する力　複数のAIを部下として使いこなす力
-⑤	長期的なシステム思考	10〜20年後の社会構造を鳥瞰する力
-⑥	創造力・新しい発想	既存データの延長線上にない飛躍
-⑦	倫理・ガバナンスの判断	人間としての良心に基づく防波堤
-⑧	交渉・合意形成	利害対立を感情とロジックで解きほぐす
-⑨	専門知識を統合する力	多分野のAIアウトプットを一つに纏める力
-⑩	IQ的な計算・暗記能力	AIによる代替が最も容易な領域
-高度な思考モデル：歴史・原理原則・第一原理思考の統合
-
-不確実な未来において、我々の北極星となるのは、時代に翻弄されない「思考のフレームワーク」です。
-歴史を俯瞰する洞察力
-AIは「データ」を処理しますが、人間は「歴史」を洞察します。馬車から自動車、ガラケーからスマホといった過去のパラダイムシフトを俯瞰すれば、「技術が成熟しきった瞬間に、旧来のビジネスモデルは音を立てて崩壊する」という不変のパターンが見えてきます。この因果関係を抽象化し、今この瞬間に応用する力が、AI時代を勝ち抜く戦略眼となります。
-第一原理思考（First Principles Thinking）の適用
-「前例がこうだから」「世間一般ではこうだから」という思考停止を排除し、事象を物理法則や経済原理といった「最小単位の真実」まで分解して考えるのが第一原理思考です。AIは過去のパターンの確率論的な最適化は得意ですが、常識を疑い、「物理的に可能か」からスタートしてゼロからイノベーションを構築する飛躍的な思考は、人間にしかできません。
-キャリア価値を最大化する方程式
-2030年代、我々の人材価値（Market Value）は以下の掛け算によって決定されます。
-価値 ≒（歴史を俯瞰する力）×（第一原理思考）×（AI理解）×（EQ）×（決断力）
-この数式は「掛け算」であることが肝要です。どれほどAIに精通していても、歴史的背景を無視すれば方向を見誤り、どれほどEQが高くても、第一原理に基づいた合理性がなければ組織を誤った方向に導きます。全ての要素をバランスよく、かつ高い次元で統合することが求められます。
-エピローグ：変化を正しく捉え、自分を更新し続ける勇気
-
-2030年代の労働市場は、かつてないほど残酷で、かつてないほど刺激的です。「人がAIを補助する」時代は終わり、「AIエージェントが業務を主体的に遂行し、人間がその設計・監督・責任を担う」という役割の逆転が完成します。
-この時代において、我々を支えるのは「昨日までの知識」ではありません。新しい証拠や技術的現実を前にした時、自分の古い仮説を潔く捨て、自分自身をアップデートし続ける「柔軟な適応力」こそが、唯一にして最大の生存戦略となります。
-変化を恐れ、現状に固執することは、AIという巨大な潮流に呑み込まれることを意味します。しかし、AIを自らの能力を拡張する「エージェント」として手なずけ、人間固有の「責任」と「創造」の領域に軸足を移す者にとって、2033年までの10年間は、人類史上最も生産性が高く、創造性に満ちた黄金時代となるはずです。恐れることなく、この劇的な再編の主役として、新たなキャリアを切り拓いていきましょう。
-さぁ～～～貴方のAI力はどの程度ですか！3年後を見てみましょう。恐ろしい程の変化をしているハズです。
-動画も見て下さいね！
-https://youtu.be/A-t3fEqEfHw
-
----
-
-### [ファナック、フィジカルAI時代の「中立インフラ」戦略](https://note.com/busintemasamo1/n/ne46e0ce47db8)
-
-- ソース / Source: note · ハッシュタグ「ロボット」 · 2026.07.17
-
-![見出し画像](https://assets.st-note.com/production/uploads/images/294995143/rectangle_large_type_2_b95ab09461fe2e853e25c218a1f030dd.png?width=800)
-
-官民投資10.5兆円のフィジカルAIロードマップ、NVIDIA・Googleとの相次ぐ協業、そして過去最高益の決算。人型ロボットには深入りせず「壊れないハードウェア」を軸に据えるファナック独自の勝ち筋を、市場規模・政策・コスト構造の3つの軸から整理してみました。
-■ 足元の数字（2026年7月時点） ・時価総額：約7.0兆円 ・26年3月期 売上高：8,578億円（前年比+7.6%、過去最高） ・26年3月期 営業利益：1,838億円（前年比+15.7%、営業利益率21.4%） ・27年3月期 会社計画：売上9,096億円・営業利益2,122億円 ・アナリスト平均目標株価：7,579円（レーティング「やや強気」）
-決算はロボット部門の大幅増収を主因に、売上・営業利益・経常利益・純利益いずれも過去最高を更新しました。
-━━━━━━ 01｜市場規模：フィジカルAI・官民投資が拓く新市━━━━━
-AIロボット市場は2040年に約60兆円規模へ拡大する見込みとされています。日本は産業用ロボット市場（約0.8兆円）で世界シェア約7割を握る一方、サービスロボット市場でのシェアは1割強にとどまるという非対称な構造があります。
-2026年6月24日、政府はフィジカルAI分野の官民投資ロードマップ（案）を提示。投資額は2040年度まで官民合計10.5兆円、経済波及効果144.4兆円という数値が示されました。ファナックは産業用ロボット「世界4強」の一角として、この投資設計の中流（ロボット本体）の中核プレイヤーに位置づけられます。
-━━━━ 02｜政策：高市政権の戦略17分野とロボット産業 ━━━━━━━
-フィジカルAI政策は、独立ロードマップを持つ半導体分野（官民投資68兆円）とも連動する設計です。ファナックの製品はロジック半導体・マイコンを内蔵するため、両ロードマップの結節点にある企業といえます。
-政府資料は、産業構造が「密結合型」から「疎結合型」へ転換すると見込んでおり、ファナックがNVIDIA・Googleと積極的に協業する動きは、この政策的な想定と方向性が一致しています。
-03｜コスト構造：セグメント別収益とロボット部門の牽引力 ━━
-セグメント別に見ると、 ・ロボット部門：売上3,786億円（前期比+14.9%）、構成比44.1%と最大セグメント ・FA部門（CNC等）：売上2,085億円（+7.0%）、構成比24.3% ・ロボマシン部門：売上1,296億円（▲5.8%）、構成比15.1%
-26/3期の営業利益率は21.4%（前期19.9%）へ改善。自己資本比率89.2%という高い財務健全性を維持しながら、上限500億円の自社株買いも決定しました。2027年末までに約143億円を投じ米国に新工場を建設する計画も、フィジカルAI需要拡大を見据えたものです。
-━04｜事業別動向：NVIDIA・Googleとの協業、人型ロボットとの距離感 ━
-2025年12月にNVIDIAとの協業を発表。組み込みコンピュータ「Jetson」搭載やROS 2オープン化、NVIDIA「Isaac Sim」とのシミュレーション完全密結合を進めています。2026年5月にはGoogleとの協業も発表し、Gemini EnterpriseによるAIエージェントでロボットを操作する仕組みを構築中です。
-一方、ブームが続く人型ロボットには自社での直接参入を見送り、産業用・協働ロボットに軸足を置く戦略をとっています。ロボットシステムインテグレーター（SIer）との協業関係を重視し、コア部品供給者としてヒューマノイド市場にも間接的に関わる立場です。
-━━━━━━━━━━━━05｜リスク要因 ━━━━━━━━━━━━━━
-①中国での国産化・現地メーカー台頭：中国のロボット市場での外資シェアは2015年の約75%から2026年に約48%まで低下したとされ、ローカル勢の追い上げが続く ②米国関税の影響：対米売上比率が高く、価格転嫁が想定通り進むかが焦点 ③ロボマシン部門の需要低迷：26/3期は前期比5.8%の減収 ④人型ロボット競争からの距離：中国勢が国家主導で量産段階に入りつつあり、「静観」戦略が機会損失につながるリスクも指摘される ⑤為替変動：27/3期計画は1ドル=150円が前提
-━━━━━━━━━━━━━━ 06｜総括 ━━━━━━━━━━━━━━
-ファナックの成長ストーリーは「フィジカルAI時代の中立インフラプロバイダー」という立ち位置に集約されます。NVIDIA・Googleとの協業でソフトウェア領域を強化しつつ、自社は「壊れない、正確に動くハードウェアと制御」というコアコンピタンスに徹し、特定プラットフォームへのロックインを避ける戦略です。次の決算では、27/3期会社計画の進捗や米国関税の価格転嫁の浸透度、中国での外資シェアの動向に注目したいと思います。
-📊 出典付き完全版レポートはこちら
-
-数値・制度・企業リストをすべて収録したHTMLレポートをこちらで公開中です。→ 【完全版はこちら】
-※本レポートは公開情報の整理・分析を目的として作成したものであり、特定銘柄の売買を推奨するものではありません。数値は2026年7月時点の公開情報に基づいており、今後の決算・市場動向により変動します。投資判断は必ずご自身の責任において行ってください。
-
----
-
-### [Kudan（4425）の空間知覚技術に注目](https://note.com/kyonani/n/n3f43aebc7415)
-
-- ソース / Source: note · ハッシュタグ「ロボティクス」 · 2026.07.17
-- ⚠️ メンバーシップ/有料記事のため無料公開部分のみ / Free preview only
-
-![見出し画像](https://d2l930y2yx77uc.cloudfront.net/production/social_images/dd98c9c08246394a8c1909019f1ea91e206a0d55.png)
-
-※本記事は公開情報に基づく情報提供であり、特定銘柄の売買を推奨するものではありません。
-株式投資には元本割れリスクがあります。
-最終的な投資判断は、必ずご自身の責任でお願いいたします。
-皆様おはようございます。
-今週のテーマは「テンバガー（10倍株）候補」です。
-ここまで、
-・FRONTEO（2158）
-・情報戦略テクノロジー（155A）
-・QPSホールディングス（464A）
-・TOWA（6315）
-と、テーマ性・成長性のある銘柄を取り上げてきました。
-今回取り上げるのは、Kudan（4425）。
-AI・ロボティクス・ドローン・自動運転・AR／VRなどに使われる、
-「空間知覚技術」を開発する研究開発型ベンチャーです。
-前回のTOWA（6315）は、半導体後工程の封止装置で世界トップシェアを持つ、
-実績・利益・財務の裏付けがある「手堅い黒子企業」型の成長株でした。
-一方、今回のKudanはまったくタイプが違います。
-Kudanは赤字先行型です。
-まだ安定的に利益を出している会社ではありません。
-ただし、売上は急拡大しています。
-そして、狙っている市場は「フィジカルAI」という大きなテーマです。
-つまり、TOWAのような「実績あるニッチトップ型」ではなく、
-Kudanは「将来の大化けに賭ける研究開発型テンバガー候補」です。
-「Kudanは今から買えるのか」
-「赤字でもテンバガー候補として見る理由は何か」
-「どこで拾うべきか」
-「損切りラインはどこか」
-「長期で持つなら何を確認すべきか」
-このあたりを深掘りしていきます。
-■目次
-基本データ
-
-会社概要
-
-なぜKudanをテンバガー候補に入れるのか
-
-注目ポイント
-
-業績ハイライト
-
-株価シナリオ
-
-株価水準別の投資判断
-
-決算で見るべきチェックポイント
-
-投資指針
-
-リスク要因
-
-まとめ
-
-ハッシュタグ
-
-参考情報・出典
-
----
-
-### [NVIDIAと日本企業が「フィジカルAI」でロボット革命](https://note.com/open_bonobo4531/n/ne7f62e299ba2)
-
-- ソース / Source: note · ハッシュタグ「ロボット」 · 2026.07.17
-
-![見出し画像](https://assets.st-note.com/production/uploads/images/294994526/rectangle_large_type_2_e7570b9876949b10072d51c0e76a9158.png?width=800)
-
-世界的なAI企業NVIDIAのCEO、ジェンスン・フアン氏が来日し、日本企業とのAI・ロボット開発をさらに強化することが発表されました。
-
-今回協力するのは、富士通、ファナック、安川電機、川崎重工業など、日本を代表する企業です。
-
-目指すのは「フィジカルAI」。
-
-現実世界でロボットが周囲の状況を理解し、自ら判断して動ける未来です。
-
----
-
-## フィジカルAIって何？
-
-簡単に言うと、
-
-**「画面の中だけではなく、現実世界で動くAI」**
-
-のことです。
-
-例えば…
-
-・工場で働くロボット
-
-・荷物を運ぶ物流ロボット
-
-・介護を支えるロボット
-
-・自動運転車
-
-こうしたものが、周囲の状況を理解しながら動けるようになります。
-
----
-
-## 日本にとって大きなチャンス
-
-日本はこれから人口減少が進み、人手不足がさらに深刻になると言われています。
-
-だからこそ、AIやロボットが人手不足を補ってくれることには大きな期待があります。
-
-危険な仕事や重労働をロボットが担当し、人はより創造的な仕事に集中できる未来が来るかもしれません。
-
----
-
-## でも、少し心配なことも…
-
-一方で、僕には少し心配なこともあります。
-
-企業が効率だけを求めてロボットを増やしすぎると、人の仕事が急激になくなってしまう可能性もあります。
-
-AIそのものが悪いわけではありません。
-
-大切なのは、「人を置き換える」ことではなく、「人とAIが協力する社会」をつくることだと思います。
-
-仕事が変わる人への学び直しや、新しい仕事への支援も必要になってくるでしょう。
-
----
-
-## 黒胡麻ちゃんのひとこと
-
-AIやロボットは、日本の未来を支える大きな力になると思います。
-
-でも、本当に目指すべきなのは、人間の仕事を奪うことではなく、人がもっと人らしく働ける社会です。
-
-AIは、人の代わりではなく――
-
-**「みんなの良き隣人。」**
-
-そんな未来になってくれたら嬉しいですね。
-
----
-
-### [人間並みの握力を持つロボットハンドと月面探査ドローン](https://note.com/miraino_manabi/n/nd631f84c7c48)
-
-- ソース / Source: note · ハッシュタグ「ロボット」 · 2026.07.17
-
-![見出し画像](https://assets.st-note.com/production/uploads/images/294992239/rectangle_large_type_2_5c0f65c08f861985d7e028d2103bc918.png?width=800)
-
-夜勤明けの休憩中、いつもの癖でTikTokを開いたら、見たことない映像が立て続けに流れてきた。
-ロボットの手が、20kgのケトルベルを軽々と持ち上げてる。かと思えば、35gしかない小さいドローンが、ウサギみたいにピョンピョン跳ねて「月を目指す」ってテロップが出てる。極めつけは、パッケージに堂々と「A.I. BRUSHING RECOGNITION」と書かれた歯ブラシ。全部、翻訳ボタンを押さないと内容が入ってこない海外発の動画ばかりだった。
-正直、最初は「またバズり狙いの誇張動画でしょ」と思ってた。でも気になって一つずつ元ネタを追いかけてみたら、どれも本物の研究・製品発表だった。しかも共通してるのは、日本語の記事がほとんど存在しないということ。英語圏では専門メディアが大きく取り上げてるのに、日本語で検索してもまとまった解説がほぼ出てこない。
-というわけで今回は、夜勤明けの探究心で調べ尽くした「世界の最先端テクノロジー3選」を、なるべく分かりやすくまとめてみる。
-今日紹介する3つ
-握力が人間並みになったロボットの手(1X Technologies「NEO」)
-
-「飛ぶ」より「跳ねる」を選んだ35gの月面探査ドローン(Hopcopter)
-
-磨き残しをAIが採点してくれる歯ブラシ(Philips Sonicareほか)
-
-① 握力人間並み。ロボットの手が「最後の壁」を越えつつある
-
-![図](https://assets.st-note.com/img/1784237110-ywHBvhOVzgUS6RrpQcjG7WPF.png)
-
-2026年7月、アメリカのロボット企業1X Technologiesが、家庭用ヒューマノイドロボット「NEO」向けの新しい手を発表した。これがちょっと衝撃的な出来で、開発陣は「人間の能力に匹敵、あるいは上回る」とまで言い切ってる。
-スペックを見ると、確かに本気度が伝わってくる。
-指と手のひらだけで22、手首を含めると計25の関節が独立して動く(自由度25)
-
-モーター本体を手の中に入れず、腱(ワイヤー)で指を引っ張って動かす「腱駆動方式」を採用。これで手そのものを軽く、なめらかに動かせる
-
-指先には高精度の触覚センサーがついていて、「掴んだ物がずり落ちそうになっている」ことをリアルタイムで感知し、握り直せる
-
-20kg(44ポンド)のケトルベルを持ち上げられる握力がありながら、ブドウを一粒つまんだり、床に落ちたネジを拾ったり、電球を取り付けたりできる繊細さも両立
-
-IP68防水対応で丸洗い可能。1X社は今年だけで手を1万個生産できる体制を整えている
-
-なぜ「手」がロボットの最難関だったのか
-ヒューマノイドロボット開発において、実は「歩く」より「手で作業する」方がずっと難しいと言われてきた。理由は単純で、人間の手は関節の数が多いうえに、握る力の強弱(グリップ)と、触った感触(タクタイル)を同時に処理しないといけないから。強く握りすぎれば物が壊れるし、弱すぎれば滑り落ちる。この「力加減の判断」を機械にやらせるのが、ずっとボトルネックだった。
-他社との比較表(2026年7月時点)
-
-![図](https://assets.st-note.com/img/1784236827-9zNbUocQY7FwAIE0yiet1Blg.png)
-
-3社とも「腱駆動+触覚センサー」という設計思想は共通していて、これが2026年のヒューマノイドロボット業界の標準解になりつつある。
-買えるのか、価格は
-NEO本体は買い切り約300万円(2万ドル)、またはサブスクなら月額約7.5万円(499ドル)。まずはアメリカでの家庭配送が2026年内に始まり、日本を含む他国への展開は2027年以降になる見込みで、現時点で日本上陸の具体的な日程は発表されていない。
-冷静に見ておきたい限界
-ここまで聞くと「もう家事は全部ロボット任せか」と思ってしまうけど、実際にはNEOは「基本的な自律動作」に加えて、まだ自力でできない作業は人間が遠隔操作(テレオペレーション)で助ける仕組みが前提になっている。つまり「完全に一人で家事をこなすロボット」ではなく、「人間の手を借りながら学習していく段階のロボット」というのが正確なところ。過度な期待は禁物。
-② 「飛ぶ」より「跳ねる」。35gドローンが月を目指す理由
-
-![図](https://assets.st-note.com/img/1784237178-WafEGcqBmDMj0uYo61nVSNwl.png)
-
-次はもっとニッチな話。香港城市大学(City University of Hong Kong)と香港科技大学の研究チームが開発した、Hopcopterという名前の小型ロボット。重さはわずか35g、スマホより軽い。
-見た目は市販の小型クアッドコプター(ドローン)に、1本の「脚」をつけただけのシンプルな構造。でもこの脚が肝で、モーターを一切使わない完全受動式。炭素繊維の棒とゴムひもだけでできたバネ仕掛けで、着地の衝撃を吸収して跳ね返るエネルギーに変換する。
-数字で見るとインパクトがわかる
-通常の飛行モードだと、バッテリー1回の充電で稼働できるのはわずか6分
-
-ところが「跳ねる」移動モードに切り替えると、同じバッテリーで約50分動き続けられる(単純計算で8倍以上)
-
-研究成果は科学誌「Science Robotics」に掲載済み
-
-要するに、プロペラを回し続けて空中に浮くのはものすごく電力を食うけど、地面を蹴ってジャンプする動きは、着地時の衝撃をバネに貯めて再利用できるので圧倒的に省エネ、ということ。
-なぜ「月面探査」と相性がいいのか
-月の重力は地球の約6分の1しかない。つまり同じ力でジャンプしても、地球にいるときよりずっと高く・遠くまで跳べる。おまけに月面には空気(大気)がほとんどないから、プロペラで浮くタイプの飛行機構そのものが機能しにくい。「軽くて、モーターに頼らず、跳ねて移動する」という設計思想は、実は月面のような低重力・真空環境にこそ向いている。
-似たような月面ロボットとの違い
-
-![図](https://assets.st-note.com/img/1784236667-0TEd3J5VHtZKDUIOAfm4g1pl.png)
-
-日本のJAXAはすでに実際の月面でホッピング移動を実証済みという点は、地味にすごい実績。Hopcopterはまだ地上実験の段階だけど、「モーターを積まずに脚のバネだけで移動する」という発想は、月面探査機の消費電力・軽量化の面で今後注目される可能性が高い。
-③ AIが歯磨きを「採点」する時代。ただし過信は禁物
-
-![図](https://assets.st-note.com/img/1784237252-A7d9J6rMtiXPaVz1U0ueTGN5.png)
-
-最後は身近な話で、電動歯ブラシ。2026年秋、Philips Sonicareが「次世代DiamondClean 9900 Prestige」という新モデルを発表した。目玉はオンデバイスAI(ネット接続なしで歯ブラシ本体だけで判断するAI)による、リアルタイムのブラッシング指導。
-口の中を12のエリアに分けた「マウスマップ」がハンドル部分に表示され、磨き残している場所がその場でわかる
-
-圧力センサー(SenseIQ)が「磨きすぎ」を検知し、自動でパワーを弱める
-
-プラーク除去は手磨き比で20倍、歯肉の健康状態も6週間で15倍改善というデータを公表
-
-同時期には、AIコーチング機能付きの「BrushO」、18,000本の毛で口全体を一気に覆って20秒で磨き終える「Feno Smartbrush」なども登場していて、ちょっとした戦国時代になっている。
-日本の現状(2026年7月時点)
-日本国内で見ると、オムロンが10月に薄型ブラシの新モデル「HT-B3220」を、パナソニックもキャンペーンを展開中だけど、AIによるリアルタイム磨き分析を搭載した国産モデルはまだ登場していない。Bluetoothでスマホと連携して磨きコースをカスタマイズできる、というレベルに留まっているのが実情。つまり「AIが歯を1本ずつ判定する」タイプの製品は、今のところ完全に海外先行。
-話半分に聞いておきたいポイント
-ここは正直に書いておきたい。この手のAI歯ブラシを実際にレビューした海外エンジニアの記事を読むと、面白い指摘があった。歯ブラシ内部のセンサー(加速度計・ジャイロ)は「動き」は検知できても、「口の中のどこにいるか」までは正確にわからない。実際には動きのデータから位置を推測しているだけなので、左右対称な口の構造上、「左上の奥歯」のつもりが「右下の前歯」と誤認識されるケースが普通に起きる。
-アメリカの規制当局(FTC)も、こうした「AIを謳っているが実態が伴わない誇大広告」を「AIウォッシング」と呼んで取り締まりを強化し始めている。つまりパッケージの「A.I.」の文字を鵜呑みにせず、「具体的に何をどうAIが判定しているのか」を確認する目が、これからの消費者には必要になってくる。
-
-ここから先は、この3つの技術に共通する「なぜ今このタイミングで一気に来ているのか」という背景と、実際にこれをどう自分の生活や仕事の話のネタに活かすかの「想定シナリオ」、そして今日からできる具体的な3ステップを書いてます。海外の最先端テック動画を人に説明するときに「詳しいね」と言われたい人には、けっこう具体的に役立つはずです。
-
-なぜ2026年に一気に来ているのか
-
-![図](https://assets.st-note.com/img/1784237311-otswg5JcKRx1rhPn6Q7GEm2F.png)
-
-3つの技術、分野はバラバラなのに、裏側にある理由は共通してる。
-バッテリーとモーターの小型・高効率化:ロボットハンドの腱駆動も、35gドローンの省エネ跳躍も、根っこは「限られた電力でどれだけ長く・繊細に動かせるか」という競争。ここ数年でモーター制御用の半導体とバッテリー密度が同時に進化したことで、一気に実用レベルに近づいた
-
-オンデバイスAIチップの小型化:歯ブラシサイズの機器にAI処理を積めるようになったのは、スマホ向けに開発された省電力AIチップの技術が民生品に降りてきたから
-
-「家庭用ヒューマノイドロボット」への投資ブーム:1X・Tesla・Figureが軒並み2026年に量産・出荷フェーズへ移行しており、ロボットハンドのような要素技術への開発投資が一段と加速している
-
-つまりこれは偶然の同時多発ではなく、共通の技術基盤(省電力化+AI小型化)の上に、それぞれの業界が乗っかってきているタイミング、と見るのが正確。
-こんな人にとって「今知っておく価値」がある
-僕みたいに夜勤・シフト勤務で、隙間時間に情報収集したい人:海外の一次情報は英語動画に「翻訳」ボタンを押すだけでかなり読める時代。日本語記事が出るのを待たなくても、一次ソースに数分でアクセスできる
-
-孫や子どもに「最近のロボットってどうなの」と聞かれる50代:「もう家事ロボットは20kg持ち上げてブドウも掴めるらしいよ」くらいの具体的な数字を知ってるだけで、会話の説得力が変わる
-
-来年あたり電動歯ブラシの買い替えを考えている人:AI搭載モデルの日本上陸はまだ先になりそうなので、今すぐ飛びつく必要はない。まずは仕組みの限界を知ったうえで、過度な期待をせずに待つのが賢い
-
-今日からできる3つのステップ
-
-![図](https://assets.st-note.com/img/1784237368-0nOUA9PgRmH28utL1wcIY4MS.png)
-
-TikTok・YouTube Shortsの「翻訳」機能をオンにしておく:海外の一次情報は、日本語記事化されるまで数ヶ月〜半年のタイムラグがあることが多い。自動翻訳越しでも、一次情報に直接触れる習慣をつけておくと情報の鮮度がまるで違う
-
-気になった製品は「価格」と「発売地域」を必ずセットで確認する:今回のNEOも、Sonicare新モデルも、話題性が先行して「もう日本で買える」と誤解しやすい。日本上陸時期・価格は都度チェックする癖をつける
-
-「AI搭載」という表記が出てきたら、具体的に何を判定しているかを一段掘る:歯ブラシの例のように、AIの中身は「単なる動きの推測」レベルのこともある。マーケティング文句と技術的な実態を切り分けて見る癖が、これからの時代はかなり武器になる
-
-参考(一次情報)
-Forbes / Dezeen / eWeek:1X「NEO」新型ハンド発表(2026年7月)
-
-Philips公式プレスリリース:次世代DiamondClean 9900 Prestige
-
-Science Robotics掲載論文・各種メディア:Hopcopter(香港城市大学)
-
-Medium(Markus Brinsa氏):AI歯ブラシのセンサー限界に関する技術批評
-
----
-
-### [建設ロボットが変える2035年の日本の街づくり](https://note.com/nifty_sheep2798/n/n2adf5a00a172)
-
-- ソース / Source: note · ハッシュタグ「ロボット」 · 2026.07.17
-
-![見出し画像](https://assets.st-note.com/production/uploads/images/294992361/rectangle_large_type_2_cbd39011bf483d4fb9c0f9d18e3bd054.png?width=800)
-
-最近気になっているのは、アメリカで広がっている建設ロボットだ。
-建設現場で設計図を床へ直接描くロボットや、既存の重機を自動運転化する技術が実際に使われ始めている。人手不足を補うだけでなく、「工事そのものの考え方」を変えようとしている。
-最初は建設会社の話だと思った。
-でも考えているうちに、変わるのは工事現場ではなく、私たちの日常なのかもしれないと思えてきた。
-2035年。日本では「工事中でご迷惑をおかけします」という看板を見る機会が、ずいぶん減っているかもしれない。
-夜になると街が少しだけ若返る
-2035年の夜。
-私が寝ている間に、小さな工事ロボットが住宅街をゆっくり走っている。
-道路のひびを埋める。
-白線を引き直す。
-側溝のゆがみを測る。
-大規模な工事ではない。でも毎晩少しずつ直していくから、道路は大きく傷まない。
-昔は壊れてから直していた。
-未来は傷む前に手入れをする。
-街は毎晩、静かに若返っている。
-工事が「イベント」ではなくなる
-昔は工事といえば、通行止めや騒音が当たり前だった。
-2035年は少し違う。
-AIが人通りの少ない時間帯を選び、必要最小限の範囲だけを補修する。
-ロボットは一台で作業を終え、朝にはもう姿がない。
-通勤途中に「あれ、この道きれいになってる」と気づく程度だ。
-工事は生活を止めるイベントではなく、街の日常メンテナンスになる。
-空気清浄機が静かに動いているように、インフラも静かに働き続ける。
-市役所は「直す計画」を作らない
-2035年の自治体では、「来年度の補修計画」という考え方が少し変わる。
-道路や橋には常にセンサーがあり、点検ロボットが毎日巡回する。
-AIは「あと3週間で補修した方が安く済みます」と提案する。
-職員は現場確認に追われるのではなく、予算や優先順位を考える時間が増える。
-壊れてから直す行政ではなく、壊さない行政へ。
-その違いは、市民には目立たない。
-でも10年後の街並みを見ると、大きな差になっている。
-インフラは「完成品」ではなくなる
-2035年の道路は、完成した瞬間がゴールではない。
-毎日データが集まり、少しずつ修正される。
-橋も、公園も、水道も同じだ。
-AIが変化を見つけ、ロボットが小さく直し、人が全体を設計する。
-完成して終わる時代から、育て続ける時代へ。
-街は巨大な建築物ではなく、手入れを続ける庭のような存在になっている。
-人口が減る日本では、新しく造る力より、長く使い続ける力の方が価値になるのだと思う。
-なんでもない私が思うこと
-子どもの頃、「工事中」と書かれた看板を見ると、少し遠回りをした記憶がある。
-渋滞したり、歩道が狭くなったり。
-工事は生活を我慢する時間だった。
-でも未来は違うのかもしれない。
-私たちが眠っている間に、街は静かに手入れされる。
-朝起きたら、昨日より歩きやすくなっている。
-そんな変化なら、誰も気づかない。
-でも、本当に暮らしを豊かにする技術は、案外そういうものなのだと思う。
-派手な未来より、「困る場面が少し減った」と感じる未来の方が、毎日は幸せなのかもしれない。
-今日の設計メモ
-2035年の日本では、工事は一度に終わらせる仕事ではなく、街を毎日少しずつ育てる仕事になる。
-AIは壊れる未来を予測し、ロボットは静かに補修し、人は街全体の姿を考える。
-未来のインフラは、完成した瞬間が一番新しいのではない。
-毎日少しずつ手入れされ続けることで、いつまでも新しさを保つのかもしれない。
-
----
-
-### [国産AIとロボット、製造業DXで日本株を支える](https://note.com/it_daytrading/n/n7d59eaf071ca)
-
-- ソース / Source: note · ハッシュタグ「ロボット」 · 2026.07.17
-
-![見出し画像](https://assets.st-note.com/production/uploads/images/294989953/rectangle_large_type_2_d87cfcb8d306178e9ec5f8a443bc69a1.jpeg?width=800)
-
-結論
-国内材料だけで見ると、日経平均は半導体株の調整が重く、戻り売りが出やすい地合いです
-
-国産AI、設備投資、蓄電池、ロボット、省人化は支援材料ですが、半導体の過熱修正とETF換金売りが上値を抑えます
-
-基本戦略は大型半導体株へ飛び付かず、内需・設備投資関連を選別する押し目待ちに近い判断です
-
-きょう(07/17)の日経平均への影響
-きょうの日経平均は、国産AIや製造業の設備投資拡大が中長期の支えになる一方、半導体株の過熱感と需給悪化が短期的な重荷です。TSMCやASMLの強気な投資姿勢、国内44社による国産AI開発は、半導体製造装置、電機、ロボット、データセンター関連に追い風となります。ただし、朝刊では半導体株が高値から大きく調整し、好決算でも買われにくい状況が指摘されています。日経平均は半導体大手の影響を受けやすいため、好材料があっても指数全体の反発力は限定されそうです。一方、TOPIXはセブン＆アイ、住友電工、自動車、商社、電力設備など、個別の事業材料が下支えしやすい構成です。グロース株についてはAIテーマが続くものの、信用規制や利益確定売りへの警戒が必要です。基本戦略は、指数の上値を追うより、国内材料の強い個別株を押し目で選別する形です。
-日本株材料の概要
-日本経済新聞朝刊から見える国内材料は、AI・半導体・製造業投資の拡大と、株価過熱の修正・市場需給の悪化が同時進行する構図です。国産AIでは44社連合が製造現場のデータを活用し、日本が強みを持つ自動車、ロボット、工作機械、電機とAIを結び付けようとしています。NVIDIA、マイクロソフト、オラクルなど海外テック大手も日本政府や企業との接触を強めており、AI関連投資は政策、半導体、クラウド、データセンター、製造DXへ広がっています。
-半導体分野では、TSMCが設備投資を上積みし、ASMLも先端装置の増産に動いています。AI向け需要の強さを裏付ける一方、国内市場では半導体株が高値から調整し、好決算でも売られる状況です。中国CXMTの大型IPOや韓国企業の巨額投資は、需要拡大と同時に将来の供給競争を意識させます。日経平均はアドバンテスト、東京エレクトロン、ディスコなどの値動きに左右されやすく、半導体株の下げ止まりが指数反発の条件になります。
-TOPIXには、セブン＆アイの海外展開、自動車株の見直し買い、住友電工の蓄電池増産、商社の豪州鉱山開発など、幅広い業種の個別材料があります。内需では夏季賞与の増加が消費を支える可能性がありますが、業種間格差が大きく、全面的な消費拡大を期待する段階ではありません。化学ではエチレン設備の低稼働や中国からの低価格品流入が重く、石油化学は弱含みです。
-中小型株では、ヒト型ロボット導入、査定アプリ買収、仮想顧客による市場調査など、企業DXや省人化に結び付く材料が目立ちます。ただし、信用取引規制や会計不正への警戒は、新興市場の投資心理を冷やす要因です。国内材料だけで見た温度感は、指数全体には慎重、個別株には選別余地が大きい相場です。
-日経平均に影響を与える10のニュース
-1. 半導体株、高値から2割安　好決算でも過熱感を警戒
-（2026年7月17日、日本経済新聞 朝刊、10ページ、影響度96点）
-・株価に関連する理由：半導体株では、業績よりも高値警戒とポジション調整が優先される局面に入っています。日経平均への寄与度が高い銘柄が多く、下落が指数全体に波及しやすい材料です。
-・関連銘柄・セクター：アドバンテスト（6857）、東京エレクトロン（8035）、ディスコ（6146）、キオクシアHD（285A）、半導体製造装置
-・株価への影響：好材料が出ても戻り売りに押される可能性があり、短期的には指数の上値を抑えます。
-・影響方向：下落
-2. 国産AI、製造現場で磨く　44社連合、豊富な事例活用
-（2026年7月17日、日本経済新聞 朝刊、3ページ、影響度93点）
-・株価に関連する理由：日本の製造現場に蓄積されたデータを使い、産業特化型AIを開発する国家的な取り組みです。AIをソフトウェアだけでなく、ロボット、工場、自動車、設備制御へ展開する流れを強めます。
-・関連銘柄・セクター：ソフトバンクグループ（9984）、富士通（6702）、NEC（6701）、日立製作所（6501）、ロボット、電機
-・株価への影響：AI、製造DX、データセンター関連への中長期的な資金流入を促す材料です。
-・影響方向：上昇
-3. TSMC、投資1割増　AI需要は2030年まで強固
-（2026年7月17日、日本経済新聞 朝刊、3ページ、影響度92点）
-・株価に関連する理由：世界最大の半導体受託製造会社が設備投資を積み増すことは、AI半導体需要の持続性を示します。国内の半導体製造装置、材料、検査企業への受注期待につながります。
-・関連銘柄・セクター：東京エレクトロン（8035）、SCREEN HD（7735）、信越化学工業（4063）、SUMCO（3436）
-・株価への影響：中長期では上昇材料ですが、短期は過熱修正が続く可能性があります。
-・影響方向：上昇
-4. 投信、売り越し最大　ETF分配金捻出へ換金
-（2026年7月17日、日本経済新聞 朝刊、19ページ、影響度90点）
-・株価に関連する理由：ETFの分配金確保に伴う換金売りは、企業業績とは無関係に大型株へ機械的な売りを出します。特に時価総額が大きく、指数連動資金が多い銘柄ほど影響を受けます。
-・関連銘柄・セクター：日経平均採用大型株、TOPIX大型株、ETF組み入れ上位銘柄
-・株価への影響：短期需給を悪化させ、反発局面での戻りを抑える材料です。
-・影響方向：下落
-5. ASML、先端装置を増産　CEOがAI需要拡大に自信
-（2026年7月17日、日本経済新聞 朝刊、15ページ、影響度88点）
-・株価に関連する理由：先端露光装置の増産は、AI向け半導体の設備投資が続くことを示します。半導体製造装置、部材、精密機器の需要に波及します。
-・関連銘柄・セクター：東京エレクトロン（8035）、レーザーテック（6920）、HOYA（7741）、半導体製造装置
-・株価への影響：半導体関連の中長期成長を支えますが、短期的には株価調整との綱引きです。
-・影響方向：上昇
-6. セブン＆アイ、東欧進出　ポーランド同業に数千億円規模で出資
-（2026年7月17日、日本経済新聞 朝刊、1ページ、影響度86点）
-・株価に関連する理由：海外コンビニ事業の拡大は、国内市場の成熟を補い、成長余地を広げます。一方、投資額が大きいため、買収価格や財務負担も評価の焦点になります。
-・関連銘柄・セクター：セブン＆アイHD（3382）、小売、食品、物流
-・株価への影響：成長戦略としては好感されやすいものの、投資負担への評価で値動きが分かれる可能性があります。
-・影響方向：不確定
-7. 住友電工、蓄電池の生産能力を5倍へ
-（2026年7月17日、日本経済新聞 朝刊、17ページ、影響度84点）
-・株価に関連する理由：再生可能エネルギーの普及には、電力需給を調整する大型蓄電池が不可欠です。電力インフラ、電線、データセンター向け電力設備とも関連する成長投資です。
-・関連銘柄・セクター：住友電気工業（5802）、電線、蓄電池、電力設備、再生可能エネルギー
-・株価への影響：中長期の成長分野への増産として、株価を支える材料です。
-・影響方向：上昇
-8. 三菱電機、ROE15％へ　フィジカルAIに商機
-（2026年7月17日、日本経済新聞 朝刊、18ページ、影響度83点）
-・株価に関連する理由：資本効率の改善目標とフィジカルAIへの注力を同時に示しており、株主還元と成長投資の両面が評価対象になります。工場自動化や設備制御でAI活用が進めば、同社の事業基盤と親和性があります。
-・関連銘柄・セクター：三菱電機（6503）、FA、電機、ロボット、製造DX
-・株価への影響：収益性改善への期待から、個別株には上昇材料です。
-・影響方向：上昇
-9. 夏ボーナス、初の100万円超　5年連続で最高
-（2026年7月17日、日本経済新聞 朝刊、1ページ、影響度80点）
-・株価に関連する理由：賞与増加は消費余力を高め、百貨店、外食、旅行、住宅、耐久消費財などの内需を支える可能性があります。ただし、業種間の格差は大きく、恩恵は一様ではありません。
-・関連銘柄・セクター：百貨店、外食、旅行、家電、小売、自動車
-・株価への影響：内需株や消費関連株には支援材料ですが、日本株全体への効果は限定的です。
-・影響方向：上昇
-10. エチレン稼働率、6月として最低　中国の低価格品も重荷
-（2026年7月17日、日本経済新聞 朝刊、15・23ページ、影響度78点）
-・株価に関連する理由：国内需要の弱さに加え、中国の低価格な石油化学製品がアジア市場へ流入し、国内企業の採算を圧迫しています。設備過剰や再編の必要性も意識されます。
-・関連銘柄・セクター：三菱ケミカルグループ（4188）、住友化学（4005）、三井化学（4183）、石油化学
-・株価への影響：化学株の業績懸念を強め、TOPIXの素材セクターにはマイナスです。
-・影響方向：下落
-分類一覧
-上昇（6本）
-国産AIを製造現場で開発
-
-TSMCが設備投資を増額
-
-ASMLが先端装置を増産
-
-住友電工が蓄電池を増産
-
-三菱電機がROE向上とフィジカルAIへ注力
-
-夏季賞与が過去最高
-
-下落（3本）
-半導体株の過熱修正
-
-ETF分配金に伴う投信の換金売り
-
-石油化学の低稼働と中国製品流入
-
-不確定（1本）
-セブン＆アイの東欧大型投資
-
-合計
-上昇：6本
-
-下落：3本
-
-不確定：1本
-
-計：10本
-セクター別の見方
-強そうなセクター
-・製造DX・FA・ロボット：
-国産AI、フィジカルAI、ヒト型ロボットの工場導入など、製造現場の自動化を後押しする記事が多くあります。三菱電機、ファナック、安川電機、日立製作所などが監視候補です。
-・電線・蓄電池・電力設備：
-住友電工の増産や、AI・データセンター向け電力需要の拡大が追い風です。電線株は期待先行になりやすいため、寄り付き後の出来高と高値更新の有無を確認したいところです。
-・半導体製造装置・材料：
-TSMCとASMLの設備投資は中長期的な強材料です。ただし、現在は好材料より需給調整が優先されているため、下げ止まりを確認してからの選別が必要です。
-・消費・内需：
-夏季賞与の増加は百貨店、外食、旅行、耐久消費財を支えます。全面高より、価格転嫁力と客数増を両立できる企業が選ばれそうです。
-弱そうなセクター
-・石油化学・基礎素材：
-低稼働率、中国の供給増、アジアでの価格競争が重荷です。原料価格だけでなく、製品価格と設備再編の進捗が焦点になります。
-・高値圏の半導体株：
-業績が良くても売られる相場では、押し目買いが早すぎるとさらに下値を試す可能性があります。主力株がVWAPや前日安値を回復できるかが重要です。
-判断が分かれそうなセクター
-・小売：
-賞与増加は追い風ですが、セブン＆アイの大型海外投資は、成長期待と財務負担の両面があります。小売全体よりも個別企業の戦略が重視されます。
-・金融：
-個人向け国債の発行増加や金利上昇は銀行に追い風となる一方、地域金融機関の再編圧力や貸出先の選別も進んでいます。大型銀行と地銀では評価が分かれそうです。
-・グロース・AI関連：
-AIテーマ自体は強いものの、信用取引規制や割高感、会計不正への警戒があります。テーマ名だけで買わず、売上や受注との結び付きが明確な企業を選ぶ必要があります。
-デイトレ目線
-・寄り付きで飛び乗るべきか
-半導体株への飛び乗りは避けたい局面です。前日の下落幅だけで反発を決め付けず、アドバンテスト、東京エレクトロン、ディスコが寄り後の安値を守れるかを確認します。
-・買い目線になる条件
-半導体主力株がVWAPを回復し、住友電工、三菱電機、FA・ロボット株にも買いが広がることです。日経平均だけでなく、TOPIXや設備投資関連が同時に強ければ反発の信頼度が上がります。
-・売り目線になる条件
-半導体株が寄り付き後の戻りを維持できず、前日安値を更新する場合です。ETF換金売りが続き、大型株が指数主導で売られるなら、戻り売り優勢と判断しやすくなります。
-・見送り、または売り警戒になる条件
-AI関連株だけが急騰し、TOPIXや内需株が追随しない場合です。信用規制銘柄、小型テーマ株、前日急騰銘柄は値幅が大きくなりやすいため、板と出来高を慎重に確認します。
-・確認すべき銘柄、セクター
-アドバンテスト、東京エレクトロン、ディスコ、キオクシア、ソフトバンクグループ、三菱電機、住友電工、セブン＆アイを監視します。TOPIXでは銀行、商社、自動車、小売が下支えできるかが焦点です。
-・最終戦略を一言
-半導体の底打ち確認を優先し、設備投資・AI実装関連の強い銘柄を押し目で狙う戦略です。
-まとめ
-日本経済新聞朝刊の国内材料だけを見ると、AI・設備投資関連には買い材料が多い一方、半導体株の過熱修正とETF換金売りが重く、きょうの日経平均は積極的な買いより押し目待ちに近い判断です。
-
----
-
-### [フィジカルAI、製造現場で自律制御へ](https://note.com/it_daytrading/n/nd103b730478a)
-
-- ソース / Source: note · ハッシュタグ「ロボティクス」 · 2026.07.17
-
-![見出し画像](https://assets.st-note.com/production/uploads/images/294984390/rectangle_large_type_2_a606ac8908089cb61b2c7584143ff7a2.jpeg?width=800)
-
-概要
-本日07/17のAI/IT関連ニュースは、国産AI基盤の本格始動、フィジカルAIの製造現場への実装、AI需要を支える半導体・計算資源の争奪が大きな柱です。国産AI新会社「ノエトラ」を軸に、NVIDIAがGPU、ソフトウェア、開発環境まで提供する構図が明確になりました。一方、製造業ではマイクロソフト、シーメンス、ファナックなどが、AIに判断だけでなく機械の制御や作業まで担わせようとしています。さらにHBM増産、CPUの再評価、データセンター立地、AIエージェントの監査ログなど、モデル以外の基盤技術にも焦点が移っています。AI産業は文章生成の競争から、計算基盤・企業データ・現場制御を統合する総合戦へ進み始めています。企業はAIを導入するだけでなく、どのデータを使い、どこで動かし、どう監視するかまで設計する必要があります。
-ポイント
-国産AI×NVIDIA：ノエトラの始動により、国内AI開発は国産化を掲げながらも、NVIDIA基盤を活用する現実路線へ進みます。
-
-フィジカルAI×製造業：AIが分析支援を超え、ロボットや生産設備を自律制御する段階に入りました。
-
-AIエージェント×CPU：複数処理を連続実行するAIでは、GPUだけでなくCPUやメモリー、通信の総合性能が重要になります。
-
-HBM×データセンター：AI需要の拡大が、高性能メモリー、生産設備、電力、土地、冷却設備への投資を押し上げています。
-
-AI運用×監査ログ：AIエージェントの普及に伴い、判断過程を追跡できる設計が企業利用の必須条件になります。
-
-生成AI×信頼性：AI検索の誤情報問題は、参照元、検証、責任分界を含む情報品質管理の重要性を示しています。
-
-AI/IT関連ニュース10選
-1. 国主導の新会社で国産AI開発へ　影の主役は米半導体エヌビディア
-（2026年7月16日 19:00、朝日新聞、期待度10点）
-・IT/AIに関連する理由：国産AI開発を担う新会社「ノエトラ」とNVIDIAの連携は、日本のAI産業政策を左右する大型テーマです。AIモデルだけでなく、GPU、学習基盤、ソフトウェア、開発者支援を一体で確保する構想とみられます。日本独自の産業データやロボット技術を生かせれば、米中とは異なる産業特化型AIを構築できる可能性があります。一方で、基盤部分の海外依存をどう管理するかが課題です。
-・リンク先：朝日新聞 https://www.asahi.com/articles/ASV7J32BTV7JULFA027M.html?ref=rss
-2. フィジカルAI進化で人型ロボットは導入段階、製造現場で「エージェンティックAI」
-（2026年7月17日 05:00、日経クロステック、期待度10点）
-・IT/AIに関連する理由：フィジカルAIは、生成AIが文章を作る段階から、ロボットが状況を認識し、計画し、行動する段階への転換を示します。製造現場では、決められた動作を繰り返す従来型ロボットから、変化に応じて作業を組み替える自律型システムへ進みます。人手不足対策だけでなく、多品種少量生産や設備停止の削減にもつながる重要テーマです。
-・リンク先：日経クロステック https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00151/00001/
-3. NVIDIAがトヨタなど日本産業界と連携強化、フィジカルAI向け新製品も発表
-（2026年7月16日 11:00、日経クロステック、期待度10点）
-・IT/AIに関連する理由：NVIDIAの日本企業との連携は、同社が半導体メーカーから産業AIの共通基盤企業へ変わっていることを示します。自動車、ロボット、製造装置にAI基盤が組み込まれれば、GPUだけでなくシミュレーション、デジタルツイン、エッジAIの需要も広がります。日本企業にとっては、優れたハードウェア技術とAIソフトウェアを結び付ける機会です。
-・リンク先：日経クロステック https://xtech.nikkei.com/atcl/nxt/news/24/03308/
-4. 米マイクロン、1.5兆円投じ広島で最先端HBM　CEO「かつてない需要」
-（2026年7月17日 05:00、日経クロステック、期待度10点）
-・IT/AIに関連する理由：HBMは生成AI向けGPUやAIアクセラレーターの性能を左右する重要部品です。広島への大型投資は、日本がAI半導体の製造拠点として再評価されていることを示します。材料、製造装置、検査装置、工場インフラなどへの波及効果も大きく、AI投資がソフトウェアだけでなく製造業全体を動かしていることが分かります。
-・リンク先：日経クロステック https://xtech.nikkei.com/atcl/nxt/column/18/00001/11875/
-5. 「自律的な工場」を目指すマイクロソフト、フィジカルAI実現へデータを集約
-（2026年7月17日 05:04、日経クロステック、期待度9点）
-・IT/AIに関連する理由：自律工場を実現するには、設備、品質、在庫、人員、保守などのデータを統合する必要があります。マイクロソフトの動きは、クラウド、デジタルツイン、AIエージェントを製造現場で一体運用する方向性を示します。企業DXの焦点が、個別業務の効率化から、工場全体を最適化する制御基盤へ移っています。
-・リンク先：日経クロステック https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00151/00005/
-6. シーメンス、AIで製造現場を自律制御　未知の状況にも柔軟に対応
-（2026年7月17日 05:02、日経クロステック、期待度9点）
-・IT/AIに関連する理由：未知の状況に対応できるAI制御は、従来の固定ルール型自動化との大きな違いです。設備異常、部品のばらつき、工程変更などにAIが対応できれば、停止時間の短縮や品質安定につながります。ただし、安全性や責任分界が重要になるため、AIの判断を人間が検証できる仕組みも必要です。
-・リンク先：日経クロステック https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00151/00003/
-7. エージェント型AIで「CPU重要」、NVIDIAやIntelのCEOが強調
-（2026年7月17日 05:00、日経クロステック、期待度9点）
-・IT/AIに関連する理由：AI市場ではGPUが注目されてきましたが、AIエージェントはデータ取得、検索、判断、外部システム操作など多様な処理を行います。このためCPU、メモリー、ストレージ、ネットワークを含むシステム全体の設計が重要になります。AIインフラ投資がGPU一極集中から、異種半導体を組み合わせる方向へ広がる可能性があります。
-・リンク先：日経クロステック https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00001/00675/
-8. 何をどう判断しどう行動したのか、AIエージェントを「追跡」するログ設計
-（2026年7月17日 05:00、日経クロステック、期待度9点）
-・IT/AIに関連する理由：AIエージェントが業務システムを操作するようになると、結果だけでなく、判断理由や参照データを記録する必要があります。金融、医療、製造、行政などでは、誤動作時の原因究明や監査対応が欠かせません。ログ設計は地味に見えますが、AIエージェントを実証実験から本番運用へ移すための重要技術です。
-・リンク先：日経クロステック https://xtech.nikkei.com/atcl/nxt/column/18/03687/071000003/
-9. AIがソースを見ずにソフト再実装に成功、全自動レガマイの夢は実現するか
-（2026年7月17日 05:00、日経クロステック、期待度9点）
-・IT/AIに関連する理由：既存ソフトウェアの入出力や動作を解析し、新しいシステムとして再実装できれば、レガシー刷新の進め方が変わります。古いソースコードの解読や仕様書不足に悩む企業にとって、大きな生産性向上につながる可能性があります。一方、例外処理、知的財産権、再現性、テスト網羅性の確認が必要で、完全自動化には慎重な検証が求められます。
-・リンク先：日経クロステック https://xtech.nikkei.com/atcl/nxt/column/18/00682/071500212/
-10. グーグルAI検索、「岩手の会社が事業停止」と誤情報　参照元も憤り
-（2026年7月16日 18:49、朝日新聞、期待度8点）
-・IT/AIに関連する理由：AI検索が企業に関する誤情報を表示すれば、信用、採用、取引、株価にまで影響する可能性があります。検索結果に生成AIの要約を組み込む場合、参照元が正しくても、文脈の取り違えや誤った統合が起こり得ます。RAGやAI検索では、情報源を示すだけでなく、主語、時点、対象企業を照合する仕組みが必要です。
-・リンク先：朝日新聞 https://www.asahi.com/articles/ASV7J2HWBV7JUJUB003M.html?ref=rss
-分類まとめ
-期待度10点：4本
-国産AI新会社とNVIDIA、製造現場のエージェンティックAI、NVIDIAと日本産業界の連携、マイクロンの広島HBM投資です。いずれもAIモデル単体ではなく、国家基盤、ロボット、半導体、産業エコシステムの構造変化に直結します。
-期待度9点：5本
-マイクロソフトの自律工場、シーメンスのAI制御、AIエージェントにおけるCPU、エージェントのログ設計、AIによるソフト再実装です。AIを実際の業務や設備に組み込み、安定運用するための技術が中心です。
-期待度8点：1本
-グーグルAI検索の誤情報問題です。生成AIサービスが社会インフラ化する中で、情報品質、説明責任、企業への風評被害をどう防ぐかという重要課題を示しています。
-全体総括
-全体として、きょうのAI/IT関連ニュースは、国産AI、フィジカルAI、AI半導体、AIエージェント、信頼性管理が中心です。特にAIは、文章や画像を生成する道具から、工場、ロボット、自動車、業務システムを動かす基盤へ広がっています。その結果、競争力を決める要素もモデル性能だけではなく、GPU、CPU、HBM、企業データ、通信、電力、監査ログ、安全設計へ拡大しています。企業はAI導入件数ではなく、業務全体をどこまで再設計できるかが問われます。投資家は半導体だけでなく、ロボット、データセンター、電力設備、製造DXの波及先に注目すべきです。エンジニアには、モデル開発に加えてデータ統合、運用監視、セキュリティ、現場制御の知識が一段と重要になります。
-
----
-
-### [現代自動車工場で人型ロボット導入巡りストライキ発生](https://note.com/_takumi_inoue_/n/n20b3f643d706)
-
-- ソース / Source: note · ハッシュタグ「ロボット」 · 2026.07.17
-
-![見出し画像](https://d2l930y2yx77uc.cloudfront.net/production/social_images/3de07dc30b0fbdc58575bca5710dbeff16560286.png)
-
-第1章 現代自動車蔚山工場におけるストライキの構造分析と社会的コンテクスト
-1.1 労働紛争の勃発とその直接的要因
-2026年7月、韓国の現代自動車における主力生産拠点である蔚山工場において、全国金属労働組合現代自動車支部による前例のない部分ストライキが決行されました1。この事態は、先端技術である人型ロボットの工場への本格デプロイをめぐり、生産ラインの停止（ファクトリー・シャットダウン）にまで発展した世界初の労働紛争事例として、世界の産業界に強い衝撃を与えています1。
-本紛争の直接的な引き金となったのは、現代自動車が同年1月に米国ラスベガスで開催されたテクノロジー見本市（CES）において、同社傘下のロボティクス企業であるボストン・ダイナミクス社製の人型ロボット「Atlas」の最新型産業モデルを公開したことでした1。全身の関節が360度自由に回転し、極めて人間に近い柔軟な起伏動作と自律移動能力を示すデモンストレーションは、将来的に人間の組立作業員が完全に「鋼鉄の同僚」に置き換えられる未来を予感させ、約4万人に及ぶ現場の組合員たちを深く動揺させました1。これに対し、組合指導部は事前合意なき単一のロボットの生産ライン導入も認めないとする強硬姿勢を表明し、対決姿勢を鮮明にしました4。
-1.2 蔚山工場ストライキの実態と規模
-蔚山工場におけるストライキの実態を定量的に概観すると、参加した組合員数は約4万人に上り、ストライキへの賛成率は情報源によって若干の幅があるものの、およそ86.65%から92%という極めて高水準を記録しています1。この部分ストライキは3日間にわたって実行され、日中および夜間の両シフトでそれぞれ2時間の作業放棄（合計1日4時間）という形態が取られました8。この作業停止による損失は、約5,000台の自動車の生産遅延、および約2,000億ウォン（約1億3,400万ドル）に及ぶ売上機会の損失という甚大なものとなりました8。
-労働組合側の要求は多岐にわたり、基本給14万9,600ウォン（約100ドル）の引き上げ、前年度純利益の30%に相当する成果給の支給、定年の65歳への延長、さらには人型ロボット導入における事前同意の義務化などが掲げられています8。
-1.3 グループ系列38労組の共同闘争と黄色い封筒法を巡る対立
-この労働紛争は、個別企業における局所的なストライキの域を越え、韓国の大手コングロマリット全体およびサプライチェーンを巻き込む構造的な広がりを見せています10。起亜自動車労組をはじめ、現代モビス、現代製鉄、現代グロービスなど、グループ系列38の労働組合（計約8万7,000人規模）が足並みを揃えて共同闘争体制を構築したことは、これが単なる特定現場の賃金闘争ではなく、自動化時代における雇用保護のルール化を求める産業界全体の組織的対抗策であることを示しています10。
-さらに、韓国国内においては、労働者側の集団交渉権を強化し、下請け企業の労働紛争における元請け企業の連帯責任やストライキへの損害賠償請求を制限する「労働組合および労働関係調整法」の改正案（通称「黄色い封筒法」）の法制化論争が激化しており、これが労使双方の対立感情をさらに増幅させています12。
-1.4 政治の介入とラッダイト運動の再評価
-この対立に対して政治権力構造も介入を見せており、当時の韓国大統領である李在明（イ・ジェミョン）は、人型ロボットへの移行を避けることのできない巨大な時代の潮流と表現し、不要な保護主義に陥るのではなく技術適応を促すべきであるとの立場を示しました1。この発言は、19世紀初頭の英国で起きた産業革命期の「ラッダイト運動（機械破壊運動）」を想起させる文脈で捉えられ、労働組合側から「国家の役割は、押し寄せる潮流に我々をただ流されるままにさせることなのか」という激しい反発と批判を浴びることとなりました14。
-1.5 ハイテク企業の成果給実績が与えた影響
-労働者側の強硬な姿勢の背景には、近年のAIブームによって巨額の利益を上げたハイテク企業の労働組合が、大規模な成果給やボーナスを勝ち取った実績が存在します6。サムスン電子の半導体メモリー部門がストライキを回避するために労働組合との間で従業員1人あたり最大約40万ドルにのぼると推計される成果給の支給に合意したことや、SKハイニックスの従業員が巨額の一時金を獲得したことは、製造業分野の労働者に対しても「自動化が進む前の最も交渉力が高いタイミングで、将来の取り分を確保すべきである」という強い動機付けを与えています3。
-第2章 自動化の技術的進化と人型ロボット「Atlas」の産業導入ロードマップ
-2.1 汎用目的ロボティクスへのパラダイムシフトと最新型「Atlas」の特徴
-現代自動車およびロボティクス産業各社が描く自動化のロードマップは、従来の産業用ロボットアームが担っていた限定的な定型作業から、自律的な運動制御と人工知能に基づく意思決定を統合した「ジェネラル・パーパス（汎用目的）ロボティクス」への決定的なパラダイムシフトを反映しています15。ボストン・ダイナミクスが開発した電動式Atlasは、従来の油圧駆動式プロトタイプに見られた露出したジョイントや配管を排し、人間が作業することを前提に最適化された既存の工場環境にそのまま適応できるよう設計されています17。
-2.2 現代自グループにおける人型ロボット導入の段階的計画
-現代自動車が公表したロボット導入の段階的なマイルストーンによると、まず2026年には、CESにおいて最新の電動型「Atlas」を一般公開し、パイロット運用による組立工場へのタスク適合性の検証を開始しました8。続く2028年には、米国ジョージア州の非組合員工場である「ジョージア・メタプラント（HMGMA）」への本格的なデプロイを計画しています1。この初期フェーズにおける主なタスクは、組立部品の順序整列（シーケンシング）やピッキングといった比較的ルーティン度の高い自律作業に限定されます15。
-さらにその後の2030年までには、より複雑なコンポーネントや車体部品の「組立・締結工程」にまで適用範囲を拡大する計画です21。このロードマップは年間3万台以上の量産体制の構築と並行して進められており、そのうち2万5,000台以上を同社および起亜自動車の国内外の生産現場に配備する方針が示されています13。
-2.3 導入の財務的妥当性とOEM各社の競争
-このロードマップにおける財務的妥当性は極めて明快です1。人型ロボット1台あたりの予測導入コストは約13万ドルであり、これは人間の作業員が担当する3交代制（24時間連続稼働）の年間人件費と比較した場合、わずか約2年で投資回収が可能であることを意味しています1。この投資回収効率（ROI）は、グローバル市場において他の自動車メーカーとの極限のコスト競争に直面している現代自動車の経営陣にとって、もはや回避不可能な選択肢となっています1。
-2.4 製造業各社のイノベーション競争と自動化の成熟度指標
-このイノベーション競争は現代自動車グループに留まらず、世界の製造業における共通のトレンドとなっています1。例えば、米国のゼネラルモーターズ（GM）は、デトロイト・ファクトリー・ゼロ工場において約50台のファナック社製協働ロボットを配備し、人とロボットが空間を共用する自律プロセスの合理化を推進しています11。同時に、GMは部品供給を担うサプライヤー網に対しても「自動化成熟度指標」を適用し、サプライチェーン全体での脱・人手依存を強制するガバナンスを構築しています15。
-半導体大手のSKハイニックスは、オペレーショナルAI、物理的AI、およびデジタルツインを融合させた「自律型ファブ」の構築を進め、メンテナンスや欠陥分析にかかる時間を50%以上短縮することに成功しています3。さらに重工業分野では、造船大手の韓華オーシャンが、熟練労働者が行っていた高強度かつ危険な溶接タスクを協働ロボットに100%委託する計画を前進させており3、鉄鋼大手のPOSCOは、高温かつ有毒ガスが発生する鉄鋼生産現場に四足歩行ロボット「Spot」を配備して危険監視を自動化すると同時に、人型ロボットを用いた重量コイル物流の自律化検証を進めています3。
-2.5 自動車最終組立工程における自動化のボトルネックとロボット導入の破壊的インパクト
-こうした自動化の進展と比較した際、自動車組立ラインの現状の自動化率の低さが、人型ロボット導入の必然性をより強めていることが理解できます24。南アフリカの自動車製造業における自動化の進展を追った学術調査によると、ボディーショップ（車体結合工程）が100%自動化され、ペイントショップ（塗装工程）が80%自動化されているのに対し、ファイナルアセンブリー（最終組立工程）のロボット・技術適用率は依然として約20%に留まっています23。
-このようにボトルネックとなっている組立工程こそが、複雑な三次元空間で柔軟な関節制御が求められる「人間の手作業に依存する最後の砦」であり、だからこそ人型ロボットが組立ラインに参入することの破壊的インパクトが最大化するのです12。
-第3章 労働市場・雇用構造における理論的・学術的分析
-3.1 技術決定論と労働排除の対立：フレイ教授の理論的視点
-人型ロボットの工場導入がもたらす労働市場の再編については、技術決定論的なユートピア論と、急進的な労働排除を危惧するディストピア論の双方が交錯しており、これを解き明かすための複数の学術的知見が存在します1。オックスフォード大学で人工知能の労働インパクトを研究するカール・ベネディクト・フレイ（Carl Benedikt Frey）教授は、今回の現代自動車における紛争を、人型ロボットというパラダイムシフトに対して人間の労働者がどこまで抵抗し、自身の交渉力を発揮して権利を守れるかを示す、世界で最初の最も重要なテストケースであると評価しています1。
-3.2 短期的「生産性効果」と長期的「代替効果」の非対称性
-フレイ教授の研究、および国際労働機関（ILO）等のデータは、短期的・個別企業レベルでの「生産性効果」と、長期的・構造的な「代替効果」の非対称性を指摘しています14。韓国労働研究院（KLI）の分析によると、地域データにおいて労働者1,000人あたり6.6台の産業用ロボット増加があった場合、製造業における雇用率は逆に0.6ポイント上昇し、熟練労働者の賃金も2.5%増加、かつ創出された雇用の約83%が正規職という、仕事の質の向上を伴う結果が得られています29。また、韓国銀行のデータによれば、1,000人あたり9.95台のロボット導入は、過酷な労働環境の代替を通じて作業員の負傷リスクを8%低下させるなど、労働安全衛生上の明確なメリットをもたらしています24。
-3.3 スキル向上のハシゴ外しと人的資本の喪失リスク
-しかし、これらの既存ロボット導入の好影響は、現在のジェネラル・パーパス人型ロボットおよび生成AIの統合局面においては、全く異なる歪みとして顕現し始めています7。KLIが事務・管理職向けに実施したAI意識調査では、約58%の労働者が10年以内に自身の仕事がAIに奪われると回答しており、とりわけ30.2%の回答者が、これまで新入社員やエントリーレベルの作業員が受けてきた「標準的な訓練タスク（報告書のまとめ、初稿作成、基礎リサーチ）」が全面的にAIに委ねられている現状を明かしています30。
-これは個別企業レベルの短期的合理性が、国家レベルでの人的資本の蓄積経路を絶つ「スキル向上のハシゴ外し」に繋がっていると強く警告されています31。同様に、自動車工場での人型ロボットの配置は、これまで新入作業員がラインの補助業務を通じて組立技術を習得していた訓練機会を枯渇させ、未経験の若年層から安定した「質の高い雇用」を奪う直接的な要因となります22。
-3.4 リショアリングの罠とテクノ・リテラシー重視のリーダーシップ
-さらに経済学の観点からの分析によると、物理的AIの進展は一見すると、海外に展開していた工場を自国に引き戻す「リショアリング」を加速させます32。しかし、自国に回帰した最新ファクトリーにおいて雇用されるのは、単純な生産作業員ではなく、ロボットの動作エラーを監視し例外的な事態に対処する「高技能のメンテナンスエンジニアやシステム管理者」のみに厳格に制限されます33。
-そこでは人間は「ロボットの監視役」としての役割しか持たず、雇用構造全体がAIおよびロボティクスを中心に再編されます13。結果として、リーダーシップにおけるコア・コンピテンシーは、従来の「チームの融和性」から「テクノ・リテラシー（技術適応能力）」へと強制的にシフトせざるを得なくなります33。
-3.5 セル生産における二足歩行ロボットの統合シミュレーション
-この論点を支持する学術研究として、人型ロボット「Tesla Optimus」のセル生産ラインへの統合シミュレーションが挙げられます23。この研究では、オープンソースの医療用人工呼吸器組立ラインにおいて人間と人型ロボットを同一チームに配属した際の生産性をシミュレートしました23。
-Optimus（可搬重量20kg、アームを完全に伸ばした状態で10kg）のようなバイペダル（二足歩行）モビリティを持つ知能化ロボットの統合は、リーンな生産ラインにおいて極めて高い柔軟性と作業自動化レベルの向上をもたらしますが、それは裏を返せば、従来の固定式ロボットアームに守られてきた人間の手作業が、あらゆる組立セルにおいて容易に侵食され、再配置や人員転換の憂き目に遭うことの科学的証明でもあります23。
-第4章 国際的労働ガバナンスと先進事例：ドイツ「Arbeit 2020」と「Zukunftsvereinbarung」の示唆
-4.1 アルゴリズム管理に伴う心理社会的リスク
-技術的失業の脅威、およびアルゴリズム管理の下で働く労働者の心理社会的リスクへの対抗策について、国際労働機関（ILO）や経済協力開発機構（OECD）は、集団的労使交渉の枠組みが果たす役割の大きさを一貫して唱えてきました37。ILOの報告書によれば、製造業分野におけるAI市場は2024年の234億ドルから2040年には1,550億ドルへと約6.6倍に膨れ上がると予測されています40。
-しかしその恩恵は極めて不均等に配分されており、末端の現場では非可視的なリスク、すなわちデジタル・タイムスタンプによる労働監視の強化、トルクレンチのデジタル履歴（Power BIによる可視化）を通じたミスの執拗な人事追及、それに伴う労働強度の強化と自律性の喪失が、主に若年層や女性、サプライチェーン下流の派遣労働者に重くのしかかっています33。
-4.2 集団的労使協定のカバー率が果たす役割
-こうした技術導入に伴う負の影響力を中和するために、集団的労使協定のカバー率が果たす役割は極めて決定的な意義を持ちます41。OECDの研究によれば、集団的労使協定の締結カバー率が高い国やセクターにおいては、自動化の影響を最も受けやすい「高ルーティンタスク作業員（製造オペレーターなど）」の相対的賃金成長率が、技術導入後も他職種と同水準を維持できる傾向にあることが実証されています42。
-この研究モデルは、例えば1984年以降の米国において労働組合の組織カバー率が低下しなかったと仮定した場合、自動化に直面した単純製造職などの労働者の実質賃金は低下せず、1980年代水準を保ち得たであろうと試算しています11。
-4.3 ドイツIGメタル主導「Arbeit 2020 in NRW（労働2020）」のベストプラクティス
-技術を労働者に一方的に押し付けるのではなく、事前に合意形成を図る枠組みとして、ドイツの金属産業労働組合「IGメタル」が進める実践事例は、国際的なベストプラクティスとしてベンチマークされています38。とりわけ、IGメタルがノルトライン＝ヴェストファーレン州などで主導した共同プロジェクト『Arbeit 2020 in NRW（労働2020）』は、技術革新を前向きに受容しつつ労働者の質的労働生活の質（QWL）を担保するための高度な手法を提供しています44。
-4.4 Betriebslandkarte（職場地図）による現状の可視化
-IGメタルが進める『Arbeit 2020』プロジェクトでは、以下の段階的なプロセスを経て労使合意が形成されます。まず第1段階として、外部コンサルタントや学術専門家が職場に介入し、現場の労働者や職長への直接インタビューを通じて現状の作業タスクを定性的・定量的に把握します44。次に第2段階では、生産現場に導入されているセンサー、データ連携の度合い、および制御システムの自律性といった技術インフラのレベルを詳細に評価し、『職場地図（Betriebslandkarte）』としてマッピングします45。
-続く第3段階では、デジタル技術の導入に伴うスキル要求の変化や従業員の再教育ニーズ、さらには心身にかかる新たなストレスのレベルを予測・可視化します47。第4段階として、これらのデータに基づき、従業員のリスキリングプログラムや評価基準の見直しを含む具体的な労使協働の改善行動計画を策定します47。そして最終段階である第5段階において、企業と組合の双方が署名し、法的拘束力を持つ『未来の持続可能性協定（Zukunftsvereinbarung）』の締結に至ります12。
-4.5 Zukunftsvereinbarung（未来の持続可能性協定）による法的保障
-この『Zukunftsvereinbarung』は、単なるスローガンではなく、法的拘束力を持つ強力な会社合意書として機能します48。例えば、シェフラーがビテスコを統合するにあたり、2018年にIGメタルと締結した『Zukunftsvereinbarung』を合併新会社においても無条件で維持・継承し、工場閉鎖の禁止やタスク転換プログラムへの出資を保証した事例が挙げられます49。
-また、MAN Truck & Busが当初9,500名の人員削減を一方的に提示した計画に対し、IGメタルは数ヶ月に及ぶ交渉と争議行為の末、削減規模を3,500名に圧縮するとともに、削減対象者の強制解雇を一切禁じ、残された全人員に対してe-モビリティや水素技術、自動化に向けた大規模リスキリングと、それに連動した代替製品の内製投資を企業に約束させました48。この「技術を拒絶するのではなく、技術を活用した現場の共同開発と教育の権利を契約として明文化する」手法こそが、現代自動車の労使交渉においても最も有効な着地点として、グローバルな学術コミュニティから注目を集めているのです1。
-第5章 物理的AI導入に伴う産業安全規格の地殻変動：ISO 10218:2025とISO/WD 25785-1
-5.1 静的安定から動的安定へ：安全基準の概念シフト
-人型ロボットが実際に稼働する工場を設計する上で、最大の技術的・法的なハードルとなるのが「産業安全基準」の再設計です50。ロボットアームなどの固定型自動化設備と異なり、構造化されていない人間と同じ床空間を歩行移動するヒューマノイドを導入するためには、製品適合マークや各国の法的労働衛生管理に適合した客観的安全を証明しなければなりません51。
-5.2 ISO 10218:2025の大改訂：「協働ロボット」の呼称廃止と協働アプリケーションの定義
-この適合義務を果たすべき基盤規格として、2025年2月に「ISO 10218-1:2025」および「ISO 10218-2:2025」が国際標準化機構より正式に発行されました54。これは2011年以来の極めて抜本的な改訂であり、人型ロボットを含む先端ロボティクス安全に甚大な影響を与えています25。
-この大改訂における最大の特徴は、協働ロボットという用語、およびそれに基づくハードウェア区分が完全に撤廃された点にあります55。これまではパワー・フォース制限機能（PFL）を備えたアーム自体を導入すれば安全が担保されているかのように解釈されていました54。しかし2025年規格においては、安全性とはハードウェア自体の属性ではなく、ロボットの運動、先端の鋭利な治具、ハンドリングする重量物、そして作業員の立ち位置が一体となった状態、すなわち「協働アプリケーション」に対してのみ適合確認・評価ができるという安全思想に統一されました54。
-5.3 旧規格フレームワークと2025年最新規格の違い
-ISO 10218:2025における旧フレームワークと新フレームワークの具体的な相違点は、以下の主要な4つの技術領域における概念的転換に集約されます。
-第一に、概念的な定義の変更です。旧規格（ISO 10218:2011および技術仕様書ISO/TS 15066:2016）においては、ハードウェア自体の安全性を前提とした「協働ロボット（Cobot）」が定義され、製品そのものを基準に安全性が評価されていました53。これに対し2025年の新規格では「協働ロボット」の呼称そのものが廃止され、ロボット、ワーク（対象物）、治具、そして人間の動線すべてを一体として評価する「協働アプリケーション」というシステムベースの定義に統一されました54。
-第二に、ハザードスペース（危険空間）の捉え方です。旧規格では、人間をロボットから隔離するための「安全保護空間」は、物理的な柵や障壁によって囲まれた固定的な領域として規定されていました25。新規格では、エリアセンサーや動的トラッキング技術との連動を念頭に、状況に応じて柔軟に形状や範囲が変化する可変的な「安全保護空間」として再規定されました54。
-第三に、安全機能の呼称の変更です。これまで「安全定格監視停止」と呼ばれていた、人間が接近した際にロボットが静止する安全機能は、新規格において技術的な正確性を期して「監視停止状態（Monitored standstill）」へと改称されました25。
-第四に、動的安定性への対応です。旧規格は、ボルトなどで地面に固定され、電源喪失時にも自立を維持する静的安定ロボット（産業用アームなど）のみを想定していました56。しかし、人型ロボットに代表される脚式・歩行システムは能動的な姿勢制御に依存しているため、新規格においては現在策定が進められている「ISO/WD 25785-1」を視野に入れ、落下に伴うリスク管理やゼロエネルギー・ポーズなどの動的安定性に関する固有の規制要件が組み込まれつつあります51。
-この概念シフトにより、例えば人型ロボットが組立現場でカッターナイフのような鋭利な部品や重量バッテリーセルを把持して歩行している場合、ロボットアーム自体にどれほど高度な衝突検知機能が搭載されていようとも、システム全体の「協働アプリケーション適合性」は不合格と判定されることになります51。
-5.4 「ISO/WD 25785-1」の策定と二足歩行ロボット特有の安全要件
-静的な基礎構造物にボルトで固定され、電源を遮断された際にも倒壊リスクがない従来のロボットアームに対し、二足歩行を行う脚式システム（人型ロボット）は、常に自律バランスを能動的に制御する「動的安定性」に依拠して稼働しています54。そのため、システムの電源遮断、バグ、通信タイムアウトなどの障害時に、即座に数十キログラムの重量構造物がバランスを崩して人間の作業員に直撃するという特有の重大ハザードを回避できません51。
-この二足歩行・マルチレッグロボティクスの安全規制の重大なギャップを埋めるため、現在「ISO/WD 25785-1（脚式・ダイナミックスタビリティシステムのためのグローバル安全性規格）」の起草が急ピッチで進められています51。脚式ロボットが人間の作業空間に進入する際、インテグレーターやエンドユーザーが遵守しなければならない主要な安全要件は、以下の3つの運用技術および設計仕様に定義されます。
-5.5 落下ゾーン（Fall Zone）の力学的算定とゾーニング
-作業空間の床面において、ロボットがバランスを崩して転倒した際に及ぶ危険半径を常に動的に算出・マッピングしなければなりません51。例えば、身長1.7メートル、通常歩行速度1.5 m/sで稼働するAtlasクラスのヒューマノイドの場合、慣性力を加味した落下衝撃ゾーンは最低でも半径2メートルをカバーしなければなりません51。このゾーンへの人間の不意の侵入に対しては、光学スキャナーやリアルタイム動線トラッキング技術と連動し、侵入が検知された瞬間にロボットを安全状態へ移行させる必要があります。
-5.6 ゼロエネルギー・ポーズ（Zero-Energy Pose）の実装
-電力喪失や制御用AIのフリーズなどの緊急時に、完全な電源遮断（安全停止）を実行しつつも、棒立ちのまま周囲に倒れ込むのを防ぐための受動的フォールバック・アルゴリズムが要求されます50。具体的には、電源喪失時に即座に膝を折り曲げてその場にしゃがみ込ませる（膝立ちポーズをとらせる）ことで、落下の垂直高と質量エネルギーを著しく相殺し、周囲の人間が受ける力学的衝撃負荷を規格の許容上限範囲に抑える機能が求められます50。
-5.7 大容量バッテリーマネジメントとホットスワッププロトコル
-特に、過酷な産業環境での安定稼働に不可欠なバッテリーマネジメントにおいては、機械の熱的状態を検証し、パック脱着時に安全を期すための厳格なホットスワッププロトコルが要求されます。このプロトコルは、まず第1に、バッテリーパックの熱状態がメーカーの指定する許容閾値（通常は40℃から50℃の範囲）を超えていないかを監視システムを通じて確認することから始まります51。もし閾値を超えている場合は熱プロテクション構造が作動し、機械的な脱着ロックが機能して取り外しが無効化されます51。
-熱的に安全であることが確認された後、ロボットは引火性物質から最低1.5メートル以上のクリアランスが確保された、防火抑制設備を備える脱着指定エリアへと移動し、配置されます51。その上で機械式ガイドラインを正確に噛み合わせ、放電スパークを防止しつつ安全に劣化したバッテリーを取り外し、新鮮なバッテリーを挿入します51。最後に、起動後のセルフテストによりシステム全体の動作ステータスが正常であることを検証した上で、稼働ラインへの再復帰を許可するという段階的運用ルールを徹底しなければ、安全基準の適合証明は無効となります51。
-5.8 人類学的デザインのジレンマ：アンソロポモルフィズムが与える心理的脅威
-人型ロボット特有の課題として、人間を模した外観デザイン（アンソロポモルフィズム）が労働者の心理に与える影響が挙げられます63。産業心理学における最新研究によると、人型に近いデザインのロボットは、現場の作業員に対して「高い能力を持ち、親しみやすく、安全である」と感じさせるポジティブな効果を持つ一方で、同時に自身のアイデンティティや職務生存権を脅かす「強い潜在的脅威」としても容易に反転・増幅して認知されることが明らかにされています63。
-この親和性と脅威の二面性こそが、デモンストレーション映像を観た蔚山工場の現場組合員たちの間に、他タイプのマテリアルハンドリングアーム導入時には見られなかった極度の不安とストライキによる猛烈な反発を巻き起こした心理的真相に他なりません1。
-第6章 結論：人とAI・物理的ロボットが協調する未来の制度設計に向けた提言
-6.1 単なる技術への抵抗を超えた新たなルール策定の闘い
-現代自動車の蔚山工場で発生した世界初の人型ロボット抵抗ストライキは、自動化の潮流を力ずくで押し止めようとする一種のラッダイト運動の再来ではなく、新技術によって創出される余剰利益の配分と生存安全の防壁を事前合意するための「AI時代の新たな労働ルール策定の闘い」です10。
-技術革新の進展は一企業の意向だけで抗えるものではなく、グローバルな競争圧力と劇的な費用対効果（2年のROI）を背景に、産業界は必然的に物理的AIの統合へと突き進んでいきます1。しかし、これを人間を排除した一方的なコストカットの道具として暴走させるならば、深刻な若年層キャリア雇用の空洞化を招き、労働市場の二極化と「技術の罠」による広範な社会の不安定化を再生産することとなります14。今、世界の製造業およびポリシーメーカーに求められるのは、以下の3つの柱に基づいた、新たな労使協調モデルと安全インテグレーションの社会制度設計です。
-6.2 提言1：技能還元のガバナンスと「公正な移行（Just Transition）」の制度化
-新技術の導入によって得られた莫大な余剰利益を、単に投資家やインサイダーの労働者だけで山分けするのではなく、ロボットによって削減された単純業務の労働者（特に下請け企業や派遣労働者）に対する確実な再教育プログラムや、失業時のセーフティネットの構築へと資金環流させる「公正な移行」を産業政策レベルで義務付けるべきです6。
-6.3 提言2：ドイツ式「職場地図」と「未来協定」の積極的導入
-経営陣の一方的な技術の不意打ち導入は、最大の労働反発と生産ラインへの甚大な損失（ストライキ費用、風評被害）をもたらし、イノベーションそのものを失速させます22。技術を開発する段階から、労働組合および外部の第三者学術機関と共同で、デジタル技術が人間の作業員のストレスやスキル要求に与えるロードマップを評価し、導入と引き換えに段階的なリスキリング・権利維持・雇用の質的保障をパッケージにした「未来協定」を締結する仕組みをコーポレートガバナンスとして組み込む必要があります44。
-6.4 提言3：安全適合性証明をコアとするインテグレーション競争への適応
-人型ロボットが製造現場で真に価値を提供するためには、ISO 10218:2025、さらには脚式ロボットに特化して策定中のISO 25785-1などの国際規格における「協働アプリケーション全体としての適合証明」が唯一の法的なパスポートとなります51。企業は、単に高スペックのロボットを調達する能力を競うのではなく、安全落下ゾーンの力学的制御やゼロエネルギーポーズといった「安全インテグレーション能力」そのものを、企業の不可欠なコアアセット、および無形資産として磨き上げていくことが求められています51。
-6.5 現代自蔚山工場ストライキの解決プロセスが提供する意義
-現代自動車が直面したストライキの解決のプロセスとその結末は、今後のグローバル製造業各社が、人間を物理的に、そして尊厳を持って技術進歩の中に包摂していけるかどうかを見定める、最も重要なベンチマークを提供することになるでしょう1。
-引用文献
-Workers at Hyundai Motor Company's Ulsan Plant have launched a partial strike in protest against job.. - MK, https://www.mk.co.kr/en/world/12100050
-
-Hyundai workers in strike action over wages, job security - Just Auto, https://www.just-auto.com/news/hyundai-workers-in-strike-action-over-wages-job-security/
-
-Everything That Happened in AI Today (Sunday, July 12, 2026) - The Neuron, https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-today-sunday-july-12-2026/
-
-Hyundai union moves to block humanoid robots on production lines - Korea JoongAng Daily, https://www.koreajoongangdaily.com/business/hyundai-union-moves-to-block-humanoid-robots-on-production-lines/12040140
-
-The Hyundai Motor union in South Korea strongly opposes the deployment of humanoid robots on the job. - 富途资讯, https://news.futunn.com/en/post/76104461/the-hyundai-motor-union-in-south-korea-strongly-opposes-the
-
-Workers in Asia Are Fighting for Protections as AI Threatens Jobs | TechPolicy.Press, https://www.techpolicy.press/workers-in-asia-are-fighting-for-protections-as-ai-threatens-jobs/
-
-AI era forces Korea's labor, capital to negotiate new 'survival pact' - The Korea Times, https://www.koreatimes.co.kr/southkorea/society/20260506/ai-era-forces-koreas-labor-capital-to-negotiate-new-survival-pact
-
-Dow Jones Top Company Headlines at 11 PM ET: United Airlines Lifts Outlook as Higher Fares Blunt Turbulent Fuel Prices - Morningstar, https://www.morningstar.com/news/dow-jones/202607159948/dow-jones-top-company-headlines-at-11-pm-et-united-airlines-lifts-outlook-as-higher-fares-blunt-turbulent-fuel-prices-spacex
-
-Medienticker - KI Expertenforum, https://www.ki-expertenforum.de/ticker/
-
-ファクトチェック：ロボットを相手にストライキ——現代自「アトラス」対立を読む - note, https://note.com/wayofseeing/n/ne3e19b6a3540
-
-Hyundai, GM Push Robotics Automation, Squeezing Suppliers as Unions Dig In on Job Security - BigGo Finance, https://finance.biggo.com/news/6eb1cee2-c60f-4381-8c0a-b382f99b3689
-
-South Korea unions brace for humanoid robots in collective bargaining - CHOSUNBIZ, https://biz.chosun.com/en/en-society/2026/01/23/JNOCKP755ZB2PEDH45BZQENRMM/
-
-Bonus Demands, Union Law Push Korean Firms All-In on AI, Robots - Seoul Economic Daily, https://en.sedaily.com/finance/2026/05/23/bonus-demands-union-law-push-korean-firms-all-in-on-ai
-
-[Column] Telling workers that automation is unavoidable helps no one - Hankyoreh, https://english.hani.co.kr/arti/english_edition/english_editorials/1243341.html
-
-A South Korean Labor Union Is in Revolt Over Robots, or Maybe It's Surrendering to Them, https://gizmodo.com/a-south-korean-labor-union-is-in-revolt-over-robots-or-maybe-its-surrendering-to-them-2000786194
-
-Rough & Tumble, https://www.rtumble.com/
-
-Hyundai Workers Strike over Bonuses, Robotics Concerns Amid Stalled Contract Talks, https://ground.news/article/hyundai-workers-strike-over-bonuses-robotics-concerns-amid-stalled-contract-talks
-
-The Future of Autonomous Machines & the Humanoid Robot Market, https://www.plugandplaytechcenter.com/insights/humanoid-robot-market
-
-10 things you need to know about humanoid robots | Barclays IB, https://www.ib.barclays/our-insights/10-things-you-need-to-know-about-humanoid-robots.html
-
-The Fight over Humanoid Robots Has Shut Down a Car Factory for the First Time | Hacker News, https://news.ycombinator.com/item?id=48924863
-
-Hyundai strike said to be first car factory stoppage over humanoid robots | Seeking Alpha, https://seekingalpha.com/news/4614357-hyundai-strike-humanoid-robot-atlas
-
-The Real Reason Why Hyundai Workers Just Walked Off the Job for the Second Year in a Row: 'Not a Single Robot' - Inc. Magazine, https://www.inc.com/victoria-salves/why-hyundai-workers-walked-off-job-for-second-year-in-a-row/91373130
-
-[2304.04949] Intelligent humanoids in manufacturing to address worker shortage and skill gaps: Case of Tesla Optimus - arXiv, https://arxiv.org/abs/2304.04949
-
-The extent of job automation in the automobile sector in South Africa - ResearchGate, https://www.researchgate.net/publication/343239008_The_extent_of_job_automation_in_the_automobile_sector_in_South_Africa
-
-automation in the apparel and automotive sectors and their gender dimension - International Labour Organization, https://www.ilo.org/media/235961/download
-
-Digitalization, Labour Market and Collective Bargaining, https://illej.unibo.it/article/download/18370/17072/73769
-
-Carl Benedikt Frey on Sounds Robotic: A CGD Podcast | Center For Global Development, https://www.cgdev.org/blog/carl-benedikt-frey-sounds-robotic-cgd-podcast
-
-Carl Benedikt Frey - Department of Economics - University of Oxford, https://www.economics.ox.ac.uk/people/carl-benedikt-frey
-
-Manufacturing Employment, Wages Rise With Robots, https://www.chosun.com/english/market-money-en/2026/01/24/N7KCYIGWMVGNFPRYFMY5N2B5BI/
-
-In an already cutthroat Korean job market, AI raises the barrier to entry, https://english.hani.co.kr/arti/english_edition/e_national/1254841.html
-
-(PDF) Unemployment: Automation, Monopolistic and Bargaining Power - ResearchGate, https://www.researchgate.net/publication/373405639_Unemployment_Automation_Monopolistic_and_Bargaining_Power
-
-Humanoid Robots Bring Factories Home, Not Jobs, Sparking Labor Tensions, https://en.sedaily.com/finance/2026/02/10/humanoid-robots-bring-factories-home-not-jobs-sparking
-
-(PDF) Trade Union Power and the Quality of Working Life Under Industry 4.0: Bargaining Outcomes in Truck and Car Components Plants - ResearchGate, https://www.researchgate.net/publication/397623711_Trade_Union_Power_and_the_Quality_of_Working_Life_Under_Industry_40_Bargaining_Outcomes_in_Truck_and_Car_Components_Plants
-
-(PDF) Intelligent Humanoid Robots in Manufacturing: Addressing the Worker Shortage and Skill Gaps in Assembly Cells - ResearchGate, https://www.researchgate.net/publication/378899018_Intelligent_Humanoid_Robots_in_Manufacturing_Addressing_the_Worker_Shortage_and_Skill_Gaps_in_Assembly_Cells
-
-Intelligent humanoids in manufacturing to address worker shortage and skill gaps: Case of Tesla Optimus - ResearchGate, https://www.researchgate.net/publication/369946133_Intelligent_humanoids_in_manufacturing_to_address_worker_shortage_and_skill_gaps_Case_of_Tesla_Optimus
-
-Intelligent humanoids in manufacturing to address worker shortage and skill gaps: case of Tesla's Optimus - University of Strathclyde, https://pureportal.strath.ac.uk/en/publications/intelligent-humanoids-in-manufacturing-to-address-worker-shortage/
-
-Social dialogue and collective bargaining in the age of artificial intelligence: OECD Employment Outlook 2023, https://www.oecd.org/en/publications/oecd-employment-outlook-2023_08785bba-en/full-report/social-dialogue-and-collective-bargaining-in-the-age-of-artificial-intelligence_5828691a.html
-
-Unions AI Future of Work Challenges and Strategies - IndustriALL Global Union, https://www.industriall-union.org/unions-shaping-future-of-work-ai/
-
-TMDWAI/2026 - AI in manufacturing - International Labour Organization, https://www.ilo.org/sites/default/files/2026-03/TMDWAI-2026-EN%20-.pdf
-
-The twin transition: AI use in manufacturing - Human Level, https://www.wearehumanlevel.com/content-hub/the-twin-transition-ai-use-in-manufacturing
-
-Automation, digitalisatio
-
-（長文のため切り詰め / truncated）
-
----
-
-### [ロボット格闘、中国ヒューマノイド産業の新たな市場開拓](https://note.com/zhenren63/n/n196b23e2e1e2)
-
-- ソース / Source: note · zhenren63 (中国ロボ業界) · 2026.07.17
-- ⚠️ メンバーシップ/有料記事のため無料公開部分のみ / Free preview only
-
-![見出し画像](https://assets.st-note.com/production/uploads/images/294972948/rectangle_large_type_2_79a21419bf030dcc20b451cb06b091b7.png?width=800)
-
-7月16日夜、深圳で「众擎URKL全球首场机器人格斗赛」の揭幕戦が開催。主催の中心にいるのは、深圳のヒューマノイドロボット企業であるENGINE AIです。今回のイベントでは、同社のフルサイズ重型ロボット「T800」がリングに上がり、1対1の格闘形式で実際に打撃、転倒、復帰、反撃を見せました。ロボットが殴り合う映像だけを見ると、どうしても「中国、また派手なことを始めたな」で終わりそうになります。
-しかし、今回のポイントはそこではありません。URKLは、ヒューマノイドロボットを「研究室のデモ」から「競技・興行・標準化・技術検証」の場へ引っ張り出す試みです。つまりこれは、ロボット格闘のニュースではなく、中国ヒューマノイド産業が新しい市場の作り方を実験し始めたニュースです。
-予告編だったURKLが、実際に動き出しました
-
-![図](https://assets.st-note.com/img/1784220968-ZHMbiIWCgzarnk1ANyPKVs37.jpg)
-
-以前から、中国ではヒューマノイドロボットを競技化し、F1やスーパーボウルのような大型IPに育てようとする構想が出ていました。今回の重要性は、その構想が単なる発表資料ではなく、実際のイベントとして深圳で動き出した点にあります。
-今回の揭幕戦は、1対1の対抗戦として行われました。試合は5ラウンド制で、各ラウンドは5分間です。相手ロボットの有効部位に有効打撃を当てることで得点し、各チームには3回の戦術タイムが認められています。
-戦術タイムは1回2分以内で、戦術相談、緊急修理、ロボット交換に使えます。時間を超えると減点されるため、単にロボットを動かすだけではなく、チーム運用力も問われる設計です。今回の試合では、斗牛士チームと白色雄鹰チームが対戦し、5ラウンドにわたって接戦となりました。途中、倒れたロボットに対して相手側が踊るような挑発を見せ、その後に立ち上がったロボットが空中蹴りで反撃する場面も紹介されています。
-
-![図](https://assets.st-note.com/img/1784221177-5nRm1OGDjpJ8ix6WrESsvtq4.png)
-
-ここだけ切り取ると完全にロボット版プロレスですが、産業的に見ると、転倒復帰、姿勢制御、衝撃耐性、操作応答、機体修理、演出力がまとめて可視化された場でもあります。きれいに歩く展示会デモより、よほど逃げ場のないテストです。
-ENGINE AIがT800をリングに上げた意味
-
----
-
-### [ロボット格闘、中国ヒューマノイド産業の新市場開拓](https://note.com/zhenren63/n/n196b23e2e1e2)
-
-- ソース / Source: note · ハッシュタグ「ロボット」 · 2026.07.17
-- ⚠️ メンバーシップ/有料記事のため無料公開部分のみ / Free preview only
-
-![見出し画像](https://assets.st-note.com/production/uploads/images/294972948/rectangle_large_type_2_79a21419bf030dcc20b451cb06b091b7.png?width=800)
-
-7月16日夜、深圳で「众擎URKL全球首场机器人格斗赛」の揭幕戦が開催。主催の中心にいるのは、深圳のヒューマノイドロボット企業であるENGINE AIです。今回のイベントでは、同社のフルサイズ重型ロボット「T800」がリングに上がり、1対1の格闘形式で実際に打撃、転倒、復帰、反撃を見せました。ロボットが殴り合う映像だけを見ると、どうしても「中国、また派手なことを始めたな」で終わりそうになります。
-しかし、今回のポイントはそこではありません。URKLは、ヒューマノイドロボットを「研究室のデモ」から「競技・興行・標準化・技術検証」の場へ引っ張り出す試みです。つまりこれは、ロボット格闘のニュースではなく、中国ヒューマノイド産業が新しい市場の作り方を実験し始めたニュースです。
-予告編だったURKLが、実際に動き出しました
-
-![図](https://assets.st-note.com/img/1784220968-ZHMbiIWCgzarnk1ANyPKVs37.jpg)
-
-以前から、中国ではヒューマノイドロボットを競技化し、F1やスーパーボウルのような大型IPに育てようとする構想が出ていました。今回の重要性は、その構想が単なる発表資料ではなく、実際のイベントとして深圳で動き出した点にあります。
-今回の揭幕戦は、1対1の対抗戦として行われました。試合は5ラウンド制で、各ラウンドは5分間です。相手ロボットの有効部位に有効打撃を当てることで得点し、各チームには3回の戦術タイムが認められています。
-戦術タイムは1回2分以内で、戦術相談、緊急修理、ロボット交換に使えます。時間を超えると減点されるため、単にロボットを動かすだけではなく、チーム運用力も問われる設計です。今回の試合では、斗牛士チームと白色雄鹰チームが対戦し、5ラウンドにわたって接戦となりました。途中、倒れたロボットに対して相手側が踊るような挑発を見せ、その後に立ち上がったロボットが空中蹴りで反撃する場面も紹介されています。
-
-![図](https://assets.st-note.com/img/1784221177-5nRm1OGDjpJ8ix6WrESsvtq4.png)
-
-ここだけ切り取ると完全にロボット版プロレスですが、産業的に見ると、転倒復帰、姿勢制御、衝撃耐性、操作応答、機体修理、演出力がまとめて可視化された場でもあります。きれいに歩く展示会デモより、よほど逃げ場のないテストです。
-ENGINE AIがT800をリングに上げた意味
-
----
-
-### [日本のAIは工場で勝てるか？Noetraの挑戦](https://note.com/bunru/n/nb8a49deb6a81)
-
-- ソース / Source: note · ハッシュタグ「ロボット」 · 2026.07.17
-
-![見出し画像](https://assets.st-note.com/production/uploads/images/294971476/rectangle_large_type_2_fb328c9b4f0bcd40d8aa4c80530e0507.png?width=800)
-
-工場のロボットは、決められた動きを繰り返すのは得意だ。
-ところが、部品の位置が少しずれたり、見たことのない物が置かれたりすると止まりやすい。
-人なら、周囲を見て持ち方を変える。
-機械に同じ判断をさせるには、映像、音、センサー、空間の情報をまとめて理解する頭脳が要る。
-その頭脳を日本で作ろうとしているのがNoetraである。
-2026年7月16日、Noetraはソニーグループ、ソフトバンク、NEC、ホンダを中核に、44の企業と組織から出資を受け、研究開発を本格化したと発表した。
-産業技術総合研究所やPreferred Networksなども開発へ参加する。
-狙っているのは、ChatGPTのような会話サービスをもう一つ作ることではない。
-工場、ロボット、災害現場など、現実の機械を動かすAIである。
-会話の先にある難しさ
-文章を扱うAIは、入力も出力も主に言葉で完結する。
-フィジカルAIはそうはいかない。
-カメラで物を見る。
-音を聞く。
-センサーで重さや位置を測る。
-判断した後、機械を実際に動かす。
-間違った文章なら、人が読み直して直せる。
-ロボットの間違った動作は、製品を壊したり、人を危険にさらしたりする。
-現実空間で使うAIには、賢さだけでなく、動きを止める仕組み、失敗を検知する仕組み、機械ごとの知識が必要になる。
-Noetraが作ろうとしているのは、こうした複数の情報をまとめて扱う国産の基盤モデルである。
-基盤モデルは、さまざまな製品や業務へ応用するためのAIの土台を指す。
-2030年度までに、どこまで進むのか
-Noetraの計画は一度に完成品を出す形ではない。
-2026年度から、日本語理解、論理的な推論、指示への対応を備えたモデルを段階的に開発する。
-2028年度には文章、画像、映像、音声をまとめて扱うモデルを目指す。
-2030年度の目標は、空間や物体の性質を理解し、現実世界で使える「実世界ネイティブAI」である。
-Noetraと産業技術総合研究所の提案は、NEDOの「AIロボット、フィジカルAIを見据えたマルチモーダル基盤モデル開発事業」に採択された。
-採択は、成功の証明ではない。
-2030年度までに、工場やロボットで海外モデルより使いやすい結果を出せるかは、これから確かめる。
-なぜ44社も必要なのか
-AIモデルだけなら、研究者と計算機があれば作れそうに見える。
-フィジカルAIでは、それだけでは足りない。
-工場には、機械の癖、部品の違い、作業者の判断、故障の履歴がある。
-こうした現場の情報は、インターネット上の文章を大量に集めても手に入らない。
-製造業、通信、自動車、建設、金融など、異なる業界の企業が参加する理由はここにある。
-モデルを作る側と、現場で使う側を最初から同じ計画へ入れる。
-ソニーグループにはセンサーや映像技術がある。
-ホンダには移動機械やロボットの知識がある。
-ソフトバンクには通信と計算基盤があり、NECには企業や公共分野のシステム経験がある。
-ただし、これは各社の既存事業から考えられる強みであり、Noetraでの最終的な役割分担がすべて公表されたわけではない。
-44社という多さは強みにもなる。
-同時に、意思決定が遅くなり、誰の現場を優先するか決めにくくなる危険もある。
-集まった会社の数より、共同で使えるデータと実証現場を作れるかが成否を分ける。
-日本が会話AI以外を選ぶ理由
-会話AIの競争では、米国や中国の大手企業が巨大な計算資源と利用者基盤を持っている。
-日本が同じ条件で競うのは容易ではない。
-一方、日本には製造設備、産業用ロボット、自動車、部品、現場改善の蓄積がある。
-文章の量では負けても、機械がどう動き、どこで壊れ、熟練者が何を見ているかという現場データには強みを持てる。
-政府の第2期人工知能基本計画も、業界に特化したバーティカルAIと、現実空間で動くフィジカルAIを日本の重点分野に置いた。
-Noetraは、海外の会話AIを追いかける計画ではない。
-日本が持っている現場を、AIの競争力へ変えられるかを試す計画である。
-海外モデルへの依存は、なぜ問題になるのか
-海外のAIモデルを使うこと自体が悪いわけではない。
-高性能なモデルをすぐ利用でき、開発時間を短くできる。
-しかし、工場や重要インフラの中心へ入れると、料金、利用条件、提供地域、モデル更新を海外企業の判断に左右される。
-急な仕様変更で機械が動かなくなれば、業務ソフトの使い勝手が変わる以上の影響が出る。
-国内モデルを持つ意味は、海外モデルを排除することではない。
-止められない用途で、別の選択肢を持つことである。
-第2期基本計画は、必要なときにモデルを主体的に選び、運用できる状態を「AI主権」と表現している。
-Noetraは、その考えを工場やロボットで試す一例になる。
-働く人の仕事は「操作」から変わる
-フィジカルAIが工場へ入ったとき、すぐ人が消えるとは限らない。
-最初に変わりやすいのは、仕事の分け方である。
-人が一台の機械を直接操作する。
-その仕事が、複数の機械を監視し、異常が起きたときだけ対応する形へ変わる可能性がある。
-定型的な搬送や検査は機械へ移りやすい。
-一方、止まった設備の復旧、見たことのない不良への判断、AIの誤認識の説明は人に残る。
-中小企業では、モデルの性能より導入の手間が壁になるかもしれない。
-作業記録が紙のまま、設備ごとにデータ形式が違う、故障履歴が担当者の記憶にしかない。
-この状態では、高性能な国産モデルが完成しても接続できない。
-Noetraの技術が大企業の実証だけで終わらず、導入支援と一緒に提供されるかを見る必要がある。
-2万7,500基のGPUが示す規模
-NECの発表によると、NoetraはNVIDIAのRubin GPUを約2万7,500基備える計算基盤も計画している。
-建設開始は2027年4月、稼働開始は2028年6月の予定である。
-国産AIは、ソフトウェアの研究だけでは済まない。
-大量の半導体を調達し、施設を建て、電力を確保し、冷却しなければならない。
-計算基盤が予定どおり動かなければ、モデルの開発も遅れる。
-Noetraの成否は、研究者の能力だけでなく、建設、電力、調達にもかかっている。
-元HTMLにあった政府支援総額約1兆円、初年度3,873億円という数字は、今回確認した主要な公式発表だけでは十分に照合できなかった。
-そのため、記事の中心的な事実からは外した。
-44社の名前より、最初の現場を見る
-Noetraは一般向けアプリではないため、生活者が明日触るものはない。
-ニュースの効果も、しばらくは見えにくい。
-見るべきなのは、参加企業の豪華さだけではない。
-どの工場や災害現場で実証するのか。
-人間より良くできた作業は何か。
-失敗したとき安全に止まったか。
-中小企業でも払える形で提供できるか。
-2030年度までに「実世界を理解するAI」が完成したと発表されても、現場で使われなければ国産化の意味は薄い。
-工場のロボットが、部品の位置が少しずれても自分で持ち方を変えられる。
-その小さな動作が実現したとき、44社が集まった意味を初めて測れる。
-日本のAIは工場で勝てるのか。
-答えは投資額ではなく、最初に止まらず動いた機械の中に現れる。
-参考・出典
-NEC: Noetraが国産マルチモーダル基盤モデルの研究開発を本格始動
-
-産業技術総合研究所: NoetraとのフィジカルAI基盤技術がNEDO事業に採択
-
-NEDO: AIロボット、フィジカルAIを見据えたマルチモーダル基盤モデル開発事業
-
-内閣府: 第2期人工知能基本計画 概要
-
-※ 研究開発の時期、計算基盤、参加組織は発表時点の計画です。
-雇用や投資への影響は確定したものではなく、実証結果と各社の公式発表を確認する必要があります。
-
----
-
-### [中国のロボット産業の衝撃と未来](https://note.com/top17/n/ned868e0e23af)
-
-- ソース / Source: note · ハッシュタグ「ロボット」 · 2026.07.16
-
-![見出し画像](https://d2l930y2yx77uc.cloudfront.net/production/social_images/8f9ff0e938bd2e115d5335e27118a6b7d8b1fdb3.png)
-
-AIが自律学習をはじめたことで科学技術の成長が加速した。
-Tesla社は2027年を目途に工業用ロボットを3万ドル以下で市場投入を目指している。
-イーロンマスクは言う。
-いずれ人型ロボットが世界中に普及し、人間の労働の価値は無くなる、と。
-2026年6月1日
-米Nasdaq市場に上場しているAIチップメーカーNvidiaは中国のロボティクスメーカーUnitree社とロボット開発で協業することを発表した。
-米政府が対中国として最先端AI技術の輸出制限を敷いている中で、である。
-Unitree社は2016年王兴兴（Wang Xingxing）CEOによって設立された。
-王兴兴
-1990年中国浙江省寧波市に生まれ、浙江理工大学（学士）、上海大学大学院の修士を出ている。
-この若きロボティクスベンチャーは今年度中国で上場を予定しているが、まだ創業10年の中国ベンチャーとアメリカを代表する、しかも米中政治の駆け引きの渦中にいるNvdiaの台湾系CEO ジェンスン・ファンは協業を決断した。
-Xiaomiの衝撃
-中国大手スマホ・EVメーカーであるXiaomi自社EV生産工場で働くロボットの様子をご覧いただきたい。
-
-Xiamiは中国のスマホメーカーだった。しかし、EV製造にも進出しスマート工場で働くロボットまで自作してしまった。現在、Xiaomiのスマホは東南アジアや新興国を中心にシェアを伸ばし、中国を代表するメーカーに成長している。
-前述のUnitreeはベンチャーながらもロボティクス産業においてはXiaomiとライバル関係になっている。まさに火花を散らすような激しいつば競り合いが科学技術開発の世界で繰り広げられている。
-中国の強みとは
-圧倒的なコスト生産と開発スピードに尽きる。
-彼らは先端技術をコピーすることに躊躇しない。
-場合によっては盗作、企業スパイという犯罪であっても、
-むしろ正当な権利とすら思っている。
-そしてコピーするだけではなく、改良まで加えてしまうため
-無敵状態になってしまう。
-これが中国の強みだ。
-中国の弱みとは
-【富むときも貧しきときも皆が平等に、国家権力を人民の手に】
-これが共産党の掲げる表向きのテーゼなはずだ。
-しかし、現在の中国は資本主義よりも資本を先鋭化させた超資本主義社会を実現している。
-その結果、AI先端技術や生産技術は大幅に向上したが人が不要になってしまった。人民のための国家が人民そのものを切り捨てはじめたのだ。
-現在、大学卒業した多くの若者が職を求めて彷徨う現象が現れている。
-https://www.vietnam.vn/ja/12-7-trieu-cu-nhan-trung-quoc-doi-mat-bai-toan-viec-lam
-中国は共産党理念とは掛け離れ、本来共産党が敵対するはずの国家権力であるはずの国家統制社会を実現している。
-その矛盾を呑み込むために、中国はさらに監視・統制社会を強固にしていく。AIの力を使って、だ。
-AIが生み出す様々な矛盾
-イーロンマスクの予言に戻ってみよう。
-・知的労働は数年で消滅。AIがすべてを代行する。
-・働く意味は消失。遊びが仕事になる。
-・大学は無価値。スキルだけが富を生む。
-・ヒューマノイドロボットが普及。肉体労働は価値ゼロ
-・2030年、AIが全人類の知性を完全に凌駕する。複数の超知能が争う。
-イーロンマスクを先どった手塚治虫
-イーロンマスクの予言はすべて手塚治虫の著作、火の鳥の中で予言されている。
-少なくとも、イーロンマスクの予言は事実を元に起こりうる未来予想図であるが、少なくとも手塚治虫はNvidiaもTeslaもUnitreeも知らなかった。
-手塚治虫は戦争体験を経て、医学博士号を捨て漫画家になった。
-そうまでして残したかった記録とは。
-彼は未来人だったのだろうか？
-時代が火の鳥に近づくにつれ、手塚治虫への畏敬は深まるばかりである。
-
----
-
-### [XPeng、ヒューマノイドロボット「IRON」の量産・海外展開を計画](https://note.com/followers_likes/n/n9d029b53936f)
-
-- ソース / Source: note · ハッシュタグ「フィジカルAI」 · 2026.07.16
-
-![見出し画像](https://assets.st-note.com/production/uploads/images/294731525/rectangle_large_type_2_1a465daa568d94a62b30f277dea2fc22.png?width=800)
-
-2026年7月16日（木）
-今日の3行
-OpenAIがCodex向け物理デバイス「Codex Micro」を投入。AIエージェントは、チャット欄ではなく“操作する作業環境”になり始めた。
-
-Apple Intelligenceが中国で承認されたと報道。AppleはAlibabaのQwenやBaiduとの連携で、中国市場向けにAIをローカライズする。
-
-中国ではXPengがヒューマノイドロボットIRONの量産・海外展開を計画。WAIC直前に、AIとEV・ロボットの融合がさらに前面に出てきた。
-
-1．OpenAI、Codex Microを発売：AIエージェントに“操作盤”が生まれた
-OpenAIが、Codex向けの小型物理デバイス「Codex Micro」を発売した。Axiosによれば、これはWork Louderとの共同開発による限定版のデスクトップ用キーパッドで、Codexエージェントの状態確認や操作に使う。Axios報道
-価格は230ドル。バックライト付きのキー、ダイヤル、ジョイスティックを備え、Codexのスレッド状態を表示したり、音声入力、推論強度の調整、変更の承認・拒否などを割り当てたりできる。The Verge報道
-一見するとニッチなガジェットだが、意味は大きい。AIを「質問に答える相手」としてではなく、「複数の作業を同時に走らせ、状況を見て、人間が承認する対象」として扱う設計だからだ。
-これはMicrosoftがCopilotキーをキーボードに載せた流れの次の段階でもある。単にAIを呼び出すボタンではなく、AIエージェントを監督する操作盤。仕事の現場では、人間がAIと会話するより、人間が複数のAI作業者を管理する時間が増えていく。
-2．Apple Intelligence、中国で承認：外資AIは“現地AIとの合弁型”へ
-WSJは、Apple Intelligenceが中国当局から承認を得たと報じた。Appleは、中国向け機能でAlibabaのQwenモデルとBaiduの技術を組み合わせるとされる。WSJ報道
-これはAppleにとってかなり重要だ。中国ではHuawei、Xiaomi、OppoなどがすでにAI機能をスマートフォンに組み込んでおり、AppleだけがAI機能を出せない状況は、iPhone買い替えサイクルにとって大きな不利になり得た。
-同時に、この承認は中国AI政策の現実も示している。OpenAIやGoogleのモデルをそのまま中国で使うのではなく、中国国内のモデル・企業・審査制度に接続して初めて市場に入れる。外資のAIプロダクトは、単独輸入ではなく、現地AIスタックとのハイブリッドになる。
-ここでAlibabaとBaiduが得るものも大きい。QwenやBaidu系技術がApple端末に入り込めば、中国の基盤モデルは、スマホOSレベルのユーザー接点を手に入れることになる。
-3．NVIDIA、アジアの認定買い手を大幅削減：AIチップ流通も“ホワイトリスト化”
-FTは、NVIDIAがアジアのAIチップ認定買い手リストを大幅に絞ったと報じた。シンガポール、マレーシア、日本などで、顧客確認、契約確認、現地調査、最終利用者への聞き取りを強化しているという。FT報道
-狙いは、中国企業への迂回供給を防ぐことだ。これまで米国の輸出規制は、主に「どのチップを中国に売れるか」という製品単位の管理だった。しかし今は、どの国の、どのデータセンターの、どの企業が、最終的に何に使うのかまで見る方向へ進んでいる。
-これは中国AI企業にとってかなり厳しい。DeepSeek、Qwen、Kimi、GLMのようなモデルが強くなっても、最新GPUへのアクセスが細れば、学習・推論・商用展開の上限がかかる。一方で、こうした締め付けは、Huaweiや中国国内アクセラレータへの移行圧力もさらに強める。
-AI半導体の競争は、性能や価格だけでなく、流通経路の管理競争になっている。
-4．オーストラリア、Office of AI設立へ：AI規制はデータセンターと著作権に広がる
-オーストラリアのAnthony Albanese首相は、AI政策を統合する「Office of AI」の設立を発表した。Guardianによれば、同政府はAI企業による無断学習からクリエイターを守る著作権保護と、データセンターの電力・水利用に関する新基準を打ち出す。Guardian報道
-これは欧米のAI規制とは少し違う角度で重要だ。AI規制というと、モデルの安全性、差別、偽情報、選挙、雇用が注目されがちだが、オーストラリアは「AIを動かすための現実資源」に踏み込んでいる。電力、水、データセンター立地、地域負担、そして著作権だ。
-AI企業にとって、これは無視できない流れになる。今後、各国は「モデルを売ってよいか」だけでなく、「そのモデルを動かす施設が地域に何を負担させるのか」「自国のコンテンツをどう扱うのか」を問うようになる。
-AIの国家戦略は、研究開発支援だけではない。電力政策、文化政策、産業政策、著作権政策の束になっていく。
-5．China Signal：XPeng、ヒューマノイドロボットを月1000台超へ
-中国EVメーカーのXPengは、ヒューマノイドロボット「IRON」を2027年にグローバル展開し、2026年末までに月1000台超の生産体制を目指すと報じられた。まず中国国内の店舗で接客用途に投入し、その後海外へ広げる計画だ。WSJ報道
-これは、中国AIを考えるうえでかなり象徴的だ。XPengは単なるEV企業ではなく、自動運転、ロボタクシー、空飛ぶクルマ、ロボットを束ねる「physical AI」企業へ変わろうとしている。
-EVで培ったセンサー、制御、量産、サプライチェーン、店舗ネットワークを、ヒューマノイドロボットへ転用する。これはTesla Optimusと似た構想だが、中国企業の場合、部品調達、製造スピード、実証場所の多さが強みになる。
-7月17日から上海でWAICが始まる。中国側が前面に出すのは、基盤モデル単体だけではなく、ロボット、スマート製造、自動運転、AI端末だろう。米国がモデルとクラウドで強いなら、中国はAIを現実世界に落とす実装力で勝負する。その構図が、今週さらに鮮明になっている。
-今日の読み解き
-7月16日版のキーワードは「AIの出口」だ。OpenAIはCodex Microで、AIエージェントを物理的に操作する入口を作った。Appleは、中国でApple Intelligenceを出すために、AlibabaとBaiduの現地AIスタックへ接続した。NVIDIAは、AIチップの流通経路をホワイトリスト化し、オーストラリアはAIのデータセンターと著作権を国家政策として扱い始めた。そして中国では、XPengがAIをロボットとEVの延長線に置いている。AIはもう、ブラウザ内のチャットでも、モデル単体の性能競争でもない。人間が操作するデバイス、国が管理する供給網、地域が受け入れるデータセンター、工場や店舗で動くロボットへ広がっている。次の勝負は、AIをどの“出口”に接続できるかで決まる。
-#WorldAIBrief
-#世界AIブリーフ
-#AIニュース
-#生成AI
-#人工知能
-#AI
-#エンドツーエンド
-#E2E
-#エンボディドAI
-#フィジカルAI
-#EmbodiedAI
-#PhysicalAI
-
----
-
-### [川崎重工とNVIDIA、AI造船所で生産性向上へ](https://note.com/hirokimiyano/n/nb902131206db)
-
-- ソース / Source: note · ハッシュタグ「ロボット」 · 2026.07.16
-
-![見出し画像](https://assets.st-note.com/production/uploads/images/294731841/rectangle_large_type_2_9e57530dbbec29db2c45b40c0be25225.png?width=800)
-
-巨大な鋼鉄の塊が、少しずつ船の形になっていきます。溶接の火花が飛び、クレーンが数百トンのブロックを吊り上げ、無数の職人が図面と現物を照らし合わせながら作業を進める。これが私たちのイメージする「造船所」の風景でした。ところがいま、その風景を根本から描き替えようとする動きが始まっています。
-キーワードは「フィジカルAI」です。ソフトウェアの中だけで完結していた人工知能が、ロボットという「体」を得て、現実の物理世界で作業をこなすようになる。川崎重工業は2026年、この分野で世界の頂点に立つ半導体大手NVIDIAと手を組み、シリコンバレーに専用拠点を構えました。日本経済新聞はこの取り組みを「AI造船所」という言葉で表現し、ロボットとAIエージェントが造船現場の生産性を改善していく未来像を描いています。
-なぜ、造船なのでしょうか。なぜ、いまなのでしょうか。そしてこの動きは、造船という一つの産業を超えて、日本の製造業全体に何を意味するのでしょうか。この記事では、川崎重工とNVIDIAの提携が持つ意味を、技術・産業・経営の三つの視点から丁寧に読み解いていきます。
-
-![図](https://assets.st-note.com/img/1784155878-1ML23cSH9GhCRN8EJzsldgQt.png)
-
-1. ニュースの要点　川崎重工が踏み出した「フィジカルAI」への一歩
-まず、今回のニュースの骨格を押さえておきましょう。
-1-1. シリコンバレーに開いた新拠点「Kawasaki Physical AI Center San Jose」
-川崎重工業は2026年5月22日、米国カリフォルニア州サンノゼに、フィジカルAIの社会実装を推進する新しい開発拠点「Kawasaki Physical AI Center San Jose」を開設したと発表しました。開所式は前日の5月21日に行われています。場所はシリコンバレーの中心地であり、AI開発の最先端が集まる土地です。
-フィジカルAIとは、AIが現実世界で物理的に作用する技術のことを指します。文章を書いたり画像を生成したりする生成AIが「頭脳だけ」の存在だとすれば、フィジカルAIはその頭脳にロボットの「体」を与え、モノをつかむ、運ぶ、組み立てる、検査するといった実世界の仕事をさせようという発想です。
-川崎重工がこの拠点をシリコンバレーに置いた理由は明快です。同社はもともと、半導体製造装置向けロボットの分野でシリコンバレーにおいて世界トップシェアを持ち、現地に強固な事業基盤を築いていました。そこにフィジカルAIの研究開発機能を重ねることで、世界最先端のAI企業と物理的に近い距離で、スピード感を持って協業を進められるようにしたのです。
-1-2. NVIDIA、アナログ・デバイセズ、マイクロソフト、富士通との協業体制
-新拠点で川崎重工が組む相手は、NVIDIA一社にとどまりません。AIの頭脳とシミュレーション基盤を担うNVIDIA、高精度なセンシング技術を持つ米半導体大手のアナログ・デバイセズ、クラウドとAIサービスを提供する米マイクロソフト、そして国内のIT・計算技術で連携する富士通。この四社との協業体制を軸に、フィジカルAIとロボティクスを融合させたソリューションを生み出していく計画です。
-拠点には川崎重工グループの産業用ロボットや各種ロボット製品を常設し、現地企業との実証実験や共同開発に活用します。仮想空間での設計にとどまらず、実機を使った検証を同じ場所で回せる点が特徴です。
-出発点として据えられたのは、医療と介護の分野でした。高齢化と労働力不足という、日本だけでなく世界共通の課題に対し、病院での受け付けから診察、診断、治療、手術、術後ケアまでを一気通貫で支える「病院ワンストップソリューション」の構築を掲げています。そこから半導体、自動車、新しいモビリティ、そして製造現場全般へと、フィジカルAIの適用範囲を広げていく構想です。造船は、この「製造現場全般」の中でも象徴的な適用先として位置づけられています。
-1-3. ジェンスン・フアン氏が寄せたビデオメッセージの意味
-この提携の重みを物語るのが、NVIDIAの創業者でありCEOのジェンスン・フアン氏が寄せたビデオメッセージです。2026年6月15日に公開されたこのメッセージで、フアン氏は川崎重工との連携について次のように語りました。
-拠点がシリコンバレーにあることで、両社のチームはより密接に、より速く働けるようになる。川崎とNVIDIAは共同で、新世代の知的な機械の基盤を築いている。川崎はNVIDIAのシステムをAIの訓練とシミュレーションに使い、Omniverse（オムニバース）とIsaac Lab（アイザック・ラボ）を用いることで、シミュレーションと現実をつなぎ、ロボットを現実世界に投入する前に仮想空間でテストできる。そしてNVIDIA Jetson（ジェットソン）が、ロボットシステムの中でAIを動かすコンピューターになる。この拠点で生まれる技術は、川崎の製品ライン全体に広がっていく。
-世界で最も注目される半導体企業のトップが、日本の重工業メーカーに向けて名指しでこうしたメッセージを送ること自体が、この提携の戦略的な位置づけを示しています。単なる一取引先ではなく、フィジカルAI時代の重要なパートナーとして川崎重工を位置づけている、というシグナルだと読み取れます。
-
-![図](https://assets.st-note.com/img/1784155895-D5dskS13hZPGOmq4Q7oItYic.png)
-
-2. 「AI造船所」とは何か　デジタルツインが変える製造の常識
-ここからは、「AI造船所」という言葉が具体的に何を意味するのかを掘り下げていきます。
-2-1. 現実の前に仮想空間で試す、という発想の転換
-従来のモノづくりでは、設計図を引き、試作機を作り、動かしてみて、不具合が出れば直し、また作り直す。この「作っては直す」の反復に、膨大な時間とコストがかかっていました。特に造船のように一隻ごとに仕様が異なり、しかも巨大で、後戻りが極めて高くつく製造では、この試行錯誤の重さが生産性の足かせになります。
-フィジカルAIが持ち込む発想の転換は、この試行錯誤を「仮想空間の中」で先に済ませてしまう、というものです。現実の造船所とまったく同じ環境をコンピューター上に再現し、その中でロボットを動かし、作業手順を検証し、問題点を洗い出す。現実世界で実機を動かすのは、仮想空間で十分に磨き込んだあとにする。こうすれば、現実での手戻りが激減し、開発期間が大幅に短縮されます。
-この「現実とうり二つの仮想空間」を、デジタルツインと呼びます。双子（ツイン）という言葉が示すとおり、現実の設備や工程を、デジタルの世界にそっくり写し取ったものです。
-2-2. NVIDIAの技術スタック（Omniverse／Isaac Sim／Isaac Lab／Jetson）
-このデジタルツインとフィジカルAIを支えるのが、NVIDIAが積み上げてきた技術群です。今回の提携で中核となるものを整理しておきましょう。
-Omniverse（オムニバース）は、物理法則に基づいたデジタルツインの基盤です。工場やロボット、そして造船所そのものを、現実の物理挙動を忠実に再現した形で仮想空間に構築します。光の当たり方、モノの重さ、部材のたわみといった物理現象までシミュレーションできる点が、単なる3Dモデルとの違いです。
-Isaac Sim（アイザック・シム）は、ロボットに特化したシミュレーション環境です。実機を投入する前に、ロボットが正しく動くか、周囲の環境とどう干渉するかを仮想空間で徹底的にテストします。
-Isaac Lab（アイザック・ラボ）は、ロボットに動作を学習させるための環境です。強化学習や模倣学習といった手法を使い、ロボットが試行錯誤しながら最適な動きを身につけていく。人間が一つひとつプログラムを書くのではなく、ロボット自身が仮想空間の中で膨大な回数の練習を積み、上達していくイメージです。
-Jetson（ジェットソン）は、こうして学習したAIを実際のロボットの中で動かすための小型コンピューターです。頭脳をロボットの体の中に載せる、いわば「エッジAI」の役割を担います。
-これらを組み合わせることで、データを生成し、AIを訓練し、仮想で検証し、実機で動かすという一連の流れが、途切れなくつながります。NVIDIAはこの一貫した仕組みを、フィジカルAIの実装基盤として提供しているのです。
-造船という産業にとって、デジタルツインの価値はとりわけ大きいものがあります。理由は三つあります。一つ目は、船が巨大であることです。全長数百メートルにおよぶ船体を、現物で試作して確かめるわけにはいきません。仮想空間なら、実物大の船体を丸ごと再現し、その中でロボットや作業員の動きを何度でも検証できます。二つ目は、一隻ごとに仕様が異なることです。同じ船は二つとなく、そのつど新しい図面で作られます。デジタルツインなら、新しい船ごとに仮想空間を組み替え、最適な作業計画を事前に練り上げられます。三つ目は、後戻りのコストが極端に高いことです。巨大な鋼材を溶接してしまってから間違いに気づけば、その修正には莫大な時間と費用がかかります。仮想空間で先に問題を洗い出せれば、この手戻りを未然に防げます。造船ほど、デジタルツインの恩恵が効いてくる製造は少ないのです。
-もう一つ、シミュレーションには「データを生み出す」という重要な役割があります。AIが学習するには、大量のデータが必要です。しかし現実の造船所で、あらゆる状況のデータを集めるのは簡単ではありません。危険な作業や、めったに起きない異常事態のデータを、現実で何度も再現するわけにはいかないからです。仮想空間なら、こうした場面を無数に作り出し、AIに学習させることができます。現実では集めきれないデータを、シミュレーションが補う。この「合成データ」の生成こそ、フィジカルAIを実用レベルに引き上げる鍵の一つとされています。
-2-3. ロボットを「教える」時代へ
-ここで重要なのは、ロボットとの向き合い方が変わるという点です。
-これまで産業用ロボットは、人間が細かく動作を指定し、決められた手順を正確に繰り返す機械でした。溶接ロボットであれば、この座標からこの座標へ、この速度で、この角度で、という指示を人間がプログラムする。だからこそ、少品種大量生産の自動車工場のような現場では威力を発揮しましたが、一隻ごとに形が違う造船のような多品種少量の現場には向きませんでした。
-フィジカルAIは、この関係を「プログラムする」から「教える」へと変えます。仮想空間の中でロボットが自ら学び、状況に応じて判断し、初めて見る作業対象にも柔軟に対応する。人間は目標と評価基準を与え、あとはロボットが学習を通じて上達していく。造船のように標準化しにくい現場ほど、この「学ぶロボット」の価値が大きくなります。ここに、AIエージェント、つまり自律的に判断して作業を進めるソフトウェアの知能が組み合わさることで、現場全体が「自ら考えて動く」方向へと進化していきます。
-3. ロボットとAIエージェントが担う工程
-では、AI造船所では具体的にどのような工程が変わっていくのでしょうか。
-3-1. 溶接・組立・塗装という「きつい・危険・熟練頼み」の領域
-造船の現場には、自動化が強く求められながらも、これまで自動化が難しかった工程がいくつもあります。その代表が、溶接、組立、塗装です。
-溶接は、船体の強度を決める最重要工程でありながら、高温と火花にさらされる過酷な作業です。塗装は、有機溶剤を扱い、狭く密閉された空間に入ることも多い、健康リスクの高い工程です。組立は、巨大なブロックをミリ単位で合わせる精密さが求められ、熟練の勘と経験に大きく依存してきました。
-これらはいずれも「きつい・危険・熟練頼み」の三拍子がそろった領域であり、若い働き手が集まりにくく、技能の継承も難しい。まさに人手不足の直撃を受ける工程です。フィジカルAIとロボットが本領を発揮するのは、こうした領域です。仮想空間で溶接の軌道を学習したロボットが、現物の微妙な形状のばらつきにも対応しながら、安定した品質で作業をこなす。危険な塗装作業を人間に代わってロボットが担う。こうした置き換えが進めば、現場の安全性と生産性が同時に高まります。
-川崎重工は別途、視覚と触覚のデータを統合し、これまで人手でしか難しかった繊細な作業の自動化を目指す基盤モデルの構築プロジェクトにも参加しています。手先の細かな感覚を要する組立や検査こそ、次に自動化のフロンティアとなる領域であり、AI造船所の構想と地続きにつながっています。
-3-2. 物流最適化AI「cuOpt」が生んだ年間2億1800万ドルの削減実績
-AI造船所で変わるのは、モノを作る工程だけではありません。工場の中でモノをどう動かすか、という物流の最適化も、生産性を大きく左右します。
-ここで注目したいのが、NVIDIAの物流・ルート最適化AI「cuOpt（キューオプト）」の実績です。この技術は、すでに北米の鉄道路線ネットワーク全体に適用され、年間で約2億1800万ドル、日本円にして300億円を超える規模のコスト削減に貢献したと報じられています。膨大な選択肢の中から最適な経路や配置を瞬時に計算する、という力が、巨大なネットワークの効率を一変させたのです。
-造船所は、巨大な部材やブロックが構内を絶えず移動する、いわば巨大な物流拠点でもあります。どの部材をいつ、どの順序で、どこへ運ぶか。この段取りをAIが最適化すれば、待ち時間やムダな移動が減り、工程全体がなめらかに流れるようになります。エッジAI環境「Jetson Orin」と組み合わせることで、現場のその場でリアルタイムに判断する仕組みも整いつつあります。
-3-3. 川崎重工の製品群（Nyokkey・FORRO・hinotori・CORLEO）との融合
-ここで「AIエージェント」という言葉について、あらためて触れておきます。記事タイトルにもある「エージェント」とは、人間が一つひとつ指示を出さなくても、目標を与えれば自ら状況を判断し、必要な手順を組み立てて作業を進めていく自律的なソフトウェアの知能を指します。
-造船所にこのAIエージェントが入るとどうなるか。たとえば、ある工程で部材の到着が遅れたとき、従来なら現場の管理者が慌てて段取りを組み直していました。AIエージェントは、その遅れを即座に検知し、影響を受ける後続工程を洗い出し、ロボットや作業員の割り当てを自動で組み替え、全体の遅れを最小限に抑える。こうした「現場を回す判断」を、人に代わって、あるいは人を強力に支援する形で担っていきます。単体のロボットが賢くなるだけでなく、それらを束ねて現場全体を最適に動かす司令塔として、AIエージェントが機能する。ロボットという「手足」と、AIエージェントという「頭脳」がそろって初めて、AI造船所は本当の意味で動き出します。
-川崎重工がこの提携で強みとするのは、すでに多彩なロボット製品群を持っていることです。
-自律走行サービスロボット「Nyokkey（ニョッキー）」、屋内配送ロボット「FORRO（フォーロ）」、手術支援ロボットシステム「hinotori（ヒノトリ）」、そして人が乗れる四足歩行ロボット「CORLEO（コルレオ）」。これらはそれぞれ、移動、搬送、精密操作、不整地走破といった異なる能力を体現した実機です。
-新拠点では、これらの実機にNVIDIAをはじめとするパートナー各社の先端技術を統合し、現場で使えるソリューションへと磨き上げていきます。ここで培われた技術は、フアン氏のメッセージにもあったとおり、川崎重工の製品ライン全体に波及していく設計になっています。造船所で鍛えた自律搬送や精密作業の技術が医療現場に応用され、医療で磨いた繊細な操作が造船に戻ってくる。こうした技術の相互還流こそ、幅広い事業を持つ重工業メーカーならではの強みだといえます。
-4. なぜ今なのか　日本の造船業が抱える二つの構造課題
-ここで視点を、川崎重工一社から日本の造船業全体へと広げてみます。なぜ「AI造船所」がいま切実に求められているのか。その背景には、二つの深刻な構造課題があります。
-4-1. 深刻化する人手不足（就労者数の推移と不足人数）
-一つ目は、人手不足です。
-日本の造船業の就労者数は、2016年に9万1264人でピークを迎えたあと、減少傾向をたどってきました。国土交通省の推計によれば、造船・舶用工業の分野では2019年10月時点で約6400人の人材が不足し、2023年にはその不足がおよそ2万人規模にまで拡大する見込みとされています。テレビ報道でも、業界全体で1万人を超える人手不足が指摘され、国策として次世代燃料船の建造を進めたくとも、現場の人手が追いつかないというギャップが問題視されています。
-造船の現場は、先に述べたとおり、きつく、危険で、熟練を要する工程を多く抱えます。少子高齢化が進む日本で、こうした現場に若い働き手を継続的に確保するのは、年々難しくなっています。技能を持つベテランが引退していく一方で、それを受け継ぐ人材が集まらない。この構造は、一朝一夕には解決できません。
-とりわけ深刻なのが、技能伝承の問題です。熟練の溶接工が持つ「勘どころ」や、ベテランの現場監督が長年かけて身につけた段取りの感覚は、マニュアルには書ききれない暗黙知として、その人の中に蓄積されています。こうした技能は、若手が現場で見て、真似て、失敗して、少しずつ受け継いでいくものでした。しかし、受け継ぐ若手が足りず、伝える時間も足りない今、この暗黙知が失われていく危機に直面しています。フィジカルAIとデジタルツインが期待されるのは、まさにこの点でもあります。熟練者の動きをデータとして記録し、AIに学習させることで、失われつつある技能をデジタルの形で保存し、次代に引き継ぐ。人手不足を補うだけでなく、消えかけた匠の技をつなぎとめる役割も、AIには期待されているのです。
-
-![図](https://assets.st-note.com/img/1784155907-nR8QJz0OywptLGMcbVDsCj3H.png)
-
-4-2. 「受注はあるが作れない」　国内建造能力と需要のギャップ
-二つ目は、需要はあるのに作れない、という逆説的な状況です。
-2024年、日本の船主による建造発注は年間およそ1200万総トンに達しました。ところが、日本国内の建造量は908万総トンにとどまり、国内の需要すら賄いきれていません。差し引きすれば、日本の船主が発注した船の3割超が、国内では作れずに中国へ流出している計算になります。今治造船の経営トップは、日本の船主の買い替え需要にすら対応できていない、と強い危機感を示しています。
-世界的に見れば、造船の需要はむしろ拡大基調にあります。船の寿命はおよそ20年前後で、更新の時期を迎える船が世界中で積み上がっている。さらに後述する脱炭素の流れが、新しい燃料に対応した船への買い替えを一気に押し上げています。需要は伸びているのに、人手不足がボトルネックとなって供給が追いつかない。この「受注はあるが作れない」というジレンマを打開する切り札として、AIとロボットによる生産性の飛躍的な向上が求められているのです。
-5. 脱炭素が押し上げる次世代船の需要
-造船業がいま変革を迫られているもう一つの大きな理由が、脱炭素です。海の上を走る船もまた、温室効果ガスの排出源であり、その削減が国際的な要請となっています。
-5-1. IMOの排出削減目標と2050年の燃料構成見通し
-国際海事機関（IMO）は、海運分野の温室効果ガス削減について、段階的な目標を掲げています。2030年までに排出量を40%以上削減し、2050年までに50%以上削減、今世紀中に実質ゼロを目指す、という道筋です。
-現在の船の多くは重油を燃料としていますが、この目標を達成するには、燃料そのものを転換していく必要があります。国土交通省の試算によれば、2050年の海運のエネルギー消費内訳は、LNG（液化天然ガス）が42%、水素・アンモニアが45%を占め、この二つで全体のおよそ9割に達するというシナリオが描かれています。裏を返せば、これらの新しい燃料に対応した船を、これから大量に建造していく必要があるということです。
-
-![図](https://assets.st-note.com/img/1784155924-08hEoRWaX3PMxSpiUz2yn1JK.png)
-
-5-2. アンモニア・水素・LNG燃料船という新たな主戦場
-新しい燃料に対応した船は、単に燃料タンクを載せ替えれば済むものではありません。アンモニアは毒性があり、水素は極めて低い温度で管理する必要があり、それぞれに専用の設計と高度な安全技術が求められます。つまり、次世代燃料船は、従来船よりもはるかに難易度が高く、付加価値の高い製品なのです。
-世界の造船市場では、この環境対応船をめぐる競争が主戦場になりつつあります。ある市場調査では、環境対応船の代替需要によって、2033年には市場が6600億ドル規模にまで成長するとの予測も示されています。難しくて高い船を、いかに効率よく、確実に作れるか。ここで生産性と技術力の差が、そのまま各国の競争力の差に直結します。日本にとっては、量で中国に対抗するのではなく、この高難度・高付加価値の領域でこそ勝負すべき、という戦略的な意味を持ちます。
-5-3. 坂出工場の設備投資が示す方向性
-川崎重工自身も、造船の基幹拠点である坂出工場において、次世代エネルギー運搬船の建造体制を強化する設備投資を進めているとされています。液化水素運搬船やLPG運搬船、アンモニア運搬船といった、脱炭素とエネルギー転換に関わる船種が、その中心に据えられています。
-ここに、フィジカルAIによる生産性向上を重ね合わせるとどうなるか。高難度の次世代燃料船を、限られた人手でも、高い品質で、効率よく建造する。設備投資という「ハード」の強化と、AI・ロボットという「ソフト」の知能化が組み合わさることで、初めて「作れない」を「作れる」に変える道が開けます。AI造船所の構想は、この二つの投資をつなぐ架け橋なのです。
-6. 世界の造船競争　中国の圧倒と韓国のスマートヤード戦略
-日本の取り組みを正しく評価するには、世界の造船競争がいまどのような構図にあるのかを知る必要があります。
-6-1. 建造・受注シェアで見る中国の一強
-現在の世界の造船業は、中国の圧倒的な優位で特徴づけられます。中国工業情報化部のデータによれば、2024年の中国の建造完成量は世界全体の55.7%、新規受注量は74.1%、手持ち工事量は63.1%に達し、いずれも世界シェアの半数を大きく超えています。中国は15年連続で世界一の造船国であり、その地位はむしろ強まっています。
-受注シェアで見ると、その差はさらに際立ちます。国土交通省のまとめによる2024年の世界の船舶受注量では、中国が71%、韓国が14%、日本が8%という構図でした。2026年に入るとこの傾向はさらに進み、1月から3月の世界新造船受注では、中国が78%、韓国が14%、日本が6%という速報値も報じられています。かつて世界一を誇った日本の造船は、いまや一桁台のシェアにまで後退しているのが現実です。
-
-![図](https://assets.st-note.com/img/1784155938-l0eTvF2ho4OrMXHuymwpIktN.png)
-
-6-2. 韓国HD現代の「FOS（未来型造船所）」と数千億ウォン投資
-量で中国に押される中、韓国は別の戦い方を選びました。AIとデジタル技術で武装した「スマート造船所」への集中投資です。
-韓国造船最大手のHD現代は、「FOS（Future of Shipyard、未来型造船所）」と名付けたプロジェクトを掲げ、2030年までに総額3200億ウォン以上を投じて、AIが工程を自律的に運営する知能型造船所を構築する計画を進めています。設計、生産、物流のデータを統合し、AIが工程の流れを分析して調整する。溶接、塗装、物流といった反復性と危険度の高い工程には、AIとロボットの投入を急速に拡大しています。
-同業のハンファオーシャンも、2030年までに累計3000億ウォンをスマートヤードの構築に投じ、生産の自動化率を現状の10%台半ばから、工程によっては最大70%にまで引き上げる目標を掲げています。
-さらに韓国政府も、これを国策として後押ししています。2026年の「K-造船」超格差技術の確保予算を3200億ウォンに拡大し、そのうちAI・デジタル造船所に949億ウォン、環境配慮船に1873億ウォン、AI自律運航船に378億ウォンを振り向けるとされています。国と企業が一体となって、AIスマート造船所への投資を加速しているのです。
-6-3. 日本が選んだ「省人化×高付加価値」の勝ち筋
-こうした世界の動きの中で、日本の川崎重工が踏み出した一歩をどう位置づけるべきでしょうか。
-中国のように国家規模の資本と巨大な造船所群で量を追う道を、日本が正面から取るのは現実的ではありません。人口も、投資規模も、条件が違いすぎます。日本が勝負すべきは、限られた人手を高度なAIとロボットで補い、高難度・高付加価値の船を確実に作りきる領域です。つまり、省人化と高付加価値化を同時に実現する道です。
-川崎重工がNVIDIAと組み、フィジカルAIによるデジタルツインとロボットの学習に賭けたのは、まさにこの勝ち筋を取りにいく選択だといえます。韓国が造船所のシステム統合とデータ運営に軸足を置くのに対し、川崎重工はロボット単体の知能化と、それを支える世界最先端のシミュレーション基盤に強みを見いだそうとしています。アプローチは異なりますが、目指す方向は同じです。人手に頼らずとも、難しい船を高品質で作れる現場を築くこと。日本の造船が世界で生き残るための、避けて通れない挑戦なのです。
-7. ビジネスパーソン・投資家が読むべき論点
-ここまで造船を軸に語ってきましたが、この動きが持つ意味は、造船という一産業にとどまりません。ビジネスパーソンと投資家の視点から、押さえておくべき論点を三つ挙げます。
-7-1. 製造業のAI活用は「工場全体の知能化」へ
-第一の論点は、製造業におけるAI活用の段階が、一つ上がったということです。
-これまで製造業のAIといえば、検査画像の判定や、需要予測、設備の故障予知といった、特定の作業をピンポイントで支援する使い方が中心でした。しかしフィジカルAIとデジタルツインの組み合わせは、工場や造船所という「現場全体」を、まるごと仮想空間に写し取り、その中でロボットを学習させ、工程全体を最適化する、というスケールの発想です。部分の効率化から、現場全体の知能化へ。この質的な転換が、いま起きています。
-この流れは造船に限りません。自動車、電機、機械、化学といったあらゆる製造業に、同じ発想が広がっていく可能性があります。自社の現場を、どこまで仮想空間に写し取り、どこまでロボットに学習させられるか。それが今後の製造業の競争力を左右する新しい軸になっていきます。
-7-2. 一社の話ではない　サプライチェーンと人材への波及
-第二の論点は、この変化が一社の中で完結しない、という点です。
-造船所がAIとロボットで生産性を高めれば、そこに部材を供給する舶用機器メーカーや、鋼材を納める鉄鋼メーカー、設計を担うエンジニアリング企業にも、同じレベルのデジタル対応が求められるようになります。デジタルツインは、自社の中だけでなく、サプライチェーン全体でデータをつなぐことで真価を発揮するからです。つまり、この動きは造船業界という枠を超えて、関連する産業群全体を巻き込んで進んでいきます。
-人材への影響も見逃せません。溶接や塗装といった技能職の一部がロボットに置き換わる一方で、ロボットに作業を教え、デジタルツインを構築し、AIを運用する新しい職種が生まれます。求められるスキルの中身が変わっていく。教育や再訓練の仕組みをどう整えるかが、企業にとっても社会にとっても大きな課題になります。人手不足を補うためのAIが、同時に人の働き方そのものを変えていく。この両面を見ておく必要があります。
-7-3. 期待とリスクをどう見るか
-第三に、投資家の視点から、期待とリスクの両方を冷静に見ておきましょう。
-期待の側面は明確です。フィジカルAIは、生成AIに続く次の巨大市場と目されており、その中核技術を握るNVIDIAと、多彩なロボット製品群を持つ川崎重工の組み合わせは、有望なポジションにあります。人手不足と脱炭素という、簡単には解決しない構造課題に対する解を提供できれば、その価値は大きい。川崎重工の株価がこの提携を受けて反応したのも、市場がこの可能性を評価していることの表れです。
-一方で、冷静に見るべき点もあります。今回の提携の中心は、現時点では造船そのものというより、フィジカルAIとロボティクスの実装拠点づくりにあります。医療や介護、モビリティが最初の重点分野に据えられており、造船現場への本格適用でどれだけの生産性向上が実現するのか、具体的な数値目標はまだ公開されていません。デジタルツインやロボット学習は有望な技術ですが、実際の現場で成果を出すには時間がかかり、投資が回収されるまでの道のりも長い。過度な期待で先走るのではなく、実装が着実に進んでいるか、成果が具体的な数字となって現れてくるかを、腰を据えて見守る姿勢が求められます。
-8. まとめ　「作れない」を「作れる」に変える挑戦
-川崎重工とNVIDIAが挑む「AI造船所」の本質を、あらためて整理します。
-この取り組みが向き合っているのは、日本の造船業が抱える二つの構造課題です。深刻化する人手不足と、需要があるのに作れないという供給能力の限界。この二つを、AIとロボットによる生産性の飛躍的な向上で突破しようとしています。デジタルツインで現実の前に仮想空間で試し、ロボットが自ら学び、AIエージェントが工程を自律的に最適化する。人手に頼らずとも、難しい船を高品質で作りきる現場を築く。それが「AI造船所」という言葉に込められた狙いです。
-その背後には、脱炭素という大きな潮流があります。アンモニアや水素、LNGを燃料とする次世代船の需要が世界的に高まる中で、高難度・高付加価値の船をいかに効率よく作れるかが、各国の造船競争を左右します。量で圧倒する中国、国策でスマート造船所に投資する韓国。その中で日本が選んだのは、省人化と高付加価値化を同時に実現する道でした。川崎重工とNVIDIAの提携は、その勝ち筋を取りにいく戦略的な布石です。
-そしてこの動きは、造船を超えて、日本の製造業全体に問いを投げかけています。自社の現場を、どこまで仮想空間に写し取り、どこまでロボットに学ばせられるか。部分の効率化から現場全体の知能化へと、製造業の競争軸が移り変わろうとしています。
-「作れない」を「作れる」に変える。言葉にすればシンプルですが、その実現は容易ではありません。技術の成熟にも、現場への定着にも、人材の育成にも、相応の時間がかかります。それでも、人手不足と脱炭素という避けられない現実に対し、川崎重工が選んだこの挑戦は、日本の製造業が進むべき一つの方向を確かに指し示しています。シリコンバレーの一室で始まったこの試みが、やがて瀬戸内の造船所の現場を、そして日本のものづくり全体を、どう変えていくのか。これからの数年が、その答えを見せてくれるはずです。
-参考文献・出典
-Kawasaki Heavy Industries「Establishment of a Physical AI Development Hub in Silicon Valley」（2026年5月22日）
-https://global.kawasaki.com/en/corp/newsroom/news/detail/?f=20260522_8524
-ロボスタ「NVIDIA×川崎重工 PHYSICAL AIセンター開設 ジェンスン・フアン氏ビデオメッセージ」（2026年6月15日）
-https://robotstart.info/article/2026/06/15/382022.html
-ロボスタ「川崎重工、シリコンバレーにフィジカルAI拠点を開設 NVIDIAなどと協業」（2026年5月22日）
-https://robotstart.info/article/2026/05/22/381921.html
-日経テッテイ「川崎重工 NVIDIAとフィジカルAI協業 株価急伸の理由を徹底解説」（2026年5月24日）
-https://note.com/nikkei_tettei/n/n1af9d5aaa2ac
-ビジネス+IT「川崎重工、米シリコンバレーにフィジカルAI拠点を開設 NVIDIAと協業」（2026年5月22日）
-https://www.sbbit.jp/article/st/185481
-DatacenterDynamics「Kawasaki partners with NVIDIA and Microsoft to integrate AI with robotics at new center in San Jose」
-https://www.datacenterdynamics.com/en/news/kawasaki-partners-with-nvidia-and-microsoft-to-integrate-ai-with-robotics-at-new-center-in-san-jose-california-report/
-機械ニュース「川崎重工ら、製造現場の視触覚データを統合した基盤モデル構築へ」（2026年7月2日）
-https://kikai-news.net/2026/07/02/
-国土交通省「2050年カーボンニュートラルに向けた海運の脱炭素化」関連資料
-https://www.mlit.go.jp/policy/shingikai/content/001769081.pdf
-経済産業省「造船業を巡る現状と課題」（2024年12月）
-https://www.meti.go.jp/press/2024/12/20241227006/20241227006-10.pdf
-Yahoo!ファイナンス「日本の造船、内需すら賄えず 発注の3割超が中国へ流出」
-https://finance.yahoo.co.jp/news/detail/f286c21906e8aa5675509af93f53475225f8fa60
-東京商工リサーチ「造船業の現状と2024年の受注シェア」
-https://www.tsr-net.co.jp/data/detail/1202202_1527.html
-AsiaToday「韓国、2026年K-造船予算を3200億ウォンに拡大」（2026年2月24日）
-https://www.asiatoday.co.kr/kn/view.php?key=20260224010007067
-日本海事広報協会「世界の造船建造量シェア」
-https://www.kaijipr.or.jp/mamejiten/fune/fune_18.html
-
----
-
-### [川崎重工とNVIDIA、AI造船所で生産性向上へ](https://note.com/hirokimiyano/n/nb902131206db)
-
-- ソース / Source: note · ハッシュタグ「フィジカルAI」 · 2026.07.16
-
-![見出し画像](https://assets.st-note.com/production/uploads/images/294731841/rectangle_large_type_2_9e57530dbbec29db2c45b40c0be25225.png?width=800)
-
-巨大な鋼鉄の塊が、少しずつ船の形になっていきます。溶接の火花が飛び、クレーンが数百トンのブロックを吊り上げ、無数の職人が図面と現物を照らし合わせながら作業を進める。これが私たちのイメージする「造船所」の風景でした。ところがいま、その風景を根本から描き替えようとする動きが始まっています。
-キーワードは「フィジカルAI」です。ソフトウェアの中だけで完結していた人工知能が、ロボットという「体」を得て、現実の物理世界で作業をこなすようになる。川崎重工業は2026年、この分野で世界の頂点に立つ半導体大手NVIDIAと手を組み、シリコンバレーに専用拠点を構えました。日本経済新聞はこの取り組みを「AI造船所」という言葉で表現し、ロボットとAIエージェントが造船現場の生産性を改善していく未来像を描いています。
-なぜ、造船なのでしょうか。なぜ、いまなのでしょうか。そしてこの動きは、造船という一つの産業を超えて、日本の製造業全体に何を意味するのでしょうか。この記事では、川崎重工とNVIDIAの提携が持つ意味を、技術・産業・経営の三つの視点から丁寧に読み解いていきます。
-
-![図](https://assets.st-note.com/img/1784155878-1ML23cSH9GhCRN8EJzsldgQt.png)
-
-1. ニュースの要点　川崎重工が踏み出した「フィジカルAI」への一歩
-まず、今回のニュースの骨格を押さえておきましょう。
-1-1. シリコンバレーに開いた新拠点「Kawasaki Physical AI Center San Jose」
-川崎重工業は2026年5月22日、米国カリフォルニア州サンノゼに、フィジカルAIの社会実装を推進する新しい開発拠点「Kawasaki Physical AI Center San Jose」を開設したと発表しました。開所式は前日の5月21日に行われています。場所はシリコンバレーの中心地であり、AI開発の最先端が集まる土地です。
-フィジカルAIとは、AIが現実世界で物理的に作用する技術のことを指します。文章を書いたり画像を生成したりする生成AIが「頭脳だけ」の存在だとすれば、フィジカルAIはその頭脳にロボットの「体」を与え、モノをつかむ、運ぶ、組み立てる、検査するといった実世界の仕事をさせようという発想です。
-川崎重工がこの拠点をシリコンバレーに置いた理由は明快です。同社はもともと、半導体製造装置向けロボットの分野でシリコンバレーにおいて世界トップシェアを持ち、現地に強固な事業基盤を築いていました。そこにフィジカルAIの研究開発機能を重ねることで、世界最先端のAI企業と物理的に近い距離で、スピード感を持って協業を進められるようにしたのです。
-1-2. NVIDIA、アナログ・デバイセズ、マイクロソフト、富士通との協業体制
-新拠点で川崎重工が組む相手は、NVIDIA一社にとどまりません。AIの頭脳とシミュレーション基盤を担うNVIDIA、高精度なセンシング技術を持つ米半導体大手のアナログ・デバイセズ、クラウドとAIサービスを提供する米マイクロソフト、そして国内のIT・計算技術で連携する富士通。この四社との協業体制を軸に、フィジカルAIとロボティクスを融合させたソリューションを生み出していく計画です。
-拠点には川崎重工グループの産業用ロボットや各種ロボット製品を常設し、現地企業との実証実験や共同開発に活用します。仮想空間での設計にとどまらず、実機を使った検証を同じ場所で回せる点が特徴です。
-出発点として据えられたのは、医療と介護の分野でした。高齢化と労働力不足という、日本だけでなく世界共通の課題に対し、病院での受け付けから診察、診断、治療、手術、術後ケアまでを一気通貫で支える「病院ワンストップソリューション」の構築を掲げています。そこから半導体、自動車、新しいモビリティ、そして製造現場全般へと、フィジカルAIの適用範囲を広げていく構想です。造船は、この「製造現場全般」の中でも象徴的な適用先として位置づけられています。
-1-3. ジェンスン・フアン氏が寄せたビデオメッセージの意味
-この提携の重みを物語るのが、NVIDIAの創業者でありCEOのジェンスン・フアン氏が寄せたビデオメッセージです。2026年6月15日に公開されたこのメッセージで、フアン氏は川崎重工との連携について次のように語りました。
-拠点がシリコンバレーにあることで、両社のチームはより密接に、より速く働けるようになる。川崎とNVIDIAは共同で、新世代の知的な機械の基盤を築いている。川崎はNVIDIAのシステムをAIの訓練とシミュレーションに使い、Omniverse（オムニバース）とIsaac Lab（アイザック・ラボ）を用いることで、シミュレーションと現実をつなぎ、ロボットを現実世界に投入する前に仮想空間でテストできる。そしてNVIDIA Jetson（ジェットソン）が、ロボットシステムの中でAIを動かすコンピューターになる。この拠点で生まれる技術は、川崎の製品ライン全体に広がっていく。
-世界で最も注目される半導体企業のトップが、日本の重工業メーカーに向けて名指しでこうしたメッセージを送ること自体が、この提携の戦略的な位置づけを示しています。単なる一取引先ではなく、フィジカルAI時代の重要なパートナーとして川崎重工を位置づけている、というシグナルだと読み取れます。
-
-![図](https://assets.st-note.com/img/1784155895-D5dskS13hZPGOmq4Q7oItYic.png)
-
-2. 「AI造船所」とは何か　デジタルツインが変える製造の常識
-ここからは、「AI造船所」という言葉が具体的に何を意味するのかを掘り下げていきます。
-2-1. 現実の前に仮想空間で試す、という発想の転換
-従来のモノづくりでは、設計図を引き、試作機を作り、動かしてみて、不具合が出れば直し、また作り直す。この「作っては直す」の反復に、膨大な時間とコストがかかっていました。特に造船のように一隻ごとに仕様が異なり、しかも巨大で、後戻りが極めて高くつく製造では、この試行錯誤の重さが生産性の足かせになります。
-フィジカルAIが持ち込む発想の転換は、この試行錯誤を「仮想空間の中」で先に済ませてしまう、というものです。現実の造船所とまったく同じ環境をコンピューター上に再現し、その中でロボットを動かし、作業手順を検証し、問題点を洗い出す。現実世界で実機を動かすのは、仮想空間で十分に磨き込んだあとにする。こうすれば、現実での手戻りが激減し、開発期間が大幅に短縮されます。
-この「現実とうり二つの仮想空間」を、デジタルツインと呼びます。双子（ツイン）という言葉が示すとおり、現実の設備や工程を、デジタルの世界にそっくり写し取ったものです。
-2-2. NVIDIAの技術スタック（Omniverse／Isaac Sim／Isaac Lab／Jetson）
-このデジタルツインとフィジカルAIを支えるのが、NVIDIAが積み上げてきた技術群です。今回の提携で中核となるものを整理しておきましょう。
-Omniverse（オムニバース）は、物理法則に基づいたデジタルツインの基盤です。工場やロボット、そして造船所そのものを、現実の物理挙動を忠実に再現した形で仮想空間に構築します。光の当たり方、モノの重さ、部材のたわみといった物理現象までシミュレーションできる点が、単なる3Dモデルとの違いです。
-Isaac Sim（アイザック・シム）は、ロボットに特化したシミュレーション環境です。実機を投入する前に、ロボットが正しく動くか、周囲の環境とどう干渉するかを仮想空間で徹底的にテストします。
-Isaac Lab（アイザック・ラボ）は、ロボットに動作を学習させるための環境です。強化学習や模倣学習といった手法を使い、ロボットが試行錯誤しながら最適な動きを身につけていく。人間が一つひとつプログラムを書くのではなく、ロボット自身が仮想空間の中で膨大な回数の練習を積み、上達していくイメージです。
-Jetson（ジェットソン）は、こうして学習したAIを実際のロボットの中で動かすための小型コンピューターです。頭脳をロボットの体の中に載せる、いわば「エッジAI」の役割を担います。
-これらを組み合わせることで、データを生成し、AIを訓練し、仮想で検証し、実機で動かすという一連の流れが、途切れなくつながります。NVIDIAはこの一貫した仕組みを、フィジカルAIの実装基盤として提供しているのです。
-造船という産業にとって、デジタルツインの価値はとりわけ大きいものがあります。理由は三つあります。一つ目は、船が巨大であることです。全長数百メートルにおよぶ船体を、現物で試作して確かめるわけにはいきません。仮想空間なら、実物大の船体を丸ごと再現し、その中でロボットや作業員の動きを何度でも検証できます。二つ目は、一隻ごとに仕様が異なることです。同じ船は二つとなく、そのつど新しい図面で作られます。デジタルツインなら、新しい船ごとに仮想空間を組み替え、最適な作業計画を事前に練り上げられます。三つ目は、後戻りのコストが極端に高いことです。巨大な鋼材を溶接してしまってから間違いに気づけば、その修正には莫大な時間と費用がかかります。仮想空間で先に問題を洗い出せれば、この手戻りを未然に防げます。造船ほど、デジタルツインの恩恵が効いてくる製造は少ないのです。
-もう一つ、シミュレーションには「データを生み出す」という重要な役割があります。AIが学習するには、大量のデータが必要です。しかし現実の造船所で、あらゆる状況のデータを集めるのは簡単ではありません。危険な作業や、めったに起きない異常事態のデータを、現実で何度も再現するわけにはいかないからです。仮想空間なら、こうした場面を無数に作り出し、AIに学習させることができます。現実では集めきれないデータを、シミュレーションが補う。この「合成データ」の生成こそ、フィジカルAIを実用レベルに引き上げる鍵の一つとされています。
-2-3. ロボットを「教える」時代へ
-ここで重要なのは、ロボットとの向き合い方が変わるという点です。
-これまで産業用ロボットは、人間が細かく動作を指定し、決められた手順を正確に繰り返す機械でした。溶接ロボットであれば、この座標からこの座標へ、この速度で、この角度で、という指示を人間がプログラムする。だからこそ、少品種大量生産の自動車工場のような現場では威力を発揮しましたが、一隻ごとに形が違う造船のような多品種少量の現場には向きませんでした。
-フィジカルAIは、この関係を「プログラムする」から「教える」へと変えます。仮想空間の中でロボットが自ら学び、状況に応じて判断し、初めて見る作業対象にも柔軟に対応する。人間は目標と評価基準を与え、あとはロボットが学習を通じて上達していく。造船のように標準化しにくい現場ほど、この「学ぶロボット」の価値が大きくなります。ここに、AIエージェント、つまり自律的に判断して作業を進めるソフトウェアの知能が組み合わさることで、現場全体が「自ら考えて動く」方向へと進化していきます。
-3. ロボットとAIエージェントが担う工程
-では、AI造船所では具体的にどのような工程が変わっていくのでしょうか。
-3-1. 溶接・組立・塗装という「きつい・危険・熟練頼み」の領域
-造船の現場には、自動化が強く求められながらも、これまで自動化が難しかった工程がいくつもあります。その代表が、溶接、組立、塗装です。
-溶接は、船体の強度を決める最重要工程でありながら、高温と火花にさらされる過酷な作業です。塗装は、有機溶剤を扱い、狭く密閉された空間に入ることも多い、健康リスクの高い工程です。組立は、巨大なブロックをミリ単位で合わせる精密さが求められ、熟練の勘と経験に大きく依存してきました。
-これらはいずれも「きつい・危険・熟練頼み」の三拍子がそろった領域であり、若い働き手が集まりにくく、技能の継承も難しい。まさに人手不足の直撃を受ける工程です。フィジカルAIとロボットが本領を発揮するのは、こうした領域です。仮想空間で溶接の軌道を学習したロボットが、現物の微妙な形状のばらつきにも対応しながら、安定した品質で作業をこなす。危険な塗装作業を人間に代わってロボットが担う。こうした置き換えが進めば、現場の安全性と生産性が同時に高まります。
-川崎重工は別途、視覚と触覚のデータを統合し、これまで人手でしか難しかった繊細な作業の自動化を目指す基盤モデルの構築プロジェクトにも参加しています。手先の細かな感覚を要する組立や検査こそ、次に自動化のフロンティアとなる領域であり、AI造船所の構想と地続きにつながっています。
-3-2. 物流最適化AI「cuOpt」が生んだ年間2億1800万ドルの削減実績
-AI造船所で変わるのは、モノを作る工程だけではありません。工場の中でモノをどう動かすか、という物流の最適化も、生産性を大きく左右します。
-ここで注目したいのが、NVIDIAの物流・ルート最適化AI「cuOpt（キューオプト）」の実績です。この技術は、すでに北米の鉄道路線ネットワーク全体に適用され、年間で約2億1800万ドル、日本円にして300億円を超える規模のコスト削減に貢献したと報じられています。膨大な選択肢の中から最適な経路や配置を瞬時に計算する、という力が、巨大なネットワークの効率を一変させたのです。
-造船所は、巨大な部材やブロックが構内を絶えず移動する、いわば巨大な物流拠点でもあります。どの部材をいつ、どの順序で、どこへ運ぶか。この段取りをAIが最適化すれば、待ち時間やムダな移動が減り、工程全体がなめらかに流れるようになります。エッジAI環境「Jetson Orin」と組み合わせることで、現場のその場でリアルタイムに判断する仕組みも整いつつあります。
-3-3. 川崎重工の製品群（Nyokkey・FORRO・hinotori・CORLEO）との融合
-ここで「AIエージェント」という言葉について、あらためて触れておきます。記事タイトルにもある「エージェント」とは、人間が一つひとつ指示を出さなくても、目標を与えれば自ら状況を判断し、必要な手順を組み立てて作業を進めていく自律的なソフトウェアの知能を指します。
-造船所にこのAIエージェントが入るとどうなるか。たとえば、ある工程で部材の到着が遅れたとき、従来なら現場の管理者が慌てて段取りを組み直していました。AIエージェントは、その遅れを即座に検知し、影響を受ける後続工程を洗い出し、ロボットや作業員の割り当てを自動で組み替え、全体の遅れを最小限に抑える。こうした「現場を回す判断」を、人に代わって、あるいは人を強力に支援する形で担っていきます。単体のロボットが賢くなるだけでなく、それらを束ねて現場全体を最適に動かす司令塔として、AIエージェントが機能する。ロボットという「手足」と、AIエージェントという「頭脳」がそろって初めて、AI造船所は本当の意味で動き出します。
-川崎重工がこの提携で強みとするのは、すでに多彩なロボット製品群を持っていることです。
-自律走行サービスロボット「Nyokkey（ニョッキー）」、屋内配送ロボット「FORRO（フォーロ）」、手術支援ロボットシステム「hinotori（ヒノトリ）」、そして人が乗れる四足歩行ロボット「CORLEO（コルレオ）」。これらはそれぞれ、移動、搬送、精密操作、不整地走破といった異なる能力を体現した実機です。
-新拠点では、これらの実機にNVIDIAをはじめとするパートナー各社の先端技術を統合し、現場で使えるソリューションへと磨き上げていきます。ここで培われた技術は、フアン氏のメッセージにもあったとおり、川崎重工の製品ライン全体に波及していく設計になっています。造船所で鍛えた自律搬送や精密作業の技術が医療現場に応用され、医療で磨いた繊細な操作が造船に戻ってくる。こうした技術の相互還流こそ、幅広い事業を持つ重工業メーカーならではの強みだといえます。
-4. なぜ今なのか　日本の造船業が抱える二つの構造課題
-ここで視点を、川崎重工一社から日本の造船業全体へと広げてみます。なぜ「AI造船所」がいま切実に求められているのか。その背景には、二つの深刻な構造課題があります。
-4-1. 深刻化する人手不足（就労者数の推移と不足人数）
-一つ目は、人手不足です。
-日本の造船業の就労者数は、2016年に9万1264人でピークを迎えたあと、減少傾向をたどってきました。国土交通省の推計によれば、造船・舶用工業の分野では2019年10月時点で約6400人の人材が不足し、2023年にはその不足がおよそ2万人規模にまで拡大する見込みとされています。テレビ報道でも、業界全体で1万人を超える人手不足が指摘され、国策として次世代燃料船の建造を進めたくとも、現場の人手が追いつかないというギャップが問題視されています。
-造船の現場は、先に述べたとおり、きつく、危険で、熟練を要する工程を多く抱えます。少子高齢化が進む日本で、こうした現場に若い働き手を継続的に確保するのは、年々難しくなっています。技能を持つベテランが引退していく一方で、それを受け継ぐ人材が集まらない。この構造は、一朝一夕には解決できません。
-とりわけ深刻なのが、技能伝承の問題です。熟練の溶接工が持つ「勘どころ」や、ベテランの現場監督が長年かけて身につけた段取りの感覚は、マニュアルには書ききれない暗黙知として、その人の中に蓄積されています。こうした技能は、若手が現場で見て、真似て、失敗して、少しずつ受け継いでいくものでした。しかし、受け継ぐ若手が足りず、伝える時間も足りない今、この暗黙知が失われていく危機に直面しています。フィジカルAIとデジタルツインが期待されるのは、まさにこの点でもあります。熟練者の動きをデータとして記録し、AIに学習させることで、失われつつある技能をデジタルの形で保存し、次代に引き継ぐ。人手不足を補うだけでなく、消えかけた匠の技をつなぎとめる役割も、AIには期待されているのです。
-
-![図](https://assets.st-note.com/img/1784155907-nR8QJz0OywptLGMcbVDsCj3H.png)
-
-4-2. 「受注はあるが作れない」　国内建造能力と需要のギャップ
-二つ目は、需要はあるのに作れない、という逆説的な状況です。
-2024年、日本の船主による建造発注は年間およそ1200万総トンに達しました。ところが、日本国内の建造量は908万総トンにとどまり、国内の需要すら賄いきれていません。差し引きすれば、日本の船主が発注した船の3割超が、国内では作れずに中国へ流出している計算になります。今治造船の経営トップは、日本の船主の買い替え需要にすら対応できていない、と強い危機感を示しています。
-世界的に見れば、造船の需要はむしろ拡大基調にあります。船の寿命はおよそ20年前後で、更新の時期を迎える船が世界中で積み上がっている。さらに後述する脱炭素の流れが、新しい燃料に対応した船への買い替えを一気に押し上げています。需要は伸びているのに、人手不足がボトルネックとなって供給が追いつかない。この「受注はあるが作れない」というジレンマを打開する切り札として、AIとロボットによる生産性の飛躍的な向上が求められているのです。
-5. 脱炭素が押し上げる次世代船の需要
-造船業がいま変革を迫られているもう一つの大きな理由が、脱炭素です。海の上を走る船もまた、温室効果ガスの排出源であり、その削減が国際的な要請となっています。
-5-1. IMOの排出削減目標と2050年の燃料構成見通し
-国際海事機関（IMO）は、海運分野の温室効果ガス削減について、段階的な目標を掲げています。2030年までに排出量を40%以上削減し、2050年までに50%以上削減、今世紀中に実質ゼロを目指す、という道筋です。
-現在の船の多くは重油を燃料としていますが、この目標を達成するには、燃料そのものを転換していく必要があります。国土交通省の試算によれば、2050年の海運のエネルギー消費内訳は、LNG（液化天然ガス）が42%、水素・アンモニアが45%を占め、この二つで全体のおよそ9割に達するというシナリオが描かれています。裏を返せば、これらの新しい燃料に対応した船を、これから大量に建造していく必要があるということです。
-
-![図](https://assets.st-note.com/img/1784155924-08hEoRWaX3PMxSpiUz2yn1JK.png)
-
-5-2. アンモニア・水素・LNG燃料船という新たな主戦場
-新しい燃料に対応した船は、単に燃料タンクを載せ替えれば済むものではありません。アンモニアは毒性があり、水素は極めて低い温度で管理する必要があり、それぞれに専用の設計と高度な安全技術が求められます。つまり、次世代燃料船は、従来船よりもはるかに難易度が高く、付加価値の高い製品なのです。
-世界の造船市場では、この環境対応船をめぐる競争が主戦場になりつつあります。ある市場調査では、環境対応船の代替需要によって、2033年には市場が6600億ドル規模にまで成長するとの予測も示されています。難しくて高い船を、いかに効率よく、確実に作れるか。ここで生産性と技術力の差が、そのまま各国の競争力の差に直結します。日本にとっては、量で中国に対抗するのではなく、この高難度・高付加価値の領域でこそ勝負すべき、という戦略的な意味を持ちます。
-5-3. 坂出工場の設備投資が示す方向性
-川崎重工自身も、造船の基幹拠点である坂出工場において、次世代エネルギー運搬船の建造体制を強化する設備投資を進めているとされています。液化水素運搬船やLPG運搬船、アンモニア運搬船といった、脱炭素とエネルギー転換に関わる船種が、その中心に据えられています。
-ここに、フィジカルAIによる生産性向上を重ね合わせるとどうなるか。高難度の次世代燃料船を、限られた人手でも、高い品質で、効率よく建造する。設備投資という「ハード」の強化と、AI・ロボットという「ソフト」の知能化が組み合わさることで、初めて「作れない」を「作れる」に変える道が開けます。AI造船所の構想は、この二つの投資をつなぐ架け橋なのです。
-6. 世界の造船競争　中国の圧倒と韓国のスマートヤード戦略
-日本の取り組みを正しく評価するには、世界の造船競争がいまどのような構図にあるのかを知る必要があります。
-6-1. 建造・受注シェアで見る中国の一強
-現在の世界の造船業は、中国の圧倒的な優位で特徴づけられます。中国工業情報化部のデータによれば、2024年の中国の建造完成量は世界全体の55.7%、新規受注量は74.1%、手持ち工事量は63.1%に達し、いずれも世界シェアの半数を大きく超えています。中国は15年連続で世界一の造船国であり、その地位はむしろ強まっています。
-受注シェアで見ると、その差はさらに際立ちます。国土交通省のまとめによる2024年の世界の船舶受注量では、中国が71%、韓国が14%、日本が8%という構図でした。2026年に入るとこの傾向はさらに進み、1月から3月の世界新造船受注では、中国が78%、韓国が14%、日本が6%という速報値も報じられています。かつて世界一を誇った日本の造船は、いまや一桁台のシェアにまで後退しているのが現実です。
-
-![図](https://assets.st-note.com/img/1784155938-l0eTvF2ho4OrMXHuymwpIktN.png)
-
-6-2. 韓国HD現代の「FOS（未来型造船所）」と数千億ウォン投資
-量で中国に押される中、韓国は別の戦い方を選びました。AIとデジタル技術で武装した「スマート造船所」への集中投資です。
-韓国造船最大手のHD現代は、「FOS（Future of Shipyard、未来型造船所）」と名付けたプロジェクトを掲げ、2030年までに総額3200億ウォン以上を投じて、AIが工程を自律的に運営する知能型造船所を構築する計画を進めています。設計、生産、物流のデータを統合し、AIが工程の流れを分析して調整する。溶接、塗装、物流といった反復性と危険度の高い工程には、AIとロボットの投入を急速に拡大しています。
-同業のハンファオーシャンも、2030年までに累計3000億ウォンをスマートヤードの構築に投じ、生産の自動化率を現状の10%台半ばから、工程によっては最大70%にまで引き上げる目標を掲げています。
-さらに韓国政府も、これを国策として後押ししています。2026年の「K-造船」超格差技術の確保予算を3200億ウォンに拡大し、そのうちAI・デジタル造船所に949億ウォン、環境配慮船に1873億ウォン、AI自律運航船に378億ウォンを振り向けるとされています。国と企業が一体となって、AIスマート造船所への投資を加速しているのです。
-6-3. 日本が選んだ「省人化×高付加価値」の勝ち筋
-こうした世界の動きの中で、日本の川崎重工が踏み出した一歩をどう位置づけるべきでしょうか。
-中国のように国家規模の資本と巨大な造船所群で量を追う道を、日本が正面から取るのは現実的ではありません。人口も、投資規模も、条件が違いすぎます。日本が勝負すべきは、限られた人手を高度なAIとロボットで補い、高難度・高付加価値の船を確実に作りきる領域です。つまり、省人化と高付加価値化を同時に実現する道です。
-川崎重工がNVIDIAと組み、フィジカルAIによるデジタルツインとロボットの学習に賭けたのは、まさにこの勝ち筋を取りにいく選択だといえます。韓国が造船所のシステム統合とデータ運営に軸足を置くのに対し、川崎重工はロボット単体の知能化と、それを支える世界最先端のシミュレーション基盤に強みを見いだそうとしています。アプローチは異なりますが、目指す方向は同じです。人手に頼らずとも、難しい船を高品質で作れる現場を築くこと。日本の造船が世界で生き残るための、避けて通れない挑戦なのです。
-7. ビジネスパーソン・投資家が読むべき論点
-ここまで造船を軸に語ってきましたが、この動きが持つ意味は、造船という一産業にとどまりません。ビジネスパーソンと投資家の視点から、押さえておくべき論点を三つ挙げます。
-7-1. 製造業のAI活用は「工場全体の知能化」へ
-第一の論点は、製造業におけるAI活用の段階が、一つ上がったということです。
-これまで製造業のAIといえば、検査画像の判定や、需要予測、設備の故障予知といった、特定の作業をピンポイントで支援する使い方が中心でした。しかしフィジカルAIとデジタルツインの組み合わせは、工場や造船所という「現場全体」を、まるごと仮想空間に写し取り、その中でロボットを学習させ、工程全体を最適化する、というスケールの発想です。部分の効率化から、現場全体の知能化へ。この質的な転換が、いま起きています。
-この流れは造船に限りません。自動車、電機、機械、化学といったあらゆる製造業に、同じ発想が広がっていく可能性があります。自社の現場を、どこまで仮想空間に写し取り、どこまでロボットに学習させられるか。それが今後の製造業の競争力を左右する新しい軸になっていきます。
-7-2. 一社の話ではない　サプライチェーンと人材への波及
-第二の論点は、この変化が一社の中で完結しない、という点です。
-造船所がAIとロボットで生産性を高めれば、そこに部材を供給する舶用機器メーカーや、鋼材を納める鉄鋼メーカー、設計を担うエンジニアリング企業にも、同じレベルのデジタル対応が求められるようになります。デジタルツインは、自社の中だけでなく、サプライチェーン全体でデータをつなぐことで真価を発揮するからです。つまり、この動きは造船業界という枠を超えて、関連する産業群全体を巻き込んで進んでいきます。
-人材への影響も見逃せません。溶接や塗装といった技能職の一部がロボットに置き換わる一方で、ロボットに作業を教え、デジタルツインを構築し、AIを運用する新しい職種が生まれます。求められるスキルの中身が変わっていく。教育や再訓練の仕組みをどう整えるかが、企業にとっても社会にとっても大きな課題になります。人手不足を補うためのAIが、同時に人の働き方そのものを変えていく。この両面を見ておく必要があります。
-7-3. 期待とリスクをどう見るか
-第三に、投資家の視点から、期待とリスクの両方を冷静に見ておきましょう。
-期待の側面は明確です。フィジカルAIは、生成AIに続く次の巨大市場と目されており、その中核技術を握るNVIDIAと、多彩なロボット製品群を持つ川崎重工の組み合わせは、有望なポジションにあります。人手不足と脱炭素という、簡単には解決しない構造課題に対する解を提供できれば、その価値は大きい。川崎重工の株価がこの提携を受けて反応したのも、市場がこの可能性を評価していることの表れです。
-一方で、冷静に見るべき点もあります。今回の提携の中心は、現時点では造船そのものというより、フィジカルAIとロボティクスの実装拠点づくりにあります。医療や介護、モビリティが最初の重点分野に据えられており、造船現場への本格適用でどれだけの生産性向上が実現するのか、具体的な数値目標はまだ公開されていません。デジタルツインやロボット学習は有望な技術ですが、実際の現場で成果を出すには時間がかかり、投資が回収されるまでの道のりも長い。過度な期待で先走るのではなく、実装が着実に進んでいるか、成果が具体的な数字となって現れてくるかを、腰を据えて見守る姿勢が求められます。
-8. まとめ　「作れない」を「作れる」に変える挑戦
-川崎重工とNVIDIAが挑む「AI造船所」の本質を、あらためて整理します。
-この取り組みが向き合っているのは、日本の造船業が抱える二つの構造課題です。深刻化する人手不足と、需要があるのに作れないという供給能力の限界。この二つを、AIとロボットによる生産性の飛躍的な向上で突破しようとしています。デジタルツインで現実の前に仮想空間で試し、ロボットが自ら学び、AIエージェントが工程を自律的に最適化する。人手に頼らずとも、難しい船を高品質で作りきる現場を築く。それが「AI造船所」という言葉に込められた狙いです。
-その背後には、脱炭素という大きな潮流があります。アンモニアや水素、LNGを燃料とする次世代船の需要が世界的に高まる中で、高難度・高付加価値の船をいかに効率よく作れるかが、各国の造船競争を左右します。量で圧倒する中国、国策でスマート造船所に投資する韓国。その中で日本が選んだのは、省人化と高付加価値化を同時に実現する道でした。川崎重工とNVIDIAの提携は、その勝ち筋を取りにいく戦略的な布石です。
-そしてこの動きは、造船を超えて、日本の製造業全体に問いを投げかけています。自社の現場を、どこまで仮想空間に写し取り、どこまでロボットに学ばせられるか。部分の効率化から現場全体の知能化へと、製造業の競争軸が移り変わろうとしています。
-「作れない」を「作れる」に変える。言葉にすればシンプルですが、その実現は容易ではありません。技術の成熟にも、現場への定着にも、人材の育成にも、相応の時間がかかります。それでも、人手不足と脱炭素という避けられない現実に対し、川崎重工が選んだこの挑戦は、日本の製造業が進むべき一つの方向を確かに指し示しています。シリコンバレーの一室で始まったこの試みが、やがて瀬戸内の造船所の現場を、そして日本のものづくり全体を、どう変えていくのか。これからの数年が、その答えを見せてくれるはずです。
-参考文献・出典
-Kawasaki Heavy Industries「Establishment of a Physical AI Development Hub in Silicon Valley」（2026年5月22日）
-https://global.kawasaki.com/en/corp/newsroom/news/detail/?f=20260522_8524
-ロボスタ「NVIDIA×川崎重工 PHYSICAL AIセンター開設 ジェンスン・フアン氏ビデオメッセージ」（2026年6月15日）
-https://robotstart.info/article/2026/06/15/382022.html
-ロボスタ「川崎重工、シリコンバレーにフィジカルAI拠点を開設 NVIDIAなどと協業」（2026年5月22日）
-https://robotstart.info/article/2026/05/22/381921.html
-日経テッテイ「川崎重工 NVIDIAとフィジカルAI協業 株価急伸の理由を徹底解説」（2026年5月24日）
-https://note.com/nikkei_tettei/n/n1af9d5aaa2ac
-ビジネス+IT「川崎重工、米シリコンバレーにフィジカルAI拠点を開設 NVIDIAと協業」（2026年5月22日）
-https://www.sbbit.jp/article/st/185481
-DatacenterDynamics「Kawasaki partners with NVIDIA and Microsoft to integrate AI with robotics at new center in San Jose」
-https://www.datacenterdynamics.com/en/news/kawasaki-partners-with-nvidia-and-microsoft-to-integrate-ai-with-robotics-at-new-center-in-san-jose-california-report/
-機械ニュース「川崎重工ら、製造現場の視触覚データを統合した基盤モデル構築へ」（2026年7月2日）
-https://kikai-news.net/2026/07/02/
-国土交通省「2050年カーボンニュートラルに向けた海運の脱炭素化」関連資料
-https://www.mlit.go.jp/policy/shingikai/content/001769081.pdf
-経済産業省「造船業を巡る現状と課題」（2024年12月）
-https://www.meti.go.jp/press/2024/12/20241227006/20241227006-10.pdf
-Yahoo!ファイナンス「日本の造船、内需すら賄えず 発注の3割超が中国へ流出」
-https://finance.yahoo.co.jp/news/detail/f286c21906e8aa5675509af93f53475225f8fa60
-東京商工リサーチ「造船業の現状と2024年の受注シェア」
-https://www.tsr-net.co.jp/data/detail/1202202_1527.html
-AsiaToday「韓国、2026年K-造船予算を3200億ウォンに拡大」（2026年2月24日）
-https://www.asiatoday.co.kr/kn/view.php?key=20260224010007067
-日本海事広報協会「世界の造船建造量シェア」
-https://www.kaijipr.or.jp/mamejiten/fune/fune_18.html
-
----
-
-### [フィジカルAIが工作機械株の未来を変える](https://note.com/xminami/n/n5bb1a3f415e1)
-
-- ソース / Source: note · ハッシュタグ「フィジカルAI」 · 2026.07.16
-
-![見出し画像](https://assets.st-note.com/production/uploads/images/294726357/rectangle_large_type_2_a818ded58a978716ad2df647a0c314a5.png?width=800)
-
-熱狂の裏側で静かに進むのは勝者の交代ではなくルールの書き換えにほかなりません。
-
-かつて中学校の教壇に立っていた頃、私は生徒たちに、歴史の転換点は常に目に見えない構造の変化から始まると教えてきました。
-現在、株式市場を賑わせている工作機械株の上昇も、単なる好景気の波ではありません。
-それは、AIという無形の知性が、物理的な世界を支配し始める静かなる号砲です。
-
-![図](https://assets.st-note.com/img/1784154247-DVvmd1xNIz5hoTrRcQHCnKOX.png)
-
-脳と肉体が分離する新時代の幕開け
-オムロンやダイフクといった、これまで私たちが慣れ親しんできた企業の技術が、全く新しい文脈で再評価されています。
-ヘルスメーターや空間設計で培われた制御技術が、フィジカルAIの神経網として組み込まれようとしているのです。
-これは、既存の技術が新たな生命を得る喜ばしい現象に見えます。
-しかし、その深層にあるのは、AIを賢くするためのデータセンター建設という、巨大なインフラ投資の連鎖にすぎません。
-まだフィジカルAIそのものが莫大な利益を生み出しているわけではなく、今はまだ、その器を作るための準備段階にあります。
-
-![図](https://assets.st-note.com/img/1784154309-yujYKiM7tNapm1hv24flQOTk.png)
-
-プラットフォーマーに支配されるサプライチェーンの冷徹な構造
-私たちが直視しなければならないのは、ロボット産業におけるヒエラルキーの根本的な崩壊です。
-これまで、日本のファナックや安川電機といったロボットメーカーは、世界の工場に直接製品を納入する強者でした。
-しかし、フィジカルAIが本格稼働する時代において、彼らは「肉体」を提供するだけの存在に成り下がる危険性を孕んでいます。
-頭脳となる「ロボットファウンデーションモデル」を握るのは、NVIDIAをはじめとする巨大な海外プラットフォーマーです。
-脳を支配する者が、そこから得られるデータも、そして生み出される莫大な利益も独占していくのは、資本主義の冷酷な摂理です。
-日本がハードウェアの製造でどれほど優れていようとも、ルールを決める側に回らなければ、真の勝者にはなれません。
-
-![図](https://assets.st-note.com/img/1784154373-bwX3jUrR4AWCOPkdBs1oHyT7.png)
-
-金脈の手前でツルハシを売る日本の生存戦略
-脳を支配できないからといって、勝ち筋を失ったと悲観する必要はありません。
-ゴールドラッシュにおいて最大の富を築いたのは、金を掘り当てた者ではなく、彼らにツルハシや作業着を売った商人たちでした。
-AIという巨大な金山に向かう世界中の企業に対し、高品質な「ツルハシ」である工作機械や周辺部品を供給し続けること。
-それこそが、現在の日本企業が生き残るための、極めて現実的で賢明な戦略です。
-過去の栄光に固執するのではなく、世界の頭脳と連携する形へと移行すること。
-これこそが、来るべき未来を生き抜くための唯一の道程です。
-
-![図](https://assets.st-note.com/img/1784154437-bv1DryPMtCkqs69XLi8Au0Ve.png)
-
-匠の技術という幻想とグローバル競争の現実
-日本には「匠の技術」があるから安心であるという、甘い期待を持つ人も少なくありません。
-確かに、熟練の技をデータ化し、AIに学習させる未来は魅力的に響きます。
-しかし、それはまだ遥か先の話であり、今すぐグローバル市場での競争力を担保する魔法の杖ではありません。
-私たちが向き合っているのは、世界を舞台にした苛烈な生存競争です。
-国内で独自の進化を遂げた結果、世界標準から取り残されたかつての携帯電話の悲劇を、二度と繰り返してはなりません。
-重要なのは、国内の小さな枠組みで技術を抱え込むことではなく、世界の覇者と手を組み、不可欠なパーツとしてシステムに組み込まれることです。
-
-![図](https://assets.st-note.com/img/1784154500-um8sOxIT7KyJQge5UiDNVH3n.png)
-
-避けられない社会実装の未来と直視すべき唯一の真実
-世界的な人手不足や反グローバリズムの流れを背景に、フィジカルAIへの投資は決して一過性のブームでは終わりません。
-それは、減少する労働力を補い、先進国が国内で生産性を維持するための、もはや後戻りのできない社会のインフラ構築です。
-投資の観点から見れば、この巨大な波を個人の力で読み切ることは困難を極めます。
-だからこそ、個別株の過熱感に翻弄されるのではなく、投資信託という集合的な知恵を利用し、長期的な視点で資本を投下することが求められます。
-複雑に絡み合うサプライチェーンと、覇権を争う企業たちの盛衰。
-そのすべての事象は、「知恵を持つ者が、持たざる者の労働力を代替し、富を集中させる」という、たったひとつの冷徹な真実に収束していきます。
-#投資 #フィジカルAI #工作機械 #日本株 #資産運用 #半導体 #NVIDIA #テクノロジー #未来予測 #経済
-
-やさしいひと押しが世界を変える　薬剤師が教える行動経済学
-
-www.amazon.co.jp
-
-3,300円
-
-(2026年07月16日 07:28時点
-詳しくはこちら)
-
-Amazon.co.jpで購入する
-
-この記事に共感したらスキをお願いします。
-文：美奈海
-
-ログイン｜note（ノート）
-
-クリエイターが文章やマンガ、写真、音声を投稿することができ、ユーザーはそのコンテンツを楽しんで応援できるメディアプラットフ
-
-link.note.com
-
-こちらの記事もあわせてお読みください。
-
----
-
-### [TSMC決算、AI相場が動く⁈今夜が分岐点](https://note.com/be_an_investor/n/n2684a4a00071)
-
-- ソース / Source: note · ハッシュタグ「フィジカルAI」 · 2026.07.16
-
-![見出し画像](https://assets.st-note.com/production/uploads/images/294726907/rectangle_large_type_2_057eef3875f3571a915062e0466e09d8.png?width=800)
-
-画像の挿入が文章中に間に合わない場合があります🙏
-その場合は投稿を優先させることがあります。
-また、AIを活用している為、人物名や内容に誤りがある場合があります。
-ご了承ください。
-
-コチラの記事作成はテレビ東京のテレ東BIZを使用しています。
-筆者はもう、かれこれ毎日８年間お世話になってます。
-素晴らしいサービスなので金融リテラシーを上げたい方は
-是非、ご契約ください。
-
-筆者はモーサテプレミアムに入ってます。
-モーサテわからんが特にスキです。
-⬇️⬇️
-
-Newsモーニングサテライト（モーサテ）｜テレ東BIZ
-
-テレ東BIZ(ビズ)の Newsモーニングサテライト（モーサテ） 新着一覧ページです。テレ東BIZで配信している News
-
-txbiz.tv-tokyo.co.jp
-
-![図](https://assets.st-note.com/img/1784154388-zIbr5UhCDQlXGHYPNBa3esn6.png)
-
-漫画スライド pic.twitter.com/CNPsI6JVsA
-— 10倍株チャンネル（モーサテまとめ毎朝配信） (@vicboss2020) July 15, 2026
-
-stand.fm
-
-朝の相場まとめ（7月16日）
-半導体決算に注目集まる中、米株は続伸
-■ オープニング：TSMC決算に注目
-
-![図](https://assets.st-note.com/img/1784150584-JGVnWx9syLYmK1TBXZErS8te.png)
-
-おはようございます。7月16日木曜日、ニュースモーニングサテライトです。
-足元のマーケットでは半導体関連の決算が市場を動かしている状況となっています。
-本日はTSMC（台湾積体電路製造）の決算発表に注目が集まりそうです。
-■ 米国株式市場（7月15日）
-まずは、15日のニューヨーク株式市場の終値です。
-
-![図](https://assets.st-note.com/img/1784150588-VztxnN5YcOZs9U1uG4gMKRlq.png)
-
-ダウ平均：+150ドル（52,658ドル）
-
-ナスダック：+162ポイント（26,269）
-
-S&P500：+28ポイント（7,572）
-
-主要3指数はそろって続伸しました。
-セクター別動向
-
-![図](https://assets.st-note.com/img/1784150595-t8OSH5KXpD6b2wxqrETAImPy.png)
-
-上昇：通信、一般消費財、金融
-
-下落：素材、エネルギー
-
-為替
-
-![図](https://assets.st-note.com/img/1784150598-MIVT4PomsXKRqkc6fr3ZDep0.png)
-
-ドル円：162円20銭台
-
-■ 米株上昇の背景：インフレ懸念の後退
-マーケットの動きをニューヨークからです。
-
-![図](https://assets.st-note.com/img/1784150603-4dfW1FOBGV7iey6aQZvugj0S.png)
-
-前月比で低下に転じた物価指標が、インフレ再燃への警戒を和らげたことで、市場に安心感が広がりました。
-この結果、大手ハイテク株が相場を牽引し、3指数はそろって続伸しました。
-
-![図](https://assets.st-note.com/img/1784150608-eAQOwtYi0RDhH8a4b352xNfu.png)
-
-![図](https://assets.st-note.com/img/1784150608-E4gJX9VlUZhtpPSuwNTcRy5A.png)
-
-![図](https://assets.st-note.com/img/1784150609-pKi5A1dcGxkrJaDhsyV2IQXz.png)
-
-朝方に発表された生産者物価指数（PPI）が前月から下落し、インフレの落ち着きを示しました。
-さらにニューヨーク連銀総裁が「インフレはすでにピークを付けた」と発言したこともあり、長期金利が低下し株価の追い風となりました。
-■ ハイテク株の動き
-アップル：+4%
-中国でAIサービス利用が許可されたとの報道が好材料
-
-アマゾン、マイクロソフトなども上昇
-
-また、金融大手の決算が好調だったことも投資家心理を支える要因となりました。
-■ ASML決算：AI需要で上方修正
-
-![図](https://assets.st-note.com/img/1784150625-dC2LJQv4AzblmnBNjD6fuFXV.png)
-
-オランダの半導体製造装置大手ASMLが決算を発表しました。
-
-![図](https://assets.st-note.com/img/1784150628-Rfe526HrWFaoTMxyBljUEg3d.png)
-
-売上高・純利益：前年比20%以上増加
-
-通期売上見通し：最大450億ユーロに引き上げ
-
-![図](https://assets.st-note.com/img/1784150634-o3p6GNYLUBJzOubinAlj1hcM.png)
-
-背景には、AI半導体需要の強さによる受注拡大があります。
-さらに、装置の値上げ計画も報じられています。
-
-![図](https://assets.st-note.com/img/1784150639-pUD0itjJ6IROsgavhEHByoXL.png)
-
-（※半導体製造装置：半導体を作るための機械。ASMLは露光装置で世界的企業）
-■ 金融大手の決算も好調
-
-![図](https://assets.st-note.com/img/1784150645-k074lUuewP1CfNKAXViLO8np.png)
-
-![図](https://assets.st-note.com/img/1784150654-tUz5kaDAO0pMPyn869vKhuxX.png)
-
-モルガン・スタンレー
-総収入：213億ドル超（過去最高）
-
-純利益：前年比50%以上増
-
-ブラックロック
-運用残高：15兆ドル（約2,430兆円）で過去最高
-
-![図](https://assets.st-note.com/img/1784150660-Msin3AaFN8xTUmLXOqeuGpVk.png)
-
-![図](https://assets.st-note.com/img/1784150672-MXsprljEdVCKucFW9Ytq6gUy.png)
-
-株高による**資産効果（※資産価格上昇で消費や投資が活発化する現象）**が追い風となりました。
-■ 米PPI（生産者物価指数）
-6月のPPIは
-
-![図](https://assets.st-note.com/img/1784150677-Nf4S3sI0VLUK18W2eqTZDbcp.png)
-
-前月比：▲0.3%（市場予想下回る）
-
-内訳：
-
-![図](https://assets.st-note.com/img/1784150681-kAKzJ5dXBbWyEUv8hsMN3D67.png)
-
-ガソリン：▲12%（原油高一服）
-
-食品：▲0.6%
-
-コア指数：+0.2%（予想下回る）
-
-![図](https://assets.st-note.com/img/1784150684-8dAu6LCDRvGYkjUz9oaiXlsx.png)
-
-→ インフレ鈍化を示す内容
-（※PPI：企業間で取引される物価。消費者物価の先行指標）
-■ FRB議長の発言：AIとインフレ
-FRBのウォーシュ議長は議会証言で、
-
-![図](https://assets.st-note.com/img/1784150690-lThUM8w6p1qWGxkL3Heu0Is2.png)
-
-AIは必ずしもインフレ要因ではない
-
-生産性向上により物価上昇は抑制される可能性
-
-と発言しました。
-
-![図](https://assets.st-note.com/img/1784150695-YlV6k9cZ8sS0GjM21PQbHzma.png)
-
-![図](https://assets.st-note.com/img/1784150699-FXmMx5HujBC4G0dKhZITfJtb.png)
-
-→ AI＝インフレ要因という見方をやや修正
-■ 中東情勢：緊張継続
-
-![図](https://assets.st-note.com/img/1784151200-qWLj0tOmHDwSRgUpbuykixGr.png)
-
-米中央軍：イランの施設を90分間攻撃（5日連続）
-
-トランプ大統領：攻撃継続の姿勢を強調
-
-![図](https://assets.st-note.com/img/1784151205-3sRvuSEZpLQCjVmtb01c7wir.png)
-
-![図](https://assets.st-note.com/img/1784151208-XCJns0fKIBpvPFoTR2qzW6md.png)
-
-→ 地政学リスクは継続中
-■ 市場分析：半導体とITで明暗分かれる
-大和証券キャピタルマーケッツの高橋氏の分析です。
-
-![図](https://assets.st-note.com/img/1784151213-3XvKmd6TjgiPl8cSFJR2Lxhk.png)
-
-15日の相場は、
-指数：小動き
-
-個別銘柄：明暗分かれる
-
-動きの特徴
-半導体株（マイクロンなど）：下落
-
-IT主力株（マイクロソフト、アルファベット）：上昇
-
-![図](https://assets.st-note.com/img/1784151226-LGaKXoI5km8gBtWdis9MbzSD.png)
-
-![図](https://assets.st-note.com/img/1784151230-8NBGKJ5whvWTo6Xjt7pOyAri.png)
-
-![図](https://assets.st-note.com/img/1784151233-gmbGUINewVH71x4ZPs0SchTo.png)
-
-ASMLも好決算ながら一時下落する場面がありました。
-■ 背景：メモリー供給増加への思惑
-背景には、メモリー供給増加による価格下落の可能性があります。
-主な動き：
-
-![図](https://assets.st-note.com/img/1784151238-8gCM3DupVwGANk26vYrzQFd0.png)
-
-![図](https://assets.st-note.com/img/1784151243-mMi8D1vwaZCTflzqnrWJ56eG.png)
-
-SKハイニックス・サムスン：計80兆円投資
-
-マイクロン：米国投資拡大
-
-→ 供給増加は来年以降だが、株価は先行して反応
-
-![図](https://assets.st-note.com/img/1784151249-HKhwAuMjRQDbxPUXNqrfJzF9.png)
-
-影響
-メモリー価格下落
-→ コスト低下
-→ Microsoft・Appleなどに追い風
-
-■ 今後の注目点
-
-![図](https://assets.st-note.com/img/1784151254-EV756lQkuZ3Yrchn0vPOKafd.png)
-
-半導体（SOX指数）は出遅れ
-
-S&P500比でも上昇余地あり
-
-→ 資金シフトが起きやすい局面
-今後は：
-決算発表（来週〜再来週）
-
-設備投資の実態
-
-が焦点となります。
-■ 債券・商品・欧州市場
-債券
-
-![図](https://assets.st-note.com/img/1784151260-pdysC6qJQ4LbzmMIZSlNo2Re.png)
-
-10年債利回り：4.553%
-
-2年債利回り：4.137%
-→ PPI低下で金利低下
-
-商品
-
-![図](https://assets.st-note.com/img/1784151263-BTZVX3f01FbJqkPmsyphWYoj.png)
-
-原油：3日続伸（中東情勢）
-
-金：反落
-
-欧州株
-
-![図](https://assets.st-note.com/img/1784151266-pY7mgIKfMzui2a9EZ5VB0HGn.png)
-
-英国：反落
-
-ドイツ：反落
-
-日経先物
-
-![図](https://assets.st-note.com/img/1784151270-rTMCNcA8kpJInXdRuPWFGHL1.png)
-
-67,795円（小安）
-
-■ ゲストコメント：FRB議長の評価
-
-![図](https://assets.st-note.com/img/1784151279-hyvoLJMF4nczQIRmsu3grKX8.png)
-
-ウォーシュ議長のスタンスについて
-前日：ややタカ派（※利上げ寄り）
-
-当日：AIはインフレ抑制にも寄与 → バランス型
-
-また、
-政治からの独立性を重視
-
-利下げに前のめりではない
-
-![図](https://assets.st-note.com/img/1784151285-83P2JWhfFv9HbaSc4OQiqo51.png)
-
-→ 市場はやや様子見姿勢（フォワードガイダンスなし）
-（※フォワードガイダンス：将来の金融政策の指針を示すこと）
-■ 為替市場：各通貨の動き
-まずは各国の為替です。
-
-![図](https://assets.st-note.com/img/1784151297-JGf9zZ6H3d802igDwBpKWNys.png)
-
-![図](https://assets.st-note.com/img/1784151297-IiyLFWa380KcTxMHjlrJv75U.png)
-
-![図](https://assets.st-note.com/img/1784151297-8c7VRomTuxatFJwbBkinlGHg.png)
-
-![図](https://assets.st-note.com/img/1784151297-3jc2fELp8qwn9KA5Ye4UBxCT.png)
-
-ドル円：162円19銭～20銭
-
-ユーロ円：185円91銭～93銭
-
-人民元：1ドル＝6.76元近辺
-
-豪ドル円：113円60銭～72銭
-
-英ポンド円：219円50銭～68銭
-
-ブラジルレアル円：31円93銭～94銭
-
-トルコリラ円：3円44銭台
-
-■ 為替見通し：円安トレンドの構造
-三菱UFJモルガン・スタンレー証券の上野氏の見通しです。
-予想レンジ
-
-![図](https://assets.st-note.com/img/1784151303-p34tGnguSwQWavlKsik6JXUZ.png)
-
-161円40銭～162円80銭
-
-![図](https://assets.st-note.com/img/1784151312-Bqb7T4UAFQYV8NpReZvk1mGM.png)
-
-→ 下値は堅いが上値も重い展開を想定
-■ 円安が進む理由：金融政策に逆行
-注目ポイントは「日米の金融政策サイクルに逆らう円安」です。
-
-![図](https://assets.st-note.com/img/1784151317-M1JalEXVdF3HsyLPpq4AmjfZ.png)
-
-日銀：利上げ
-
-FRB：据え置き
-
-にもかかわらず、ドル高円安が進行し約40年ぶり水準に到達
-さらに長期で見ると：
-日銀：2024年に5回利上げ
-
-米国：6回利下げ
-
-→ 本来想定されていた「円高ドル安」は実現せず
-加えて政府は：
-約27兆円の為替介入
-
-→ それでも円安を止められず
-■ 円安の背景①：日本の低金利構造
-1つ目の要因は日本の政策金利の低さです。
-
-![図](https://assets.st-note.com/img/1784151326-hr3EZgctxVf6nIO8F2y1kS7u.png)
-
-インフレ目標：2%
-
-日本の政策金利：実質マイナス圏
-
-→ 預金しても物価に負ける状況
-一方アメリカは：
-実質金利がプラス
-
-→ 日米の金利魅力差が継続
-（※実質金利＝名目金利−インフレ率）
-■ 円安の背景②：投機筋の動き
-2つ目は投機資金の影響です。
-
-![図](https://assets.st-note.com/img/1784151331-JzTi1UvYLcuFRoq7sb0pykaZ.png)
-
-2024年・2025年に円高（139円台）
-→ 投機筋による円買い
-
-しかし：
-利益確定で必ず売却
-→ 円高は長続きしない
-
-結果として：
-実需・投資の円売りが優勢
-→ 円安トレンドが再開
-
-■ 今後の為替見通し
-実質金利差が解消されない限り円安継続
-
-政府の介入がなければ
-
-→ 年内165円超の可能性
-■ 日本債券市場
-
-![図](https://assets.st-note.com/img/1784151339-OwmGSoLWZANHejRzJnpPdyEi.png)
-
-日本10年債利回り：2.685%（低下）
-
-■ 世界株式市場の動き
-上海総合指数：反落（材料出尽くし）
-
-インドSENSEX：反発
-
-ドイツDAX：反落
-
-英FTSE：反落
-
-ブラジルボベスパ：反落
-
-NYダウ：続伸
-
-■ 日経先物
-
-![図](https://assets.st-note.com/img/1784151344-bOPMeLwGhs7zE04TdQYtVrxj.png)
-
-![図](https://assets.st-note.com/img/1784151931-P1jh4lmDd8u9zcTiUeAHWKqV.png)
-
-大阪取引所：67,600円
-
-■ 東京株式市場の見通し
-SBI証券・鈴木氏の見方です。
-予想レンジ
-
-![図](https://assets.st-note.com/img/1784151936-IMxKRdm2PJEOB3Djt0Unoacg.png)
-
-![図](https://assets.st-note.com/img/1784151940-9l2Be03pT4KZNwIGShEmHF1q.png)
-
-67,500円～69,000円
-
-ポイント
-ASML決算は好調
-
-ただし前日に期待先行
-
-→ 本日は反動に注意
-■ 日経平均と金利：上昇は問題か
-日経平均は6月25日に史上最高値（72,366円）を記録後、調整局面です。
-背景：
-半導体・AI株の調整
-
-中東情勢の不透明感
-
-![図](https://assets.st-note.com/img/1784151956-2nps1zSgQlUaFZy6rkhMLIWA.png)
-
-一方で長期金利は上昇
-一時2.9%（1996年以来の高水準）
-
-■ 金利上昇の影響
-一般的に長期金利上昇は：
-
-![図](https://assets.st-note.com/img/1784151969-jUnRfvusNgrz1h5DPApxoWMT.png)
-
-家計：住宅ローン負担増 → 消費抑制
-
-企業：借入コスト増 → 投資抑制
-
-政府：利払い増 → 財政制約
-
-■ それでも株価が上がる理由
-過去データでは：
-
-![図](https://assets.st-note.com/img/1784151976-l0FrP5KTq4jGBVt3iOaIm9ZQ.png)
-
-金利上昇局面＝株価上昇
-
-金利低下局面＝株価低迷
-
-→ 両者はむしろ連動する傾向
-理由：
-金利上昇＝景気拡大・資金需要増
-
-インフレ期待の反映
-
-■ 重要ポイント：実質金利
-注目すべきは名目ではなく実質金利です。
-
-![図](https://assets.st-note.com/img/1784151985-AvRU8qXGnPT2f4yLSisdz1VC.png)
-
-過去の流れ
-～2012年：
-デフレ
-
-実質金利高止まり → 株価低迷
-
-2013年以降：
-金融緩和
-
-実質金利低下 → 株価上昇
-
-2022年以降：
-物価上昇
-
-名目金利抑制 → 実質金利低下
-
-→ 株式市場の追い風
-今後も：
-→ 実質金利が重要な判断軸
-■ 個別ニュース：ニチレイにサイバー攻撃
-
-![図](https://assets.st-note.com/img/1784151991-Cg7tv9hK1W5fOadeAjuX2FEm.png)
-
-冷凍食品大手ニチレイがサイバー攻撃を受けました。
-
-![図](https://assets.st-note.com/img/1784152001-qzHvO2bR7fK5PTymL0GkQuNB.png)
-
-個人情報漏洩の可能性
-
-物流に影響（約5000社）
-
-![図](https://assets.st-note.com/img/1784152005-4cuviBI1grVSjsPlH90KqGN7.png)
-
-影響：
-
-![図](https://assets.st-note.com/img/1784152009-PZJoUYGlgm8qsE59AXnVC2bu.png)
-
-![図](https://assets.st-note.com/img/1784152013-KjNIMXl1w6o9YbTV7qnkgupQ.png)
-
-![図](https://assets.st-note.com/img/1784152017-rs8lxuAj9TvMY6qzOwLo7PNE.png)
-
-イオン：一部店舗で欠品
-
-KFC：販売休止・営業停止の可能性
-
-対応：
-
-![図](https://assets.st-note.com/img/1784152053-bZeW2lTavQKDrsBcRMmHEjgo.png)
-
-システム遮断
-
-明日から順次再開予定
-
-■ 日銀マイナス金利導入の舞台裏
-日銀は2016年1月の金融政策決定会合の議事録を公表しました。
-
-![図](https://assets.st-note.com/img/1784152058-fBj63nh8wzGKOiWCrcQdbapJ.png)
-
-この会合では、マイナス金利の導入が決定され、
-2013年4月に始まった量的・質的金融緩和の転換点となりました。
-
-![図](https://assets.st-note.com/img/1784152065-H8d305akVUbg1T6QKpBNFjeS.png)
-
-採決の実態
-
-![図](https://assets.st-note.com/img/1784152079-i0fHsVXJvb691lSwKMcNhuPW.png)
-
-![図](https://assets.st-note.com/img/1784152082-8qdMplBSvhArenGxcojITb4N.png)
-
-![図](https://assets.st-note.com/img/1784152087-xrLGaCAEVoQy1wS7vjeJzqZT.png)
-
-賛成：5
-
-反対：4
-
-![図](https://assets.st-note.com/img/1784152091-VDSwUIzJyGoufrq9xQWk5Cas.png)
-
-→ 僅差での決定（薄氷）
-賛成派の主張
-マイナス金利の方が緩和効果が高い
-
-反対派の主張
-制度が複雑で金融機関が理解できるか疑問
-
-危機時のみの対応策とすべき
-
-マイナス金利はその後、2024年3月まで約8年間継続しました。
-■ 政治：消費税減税と骨太方針
-高市総理は党首討論で、
-
-![図](https://assets.st-note.com/img/1784152622-dbyuUolAEYx8zLFDZ2cKiPqh.png)
-
-![図](https://assets.st-note.com/img/1784152637-q47pNYUE8KSGHgfBZQ6jOXVI.png)
-
-食料品の消費税減税
-→ ８月上旬に結論なら法整備は間に合う
-
-![図](https://assets.st-note.com/img/1784152642-Nr0hkuqGDpxTI7e4QVAEyWBf.png)
-
-とした上で、
-「結論を先取りしない」として議論を促しました。
-
-![図](https://assets.st-note.com/img/1784152646-JeFnDtvibXkIO0AC4yho5aWf.png)
-
-骨太ショックへの見解
-
-![図](https://assets.st-note.com/img/1784152650-ejdmoN0qYtc1In5CZizxUvWu.png)
-
-（※骨太の方針＝政府の経済財政運営の基本方針）
-野党：長期金利上昇の原因と指摘
-
-高市総理：
-→ 「原案がショックの原因とは思わない」と否定
-
-![図](https://assets.st-note.com/img/1784152656-NhjL9kzqDblRZsHXxrvo4CY5.png)
-
-![図](https://assets.st-note.com/img/1784152660-WsxItMjOYPmo8H7Rkcufn6Cv.png)
-
-また：
-
-![図](https://assets.st-note.com/img/1784152666-Fg9sHPAKZtWmzCiIyEo0h3wl.png)
-
-国会出席の少なさ批判には反論
-
-■ 皇室典範改正
-皇族数確保のための改正案について
-
-![図](https://assets.st-note.com/img/1784152691-kl64wJrcy5bPGqCLmiSIgKTN.png)
-
-参院特別委員会で討論
-
-その後採決で合意
-
-![図](https://assets.st-note.com/img/1784152695-vJ5alzpRTUO64incb9jSqukg.png)
-
-※当初予定の前日採決は見送り
-■ 中国経済：GDP減速
-中国の4〜6月期GDP
-
-![図](https://assets.st-note.com/img/1784152699-XoqKcmSPk47seCE8LBiNU9Rf.png)
-
-実質成長率：+4.3%
-→ 年間目標（4.5〜5.0%）下回る
-
-![図](https://assets.st-note.com/img/1784152705-PHAEWDF0wczLMKZd4jJvaSeq.png)
-
-→ 3年半ぶりの低成長
-内訳
-
-![図](https://assets.st-note.com/img/1784152721-Edv0emDrhnpT1GRXbHKP8Soz.png)
-
-不動産投資：▲18%
-
-小売売上高：+1.3%
-
-→ 不動産不況と消費低迷が影響
-■ 中国経済の構造問題
-
-![図](https://assets.st-note.com/img/1784152784-LUoijAfXycRGtdYmIOeZa0JM.png)
-
-山田氏の分析です。
-これまで中国では：
-実質成長率 ＜ 名目成長率
-→ 名実逆転（デフレ傾向）
-
-今回：
-
-![図](https://assets.st-note.com/img/1784152787-7aShHWieoIZ18YclU96guNRX.png)
-
-実質4.3%
-
-名目5.9%
-
-→ 13四半期ぶりに逆転解消
-ただし背景は：
-エネルギー輸入増によるコストプッシュ型インフレ
-
-→ 健全な回復とは言い難い
-（※コストプッシュインフレ：原材料高などコスト増による物価上昇）
-現地感覚
-消費マインドは弱い
-
-景気回復の実感は乏しい
-
-■ 今後の注目イベント
-
-![図](https://assets.st-note.com/img/1784152733-EbsUOlLuS90qkYIBPfzvrZcX.png)
-
-海外指標
-米小売売上高（6月）
-
-フィラデルフィア連銀指数（7月）
-
-決算
-TSMC
-
-ネットフリックス
-
-■ 米経済指標の注目点
-
-![図](https://assets.st-note.com/img/1784152802-EYHPsMSryzNGbxidlZQIf71o.png)
-
-植野氏の見方です。
-失業保険申請件数
-
-![図](https://assets.st-note.com/img/1784152808-G1Mjk9mfEV8KuSqAYTDIPQ0N.png)
-
-最近は改善が頭打ち
-
-横ばいなら
-→ 利上げを急がない理由に
-
-小売売上高
-5月：+0.9%（強い）
-
-6月：+0.2%予想（反動減）
-
-→ 予想通りなら市場影響は限定的
-■ 為替の主導要因の変化
-現在のドル円は：
-米指標よりも
-
-日本の政策要因に影響
-
-具体例：
-骨太の方針
-
-GPIF（年金積立金管理運用独立行政法人）の資産配分
-
-→ 国内要因主導の相場
-（※GPIF：世界最大級の年金運用機関）
-■ 今後の最大の焦点
-→ 日本の財政政策
-特に：
-骨太の方針の最終内容
-
-が重要な判断材料となります。
-■ 米国株式市場（再確認）
-15日のニューヨーク株式市場です。
-
-![図](https://assets.st-note.com/img/1784152820-U3qhtHOlFj4kILx9JBZPrCYz.png)
-
-ダウ平均：+150ドル（52,658ドル）
-
-ナスダック：+162ポイント（26,269）
-
-S&P500：+28ポイント（7,572）
-
-→ 主要3指数はそろって続伸
-■ 個別銘柄：IBMが急落
-
-![図](https://assets.st-note.com/img/1784152825-Ldl1Q7tMbOYcap2U5TRVXiEJ.png)
-
-IBMが25%の急落となりました。
-これはおよそ60年ぶりの下落率です。
-下落要因
-
-![図](https://assets.st-note.com/img/1784152829-xBmXeqZWvpS1GVNf0I92OigP.png)
-
-暫定決算で売上高が市場予想未達
-
-ソフトウェア部門の成長鈍化
-前四半期：+11%
-
-今回：+5%
-
-背景として：
-顧客が予算を
-→ サーバー、ストレージ、メモリーなどハードウェアにシフト
-
-→ ソフトウェア支出が想定外に減少
-■ ソフトウェア株の見通し：二極化
-ソフトウェア企業の中でもセクターごとに明暗が分かれています。
-警戒感が強い分野
-インフラ系ソフト
-セールスフォース
-
-サービスナウ
-
-→ 今後の決算への警戒感が高まる
-上昇している分野
-
-![図](https://assets.st-note.com/img/1784152842-hQJgFG1Es9LxDfZ32XT47MzW.png)
-
-サイバーセキュリティ
-クラウドストライク
-
-パロアルトネットワークス
-
-→ IBM決算後に上昇
-■ セキュリティ株上昇の背景
-きっかけはAnthropicの
-
-![図](https://assets.st-note.com/img/1784152849-HqNMZn1iRcp4ySIwEWhOxa50.png)
-
-「プロジェクト・グラスウィング」
-内容
-最新AI「Claude Mythos」を活用
-
-ソフトウェアの脆弱性を発見・修正
-
-しかし同時に：
-AIは攻撃能力も強化
-
-→ サイバーリスクの増大が認識
-■ AI時代の投資構造の変化
-企業は今後：
-AI投資を拡大
-
-同時にセキュリティ投資も増加
-
-→ セキュリティ需要が構造的に拡大
-実際に：
-クラウドストライクCEO
-→ 発表直後に問い合わせ急増と発言
-
-さらに：
-同社やパロアルトはプロジェクトに参加
-
-→ AI時代の防衛銘柄として評価
-■ 今後の注目点
-セキュリティ企業の決算（来月以降）
-→ AI恩恵銘柄として注目
-
-■ 債券市場（再掲）
-
-![図](https://assets.st-note.com/img/1784152856-xPpXfGRd1eSY2vt0gM5KWOnE.png)
-
-10年債利回り：4.549%
-
-2年債利回り：4.137%
-
-→ PPI下振れで利上げ観測後退・金利低下
-■ 商品市場（再掲）
-
-![図](https://assets.st-note.com/img/1784152863-kjXvTnUocyNLMK245fGVZEau.png)
-
-原油：3日続伸（中東情勢）
-
-金：反落
-
-■ 次の注目テーマ
-この後は「プロの目」です。
-TSMC決算（本日発表）
-
-→ 半導体受託製造最大手の動向と今後の見通しについて、
-ゲストの山田氏が解説します。
-■ プロの目：TSMC決算で読むAI半導体市場
-
-![図](https://assets.st-note.com/img/1784152880-aFuRYdTOk73fIJLMPVjyrKDe.png)
-
-![図](https://assets.st-note.com/img/1784152887-EVq8FTNapbI46dWDySmiujUB.png)
-
-本日のテーマは
-**「TSMC決算で読むAI半導体市場」**です。
-■ TSMCの強み：圧倒的シェアと技術力
-TSMCは半導体の**受託製造（ファウンドリー）**で世界最大手です。
-（※ファウンドリー：設計のみ行う企業から製造を請け負うビジネス）
-世界シェア：72.3%（2026年1〜3月期）
-
-技術面の優位性
-最先端ロジック半導体：2nm（ナノメートル）
-
-安定量産：TSMCのみ
-
-→ 生成AI向け需要の急増を取り込む構造
-顧客
-NVIDIAなどのファブレス企業
-（※ファブレス：製造設備を持たず設計に特化）
-
-→ 受注が殺到し売上は急拡大
-■ すでに開示済みの業績
-4〜6月期売上はすでに公表済みです。
-
-![図](https://assets.st-note.com/img/1784152903-fpwtL3Y9u1BKFO5W8zHgljr7.png)
-
-売上高：1兆2703億台湾ドル
-（約6兆4150億円）
-
-前年同期比：+36%
-
-![図](https://assets.st-note.com/img/1784152912-Hx2m1vYzDnkEq8TsXUPR9pQo.png)
-
-→ 四半期ベースで過去最高
-■ 決算の最大の焦点：説明会発言
-今回の注目は数値よりも経営陣の発言です。
-会長：CCウェイ氏（魏哲家）
-
-TSMCは：
-
-![図](https://assets.st-note.com/img/1784152917-nv6rA83bKXUplewOSCYLQqif.png)
-
-ルールに忠実な情報開示
-
-個別取材はほぼなし
-
-→ 決算説明会の発言が極めて重要
-■ 注目ポイント①：売上見通し
-2025年売上：+35.9%（1224億ドル）
-
-2026年見通し：30%以上成長
-
-![図](https://assets.st-note.com/img/1784152929-jOf7ovKr3qSQcYxGlBnUgpiD.png)
-
-→ 2年連続で3割成長
-チェックポイント
-→ この成長見通しに変化があるか
-■ 注目ポイント②：設備投資
-
-![図](https://assets.st-note.com/img/1784152935-XMalBVoYqSvHDZU1tN5KA8Lu.png)
-
-現在の計画：
-520億〜560億ドル
-
-上限寄りで推移
-
-![図](https://assets.st-note.com/img/1784152939-reg53IHqkVdzD87mnvGjcO9i.png)
-
-→ 増額・修正の有無が焦点
-■ 注目ポイント③：海外工場
-TSMCは：
-日本（熊本：第2工場）
-
-アメリカ
-
-ドイツ
-
-で生産拠点を拡大中
-→ 進捗状況の確認が重要
-■ 注目ポイント④：技術進展
-半導体の進化は：
-微細化（回路の縮小）
-
-積層化（チップの重ね合わせ）
-
-→ この進展が順調かが鍵
-■ AI需要：供給不足の現実
-ウェイ会長は
-「需要を満たすには時間がかかる」
-
-と発言
-→ 供給能力が追いつかない状況
-影響
-受注できない案件発生
-
-一部顧客がサムスンへシフト
-
-![図](https://assets.st-note.com/img/1784152957-LAtzIgSTQC4HBhuynsYF9d51.png)
-
-→ 競争環境にも波及
-■ 関連企業への波及
-TSMCはAIエコシステムの中心に位置
-
-![図](https://assets.st-note.com/img/1784153084-OuQkHwP37GWq21AM6vVrloSt.png)
-
-顧客（売上連動）
-NVIDIA
-
-Apple
-
-サプライヤー
-ASML（製造装置）
-
-関連分野
-SKハイニックス（HBMメモリー）
-（※HBM：AI向け高性能メモリー）
-
-→ TSMCの生産量
-＝ ハイニックスなどの需要にも直結
-■ 投資判断のカギ
-TSMCの決算は：
-AIブームが一時的か
-
-長期トレンドか
-
-を判断する重要材料
-→ 半導体・AI関連全体の方向性を左右
-以上、山田さんの「プロの目」でした。
-■ 中国経済：減速の中で広がる「情緒消費」
-
-![図](https://assets.st-note.com/img/1784153095-3RZH1DguEWvVLfc8TCMYsP7a.png)
-
-先ほどのニュースでもあった通り、中国経済は減速が鮮明です。
-4〜6月期GDP：+4.3%
-
-小売売上高（1〜6月）：+1.3%
-
-→ 内需の弱さが継続
-背景には：
-中東情勢悪化による資源高
-
-不動産不況
-
-消費・投資の低迷
-
-■ 注目現象：情緒消費の拡大
-こうした中、中国では
-→ **「情緒消費」**が活発化
-（※情緒消費：癒し・満足感・自己充足を重視した消費）
-■ 現場レポート：コスプレイベント
-北京では大型連休中、コスプレイベントに長蛇の列ができました。
-
-![図](https://assets.st-note.com/img/1784153137-VWqNkrMGAadbnZfey4QXz8I3.png)
-
-来場者：約10万人
-
-![図](https://assets.st-note.com/img/1784153157-qH4YAEN620Fljkf1wrcRpXgd.png)
-
-会場では：
-
-![図](https://assets.st-note.com/img/1784153144-VlAXEh1tCZ3xpoU6Jcfje2HG.png)
-
-アニメ・漫画キャラクターの衣装
-
-日本のアニソンに合わせたダンス
-
-などが行われました。
-
-![図](https://assets.st-note.com/img/1784153580-wtPHC7fvUOAyQZgbLTGMki8d.png)
-
-特徴
-日本のアニメ文化の存在感が大きい
-
-日中関係が冷え込む中でも人気継続
-
-■ 市場規模：急拡大
-中国のアニメ・グッズ市場
-
-![図](https://assets.st-note.com/img/1784153589-EAZqBemCWUir7otNfdhyK0lF.png)
-
-2024年：1,689億元
-
-前年比：約4割増
-
-→ 急成長分野
-■ 背景①：不況とストレス
-中国では：
-
-![図](https://assets.st-note.com/img/1784153595-oGj38zsKUI4Mil26gvXw9NZx.png)
-
-就職難
-
-激しい競争
-
-によりストレスが増大
-
-![図](https://assets.st-note.com/img/1784153601-nO5Z1stW3SY9RAyHX2wmqocr.png)
-
-![図](https://assets.st-note.com/img/1784153609-HBEfAjXz15tmYWvCPeL73il9.png)
-
-→ アニメ・漫画に癒しを求める動き
-■ 二次元市場の広がり
-（※二次元：アニメ・漫画などのキャラクター文化）
-
-![図](https://assets.st-note.com/img/1784153634-XfthIon2igVuyDWKjrbUFCQB.png)
-
-イベント
-
-グッズ販売
-
-![図](https://assets.st-note.com/img/1784153680-GT9fDut738EP5JzakiKUcjde.png)
-
-![図](https://assets.st-note.com/img/1784153680-HdFDgMOkNalGPL7hRVfYjxeX.png)
-
-![図](https://assets.st-note.com/img/1784153680-WZFgvj36MuI1nfDsotGK2iw8.png)
-
-![図](https://assets.st-note.com/img/1784153681-nmGHX6evc3gtR1sAOwjaVyLr.png)
-
-![図](https://assets.st-note.com/img/1784153681-VKFwxmpNo6E5SWXGP3AM7chJ.png)
-
-![図](https://assets.st-note.com/img/1784153681-6kt52m3RcYyAETPH4qzZlVMw.png)
-
-など周辺産業も拡大
-■ 商業施設の変化
-北京市内のショッピングセンターでは：
-
-![図](https://assets.st-note.com/img/1784153687-PTBHIDgKRhVpXY1A9u5j3coL.png)
-
-毎週末イベント開催
-
-グッズショップを多数誘致
-
-![図](https://assets.st-note.com/img/1784153691-QavMGemFJVYNLuEUxy93Rf2q.png)
-
-→ 若者の集客に成功
-背景：
-消費低迷
-
-実店舗離れ
-
-![図](https://assets.st-note.com/img/1784153695-OhUAfKCpIaLqMve94Sg56n28.png)
-
-![図](https://assets.st-note.com/img/1784153698-AX9DO3UmMySQ2hbKuzrG0kl8.png)
-
-![図](https://assets.st-note.com/img/1784153706-5vRxhj7XPItJO2iUAZyCV6Dp.png)
-
-![図](https://assets.st-note.com/img/1784153722-hufM3Em0A1PFlXOsoUCj6y4a.png)
-
-→ 二次元ビジネスが集客装置に
-■ 個人消費の実例
-スニーカーデザイナーのトさん
-
-![図](https://assets.st-note.com/img/1784153726-zTZBXykENjDM1mlhg2SoAC93.png)
-
-日本アニメ好き
-
-グッズ：約2000個所有
-
-![図](https://assets.st-note.com/img/1784153733-Znqfsd9wxDgIyKlVhEGOW1cA.png)
-
-さらに：
-
-![図](https://assets.st-note.com/img/1784153737-gd1FeaoxtBjHJ6sPE7hW2wfr.png)
-
-息子も影響を受け収集
-
-SNSで開封動画を配信
-
-![図](https://assets.st-note.com/img/1784153744-SfmbeU12Q0TCHz4hxIBAWMkP.png)
-
-→ 親子で情緒消費
-本人コメント：
-
-![図](https://assets.st-note.com/img/1784153764-z4TvbmsONu0tCAaiPhH8QrEl.png)
-
-![図](https://assets.st-note.com/img/1784153769-yealOFPrd0onZGk2i13sNtEQ.png)
-
-![図](https://assets.st-note.com/img/1784153770-S8eMNmE41yg5LVIGQZj97Kwf.png)
-
-![図](https://assets.st-note.com/img/1784153770-8YO6lXsFSwPJeCpNtqcRoU9T.png)
-
-グッズを眺める時間が最大の癒し
-
-厳しい社会環境で不可欠な存在
-
-■ 背景②：若年失業の深刻さ
-北京支局・大橋記者の解説です。
-
-![図](https://assets.st-note.com/img/1784153776-T6okKI9QSZNU8mDJaeL5rpG0.png)
-
-16〜24歳失業率：15.6%
-（※改善してもなお高水準）
-
-30〜59歳：4.1%
-
-![図](https://assets.st-note.com/img/1784153780-tYvpAzG2afchTUH7gOwJQBZV.png)
-
-→ 若年層の厳しさが突出
-
-![図](https://assets.st-note.com/img/1784153793-qtAGiMdNfl9286wFoJcQy3K7.png)
-
-→ 「就職氷河期世代」化の懸念
-■ 消費マインドの変化
-従来：
-
-![図](https://assets.st-note.com/img/1784153800-WqlGKnSfLZ3h2uQjTXkVsmEc.png)
-
-![図](https://assets.st-note.com/img/1784153805-zj5J8tfplsUhNeCZ43A6yuB7.png)
-
-高級ブランド志向
-
-ステータス消費（見せる消費）
-
-現在：
-コストパフォーマンス重視
-
-自分の満足を重視
-
-→ 価値観が大きく転換
-■ 日本IPのビジネスチャンス
-（※IP：知的財産、キャラクターなど）
-現地では：
-日本のアニメ・漫画が高い人気
-
-ショッピングセンターでも：
-多くが日本IP商品
-
-→ 中国人消費者の関心は依然強い
-■ 今後の市場規模
-二次元産業は
-
-![図](https://assets.st-note.com/img/1784153818-QrcRfDhMZqC8FpA0EHt9Keya.png)
-
-→ 2029年：約19兆円規模へ拡大予測
-■ 企業動向
-セガ：北京に新店舗出店（上海に続き2店舗目）
-
-→ 日本企業は中国市場を重視
-■ 総括：政冷経熱の再来
-政治：日中関係は冷え込み
-
-経済：IPビジネスは拡大
-
-→ 「政冷経熱」再び
-（※政冷経熱：政治関係は冷たいが経済は活発な状態）
-以上、中国からのリポートでした。
-■ 日経超特急プラス：キオクシアの第2ラウンド
-
-![図](https://assets.st-note.com/img/1784153940-JMvXTqN54DSB2Uljes0trfGh.png)
-
-![図](https://assets.st-note.com/img/1784154044-fPz52chVFHqE1CLSKmJeWiRM.png)
-
-本日は、日本経済新聞コメンテーターの中山淳氏による解説です。
-テーマは**「キオクシアの第2ラウンド」**です。
-
-![図](https://assets.st-note.com/img/1784154056-wcPN63Oe8mJ2UyxEqACRbDjl.png)
-
-■ キオクシア株：時価総額トップ争いへ
-キオクシアホールディングスは足元で株価調整が見られ
-
-（長文のため切り詰め / truncated）
-
----
-
 ## 📚 トピック (技術) / Tech Topics
 
 ### note · zhenren63 (中国ロボ業界の現地レポート) (32 件 stocked)
@@ -18847,63 +17914,69 @@ SNSで開封動画を配信
 
 ### note · ハッシュタグ「ロボット」 (60 件 stocked)
 
+- [蒼天のレゾナンス -RESONANCE OF BLUE-第5話「歌姫計画」](https://note.com/fit_rat7196/n/n5c599d8d65ad) — *note · ハッシュタグ「ロボット」* · 2026.07.21
+- [【第一章】本当に実現する、未来の恋愛のかたち、『AI彼女・AI彼氏』、恋人はサイボーグ、SFではなく現実、恋愛・結婚・家族はこう変わる。](https://note.com/kechannel/n/na08a99220fcb) — *note · ハッシュタグ「ロボット」* · 2026.07.21
+- [蒼天のレゾナンス -RESONANCE OF BLUE- 第4話「天空都市アステリア」](https://note.com/fit_rat7196/n/nde4d5d4f83e7) — *note · ハッシュタグ「ロボット」* · 2026.07.21
+- [蒼天のレゾナンス -RESONANCE OF BLUE 第3話 「天空への扉」](https://note.com/fit_rat7196/n/ncb2905a8a9ed) — *note · ハッシュタグ「ロボット」* · 2026.07.21
+- [蒼天のレゾナンス -RESONANCE OF BLUE-第2話「失われた歌姫」](https://note.com/fit_rat7196/n/n9338a6c2983d) — *note · ハッシュタグ「ロボット」* · 2026.07.21
+- [蒼天のレゾナンス -RESONANCE OF BLUE-](https://note.com/fit_rat7196/n/n2d52a9ea6d3b) — *note · ハッシュタグ「ロボット」* · 2026.07.21
+- [秋葉原と日本橋は、ロボットの街になるかもしれない](https://note.com/mackey1966/n/nb9c870f70311) — *note · ハッシュタグ「ロボット」* · 2026.07.21
+- [トヨタとNVIDIAが発表した提携拡大](https://note.com/sdenso/n/nb7abd552d694) — *note · ハッシュタグ「ロボット」* · 2026.07.21
+- [AIに任せた手術を通して、人間がやっていたことが見えてきた](https://note.com/akiaki_notes/n/nc1bdb04fa315) — *note · ハッシュタグ「ロボット」* · 2026.07.21
+- [みんなが欲しいもの](https://note.com/takeonijibayashi/n/ne703d5f40b24) — *note · ハッシュタグ「ロボット」* · 2026.07.21
+- [7/13週のゆる〜く気になる記事 まとめ](https://note.com/top_eagle2024/n/n91142788ad0e) — *note · ハッシュタグ「ロボット」* · 2026.07.21
+- [【成長戦略レポート】ハーモニック・ドライブ・システムズ（6324）― 波動歯車の発明企業に立ちはだかる、中国勢の急追という現実](https://note.com/busintemasamo1/n/n9e845c10ddc4) — *note · ハッシュタグ「ロボット」* · 2026.07.21
 - [WAIC 2026展示会完全レポート――1,100社・3,000点・300点超の世界初公開から見えた中国AI産業の現在地](https://note.com/kagawatomo/n/n030a7843c5ff) — *note · ハッシュタグ「ロボット」* · 2026.07.20
 - [料理の自動化で15分削減！海外の最新調理ロボットとタイパ家事術](https://note.com/yoshijob95/n/nfc2251947fba) — *note · ハッシュタグ「ロボット」* · 2026.07.20
 - [3Dプリンターでこんなことできる！と見えたら？｜活きる空き書籍化への道45.1](https://note.com/easy_plover6435/n/nc938f3decfa5) — *note · ハッシュタグ「ロボット」* · 2026.07.20
-- [ジェンスン・フアンとLangChainが語る、企業組織の構造転換と自律型エージェントの未来【自分備忘録】](https://note.com/brisk_viper973/n/n8ee23e39ad20) — *note · ハッシュタグ「ロボット」* · 2026.07.20
-- [世界AIブリーフ｜WAICが示した「中国AIの次の形」](https://note.com/followers_likes/n/n215805836f09) — *note · ハッシュタグ「ロボット」* · 2026.07.20
-- [「山奥の特養でロボットが働く未来」を笑う現場の、致命的な思考エラー](https://note.com/toujidx/n/ncb50f6dd9330) — *note · ハッシュタグ「ロボット」* · 2026.07.20
-- [ロボット開発は、もうロボティクスエンジニアだけのものじゃない — HumanoidHack Tokyo 2 開催レポート](https://note.com/sxb/n/n15f8201686a6) — *note · ハッシュタグ「ロボット」* · 2026.07.20
-- [Zooxのリコールが示した、ロボタクシー競争の新たな勝負どころ](https://note.com/rt_frontier/n/n474a3c5c2b4a) — *note · ハッシュタグ「ロボット」* · 2026.07.20
-- [✨【NVHエンジニアの視点】 🚘 🧍‍♀️🧍🏾🧍🏾‍♂️“人とロボットの共生時代”──私たちは奴隷として扱うのか、パートナーとして迎えるのか](https://note.com/huge_acacia4916/n/n2b25c6384050) — *note · ハッシュタグ「ロボット」* · 2026.07.20
-- [Apple式ハードウェア開発（垂直統合・完璧主義）は、AI時代にもう通用しない](https://note.com/shu127/n/n205377768c11) — *note · ハッシュタグ「ロボット」* · 2026.07.20
-- [🤖 今日のAI・テックニュースまとめ｜2026年7月20日](https://note.com/syorou_ai_1986/n/n87361fdfeea0) — *note · ハッシュタグ「ロボット」* · 2026.07.20
-- [【全自動で掃除が完結】ECOVACS DEEBOT T50S OMNIを紹介！25,000Pa吸引の高性能ロボット掃除機](https://note.com/aimi_simai/n/n8aad35658caa) — *note · ハッシュタグ「ロボット」* · 2026.07.20
-- [ロボットが「ゲームの中」で修行する時代?AIの新しい学習法をやさしく解説](https://note.com/ai_news_noter/n/nec578b226f86) — *note · ハッシュタグ「ロボット」* · 2026.07.19
-- [⚡AI時代、本当に必要なのはベーシックインカムなのか？](https://note.com/1_murata/n/n70fecb3cc7b8) — *note · ハッシュタグ「ロボット」* · 2026.07.19
-- [【創作】『only one』 / 【Story】only one](https://note.com/babyk0607/n/n649485d29b1a) — *note · ハッシュタグ「ロボット」* · 2026.07.19
 - _…and 45 more_
 
 ### note · ハッシュタグ「ヒューマノイド」 (60 件 stocked)
 
+- [人は見た目が9割](https://note.com/tarafuku356/n/n05ae616706cd) — *note · ハッシュタグ「ヒューマノイド」* · 2026.07.21
+- [人体の省エネルギー性から産業の未来は導けない――ロボットの身体革命論を再検討する](https://note.com/gyokuto15/n/nd69d7298cee1) — *note · ハッシュタグ「ヒューマノイド」* · 2026.07.21
+- [『今日は、空がうるさいね』の世界②ヒューマノイドに仕事を選ばせる実験をしたら](https://note.com/clever_eider5401/n/n2301429f0452) — *note · ハッシュタグ「ヒューマノイド」* · 2026.07.20
+- [ヒューマノイドを戦わせる技術は、人を救う技術になるかもしれない](https://note.com/asaigawa3/n/ne747bcd97bf9) — *note · ハッシュタグ「ヒューマノイド」* · 2026.07.20
+- [物語が、先に上場する \| フィジカルAIの奇妙な値付けと日本の隠れた勝ち組](https://note.com/fabynetal/n/ne031c2f1392f) — *note · ハッシュタグ「ヒューマノイド」* · 2026.07.20
+- [わたしたちは、事実に感情をくっつけているのかもしれない](https://note.com/feelwell/n/n1efc72e5e82b) — *note · ハッシュタグ「ヒューマノイド」* · 2026.07.20
+- [機械の麒麟に人が乗る日――WAIC 2026が可視化した中国ロボティクスの「速度」](https://note.com/searched/n/nfc45d77d3a88) — *note · ハッシュタグ「ヒューマノイド」* · 2026.07.20
+- [フィジカルAIニュース(2026/7/20号)](https://note.com/yasuhitoo/n/n2123d3e3e324) — *note · ハッシュタグ「ヒューマノイド」* · 2026.07.20
+- [フィジカルAI投資 完全入門｜750兆円市場の「どこに、いつ金が流れるか」を時系列で読む](https://note.com/robosiki/n/n31005eee1404) — *note · ハッシュタグ「ヒューマノイド」* · 2026.07.20
+- [CHORDフレームワーク：3DGSと強化学習による動作生成プロセス](https://note.com/teddy14/n/nd7d8dabd1eb2) — *note · ハッシュタグ「ヒューマノイド」* · 2026.07.20
+- [シャングリ・ラで始まった「AIより面白い人類会議」](https://note.com/azabu11/n/na1c017a42220) — *note · ハッシュタグ「ヒューマノイド」* · 2026.07.20
+- [日本のネット企業はAIで再び成長できるか 第2回GMOインターネットグループのAI戦略を読む](https://note.com/kagawatomo/n/n3a889d35abba) — *note · ハッシュタグ「ヒューマノイド」* · 2026.07.20
 - [✨【NVHエンジニアの視点】 🚘 🧍‍♀️🧍🏾🧍🏾‍♂️ 🚙 BMWとトヨタ、そして、MMCが模索する“ヒューマノイド産業”──日本メーカーはハードウェア専業に留まるのか](https://note.com/huge_acacia4916/n/n61ba8a10e346) — *note · ハッシュタグ「ヒューマノイド」* · 2026.07.20
 - [WAIC 2026展示会完全レポート――1,100社・3,000点・300点超の世界初公開から見えた中国AI産業の現在地](https://note.com/kagawatomo/n/n030a7843c5ff) — *note · ハッシュタグ「ヒューマノイド」* · 2026.07.20
 - [生き残れ！日本車！！](https://note.com/tarafuku356/n/n2a3f05510628) — *note · ハッシュタグ「ヒューマノイド」* · 2026.07.20
-- [ロボット開発は、もうロボティクスエンジニアだけのものじゃない — HumanoidHack Tokyo 2 開催レポート](https://note.com/sxb/n/n15f8201686a6) — *note · ハッシュタグ「ヒューマノイド」* · 2026.07.20
-- [Apple式ハードウェア開発（垂直統合・完璧主義）は、AI時代にもう通用しない](https://note.com/shu127/n/n205377768c11) — *note · ハッシュタグ「ヒューマノイド」* · 2026.07.20
-- [ヒューマノイドロボットが胆嚢摘出術を実施というニュースを外科医が解説](https://note.com/tasty_allium5093/n/nff50252b6f13) — *note · ハッシュタグ「ヒューマノイド」* · 2026.07.20
-- [海の日](https://note.com/monochrostudio/n/nd07abebaa9d1) — *note · ハッシュタグ「ヒューマノイド」* · 2026.07.20
-- [物語が、先に上場する \| フィジカルAIの奇妙な値付けと日本の隠れた勝ち組](https://note.com/wise_dill1581/n/n7c277f76cec3) — *note · ハッシュタグ「ヒューマノイド」* · 2026.07.20
-- [なぜ日本はUnitree G1をつくり直す必要がないのか——中国の量産と試行錯誤、米国のAIとシステム開発、日本の信頼性・社会実装・人機共生](https://note.com/kojimaikuo/n/n8d6df25757c6) — *note · ハッシュタグ「ヒューマノイド」* · 2026.07.20
-- [上海世界人工知能大会から考えるAIとロボットは、100年かけて築かれた社会経済の安定をのみ込むのか](https://note.com/kojimaikuo/n/n5262a6e9be72) — *note · ハッシュタグ「ヒューマノイド」* · 2026.07.20
-- [Physical AIの「次」にあるものOutside-inのロボット学習から、生命知能というInside-outの視点へ](https://note.com/kojimaikuo/n/nb5d47f5cedfd) — *note · ハッシュタグ「ヒューマノイド」* · 2026.07.20
-- [Unitree G1相当の人型ロボットは日本でつくれるか｜国内サプライチェーン105社・主要工場リスト【2026年版／Excel付】](https://note.com/wish11_11/n/ne5a23f516345) — *note · ハッシュタグ「ヒューマノイド」* · 2026.07.19
-- [🌈 年収2000万の20代営業マン。中国"フィジカルAI革命"が製造業を飲み込む](https://note.com/jk1007kd/n/na8d2a1873e52) — *note · ハッシュタグ「ヒューマノイド」* · 2026.07.19
-- [衆愚政治](https://note.com/tarafuku356/n/n07431a8dc0d5) — *note · ハッシュタグ「ヒューマノイド」* · 2026.07.19
-- [なぜ日本は「ヒューマノイドの故郷」と呼ばれるのか｜英語メディアが使う表現を読む](https://note.com/kohei008jp/n/nece390e4a0ec) — *note · ハッシュタグ「ヒューマノイド」* · 2026.07.19
 - _…and 45 more_
 
 ### ヒューマノイドロボット (60 件 stocked)
 
+- [製造業へのロボット／AI活用で躍進する中国【第106回】 - デジタルクロス](https://news.google.com/rss/articles/CBMieEFVX3lxTE14UE5HRFpISWg5em4tV3FORmFpWkN0T0NqYy1uTzdseVFSNFhSUmdtb3JvQWRWQmRmVmszOGd5VU5kM0dBdnl4RURhUWhpd2RQeEZVQldRVXg2WURtTGZGcmI5al9xbnQyWUUzVjNZZ2sxSWhUT0VPNQ?oc=5) — *デジタルクロス* · 2026.07.21
+- [中国最新ＡＩ、米国に肉薄 高性能モデル、人型ロボットも - 朝日新聞](https://news.google.com/rss/articles/CBMiXEFVX3lxTE02amkzRElyZTcybWR3RWl2dHVSYldRQzNHVUhKSGNnR19qbkFyaEJTSTk1RmlUZDV5SHFJMld0ZDBHa3VCSFF6SEJMU3l4dkVRbGtYWktsMXE5Sk9X?oc=5) — *朝日新聞* · 2026.07.21
+- [WAIC 2026で風向き変化：人型ロボットが量産段階へ、VLAと世界モデルが「頭脳」争奪戦 - BigGo ファイナンス](https://news.google.com/rss/articles/CBMidEFVX3lxTE5XV0pzeVVqaTltNEExX3BhTXc3enNYaHBsV0taMTJ2X3gxazFzSmRZTEtPeGRlcG9wdzg4MElKV2ZhSHI1U3hjdFJDT2w3VVc2bFBFVVoyeWVqNGJVWXo5XzVYSjdIeHVGYUFtYkRLanlZV3g4?oc=5) — *BigGo ファイナンス* · 2026.07.20
+- [ウクライナで自律人型ロボット兵士、2027年までに試験投入か（ビジネス＋IT） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE5CZVBEZXRVV1owXzlUdDY0MTZ5akdwRlFxVzI4THdqYlBtay1GNU9iaEIySjlfd1lQMnFHYXdOMDJ2RkQyaEMteFpLSi1ENi1OWmg2MG0tX3JOTmw4M0ppZ3ozVzY4Z1gwMGhSd1hQSFh0YUdWczRqMFJCV0FNTXc?oc=5) — *Yahoo!ニュース* · 2026.07.20
+- [Tesla Optimus Production Count Remains Zero as Q2 Earnings Call Looms Wednesday - Tech Times](https://news.google.com/rss/articles/CBMiywFBVV95cUxNMEduNjRzSDJtQkFUZzJTc3U1Ti1yQm1xRFJiTUlXX2pKQzBWZ080djREME9ROFAzMkJNZUpabFJ5M21ySVR5N1EyRzV5NFFBTGV6am0wbjNYTnQxVEpRcnlKbUplSGNURUFkTkpaa0Q1STVXdE53MWtaRjZhc2pGa2NLQkJ0VzE1MFRyY29uUWdtWmE3TVNiSWRYMnlrQnFQZkgyY096S3cxVzdoWkVJWVBoOWRQaDNkM3l2cG5jM19LMHV4QVJ6TWxRRQ?oc=5) — *Tech Times* · 2026.07.20
+- [人型ロボット量産化、チップの開発レースが活発に―中国メディア - ｄメニューニュース](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMDViOHo5SlMxTzg3WEl3bnYybGdvMllPeEZmTTVqVzRydHZQTzlNU2FhenlRNGV3VG96UloyQzF1eVhTclJHU3djeXRZV0ZvQnVlWXA4cE9CVEtvQlF0Z2FrZmtyMXR0bVgyTlRweFUzdDBNVmJFdE11MmlFZ094aWFEc0xLcVo0Nmc00gGLAUFVX3lxTE8wNWI4ejlKUzFPODdYSXdudjJsZ28yWU94RmZNNWpXNHJ0dlBPOU1TYWF6eVE0ZXdUb3pSWjJDMXV5WFNyUkdTd2N5dFlXRm9CdWVZcDhwT0JUS29CUXRnYWtma3IxdHRtWDJOVHB4VTN0ME1WYkV0TXUyaUVnT3hpYURzTEtxWjQ2ZzQ?oc=5) — *ｄメニューニュース* · 2026.07.20
+- [人型ロボットは「実際に働いてこそ価値」 擎朗智能、商業化への現実路線を提示 - 中国経済新聞](https://news.google.com/rss/articles/CBMiS0FVX3lxTE54UzdQOGE1d3VLTmJZOTBWUjNvNFBvZjBlRjlYZGVqdVktLXFlTl9JYjBMZnQ4WDBWOXhoQTlXdDI1U1BCRm1EYVhqYw?oc=5) — *中国経済新聞* · 2026.07.20
+- [人型ロボットに新たな活躍の場 騎射やドンブラの演奏も披露 - 人民網日本語版](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJVTJHMlRxUTBQc3FUbDJhN0t0UHZ5djFrdjRkMVVZOXdYYmljUFVGMi1kbXl3VlMzWC1QODhYQTZibi1WSFlxTU5oOWQ2alZiYjBTSXN2VTJqSjFzWTZfZWxyYmVRMjZD?oc=5) — *人民網日本語版* · 2026.07.20
+- [話題はヒューマノイドでも、市場を制するのは「タスク特化型ロボット」か - Forbes JAPAN](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OMGxQUTVibVY3UVBfbFRmWUVhTHFCb1YwU3JITUpzUEdjX1RPQTUyRTdXeGIyYnRPWWY2TDdMUGtlWmpEckt2MVMxdEluTjZhd2VBcTJCTEo0UQ?oc=5) — *Forbes JAPAN* · 2026.07.20
 - [国家・地方共同設立のヒューマノイドロボット・イノベーションセンターの試作・試験用公共サービスプラットフォームが稼働開始 - ｄメニューニュース](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYU8tcTgyRFRvdmJFWjNuTUtlOWdlR2RCQi1BSDdBaEhEXzItYVdtTl83TDZqZ2Q4UTVOd1Jfbl9xZHYyQ0gxbnh3ZnFoV2dvcWM2b3pYV0RyM3NPS3BrRTJNeWlKM0hvSzF6cVJJRF9mS2pZU3RTUU4yQzhadElCbFdueDNFR09Pa1EtVllpSHEwcmY5VkFOcUpWTEdlano4RmRyR0MwLVlEckJJVkl2RldPX3FQZ1dHR2FRUzZkdkpPTHB4Vm1XdVhMVk9PNktZSHllcmZwaDdEUjTSAYsBQVVfeXFMT3NweFVweklCSm5fYUI1Mm1FTERuYmdqSHBNai1MSFRUYjVpUG1VQ0FjaWpIN3VLWGxKQV9yckg0eG1adGRuT2c0WmdLdVdNUHBILUZxTjVQMENWdG5VcTJOX1pndFlKZ1VydGY1M2RBMENiTHRoQ3BSOFBwLTVORk5BYUZCWmFpT0pNaw?oc=5) — *ｄメニューニュース* · 2026.07.20
 - [中国が人型ロボットに巨額投資し実用化と商業化を加速 - Межа. Новини України.](https://news.google.com/rss/articles/CBMia0FVX3lxTFA3S3lxZFRSRGh6RkdCWnQxcV9RMXZPOHh2LXZ5RHdoUlVQaE5WbWRka0tpd2c4SXZvZWowVVRiWHVfWV9aeG9FakpFSUd5TUlmZHJ5RXRHMWJhYVJOemJKbTVacDlmeUNwam40?oc=5) — *Межа. Новини України.* · 2026.07.19
+- [Humanoid Robots in 2026: What Is Actually Deployed - Technology Org](https://news.google.com/rss/articles/CBMikgFBVV95cUxObmhMSXNTbVRVZWZ0dkdkX1JEb2h6VWZyRVFaMkVVOFZoWnRvVjBUSmw4STVfUHRzNkYxeHRzLWtTdi12eTczdkdVR0NQYWFVZHpUSnF2dnhmWFBoR3B0bW0xbzVXdlNzbjRDSmExN05KbUZIQWxhbE9GWE5BRnRxN2dfczFqUzhIc243a2QyNnFvZw?oc=5) — *Technology Org* · 2026.07.19
 - [上海で世界AI大会 人型ロボットやAIエージェントに注目 - Record China](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uczZET0lPeGdVLTNSanhidGVGdjQ2V05HQ1MwVkRHc3VpTjVYVVhUc3NXZmdwNXdJLWZ6UHdDUWE0SHBsWUpzMjhJaWlMaU1HdE9iQmdNcTNIQm1hbUtZWUJyR25WRzg?oc=5) — *Record China* · 2026.07.19
 - [ヒューマノイドロボット競争でも、テスラを打ち負かす──BYDの大胆な計画 - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE5wRHUwOU8zdTRyY21Zb2pobE5ILUlBQk5pNW8ydy1xUEw2TVItWnBEQ3YwV1BSYTB0cDJqOS1VSE5yOUt0aUU5NGpGMDlGdjJXSklta29TbmVISUYxb25ncHdJVXpzVTJNSzBqYU95NERiM2t6cTZGeW94Z2ZQODA?oc=5) — *Yahoo!ニュース* · 2026.07.19
 - [韓国・現代自動車傘下の人型ロボット、W杯応援の「バイキング・ロウ」を再現 - AFPBB News](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xUWJsTmJQdldEUEdPUnlkcVpmZkkyT0VHanNrclVUVi1ZVF9faGNPWF9HYk5qckwtN3FpVWJxdVkyX2tlRmRiOFAyaDhCOXU2ajRaVdIBVEFVX3lxTE9xUWJsTmJQdldEUEdPUnlkcVpmZkkyT0VHanNrclVUVi1ZVF9faGNPWF9HYk5qckwtN3FpVWJxdVkyX2tlRmRiOFAyaDhCOXU2ajRaVQ?oc=5) — *AFPBB News* · 2026.07.19
-- [KEENON、WAIC 2026で人型ロボットとサービスロボットの連携を披露、ホテル・小売の実業務フローを実演 - BigGo ファイナンス](https://news.google.com/rss/articles/CBMidEFVX3lxTE05TDlneHBzQzdxSjlIa29JdHNsYTZtVzEzbWdBakpsaTVweGFzVmJJT0VPZXA2TklTWXREbk8yTTN4eWhvQjl4VDYtbldvWm8zN1ZwUUpWR2xuQU43SWdEMTdWcVNCbi03QU43TXZzWThJNjdj?oc=5) — *BigGo ファイナンス* · 2026.07.19
-- [ヒューマノイドの社会実装を競う「Humanoid Hack Tokyo 2」 フィジカルAI活用の災害救助ロボットが優勝 1枚目の写真・画像 - ロボスタ](https://news.google.com/rss/articles/CBMic0FVX3lxTE5ha3dka3p3ZWxxeDJaSkVIc0JEYnpzUzM3Um1IWDNRclBqb0JQLUFVRVE0UFFaSWNJSk1DNDZvM3I5WnR1anBkTXA3NHBaMXZKQUtDUElRSmZ1N01xSDhzMHZMM0hZSkZLZGIxVExmLTVoZE0?oc=5) — *ロボスタ* · 2026.07.19
-- [上海で世界AI大会 人型ロボットやAIエージェントに注目 - ｄメニューニュース](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVVpXZFl4bnF0VE9ldUk3a0pBVkhLdTJmVFpnc1RhTTV1cVhfaFd5cFM2V1ZqM20wRWpQdnkxMklRY2lDN2xVZ2pNM0RWOXBsajBKMkpCUEFZOVVmWnREelpucVFVYVN0SXpTMjY3LW0wckVvcHVlT3pqUE5wVUVXVTMycjNlU1RXYkYw0gGQAUFVX3lxTFAtQkFDMmtLRllXeklydFYzOVp5YjR4ZXZfVkNSMnF0LURuWVRzRnJEWjdfcGVPcmNycTAyNTczNk13Y2tybjhXT3p3R2xOdWxoRUNOOHBPbWJvR05ncjI0WFl4bEdNbjFaaTNkVmhBczE4STM4a0s4UEpfbDN0RGZIY1RhUWlnWEUyR05EZjFFTg?oc=5) — *ｄメニューニュース* · 2026.07.19
-- [上海で世界AI大会 人型ロボットやAIエージェントに注目 - au Webポータル](https://news.google.com/rss/articles/CBMie0FVX3lxTFA5cndaSGtUdWdnSjVCMWhzN2U2UDBoVS1uSjhXandvbGpPd0prQUVuWm5jWDVYbzdiUjB5cVNoRExMdWJnTWFNQlZ3WURXQzJlS3diZWlqVS1TMUM1LW9rNWZUWFAwUDZjR0ZIakkzUkJRbjVGU1h5bm5FOA?oc=5) — *au Webポータル* · 2026.07.19
-- [「温かい気持ちになってもらいたい」小学生が人型ロボットと旅をして成長していく物語 岡山子ども未来ミュージカル「ハロルド!」出演者のお披露目会【岡山】（RSK山陽放送） - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE1fbHRweUxxWEVtUGx1VVVzWmZKSW56RlpnVEN2Slp6UVpjNVMtM2tSNk5MMFFHVlF4bFh3Q2g3QUN2N1lnOG1CUUdvUTBTb01LTHhsOEZDZ0I0aU0yUXk2SVBnUDZEaGoyZ2EwckhzemYzY1RrVlJoWWJVMWtZNEU?oc=5) — *Yahoo!ニュース* · 2026.07.18
-- [「温かい気持ちになってもらいたい」小学生が人型ロボットと旅をして成長していく物語 岡山子ども未来ミュージカル「ハロルド！」出演者のお披露目会【岡山】 \| 岡山・香川のニュース \| 天気 \| RSK山陽放送 - TBS NEWS DIG](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TSzJuOGFCaTU2RHJrM0RucVM1eGVoemZmeF93d1hEVVhCdGc3WVlNcEVLZUxTUUd4Wll4SVVhUnJDVjFlcGpBQ3ZUVkdTeW5jYzZPaURxcy1idw?oc=5) — *TBS NEWS DIG* · 2026.07.18
-- [abc、ヒューマノイドロボット国内検証開始 - LOGISTICS TODAY](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBKYmFxWFNkbmJ4SW5rc1dYZVBMZmkwTUk1ZHRjWFV2VTA1TnJiME11cVU4VXR2ZDhzZjZVRnBza2s5cmdvZDF0UQ?oc=5) — *LOGISTICS TODAY* · 2026.07.18
-- [国家・地方共同設立のヒューマノイドロボット・イノベーションセンターの試作・試験用公共サービスプラットフォームが稼働開始 - CGTN Japanese](https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yWkpkYWpXN2dValR4eUtaZW05VWZPME1LR25mT3owSjdjSEs0Tk9DckVmdUxTVlNrNlNuY0VwaU5JTUltWU9NRjNHTTJ1S2JSd3NRTjZSWmZTT0U2djJnTTNZeEl4UQ?oc=5) — *CGTN Japanese* · 2026.07.18
-- [2体の人型ロボットが戦う。相手が頭部を蹴り飛ばしても、彼らは戦い続ける。 - Vietnam.vn](https://news.google.com/rss/articles/CBMinAFBVV95cUxQYmx6MWRqT3RNYUh0ZXc5Z2Z1S3RsbG5ZYVBtVXRDU1ZCLUk2SEw4c2o0S1RscTl0TENHYXJZc0JabUNvczFEbW1MNEZnTTVYTUpPeFowMEZrZ3ZwOHNsbTNqMDZ0a3R3M09naUpWU1N2MGJJa3J1Y0hhUUpuRFl5Vi1PVERRVkNsY0tUdFBVbnZadlZpRnNsNGNEU24?oc=5) — *Vietnam.vn* · 2026.07.18
-- [円卓コンフィデンシャルフィジカルAI…ヒューマノイドの可能性、無人工場いつ実現？ - tv-tokyo.co.jp](https://news.google.com/rss/articles/CBMijwFBVV95cUxNaFJzbHk3cHBSdDV0ZGtGZHhqa1R4aGNnZTZ0UzZTNXRJQ2phZE1xbklNTDBuMWJqdFpQWEVDdUY1NmFHWXgxdjVTSllZbHhqMUtQejlnZlA5dThHUTI2R2RmUkdCQ3phY0xpY0tXUjlvTFdoamxMeFItRjhEZHRKNGVuYzNmUlFpUk92aXZHbw?oc=5) — *tv-tokyo.co.jp* · 2026.07.17
 - _…and 45 more_
 
 ### 手術ロボット (60 件 stocked)
 
+- [What’s More Important For Intuitive Surgical: Today’s Robots Or Tomorrow’s Growth? - Trefis](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcThOZTRPUE9UcTA4OFdNYWlLTy1iSHpUUWdPSmo0VjRaUFNmaUpfS1M1eW45U3h6ZWZEOE1DSFp6R3dkUDlUdEdUWXY5YzlQeG5PZ1pLQUpSWHg5TklxN1VGb2wyejhqOHBnc0lRRFlEOFJhdU5PSzJWbElVekp0aFVOSmxEMkxaTkdqMURWSlpKZTg4T2ltV2RYZ0ZWZXAwMEctS2VCNV9XU1BfRXVoUVJoSDd3NnNjXzRGdDUyc0VYSTh4VWVNUU9pRVZzQXVoY0xXbg?oc=5) — *Trefis* · 2026.07.21
+- [Owensboro Health Twin Lakes Medical Center Introduces da Vinci Surgical System - K105](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTk00Vnl5NTFNaTdzS2QxaEh4NTQ1T2tNT2NNYThaTzBKOWlhQU9aZ1h5SldJbW9Vbmo4TDczTXFnOXZQbF84cVMyODNqdXQ5MV9Pb0x2c3FSR1lUcG1xQ0FVempCb2xaeFpvR2JqRVpkUGZaZEo2RkZaRk1zMUxWeGxpRllST05KcVlNcWpDTHgyNmdKbWdUS3RmeXRVZ2s1ejhTdHZKU3puZGRZcDR5dQ?oc=5) — *K105* · 2026.07.21
+- [手術室で手術ロボットが普及するにつれ、外科手術の未来は大きく変わるだろう。 - Vietnam.vn](https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ216Q2c5M1RtdExDZXJNY1dUZURQb2FMY3RjWURxTnhmalY3eTdRR2FEbHUya3RaSDIxRGk4dlByTE9LelNfVHFucHU1ZkdiX1dkTVVwNGxaMXlMUGh3N0dQbzM1ZGM0Y0ZDellmRHQ0T0RnUEo1Y3JOQktaSkprUzhobzRXU3dkeHJVanRFZ1lULV9pTTJhV0djRlBTdFhqRENhMw?oc=5) — *Vietnam.vn* · 2026.07.21
+- [McLaren Central Michigan starts region’s first robot-assisted surgery program - The Morning Sun](https://news.google.com/rss/articles/CBMiugFBVV95cUxPNzZyM3hKVXV1TEdnbGM3aGlpVTRZSGdidzVkX3YyT0hvZ0l1WVJiYVBpS3l4NHg4bkR2ZzJWZGRKSjNmUlhxT1NVM25kODRrLXFYTF9aMDR3X19DNndnTDZveko4bVNYRXZndC1NTmNGbGZLOUJwZzRiS3dxaXpsU0JOM3FxYU5EdXplNkRTV1lRcjhuR19SWXpwc3lsWkl5d2V2dmk4a1VpQ1EwTDRVWV9odnhuUi10VlE?oc=5) — *The Morning Sun* · 2026.07.20
+- [トヨタ「ハイエース」の“対抗馬”を初公開！ 新型「“2人乗り”スライドドア・ワゴン」お披露目！ 全長5.4mの「超ロングボディ」は“豪華内装”がスゴイ！ 新型「DA VINCI 5.4」フィアット「デュカト」ベースでトイファクトリーが出展！ - ｄメニューニュース](https://news.google.com/rss/articles/CBMigAFBVV95cUxPbDJmSDNhNURtbEVRT2twN0w3NVlRbF8xbktCS2tZZmprX2dNZ1dEd2Q1TXYyLWRBdTNoV25ycGFzOG9obFFLMGVteVhEV09BSmM1TTVIS1ZJN0pValQtZzliRVRTb2dFdU9qTmdva2RzM28yb2lXcE5zS2FHMnQwRtIBhgFBVV95cUxONGM1SUl6bXZSWHNsXzI5dHdEdDZYTG92MmVoQ0dqWlNONUVDYlR1aEEtb2xfcmNJSkYxNnB0RkpnWTc5dE0tS1ZKUnpFQUJsb1BNdFU0MFNWSUx6NTN0WHJKVGZFMWZYUWVPUXM1RWJkNnBWVzZySWc0Q1hpQThoY2dpT2E3QQ?oc=5) — *ｄメニューニュース* · 2026.07.20
+- [トヨタ「ハイエース」の"対抗馬"を初公開！ 新型「"2人乗り"スライドドア・ワゴン」お披露目！ 全長5.4mの「超ロングボディ」は"豪華内装"がスゴイ！ 新型「DA VINCI 5.4」フィアット「デュカト」ベースでトイファクトリーが出展！ - くるまのニュース](https://news.google.com/rss/articles/CBMiS0FVX3lxTE0zVFhNLXRKX0FvbnRxeGVUenowR0hXMDQ1NFh6WnllbUk0YTBERVV4V2RIamxqc2h4X3libnp6OG04TUZaX0J3RGJhQQ?oc=5) — *くるまのニュース* · 2026.07.20
 - [HBO Max 映画やシリーズの範囲が拡大。レオナルド・ダ・ヴィンチ・コードとアクション満載の新作映画が登場。 - Letem světem Applem](https://news.google.com/rss/articles/CBMitwFBVV95cUxNUmhIdEt4bmp1VU5zaFVCUUxfN0VudzlDTWdZZEY3WFNWMDl2bC0weERoUmlncmY1alNDVDV1WnBrMjZJcmVHMWVoM2dNbFlsRkVGTUx5VnRIODNUQ2w5MFNHVzd3YlVnQ0h4UlROSU1TdVJlaXoyZ0c2TVA2QjVCWG5GdUdUZUhXN3dSSkdLRGJFNk9DdDNvTVotbzNTT2hyd0h3Uk1JTmkzaWxPZG1CVHpPTWZldUU?oc=5) — *Letem světem Applem* · 2026.07.20
 - [【プレビュー】「ルーヴル美術館展 ルネサンス」国立新美術館で9月9日から 初来日のレオナルド・ダ・ヴィンチ《美しきフェロニエール》他、約50点の名作が登場 - 美術展ナビ](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJZ3BZSXBDamhqQUJoZldBZ3o4aTNIS215REhDVkllNlpqT1E5WUZhYnpmZ3NhanJkdzZpcFRkNk5WZ25aZm9meFRoT0hJUUlIVldkQnNrUEFSRFhOLXBjelBpYXpxWklC?oc=5) — *美術展ナビ* · 2026.07.20
 - [視聴者の反響を受けて、娘の姿をどんどん配信する母親。SNSのアルゴリズムに抗えない親たち【著者インタビュー】 - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE9qcmMyTWhLZEtIOXV5eS1GaUxIZ21KcVR2SEdqcVFsdHczb21vRFVIWW5Ubk0wWW9LWE8xVGEzYklRbV9WZmx2Uy1DX1lGZlhxeHBLbjduT2YyYkNsN3FwNWxSbnpzaDJCU2V4Mkk5YmhSR3E0RkpDSTcxdnlNVW8?oc=5) — *Yahoo!ニュース* · 2026.07.19
@@ -18913,16 +17986,16 @@ SNSで開封動画を配信
 - [Why Intuitive Surgical’s Strong Quarter Still Spooked Investors - MarketBeat](https://news.google.com/rss/articles/CBMioAFBVV95cUxOaGNueFZCc0w2RjFuaVRRaWdKb2pzQjBrWkVkdWJsT0R0QktkeXoxeXVoSV93UEZMYVRYNnZCUnFNcHF6d0xRZzQyYzhsYWZXUHI1QTRULWlQbl9HSkdDdjZQQnlraFFNOXdpZlBDb3VqTnVqT1hLa2prRmtlQmJYSmpPOGtWU0p5UE5VME4xRkxwRWxYOS1VRnVkcXhzeTlv?oc=5) — *MarketBeat* · 2026.07.18
 - [Why Intuitive Surgical’s Strong Quarter Still Spooked Investors - TradingView](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWnkzM2VSWlphaDRkSmhxbjNiWWJZUTRUcVdIVUJUc2FCQ1VXUW5zcHZscTU1cy16cDlLV0FzSlMtcHJkYjFNS3JnUl8tTkdkYU1neWtwc0xobWc0MUYxZy12NmhlVUQ3SS1CdnU2R3E4b1hJRFNRNEw1UUFQd3A0Mjd5Qjl6d3BRVkEzaGZQeEN4cVk3SUFpNUo4X25Kbml2eE95b3Nkcm16bHNMXzZ2Sm9NU3cySUNWVXoxN3lDWXRPUQ?oc=5) — *TradingView* · 2026.07.18
 - [Intuitive Surgical Posts Strong Q2 Revenues, Moves Into GI Endoscopy With FDA Submission - insights.citeline.com](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNUjJLUi1JdFhvWEFxUHlCdzFrX041MEMwWUI2TzhXVU5oQ0ttdDBLb0NmRlBCRUtmWHlUMVZObW9UeGx0dFVxaXF6eWJBUEU1emM5TXBjMGNMX2pTQklPdXhFaUwwaFNya2N5eGtXNTdFT2FrRlRmVUJUNGo4dDZWUDdwdks0NEhCUzRoNVZ3VVdVekdidE5YMnk3eXpWbmM0Ykh2azVGeEpadE52Y1ZYQmdLdWVib1Z2SVdSeUpvVHlQUXlGNzNiT20wYlJaRWdSRHFMMmNYbTJsNDBrel9CWTRuMHRpamU0OGZEOW0zSkxtS0RpaEFhblhwUWZsQUZhUFBvNU52cFg4R2M?oc=5) — *insights.citeline.com* · 2026.07.18
-- [Why This Surgical Robot Stock Is Still a Buy During Its Worst Day in 4 Years - Barron's](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ0F6NkhUdERtYk8wR1NsR3VhTktfUFp3aWktMGZVdU4taEdxXzlZZDZoQXZObld2RlZTMmR4bWdkbFFQS1Vpbks1OGtoSGZCQ2l5Q0p5bkUxWTRmeHpvNWJJS2xDUExpcUd5OS12bVc2bEtPbGdIalBBTVNYc3BKNUVHNUZWUGtp?oc=5) — *Barron's* · 2026.07.18
-- [Why Intuitive Surgical Stock Plunged Today - Investopedia](https://news.google.com/rss/articles/CBMigAFBVV95cUxPQnh4RzUyQUtHSU5weXVDdGNta05KbUtIQ0tKdDcxM0IzNlNlY1ZNR0ozLVd0TWlJZXNaRDhKZGY2UTNtZl9LMFhNc25JQzhFSk5rdTVaeDlTRWNmZkJKN2pqNWNXZjRnZ2lENy1FTURMUXlBbmVLdk5UZU5fWGo3Rg?oc=5) — *Investopedia* · 2026.07.18
-- [GLP-1 Drugs & ACA Subsidy Expiration Weigh on Intuitive's Stock - Medical Device and Diagnostic industry](https://news.google.com/rss/articles/CBMitgFBVV95cUxNOEwzRzJVbU1NSnlNYjM3dWlVbWNNZGQ3Zll3dWZ3enNiSjliNC1zQ0htVDJiQm80M1BVOFR1bXhXWWVEZWN5T2hBWTMwT19UWGNKT0RXcHZaS2R2S1VKXy02YTQzSDd3bXNtNlFnTGo5TUdUTExJMnExZ01fZHFYcy12ZFVpTF9ZajBVOWUwNmdYVlNBQU5pYTVacC1ZUFR1eVZQU1ZVZnBwQTlzRnRaQU91Z3JnQQ?oc=5) — *Medical Device and Diagnostic industry* · 2026.07.18
-- [FV病院で行われた、Da Vinci Xiを用いたロボット支援胃切除手術のライブ中継。 - Vietnam.vn](https://news.google.com/rss/articles/CBMirgFBVV95cUxOeHc4YldlZV9ZeWNKYVlOcHZ1NFk0aDVFakhtZjBIUkFmakxrd0pTN2JZdVE2a2F5ZDRvWVlpRFRZOTFwSWdfbmpTall1aWRRR015RGRPYV9pS3hyTEI3Q3NEZ1JNMXB1UnkwZFBrR3lBWmVkWXh4a1ZmR2xIMDZJQklFZ0djOXBNU0hCSTZsRFlkY1M3UHhtOWY3MURUZU0zeTE1THBJYmduUVYtc3c?oc=5) — *Vietnam.vn* · 2026.07.18
-- [Why Intuitive Surgical Stock Is Tanking Today - TradingView](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQW1vdFFCLWJtTV90alRod0FEOERaYmhzajRqakdNWlpoandERHlFMUU4MVFsbEVCQ1Zuc0RUOGdBUDRBVFlCU2pRdGF2NnFkTlliNGk5ZFVELVI5WEpzOWd3T1Z2Ym1ZU3Q1c2FZdWFPQ2k3U2FxSFFXRUs2TUtiN2xvWlFMVzROSVN2UXdSYTEtVzhmUUJzMVo3UEMtVGJhVjBGVG51aWU?oc=5) — *TradingView* · 2026.07.18
-- [Intuitive Surgical Shares Fall as US Da Vinci Procedure Growth Slows - Moomoo](https://news.google.com/rss/articles/CBMipwFBVV95cUxQQTkxblhOeURLT0RZMGJjQTl1bFFPQXhfUXY3c0hlRWsyZmZJZ0Q5enY5N3BtZGlLWTFqQmxXcEJOVndWRG9NV2habWhKYmZWR1p4SFEtd0EwbFVhQlI4ajJYeDdSSlJvQzlOMWszLWw2dW1xd2xqNTM0ZDNzY0NUd0xtdDFHSV9DM3F1VU9BeHlyY0VyOHg2VHhUVVY5SEY0NXFFZ090aw?oc=5) — *Moomoo* · 2026.07.18
 - _…and 45 more_
 
 ### ロボット掃除機 (60 件 stocked)
 
+- [Amazon's Selling a Robot Pool Vacuum, and It Makes Cleaning so Much Easier - AOL.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxPVHA0bVpxMzhJbGNjN2ZjMnpJOXpXTm5JdHRKX1l2WDB5SjhKVVJLNFhCWWVoRFNEUDBTVlZxQTRoWmo0RlhFMWUycFZTMDJmUjBBUDV2UHZtTWhJcTRLYmhtVnBxYTFMdldSREF4UllrQk5DSkRiRlo4T01Kd3ZkWlNhbw?oc=5) — *AOL.com* · 2026.07.21
+- [roborock launches premium AI-supported RockMow X120H LiDAR AWD robot mower with $699 savings to $2,500 - 9to5Toys](https://news.google.com/rss/articles/CBMilgFBVV95cUxNTHdfLWtSNk1pRnJlOVVKVlZwZWt2bU5BX00wR1FGcHEzcVZxcVoyeHVDODBtbmpqWl9FU2FNZmp0VU5HMUNNQlREZDJJNVlTQkZqOGM5ZU5CTmhkTU1ZMVlpeS1Ob01CSDZXRjBZcGR2REQ5R1MyazVoR3FIX19GWW53TUNwbG4wSmVXd2NncUozVUU5aWc?oc=5) — *9to5Toys* · 2026.07.21
+- [Roborock 10,000Pa Suction Robot Vacuum and Mop Goes Near Prime Day Low, No Need for an Off-Brand Stick Cleaner - Gizmodo](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNalFaNGNxemlNMjhQbEV5S2xCU05LNjFWb0FtSUI4bHZEYmtNMXhZNkVwNktCREduNnBBbXBjYW1yOUp3UXB2em9tRVpoUEZFQkQydnB1VVNWdU1DUW5teThwQTRfbE5kNHpvb3hRTXdSMVcyOVBRVWg5aHdsWmVKM3paRkgtMkVkazNKa0lwdFdhV0JzSVFLcFlHVnhMMUxhUUdxWThqRkhGRFBSSVV4VzExeTJwd0xwZmxBa0hVN2x3dDhZY2thbWFHUDlmU2FnZ2xoX0JR?oc=5) — *Gizmodo* · 2026.07.21
+- [iRobot Roomba Combo 405 Robot Vacuum-Mop 50% Off at $400 - theinventory.com](https://news.google.com/rss/articles/CBMiekFVX3lxTE8wQ0pZWWVfV2dlTUkzcUFpM1FsMThfVHVCUDV2aUF1RGVkdFh2OHNSTXd6VmI1WnpmcEo0ZWRDNE4yNHMzaWFVUTVvN2NZcWdUbzVPMGdhUVEtdHZaV2Q3MUtxR0JlOUd0a1dncXdfdjhyTzZ4NDlvMDhR?oc=5) — *theinventory.com* · 2026.07.21
+- [Best vacuums for hardwood floors, per Consumer Reports - qz.com](https://news.google.com/rss/articles/CBMibEFVX3lxTFB6Q0xlQU1Mc0RSU3VKQ2dBRWk5NFgzNzJLVFQ1bzZvSjV0bFBMa2xfaHpFazhuVEdOWE14MmIxclhuNVZISFd4bGM5VjJuWWtRT2JkMFpMT1pkT2QtNHliUzJEQzhobmFWTnl0eg?oc=5) — *qz.com* · 2026.07.20
+- [Which Robot Vacuum Should You Buy? A 5-Question Guide - The Gadgeteer](https://news.google.com/rss/articles/CBMie0FVX3lxTFBkT2w0aFRZZ3RQNDlPZzhwYXBad3htZUszUktNcjRjd3Q4cHM5Um01elZMT3RFd19Xbm01S1VYb0NyMGh6YkZLM3FmTVU0NGRyUHVsWlV2Q1JPU3FXSXFDTldmWnQ2YWt2dlRhd1RiZXpEZWYtN2dqQWhiUQ?oc=5) — *The Gadgeteer* · 2026.07.20
 - [吸引力大幅向上！「SwitchBot ロボット掃除機 K11+ Pro」【PR】 - jetstream.blog](https://news.google.com/rss/articles/CBMihwFBVV95cUxNUklJam1VbmU2Q2RmeVRaNUM3Q19lYXFtWDN5S25pN1Mxb2lfOENXbjI3c3J3elNWMmZ5b3R3UWZ0clkwYnZuV241emM4TzhmU2tKMnhuaVRpTW9yblNNT3lJZy1id1htZ25zd0FTeVB0QmFjWGd0dGNwVktCNHp5bkJCTU5rd2s?oc=5) — *jetstream.blog* · 2026.07.19
 - [9 Affordable Robotic Vacuums Worth Buying In 2026 - SlashGear](https://news.google.com/rss/articles/CBMihgFBVV95cUxOMWFBR1ZaaFZaM1hfRnIxZVJjTTlKMXExc0tHZF80UFdfWDQ3dFZJMzhXU295WjNxQzhfRFRsS1NEMW9ObGpCb3lIdXY4MXZaVFJLbEpVNDNYVW96Q0VtWkRnQnZwbzVMZWFhdGxiSXZEeTgwYVdORkpUWjV5T3Ria0Z6cG12dw?oc=5) — *SlashGear* · 2026.07.19
 - [I tested the Eufy Omni S2 robotic vacuum — and it's expensive and impressive in equal measure - TechRadar](https://news.google.com/rss/articles/CBMickFVX3lxTFA0b0hHZjhrT1YtbDJoWmxSNUxRUk0yM1ppNmpZaDRsbzhuaG5NbjZiQm5ZSDBhMlpkTzZMdEdyM3hVZ3lBNFYzQU93NkZYQWdPeEFGU0tTWVJILWhVYVFjYVJ0bE0wR2RKMlpQajFhdi02UQ?oc=5) — *TechRadar* · 2026.07.19
@@ -18932,16 +18005,12 @@ SNSで開封動画を配信
 - [Narwal’s Flow 2 White: A Robot Vacuum For Homes With Babies, Pets, and Great Taste - Yanko Design](https://news.google.com/rss/articles/CBMiugFBVV95cUxPNkpnZ0xIZi0tSzBUeWpaMVRNU0Vtb0pGQzA3NXBRb1JNbW1ZZktvcFkwVUNHQm1qMWI0NkNYQ05uMmNFWG5Sd2lmcXREbTRheVhaMTc5OVo1XzhlUXVwRmhEOTdMd3htZkdaSnh0RjNzMGZkY3V4YmtBekNDNGstOEZLNXJsSVNhcXB5QTlWOE9UTExiRkd1SjdudTBydkgwRFBFbWtsQ2tMQkZscTVXSjlJX05KSWNDNHfSAb8BQVVfeXFMUHVQdHAwc1hXeTM5LTVwSkUtMmJIMFBCRlkwc3d6RGhPS3I1dVN1TXlVYlBvSjRYTm9Hc0JmR1ljdmZTd1Q1RHJmUkdfdG80dmJlSHdCMlM0UXBDRnlLQTdnVEZaSVJ4Um5RZGdQUnZ1WTNxRWpTb0J0ZzNVYk1zVU5oQjQxVGRLYktaaHZGb2pSQmFCcDgzX1pUczg2bUZtb25WRW11RERIZEhiWVh4dUdoQWJRU05rZ0ZJa2hPNk0?oc=5) — *Yanko Design* · 2026.07.18
 - [ロボット掃除機 ルンバ780 マキタバッテリー仕様 - krugaresnica.info](https://news.google.com/rss/articles/CBMicEFVX3lxTE1iaVdnTHFQbXRnVEROOGZuN0h2OVdWNzJQeFRxdWowOFM1bDJ4eVhYZ3E1TmdaS3NhYTQ0V3d0U0ttREU1Vkg5VFNDNkk2cXQya1YzNjFOZWZVWjlDUGxaWUoyT0ZDb2dJVzNtVS1TaUw?oc=5) — *krugaresnica.info* · 2026.07.18
 - [Clean Up $200 in Savings With This Roborock Robot Vacuum and Mop Deal - PCMag](https://news.google.com/rss/articles/CBMikAFBVV95cUxQOGIwcEFzSjY0VUEtRXFwaXFESHZqYXhPZzhPTXJIMWZERVBrQ0FmUDlFYktMemU1MlRSVERBdjEwdGhhNTZMSlhVendKMEk1MGNteDF3VlZDZDAxYkNEY2c2cUNvZVpOSEhUQlg5UmZwLUxKV19JdDQ2Rm44WE0zSzB1NFJMajlaekQ2cnFEbGc?oc=5) — *PCMag* · 2026.07.18
-- [This Roborock Smart Vacuum Has a Robot Arm and Is 50% Off Right Now - Lifehacker](https://news.google.com/rss/articles/CBMibkFVX3lxTFA2Ny1ycVUwUXpXVjl1M0ZBLXo3NWRkWXQzdjk5M1BJLUt3eWdfc0xrS3dzemhaT1hrY2VWVDNBTVhiSWg5VnI4SlNwaDRON2lDZGtwZURTZ0dKT3hnU1A1RWh1VzlOYThZRzhWUzJB?oc=5) — *Lifehacker* · 2026.07.18
-- [Narwal's Flow 2 Robot Vac and Mop Is $400 Off and Practically Maintenance-Free - CNET](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jS0VuM19BUEczbDkySV9xNG5pOVVhTURIa3pJR0ppbW1Wb2cwc0xycFJEYnhvNkNVVlpEMlI1TWFVaHZkLW41amtlb3Fhc1VuM0dsOWJuWTNCSTNVdFc0ZVNqWTRTcW01?oc=5) — *CNET* · 2026.07.18
-- [A Dyson vacuum under $200? It’s true — here’s where to suck up the deal - New York Post](https://news.google.com/rss/articles/CBMilgFBVV95cUxQenNqWlZIS3NjTWhyTFkybGdwd21CTmhvejNSdFpIZ0FlYUpvOUdGV1Z2aExZSnMwblRCTUpLTEFJQWFJMGFabTBTbEoyMlN1b0hzZnMzY1ltbzB6ZVdUejlFdHpYSEUtR0lvVC1MU2l4R1ZCTWx2bmN0blJjeEkxajdRTm9NaDdhX1FnTWdZM0RUaFpWd2c?oc=5) — *New York Post* · 2026.07.18
-- [Best robot vacuum deal: Save $1,000 on Roborock Saros Z70 - Mashable](https://news.google.com/rss/articles/CBMiekFVX3lxTFBxQlZzU3FZVzBBU2t2Y0lxLVBxWklGbWh5aGJUdDFucndRZGRFOFFVRXZUTzJqUDRfeEFIRTM3dmstdDZ1SkNqQ3FudmN1QmpWTXMyWDRBVldDOW5TNlFZaUR0VHRFNjZwdU5QM21HeDdkUUxmdjdqeEJn?oc=5) — *Mashable* · 2026.07.18
-- [Shark Robot Vacuum Security Vulnerability Report from Researcher - Vacuum Wars](https://news.google.com/rss/articles/CBMic0FVX3lxTE82cVF5S0hrVU1kWkxDN29kVV9xN2lsS2xBNlJnYUEtczRhUTVrVFpwUGRhMHgyaUhhUDBiaFN6Uy1tVnVXX2c2OTAydEdFN3Z6VnUwOEozSVhJTFUzSF8xb2VRSUpHc2tYaWQ0QkNrVFZnNlU?oc=5) — *Vacuum Wars* · 2026.07.18
-- [【Amazonセール】roborockとLefantの水拭き両用ロボット掃除機がお買い得価格で登場！ - hobby.watch.impress.co.jp](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oZTVCZG1XUWZOeTN4RGRBRnlTanZDeDR1aXFpTmlHR3k1blZVS3ZMcUx1Y0JlbHVZQndPa2ZVMXp1bWxieC1hX0RycXlPMG5LQUdrWkNVb3pPRlZha2xZTy1QbHBWNkE?oc=5) — *hobby.watch.impress.co.jp* · 2026.07.18
 - _…and 45 more_
 
 ### 農業ロボット (60 件 stocked)
 
+- [Italy Agricultural Robots Market Size, Share,Trends, Growth Analysis Report, 2030 - MarketsandMarkets](https://news.google.com/rss/articles/CBMilAFBVV95cUxNNjVSREFta0ZlczVoQWpnbTNtQmp5dGE0Y3JyLVc2U1VIeEtGVzVpRjM1ZlJ4Ulg3bGU5d3l4WmxRSXY2YUFYWGJFLTk3SFI3T05KNHF5U1JXd3puM3B2V3J6c2Z3TnphZThQMnR2M0Nkb3UzTkhrOWVtdl9Yakd5TG55MXpVTU1Lak1GNTFhbnFtR1pL?oc=5) — *MarketsandMarkets* · 2026.07.21
+- [トップ30 企業 グローバル農業ロボットとメカトロニクス市場 - Spherical Insights](https://news.google.com/rss/articles/CBMiywFBVV95cUxNSTJTUmRPbUppVzBJTFpVYVZGRWRiRlJMTnBEOHAwa2VyZ0YwV1N4ZEZISmI5ZmhLRXVhUG40azRidkRRN2N1SDljQU5NUDlzekJxWlpTZV8yTlUtdUNjWGpadFRtVF9rVC1TSU4yVGIyNG5jbUhVUGpDc2kzRERURTU4S0JZVERfNUQyWkpwZF9Kb1ZTQlF5Z0RBLWhjNHh6bGQwVW1JMEZkM3JXeFZ3NDZVQjl4RGxOaFpfbmNtUXI5azd1amJqanJ6RQ?oc=5) — *Spherical Insights* · 2026.07.20
 - [日本工業大学、スマート農業センターに次世代農業技術の研究施設「極地ハウス・フィールド」設置 明和土木興業との協働 - 教育家庭新聞社](https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zUmZqMHZlU0hWVUpMdFNVZkk1VUQtZXFqYTFDWmpSNkNOZjRJcmNzZTQxSEhVUk9sWFhma0hjcWdXT0hPTnRnRHlxN1Zubm12WHdF?oc=5) — *教育家庭新聞社* · 2026.07.18
 - [【Web限定記事】県内全域でRTKの運用開始 - ＪＡ全農ウィークリー](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZSHN0WTZZamNVRmhXaWJ6ekdqamM3bFVvM1JlX0hpOFhRNU45aWxVU1ZaN3ZOQVlPZzhYdTB5UHZ5aTB5THczQ3l3R0xxTTNtTUUzSkxZQWVfUQ?oc=5) — *ＪＡ全農ウィークリー* · 2026.07.18
 - [Undergrads’ weed-killing robot wins top prize - Robohub](https://news.google.com/rss/articles/CBMic0FVX3lxTFBpUFU1OXpfMzhsNW1HbF8xQVVYZXcwX2VPS25pQmxjVkFHZ3REN2pBS2x2aE1keFFscjJ4QW83eFhZMURFZzFYRmp1STFsaFF0VWh5NUduTkVXalUxYkZ4SzdRamhSLTBGWUotMDkzdDFDMG8?oc=5) — *Robohub* · 2026.07.17
@@ -18955,14 +18024,18 @@ SNSで開封動画を配信
 - [伊那 除草ロボットなど最新技術活用「スマート農業」実演会 - NHKニュース](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYWWJKRWpMaEJ0SDJzSWI3QXJfdmg4cDhZelBNdnd3cXhIak96MkwtSG1XNVFwbTZhOF9DZUtTSHZKb2RqTS1kRmZjMkZ0VFYxYlhwUmZwQm4?oc=5) — *NHKニュース* · 2026.07.16
 - [日本工業大学スマート農業センターに『極地ハウス・フィールド』を設置 研究フィールドとして運用開始 (＠Press［PR］) - Yahoo!ニュース](https://news.google.com/rss/articles/CBMijgFBVV95cUxNWjAyOEQyaVEyQ0RGOGFPc2lfdG1udzhOelNYcmZGSDl0VEFWcFZteWtyV19Tdm0tUEZ5M2hpaGlFNUVqemRMaC05RXZqY0ppbGN5X3hQNVVQLVNScmVYaHBXazl2RGVoWVJLYURXX2VaY3BpSVZDV0hWREJBWGtqeEthcnZMTTZnR0dKN3ZB?oc=5) — *Yahoo!ニュース* · 2026.07.15
 - [スマート農業とグリーン経済の発展における地域連携の強化。 - Vietnam.vn](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZWRqRDdGNzJ0bzdVbUNjY296ekZCMGlxYWp3eGgxLTBxc05reVRWbjRuUUVfQVVQTHZMVXF6NkNRNHlwU29wakw3eHVpQjhXY0dTUFg2Wkl5Nmw3VThMZTJzX2F5Tlo3UjZFVzJ6akVWYl9PNzZYeEI5NlBwZVBab0JTaE5NX1FFbzV0dTB2dk9yZlF6RmNwZ3RYUVhMRDltSGJaWWFMV2hUQQ?oc=5) — *Vietnam.vn* · 2026.07.15
-- [Israeli AgTech startup Nanovel wins €2.5 million EU grant for citrus-harvesting robots - Ynetnews](https://news.google.com/rss/articles/CBMibEFVX3lxTFBMWVUyTkd2T2VXODRhT3JnZklWdk9rNzFzbTRNN3JTSDFKZU1PalFlNmFXSUJZdzhSZU1YSnR1QU5FdEVhTXpMeEdEVDN3aUduSWhzYVBkdkpBSWZrRG1YNkRYQm5vSGl1RFk5RQ?oc=5) — *Ynetnews* · 2026.07.15
-- [新技術で課題解決 スマート農業機械実演会｜ニュース - 伊那谷ねっと](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BdU1MZXJZNVhzX3VsRE5tbmd0NTMwUC1ZMVdPaER4WkhKank4YkRtR2R4VmdjbENBMU9KYWdvU2EzV2J4SkNqQ3ZZZlhPaUViQm1UdTJ0RQ?oc=5) — *伊那谷ねっと* · 2026.07.15
 - _…and 45 more_
 
 ### 物流・倉庫ロボット (AMR/AGV) (60 件 stocked)
 
+- [AMR リソーシズ、ナスダックIPOで2億6,000万ドルを調達——鉱物資源分野に注力 執筆 - Investing.com - FX \| 株式市場 \| ファイナンス \| 金融ニュース](https://news.google.com/rss/articles/CBMieEFVX3lxTFBYR3BuU3ZWZmh2NEdSOHpOM1QxVWlXQ240RUhxMExkR0N5RGxMVF90QU43V0ZqWXh0UFFlV084Z2M3ZUszSEYxUkEyWkhISFk2c3kzWG51QW9GdVA3Y3AyUWZQX01tMnE2R1JrdEhLMmZRM3Itb0J0dQ?oc=5) — *Investing.com - FX \| 株式市場 \| ファイナンス \| 金融ニュース* · 2026.07.21
+- [GRITR Sports Enhances Its Logistics With a Next-Generation Warehouse Robotics Facility - Outdoor Wire](https://news.google.com/rss/articles/CBMizwFBVV95cUxOU1VaaTJFbm5ZMmV6bE12a28xeVotOGhEWUt1c2Z3RmNaWXdCakljUjljd1E3QThCdUVORzlmSEh4NWxyUlpQZWVlRTJPNktFdDM5MmtZVUpMZERQNGJyMEEzcVBSdl9XaUJPbVNLQ1VwQ2c4SmFBN2plUWhuMExfdldLQVNqbmlqZnpJN2pQSmZqYlc5VWpSZThsY1B1Sm5FQTFYTTZmeUZYYS1CVmcwNjhGWDZvc2o3X0dJRC0wb09iSGI5VjVtWUVZVEo2Nkk?oc=5) — *Outdoor Wire* · 2026.07.21
+- [Firefighters Battle to Contain Coupang Fire Near Lithium Battery Robots - 조선일보](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcFd0em0ya2lnMzZqZkRnRHl3aTRmSWdKeUF3Vm9RdlgwdTNHQ1BWb2FRTDVVS3NBNzhrSlVtQXJsQVhkdGZQQk1ZSloyV18xR3RDdkc5blpaTDhSSVViSGg3eTlzS0NRNXhkY0lCOFlweXZ2WkoxNUlZMk9UdXpVazRLRHNwZXVF?oc=5) — *조선일보* · 2026.07.20
+- [重荷重AGVの最新トレンド2026：市場規模2382百万米ドル予測 - アットプレス](https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tTzBMQUp0UWNJSURPSDlsS1dHQVJkSkFhenM1bWtPM1FMRy1LVlJ2bVlvVF8tbTNBZ1Y5MDhoYVRtSy1MZmZfTWlBbFN4M3M?oc=5) — *アットプレス* · 2026.07.20
+- [Inbound Automation Systems - Trend Hunter](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tTmtVVTNkR2tMNlhxR1N4RDEyUV9DMjIxMHRISngxcWd0Uklsc09uRWhUdVVob2V1cGRSR1hJOGNTdklVekpiLVBVc195eVMxa21KVksyTXEyODlsbjExdjRBaUxwdmvSAWxBVV95cUxOU2NFcUdoU0N1YjlKRk5fNjl4MndHQXlkUVUzYkpaUFJuSmlubWJoekN0YTYwNVVNNGVodXVzaDVaLVdjZkVlYXdfaHhLbXhoQUtWNDVwb1R4VU81WlRnU19jTUUyeEMxeldpODc?oc=5) — *Trend Hunter* · 2026.07.20
 - [Industrial Delivery Robot Market Growth Forecast to 2035: Automation Demand Accelerates - News and Statistics - IndexBox](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRHB2WEoxZ1ZmcHl6LXFsa1lTekRtdkhHdmYySUQzSWNvQnJXdThLNVVzZlRKcmJjekxnSzIzMVlLRVdoVWNJMXk1UjB4OHV0aXRaeHVTSFFWNms4SkxfbzRqUFV1TTd4M3QwMHRNQWZ5eUVrLXVFc0l6NWFRVjlCRjdGWEZrUTJyMUtMNXZoY0Y4V2ZGYWh5QkFEei15U1gwdnJjQUwxb1dtUHllUE1RWU9raExnT0U2VjhjSUZrQUR2UV9Qb3NlYjRHNXpjcU9ROENZ?oc=5) — *IndexBox* · 2026.07.19
 - [Human-Robot Collaboration Takes Center Stage at Prestigious Logistics Award - USA Today](https://news.google.com/rss/articles/CBMixgFBVV95cUxNTk1JaFBVV0FicngzekN0UmVtVm1tcmlIY2xWblFUa1lsaENqTjlCZzlIR0t3cHYyY0NsRE9VMjFjanpQYmNmTXBHczFqN1RIbHhEV0daMU10V29ER0VzTGwxMjlaOXg5cmhfLXRNdHo0RFE2cnRTV253TERCQUU2LVdkLVpDdFhTUkdHdzZBQXVSbEx0M0dyUmJtZnczaVNGQUIwLXplWlpBUWwwSmhUczVjVzlzX3drR3p1cEFGbXFmSm5GQUE?oc=5) — *USA Today* · 2026.07.19
+- [Humanoids learn skills at 'robot schools' for real-world work - Türkiye Today](https://news.google.com/rss/articles/CBMinwFBVV95cUxQRHZiUGFfNktQVGtySF9DakE0WmdWLWNsTkdxNXRrRzJrMzk2N0ZMelZGaFlwX1FuUm4zclU1N1k4OVYtZjEyREFzVFN6NGwtUDcwS3ZCZmlJTGIyeDdGbVJUQTEwUjI5cVlJajBVVWZhckRPclBGcHpBcG5DWkswRHZBX2x0Yy1XSFlubW40TXpfZVR2eExkRGx5RzBYaUk?oc=5) — *Türkiye Today* · 2026.07.18
 - [産業用無線ブリッジがスマート製造の通信難題を解決：AGV群ローミングと多工場PLC連携の2事例が実用化 - BigGo ファイナンス](https://news.google.com/rss/articles/CBMidEFVX3lxTE8yZXNTZnlWamZmSERYeHlVQTBPVE1FSUVvZTN6MlllOVpTUXlVcG0yVDRoMjNUTnFuZTNkWjdDUEhEQVZjdFp1UHpGVmNReExIYU1SNzh5aXVmLXh5YWViTTVYOV9JdkFudU82QzhEdTJwelJs?oc=5) — *BigGo ファイナンス* · 2026.07.18
 - [AMACU\|AMR Resources Acquisition Units (Proposed)\|株価:9.960\|変動率:-0.040 - TradingKey](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtdG5UZV9PTXRjMkZTdWl2T1ZfMTlSY2dPdUhCdTFvN0FwRzUzTjlkbG9UZUJCQnIxY05ULXM4dTYxMG91MzlFNnkyb1NKbkdPVS03dFhZTjNxNXNHNUtaa3lyMG45VXhY?oc=5) — *TradingKey* · 2026.07.18
 - [戸田建設、AMRとエレベーター連携し館内配送 - LOGISTICS TODAY](https://news.google.com/rss/articles/CBMiSEFVX3lxTE01bFRwV3VVT081UU5iNU42Q3otcXNGdlJiZE9nSzQ1NXg1U3VBVHdIY3RudTQyTWNpa2RyT05Zd1JZUGcwR1BSQg?oc=5) — *LOGISTICS TODAY* · 2026.07.18
@@ -18970,16 +18043,12 @@ SNSで開封動画を配信
 - [Opinion: Exotec managing director highlights key warehouse automation trends for 2026 - Robotics & Automation News](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYkFJMzJnRG1XWVFsRE4zVDNyekc2VXdoS3paQ1hvOXNHSTRWeC1FbDZtZkVvN0NIRkhGMDBlMW5tYzV3T29YUGZORXdXWmtwWnVrcVhSeEZzck1yLW4xc3o0VkFfekw0VjFoTEtlTnY0M0RFRE1GNENxVGlUcXpJZGZfcXhJYzN1dW1NYW9Qei16amphSVZNRHc5MHRiMUozblc5Qi1wS01ESmlPUTZnQTB1Q0M2aHkxdVZyb3ZJYkpjbm92ZHZSMTNHdGVrckN0blVzcTNGNjA?oc=5) — *Robotics & Automation News* · 2026.07.17
 - [AMR対策、薬局で未使用薬を回収 - PHARMACY NEWSBREAK](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1BVk1qaUpiV0VucFlVQXV4dmk3Q0hjUGtOZjBnTjd0VUlZTGdvUHVwQkNEdFVtM2ZqanFYVGFEcU02ZmpjdU9qeFZn0gFPQVVfeXFMUDI0ekJRbWU5VWJaQmVLeTVpRWk5c3loR011NHJ1S1A2TjdlVmI2QzhUUXBqT0ttSFJhcEJhMHdYOEh2N2J5V3ZXZHFXNDBCSQ?oc=5) — *PHARMACY NEWSBREAK* · 2026.07.17
 - [AMR リソーシズ、ナスダックで2億5,000万ドルのIPOを実施 執筆 - Investing.com - FX \| 株式市場 \| ファイナンス \| 金融ニュース](https://news.google.com/rss/articles/CBMieEFVX3lxTE9JU0poNVA3QjdJTEp4TEQtSW1BMThwcERZRWVaSVlZRTgwZjVfazk1RF90eWROOGZQODR6Mk5UaHIxcXBPN0pFLU9MeGtrem1Ma3FxbXJvckdQZnNfRDNEcUdnOVotUnR2ZFB5bDhsZmlkMjg2Ml9XaA?oc=5) — *Investing.com - FX \| 株式市場 \| ファイナンス \| 金融ニュース* · 2026.07.17
-- [Why AI Should Never Be Responsible for Warehouse Safety - EHS Today](https://news.google.com/rss/articles/CBMitgFBVV95cUxQWkUxWVNmTkFRTFQ1cndpbWhoLW0tODg1WTdlQ1pVWjRudzgzY3VidEZkcHJmNlVmbnEzX25KZUJOQTBBSGdNdGxGSElnX2RtUnJpNnV1TF9aQmpLVnlCd2ZscHVmYUJfWnpQMXZSNzA3VWF5NWtGMlVOZnFJSUgtQlNJUHFxN25XQVhWTmJtMGZITXBrcFQtWk9KbHFyVkVkQ0FrU0dvRm80VGxmYUZxN05vd19YQQ?oc=5) — *EHS Today* · 2026.07.16
-- [6.5トン運べるAGVで車体を搬送、ダイフクが提案するフレキシブル生産ライン - 日経クロステック](https://news.google.com/rss/articles/CBMibEFVX3lxTE00ZFNDYmppUzluOHB5U0lsV0RqZEp3ajM0c3JiNEdaamtjWGhUQlRCc2xOczh4andiRmZPa0hveVJfS2V3V1I1NmVkc3lQR1JnUXFxaVB5NDZzM01mS3RHRTNqalRjdjJkWW5FeQ?oc=5) — *日経クロステック* · 2026.07.16
-- [Vadzo Imaging Positions Falcon-821CRS 4K HDR camera as AMR Perception Camera for Navigation and Object Detection in Autonomous Mobile Robots - Newswire.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxPbTFBbG13MVlxMDBwOXprc3BQeFI3X2ZhX3pQTU16Q2lSeXJUaUpkSk5xQTV4OG95Qk94Q1FqaTFrYjlIUWpLdzZGUjE4ZnVEcEhtSmFucFhicExoeHpXZDh2RDRrdEhpZkU0OTBOSEN4ekVyOHJsTXJKWGl4RzMyZnNfV05MZGxxLVhOZnRNUC03OVNyUGFsR2NtRVBBVmo0ajdFYWNuTG9TN0J5?oc=5) — *Newswire.com* · 2026.07.16
-- [AI Robots Hit 3,500 Garments Per Hour in Fashion’s Last Automation Holdout - Tech Times](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQVo0c05uUlBNeXY3NnZuMFo4dUlUODRIcURPRGVIS1F2R1B5V2dwdmJrbGFmU19XWDdQNFd1ajNiR2ZuTzI3QnBtOUFqVVRpMXNIdWVkVFdxTDBLVGZkQzVXVE9BajItVUpvSnRUR3JmTm9yazhtb0VlUmlfQXVFYlFWUk9qYmw3NHJ2bzd6WDJrZlhlaXRPWDRjU3c5Ym42WHRTMUNJaFpORnA2V2pXdGg1WFlhVm9OS08xTVQ2dXoydw?oc=5) — *Tech Times* · 2026.07.16
-- [Amazon Is Throwing Billions at Warehouse Robotics: What That Means for Symbotic's Stock. - The Globe and Mail](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUTdlUHFhbnFmWHBrdXdxYVZ3ZGh1bWdjZXNISTV3YnVLSVhsR0VKaTZwZTV6OE43Y2ltbmI4d0l1OXJYSEVVek41RHBMSVQ4M1loNFNOcmdFZTcyYUdPQkFibTNQcGdjTy1mOGVYcEJfbHotd0o4bExPVm1xVG8xQjlSQmlhTkJhaXlDTU5zU0xZM0RCMTJaYXJCcl9QSE9aNjJPdjIwa28yTS1MNFl1SWlyQVpyb2xkMDRLOHc5LW5YaWc4YkNHNWR4NUhtWmJfSWx0bmtBSS1wNkNHMm5QTUN2ZzZwVk5nV1NQeFpNclNCQnJyXzhQUQ?oc=5) — *The Globe and Mail* · 2026.07.15
-- [Amazon Is Throwing Billions at Warehouse Robotics: What That Means for Symbotic's Stock. - The Globe and Mail](https://news.google.com/rss/articles/CBMi_gFBVV95cUxQS2ZRZkpsVnBHOWlPaVNXM3AtOUx6QXN0TDRYbWk4YjJpdTJZNWZRbExNdWNIN0d1OTlpSEp1MHJ6NmhwVkw0ZnRzRVhjalFWLVJWRlZsem5hSDRHMGtsbzlWbWUtN2VHdmxVT1hNOVM0UGcyVThMTHJvdFhTbTZ0MFhqdGNuT2JGdDItSl9mQm55QXNKUzRkMGdDaGliNkJqUllXeENnRDFMMWZiMXh1UzBMS0x2eUhSQ3R0WGxNR2kyYnJmR2ZtVFQtaGx3RlBrVTlhRkFBY0hESjV2S1FIMy00STRoUHU5Wllham5Mc29kdUViUXhJRGtObnBzUQ?oc=5) — *The Globe and Mail* · 2026.07.15
 - _…and 45 more_
 
 ### 軍事ドローン (60 件 stocked)
 
+- [US Clears $80M Sale of Switchblade 300 Block 20 Loitering Munitions to Greece - The Defense Post](https://news.google.com/rss/articles/CBMid0FVX3lxTE9vcG1TV3Zya2NyUHR0M2NINkd2Z1Z0N3hYNnFmckI5ZFh1VVBGbWt6OWUtNFJZTUhvNnN5eVdyOEdhdzR5SndoOExHcldYblloeUd2dF9BRnJqdTNaN2M4bDRJZVNOZklXdWtpbnpfUElmMW4xLXVF0gF3QVVfeXFMT29wbVNXdnJrY3JQdHQzY0g2R3ZnVnQ3eFg2cWZyQjlkWHVVUEZta3o5ZS00UllNSG82c3l5V3I4R2F3NHlKd2g4TEdyV1huWWh5R3Z0X0FGcmp1M1o3YzhsNEllU05mSVd1a2luel9QSWYxbjEtdUU?oc=5) — *The Defense Post* · 2026.07.20
+- [South Korea accelerates drone militarization as giants build UAVs, SMEs supply expendables - CHOSUNBIZ - Chosunbiz](https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ0tQUWRoeFBISWh3aFItMEo2S01vTGNZaHlXUWpHc1Q0VmlrSkNzWXRlakR2MlpGX05qLXVyUjRPR1I4amFTMmZ5NXhVa0ZpY29uN3dHYkkxRjkxV29Eb3FDSm0yc2dEbFM2dEZFV2dSMnFpODdtRWszSnhIT1RDNk1B0gGWAUFVX3lxTE1DekNIN0VjRUMwc3M4RmN2TjJLRzIzdFBlc0lqUklCeWN4RWdNM0ZqMUJoSDlEMGhmeTcwajFzcVRBQThfTVFjM0VzS3RNbklQem5zZVNVZ3hna2hMdUNjS2tZVVNXRHFRNGJiUjlPNzdxVGU2TWg2RmRlWjVLM0pWWmMxeFljalVYUWVQT2p2TWdzZ09rQQ?oc=5) — *Chosunbiz* · 2026.07.20
 - [ウクライナがロシアを大規模攻撃 ドローン380機で倉庫など 最新の国際ニュース【随時更新】 - ABEMA](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xYkFObFQ2WEpTczJ5QkdjY05hNHZzenFLTmFhV0VWRmxnbGZqRWFPUkswdlMtLUstbzlpaENuS2xXYThqYWFQWlRfUU1sTXQxMmszQ3dTc1VTbDg?oc=5) — *ABEMA* · 2026.07.19
 - [ウクライナがロシアを大規模攻撃 ドローン380機で倉庫など - HOME広島ホームテレビ](https://news.google.com/rss/articles/CBMiaEFVX3lxTE01bEpVNmdEbWs3UEdnNGRKNVZrVTA3alZaYks0eldyek9hQ2RuZ01FdldjdEI0emJxeGlzVnE3Y213ckdaZDFZRmktNm04ejd4X2lZLWs3MUlsRjNld25wVFEzaFRWa19E?oc=5) — *HOME広島ホームテレビ* · 2026.07.19
 - [WSJ日本版：安い攻撃ドローン量産、米軍と5億ドル契約の新興企業 - 毎日新聞](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fUHBINjl0cWt1M2ZhcWN2aFV6bDlva3hYQWJuRV9RTnhad2JlSXQ1cVdyNmhCWlUtSld2am1SalhIVy1FN2JjTEpvNmxfNWdfOWpyNmR4Si1zOElRcjJ4SlJBVi01NG00?oc=5) — *毎日新聞* · 2026.07.17
@@ -18993,13 +18062,11 @@ SNSで開封動画を配信
 - [石油関連施設への攻勢強めるウクライナ軍 ドローン攻撃でロシア中部の石油化学コンビナートが稼働停止 - TBS NEWS DIG](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KQ2hGNmJ1N096emJPdXJfRkdWYmVIUW9WRGpKNGt5NzN1OVRRYkNUQ09GQTAyX05DMkREeHFTTExHdEQ0UUp4eVJvZGctMDJpYlRFbm1RZw?oc=5) — *TBS NEWS DIG* · 2026.07.16
 - [石油関連施設への攻勢強めるウクライナ軍 ドローン攻撃でロシア中部の石油化学コンビナートが稼働停止 - TBS NEWS DIG](https://news.google.com/rss/articles/CBMijAFBVV95cUxOQVFtdDFtZV9Mb0gtUW1oTHhVMU5GR0w2NjRhcEkyMXM1SXBMVnc5NFRqMnRlNzJkVFZvNl9TMmVtOUJ6eUpoUjVlQmI2dnNiQWpfZHVzVW1rSG9KdndNVTExTnNERjNLdEpadERhYzU0LXRhM2lOSHVGejFxQklVUTU5SzVBbkZFX2hVbA?oc=5) — *TBS NEWS DIG* · 2026.07.16
 - [AI軍事ドローン銘柄SWMR、上場2日で株価5倍超 上昇トレンドに乗るか？ - Moomoo](https://news.google.com/rss/articles/CBMirgFBVV95cUxPeWZvZXUyQnJTcjV5VGtBZXBfb200MGw0dGs0bE9DTkJRMGd4WDhwV0ZtT2lvNC1RU2lNejQ2NGZCVEphQlB3QW9XRHBFZUZ6ZGlna1pPMXVuYVFLLWJJLXp4emIwWTRFYzhzMm9iWG50V1FNTDlxZmlaX0ZLN1pMRnBsc1lsWW4wMVVDWlROQl9vajEtV0s2dzQxaC1nM1oxYzRfRC1aanJEREdtemc?oc=5) — *Moomoo* · 2026.07.15
-- [ロシアのシャヘド型攻撃ドローンがミコライウ州ノヴォブズカの農場を襲撃、67歳男性が死亡 - Межа. Новини України.](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xTTA5WGEzWkRkT25BZVY5SmlSbzJtSVBFOFVjU0dVaTRfSGF1Rzd0NWlLcThUaFBGUFJ4cjhEbGgyc3Q1V2VuNXdzRnBlelFFR3NUaUpTM21JVlVIa2JvOFAxMVA1eG80?oc=5) — *Межа. Новини України.* · 2026.07.15
-- [軍事ドローン量産、防衛企業がルノーと提携 戦況左右する競争の裏側 - 朝日新聞](https://news.google.com/rss/articles/CBMiogFBVV95cUxNNnkwdjRJeGd5UEVLXzh0YWRHUi1RRlpOQ2VYZTFIaVNPa0tFVnZyMm5CLUdMTTVIWHpMSTFQdXJ0aUFfN0FQUWFUZTBvMXVlTEFFa1FqMkhNNmtnZkNNV09OZnAyYUVnV2w0N0RmalhWZ3NXdnZod053VUc4UzdBSXJIalMwVzlBcDBTaWxxYUJIZEpaeWR5VVlwVW12XzZ6LUE?oc=5) — *朝日新聞* · 2026.07.15
 - _…and 45 more_
 
 ## 🏭 中国大手メーカー / Major Chinese Makers
 
-### UBTECH (优必选) (52 件 stocked)
+### UBTECH (优必选) (53 件 stocked)
 
 - [ユビテック・ロボティクス（SEHK:9880）の量産型ヒューマノイド発表で割高感は変わるのか - simplywall.st](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRDZaallvWXRPQXRjSXlrTElXbEY0ck5QMFNhb3kzeVJyXzZ2Y2JCVmRKSzB6Nk1Xbnh5Zk5vV1dxSnZ4R0llTFN2bkE3MTR0WmZDWEpfR3ZHODN6bV93ZzZ0bUhiSTZ3NzEwSmtTcjZNUmw2b0dPZWlIcnNZTUZWZjlvZGVLN0NIQTN0dllCUkdzLUpUQy03VWdnRk1kemEyeEVJdnBCbTBVUdIBqgFBVV95cUxPRDZaallvWXRPQXRjSXlrTElXbEY0ck5QMFNhb3kzeVJyXzZ2Y2JCVmRKSzB6Nk1Xbnh5Zk5vV1dxSnZ4R0llTFN2bkE3MTR0WmZDWEpfR3ZHODN6bV93ZzZ0bUhiSTZ3NzEwSmtTcjZNUmw2b0dPZWlIcnNZTUZWZjlvZGVLN0NIQTN0dllCUkdzLUpUQy03VWdnRk1kemEyeEVJdnBCbTBVUQ?oc=5) — *simplywall.st* · 2026.07.17
 - [UBTECH ROBOTICS：インサイダー情報 - 当社はH株の全流通を完了しました。 - Moomoo](https://news.google.com/rss/articles/CBMiswFBVV95cUxOUXZzRGZOcFYwTFhZLU51UEJkVEZ6NHJkcG9MeloySnBNV21zUmxMOVNnZDlrOEZIQVI5T3hHLWRqM0ZBWmVjM2x5M1lWTWdtTEtKd2docnBtbzJ6b2NsOThMRzh5UkowM1N0ajZocFAtS0NTTGg2bzhGUUNrODktek8xSnBBanl3cjdsR2x4T3dvWVctUE13UmhLXzNITEtUa1lSVDlxY0k4cWFjSUFmYXlWRQ?oc=5) — *Moomoo* · 2026.07.16
@@ -19016,10 +18083,12 @@ SNSで開封動画を配信
 - [中国UBTECH、18歳未満は使えない等身大AIロボット「UWORLD U1」発表 人に寄り添う感情認識LLMと長期記憶を搭載 - Ledge.ai](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BeC1OcHZxSjRkZ1N3SlJORnFrM3JtWkpUZC1IeWJQVHVEeVMyd0V0Uks0MnYxNk1VT0FNVnBhaENHUFJaMWs5d2NtbklFYUZrbDA0alg0T1JIR1lSa2ZJUmlQZ0oyQlFh?oc=5) — *Ledge.ai* · 2026.07.05
 - [UBTECH、世界初のフルサイズ量産型超バイオニック・ヒューマノイドロボット「UWORLD U1」を発売 - PR Newswire](https://news.google.com/rss/articles/CBMif0FVX3lxTE5kUmVPbHVSNFFVYzItMDRLRy0xN3E2eml2amN0WjZYcjc3UEg4M1U2ZjExaGhkQTVNd2JlMy16S3B0UzYzY3V0MThsRWZXNWFxbUdWOU4zaHBDLTVCNEx1dTk0ZHhOaDlCTlJ5T1M4ZXVCb0FTaEZqVkdkYnBFV28?oc=5) — *PR Newswire* · 2026.07.02
 - [中国のロボットメーカーUBTechがリアルなシリコン製の皮膚と感情AIを備えた人型ロボット「UWorld U1」シリーズを発表、実在する人物の声も再現可能 - GIGAZINE](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPTTUySmNtM29JcldMdkRoRU1xcVI2WnZNN3BYZkpSMzFNT3dqWWxDSmU4c3NoU2pLT2kyMGlsVHh4N0lUaVk1akUzSHdWMHRuaE5qWWdnWDJtSER0X3d1aGhn?oc=5) — *GIGAZINE* · 2026.07.02
-- _…and 37 more_
+- _…and 38 more_
 
 ### Unitree (宇树科技) (60 件 stocked)
 
+- [身体を持つAI、量産時代へ - AFPBB News](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzVkR5OUZLUDd4YzZTUURyem9JYXRZMGllakxPaVRQWk8zc0NIUU5vS21qa2RBZlpXcEs2VS1UTlF6dk8wZlotczd2eEJ2OXdHdXdqbzh5NUdFX0g10gFUQVVfeXFMT3JVQ3V3ZktvbExDX2NwUm52VThEeW41X3NFUjdFY2ZQOG0tM1djXzVxYmpCMHVzek9McGgtM0dJOE5mbE1iQnpyWmVoZkg0MVV1a00w?oc=5) — *AFPBB News* · 2026.07.20
+- [Unitree、全長1.82mのヒト型ロボット「H2」で格闘大会へ フルサイズ機が公開対戦する「CMG 2026」を告知 - Ledge.ai](https://news.google.com/rss/articles/CBMiekFVX3lxTE9TNjFJd2xPNTNjczByd09RUHJrV0dTVWM1b3o0QVhuNTdYWW45RTFfeUVReXJweTJJWjlDVmpiUWRzM3ZFUjd4Szg3M1dZTnl3SHRjYnRyajlWMjcwTU9VV1BVTWFTbGwyeG5HVkMxUkxhNGxmWkNMbnJ3?oc=5) — *Ledge.ai* · 2026.07.20
 - [フィジカルAI最前線 AIロボットはどこまで進化した？ 展示会で見えた最新技術と日本の可能性 - BCN Retail](https://news.google.com/rss/articles/CBMiakFVX3lxTE9TaVdRRTFzcVdlNWYxVkpkZ2x0SWRiaWlNZW4teXNFdzdrRUtjem44dnoyNDZXbmt5d19UOTBzY0xacU4ySWRHMlpNaWMyYWNVcTJ6WGxDT0NmOU04b2lwckY5eEhXU1BTTkE?oc=5) — *BCN Retail* · 2026.07.17
 - [ヒューマノイド「G1」を分解、CNC削り出しに見る市場優先の設計 - FabScene](https://news.google.com/rss/articles/CBMidkFVX3lxTE00MW5UN3d2RzBSMTAyeldPb3FkRFZYSDFzRVNiTGtuWkhjMEJOR0lIS1Jqa0lwcFp4cENvbmhjZXBrSHRlX2lPcGtseWRZODdxQTJQOEZKdUUwS0lCaEZNSWtFcGdzVTloazZ5US1RbnkwNVdNbnfSAXtBVV95cUxNcEE2dVlTMFVaZWhDdklYSTFXM0VfN0l6NWZkY0xGeDZQeXN4OXhEZVFfWUR3SThGYU9pdXMzLVVySGh4MHNDU25RdWl6eFhFZTNCb1ItSzRFandnXzctV05Ma3d2bXhlMEptbTVSdGhVV19iYVp1UVowaHM?oc=5) — *FabScene* · 2026.07.17
 - [ヒューマノイド「G1」を分解、CNC削り出しに見る市場優先の設計 - FabScene](https://news.google.com/rss/articles/CBMie0FVX3lxTE1wQTZ1WVMwVVplaEN2SVhJMVczRV83SXo1ZmRjTEZ4NlB5c3g5eERlUV9ZRHdJOEZhT2l1czMtVXJIaHgwc0NTblF1aXp4WEVlM0JvUi1LNEVqd2dfNy1XTkxrd3ZteGUwSm1tNVJ0aFVXX2JhWnVRWjBoc9IBe0FVX3lxTE1wQTZ1WVMwVVplaEN2SVhJMVczRV83SXo1ZmRjTEZ4NlB5c3g5eERlUV9ZRHdJOEZhT2l1czMtVXJIaHgwc0NTblF1aXp4WEVlM0JvUi1LNEVqd2dfNy1XTkxrd3ZteGUwSm1tNVJ0aFVXX2JhWnVRWjBocw?oc=5) — *FabScene* · 2026.07.17
@@ -19033,8 +18102,6 @@ SNSで開封動画を配信
 - [ユニツリー創業者「ロボットはもはやニッチなハイテク玩具ではない」―中国メディア - Record China](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZbnBXdzdmTmN5Sm94ZUJPZzZocXJUUTEzZ24zRV9PcnNsY291RVV0TmIzbjh4Q243eE9RUEZhQ3RUQW9STHdyRmptVEo0NHN4cXJYRGhvZTNsekY2ZXN3Q05zZk10Z00?oc=5) — *Record China* · 2026.07.14
 - [ロボットブームに冷や水か：Unitreeは利益半減、テスラ「Optimus」は当面非売品の現実 - 財経新聞](https://news.google.com/rss/articles/CBMiY0FVX3lxTE55MjR2aFgxZlhRcnpncjcyUTF3TDZwdXc2Z3BNWDFiY0tMMEpXZWxLLWdXQklYZ3lTZGlNZ2dfY29XckhVcHRSYXcwMGRCYmRNR2ZzX0VXRVB1bGlrWlVObGh5RdIBaEFVX3lxTE9SSEhOSmRHRlRiSkluWFVNN296OXlNdUp4LWxNeVdhd213cmp2bk5kb0lUN0lFTHVTUnR5Q2laV2NhWjdrOFZKYWlUTzBrbXl3R2Z4R1JoR0RrTTdsMmFrVUk0WHQ5NXdB?oc=5) — *財経新聞* · 2026.07.13
 - [中国ロボット企業が“ヒト型ロボ格闘大会”開催へ さながら「リアルスティール」なプロモ映像公開 - ITmedia](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sVmpVRVpaamRKcmptV2VOblJTRGVtVUFyWlItUnJVOW1qeXRSV2c2SS1sZ1ZaNjI4Zmhrck54Skl6U2RtYVpURWN1M0k2SXZZbWpuNXpNQ1hQSmFHSUtlQ1loc3hUQQ?oc=5) — *ITmedia* · 2026.07.13
-- [中国ロボット企業が“ヒト型ロボ格闘大会”開催へ さながら「リアルスティール」なプロモ映像公開 - ITmedia](https://news.google.com/rss/articles/CBMibEFVX3lxTE1ySHBiX0JFRVVVeUlWZFRFc1lleVVnMDBtS016Tng4bElwZUR3eHFRd2VXUTdHZ1FEUllablltcjRfa1ZZbzFhMTNkVjNlemlQVm9scHhQMmVKNnU3bFcxcUc5OTRPZVBLLThmSg?oc=5) — *ITmedia* · 2026.07.13
-- [中国製人型ロボットが欧州自動車工場へ、ノバレス・イノベイトが導入計画 - 36Kr Japan](https://news.google.com/rss/articles/CBMiO0FVX3lxTE5vcVVPRHJfbXlrdWtIdmlGMHl2VzJMNkhObnV1anUzUXlna0pvZ0JIVHVHeTJMa1A1Qkpz?oc=5) — *36Kr Japan* · 2026.07.13
 - _…and 45 more_
 
 ### Fourier Intelligence (傅利叶智能) (45 件 stocked)
@@ -19056,7 +18123,7 @@ SNSで開封動画を配信
 - [Spotlight: Fourier Trains Humanoid Robots for Real-World Roles Using NVIDIA Isaac Gym \| NVIDIA Technical Blog - NVIDIA Developer](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb25mSDlQdzFCZl9kbTNhRnViaHh2dWUxbVh1amdPbHQ4UlhqWDNwY2R1ZVMwQlAxX2hpdFZCbHpaQUhVQWNHTmpnRHp5TXY0SHVEc0VHX29nbWtXX2o2dDZ1aEh3Y242aXhJQmxNLTZReDFJVEtNRk9Ec1NIN25FSzJsZ2kxSTdGMFdUdGd0TmVFM05UQmZnZ19IZURfZ3QydG1SUklLS0luRmVSOGFTc3JHSjQwMWFYdmRB?oc=5) — *NVIDIA Developer* · 2024.11.06
 - _…and 30 more_
 
-### Agibot (智元机器人) (56 件 stocked)
+### Agibot (智元机器人) (57 件 stocked)
 
 - [AGIBOT発ロボットハンド「AGILINK」、独立5カ月でユニコーンに すでに黒字化 - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE5jR0VqbDg2Q25VSmtNaTJEQXFOeVpoMnBQNWJBSkw0QWhNME5abUxxMFc1cXJHVFRnamhnQ3o4b1ZSdGNGbklmdzhfSlBpbUZQZkxIc01hMFpya3dOaEVLSXRZcjVaUGIxclNjdDhJRzdlNGhxZnhZS1FMWS1wZXM?oc=5) — *Yahoo!ニュース* · 2026.07.06
 - [AGIBOT発ロボットハンド「AGILINK」、独立5カ月でユニコーンに すでに黒字化 - Yahoo!ニュース](https://news.google.com/rss/articles/CBMijgFBVV95cUxObGtUX2dUbkJjUC1xcVItMi1zV1NhWjJ2ME9SMi1jWFFEdk9GYVBGNEt0N0VuNDd0R2E3Zi1PeDBoOHUwS0RhNlRPUzZPbnVfU3c5OUI0RUFqMC1CZXUwWm9hTndHN3lVcGVtWHI0NEhQdDNYaksxc1VLLXVsZ2tSTFkyckZ4VFdLR3h2a2RB?oc=5) — *Yahoo!ニュース* · 2026.07.06
@@ -19073,13 +18140,14 @@ SNSで開封動画を配信
 - [中国AGIBOT、人型ロボットの6日間連続稼働をライブ配信「成功率99.99%」 - BigGo ファイナンス](https://news.google.com/rss/articles/CBMidEFVX3lxTE9xMjJ3NGUyZEJ0SU10bUZzd0hlTWpYMmVtd0JUTHdESXdFdjhrclEyUm9BbWFMY01PQ2p0MEpzbF85UW9zSG5ZX2JQMWtEVHNjYUVxUk9na1dMMjJBRFhHZkZmc0NQTWpxc0hVZHVhTDB0RHRU?oc=5) — *BigGo ファイナンス* · 2026.06.30
 - [中国AGIBOT、ロボット累計1万5,000台を出荷…工場稼働のライブ配信で実力を誇示 - BigGo ファイナンス](https://news.google.com/rss/articles/CBMidEFVX3lxTFBfOGFPV0doSmphZkNlaWRSaGRvTDdhQ1JwTURvMEcwbTJFRkpndnV6eHgtZEN4OEg1UTUwcXpBUzVmUlgza3lPWHhzSGIyUE1od2NQQ3lPYWFESWN2cGtIcjdpTml2NGhGclRHREFmSmxOYVhm?oc=5) — *BigGo ファイナンス* · 2026.06.28
 - [中国AGIBOTのヒューマノイド、卓球の自律ラリーに世界初成功——「ミリ秒の反応」を実装 - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE1jUTZKalBVSUp2MjhhZ0hQdkI2RTlOVkRRWjl1Q3B4eUdmVkFRYzZzd0J4U0ZyLUlJVUV3aEF3RWxfcUNINjdaOHRCXzVvRWJZVzV6ZzN0NXlRNUxfV2ozQzFCem9JYk1PelNSVE9keUlDQTVvMGJvUzNoR1NnOUE?oc=5) — *Yahoo!ニュース* · 2026.06.26
-- _…and 41 more_
+- _…and 42 more_
 
-### Deep Robotics (云深处) (44 件 stocked)
+### Deep Robotics (云深处) (45 件 stocked)
 
 - [これはCGIに見える。 DEEP Roboticsは、不気味なほど自然な動きをする超現実的なロボットホースを開発した - KuCoin](https://news.google.com/rss/articles/CBMieEFVX3lxTE8wLXJ4MnJOUTZrRDZaMjF6RHh4SE9Zb0dxdUhNUmhpYkZ6LV9iY3ltX0l3VGE2OHVYdW1VQkswcFdvNzFrT0x1MjI0Z0dEUDJWOXZoY2pxSGJuRTJtVmNSR1lGanlkSHNGWW93QzdjdHNCV25MYnM2WA?oc=5) — *KuCoin* · 2026.07.13
 - [Beyond the Humanoid Hype: How DEEP Robotics is Charting a Pragmatic Path to Industrial Deployment - Lelezard](https://news.google.com/rss/articles/CBMiWkFVX3lxTE42SG1jN2otcGYtVzhhRE5seEhVWWxaZXc2QVY3UFdBdDNfaEY3R2YyNVh0MklsTks3S08tZ21BbnhYejlsLTVRdEo0UXFvdmtHOXV3Z1F6REROZw?oc=5) — *Lelezard* · 2026.07.04
 - [Beyond the Humanoid Hype: How DEEP Robotics is Charting a Pragmatic Path to Industrial Deployment - ACCESS Newswire](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNURGc1lqZWQtWkc5ZGhFVzdHaGpwTHNFMmJiek5mRTdDOHlLUFNzTWRPQzJtOFprWkh3akxrQ1NISjlkQUpxX3pGZDZWczlFNVJOQmFBNDhNZVlUUmxxWFhjOFVOWmE2MUVNRU44aGE3a2l1bnNPcXRvNTRJdm1yNHIwS1ZGQ1VGMEJ2VXlxbk04UXNQZDZBSVZOaktnTDJ4RTYzTE11cTBya3NmN0tEeTNOd3MwcWF4UW45TlZUcnFMSndfWWlhZXVVN0JfMmNzczNqVjBJLWstR0tDWTVmako0VnY?oc=5) — *ACCESS Newswire* · 2026.07.04
+- [Beyond the Humanoid Hype: How DEEP Robotics is Charting a Pragmatic Path to Industrial Deployment - Yahoo Finance](https://news.google.com/rss/articles/CBMinwFBVV95cUxPcEg5Nml3TWh0SlBJTVBlZGRLVzlTa3pLT0luaDNsWTRGSndJdjVURXY4NnpmdVNBTTFsdGdzQlJxNzdUekh4WTFtRkE3T0VlN1oyXzNVQkJMVXBadjV4eFZlc3Fvdm4waFlCTi03U0hCclFIQnpvamZzQ090N3ZwTGF5QzFwcHhPQnQ4LTNpb2lHSF9IR2FuZDh6NXFzSWc?oc=5) — *Yahoo Finance* · 2026.07.03
 - [バク転より感動。人型ロボットが階段や丘をスムーズに駆け下りる - Gizmodo](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XYWJ0WWN6VDhiZGhaYVZ3bndfN2hrd3p2NEdhYUVNV2FzV3ROX1lGYm9JcUVCTTdoMzlUS09COUpybl92VnRJbUo0R2ZyWWlBMm5BMTNTQ1ZIdGQtSF8zRA?oc=5) — *Gizmodo* · 2026.06.17
 - [ホッキョクグマの肉球を模した足で、四足ロボットが初めて北極海の氷上を歩く - FabScene](https://news.google.com/rss/articles/CBMiekFVX3lxTE5LQTJjM25BRnZ3S0hpVFpiTnk0Ukc1Wm13bjNZY1J3aDN0V2w3N1hHUzBpREg2WFdyczU1aEZNMzFNck1ZWHd4dTQ5dW5UOHdWVHdOb3JKSWVnTjBhVFFraFgzSXFaNFNKTHA4MmQ4X2lpVGlhMkFLWVZn0gF_QVVfeXFMTzRmckVkTkVjQVdHUGRWNWdPbDRfdk11N1ZLN0lIVTk1MUU2cEY0QVo4VkxYb3FGV1UyWnlweFRnWkJiMFNkOGpzSk16OEZoQmRBQWxKVElDT3c1RGRDRzVYQTlBWnNpS1BkMzZsemVnbTA1Ymhqb3ZYeE1INFM4Zw?oc=5) — *FabScene* · 2026.06.14
 - [小型だけど高性能、四足歩行ロボット「Lynx S10」が砂利道や段差を攻略 DEEP Robotics - ロボスタ](https://news.google.com/rss/articles/CBMiZEFVX3lxTE93eEFLR3FXT2F2bGhhY2lkVUI2S2tRMC12VkhpakxYUl9TSnd3R1owM2pCcl9BS1NqbXRUX0ctbEdIRHRHN1dsNmxrM1JibHl3MkNpY29NMThqN2RfTVQ1SVJYcG0?oc=5) — *ロボスタ* · 2026.06.11
@@ -19091,13 +18159,13 @@ SNSで開封動画を配信
 - [DEEP Roboticsの四足歩行ロボット「Lynx M20」、山間部農地で収穫物運搬を自動化 - ロボスタ](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhTUxNNldjYjNLdlZZR29LSXhCVnFYRDVMaXJGbjl6TnNJNmcxandPSmppSTdURWRaNGlyR2FOWHgxN05YQzBta0FPczIyV2NKZzFDQVJaTFZacE1mZFRJVXF1aEk?oc=5) — *ロボスタ* · 2026.02.26
 - [DEEP Roboticsの四足歩行ロボット「Lynx M20」、山間部農地で収穫物運搬を自動化 1枚目の写真・画像 - ロボスタ](https://news.google.com/rss/articles/CBMic0FVX3lxTE9kUVdnUDFnMzRGOV9XaUtMSTU3OWFtVkxuMTBWZ0VpdWtuNnh2MmdTRGwxLVAteWcwcjNQaC1waVlFeHhtU1JyaU9OdVJPd0NNQlVna2xMMDBLeDdxY1o3ZzJ6MzJBWG5CdVBwem9OdlRZTm8?oc=5) — *ロボスタ* · 2026.02.26
 - [Xiaomi X20 Max Robot Vacuum Review: Impressive Carpet Cleaning, Lacking Elsewhere \| - Vacuum Wars](https://news.google.com/rss/articles/CBMiakFVX3lxTE0wandlbHBmQ2wzblNEOHN4eDVuNHRGWHhvVTF6ZVJSVFY5MjU0dWZieFlvVnZYVE55US1LMThfVllMZ0VQZWg5U0tSaWFoV2QzQTBDUUUzWjVoWnoza2hsSjltY1ktdTAtb1E?oc=5) — *Vacuum Wars* · 2026.02.20
-- [四足歩行ロボット「DEEP Robotics」、プレIPOでJDドットコムなどから資金調達 上場に向け始動 - 36Kr Japan](https://news.google.com/rss/articles/CBMiO0FVX3lxTE1wekp4bUhfZWNDd2dxS1Y0V09CdGlMME1qOTltOHg3Z0JxZ3M3UE9ZRUJ4X2tHSnBhOFBn?oc=5) — *36Kr Japan* · 2026.01.07
-- _…and 29 more_
+- _…and 30 more_
 
-### Estun (埃斯顿) (53 件 stocked)
+### Estun (埃斯顿) (54 件 stocked)
 
 - [ETFs Investing in Estun Automation Co. Ltd. Class A Stocks - TradingView](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ueE9fUGVSQV9BYWxGbUZzUF8xNHJmMDE2VzBCV21vbWoybzNGcl90VzVZbWRSY0JwYjNpems3YzFtakxiOFV6d1FSRW92TVBzYzdKQWJKbE05YXhHcmU0YVJwNA?oc=5) — *TradingView* · 2026.07.16
 - [Hong Kong Stock Market Movement \| Estun Automation (02715.HK) Rises Over 7% as H1 Net Profit Forecast to Surge Up to 26-Fold Year-on-Year - Moomoo](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcVFxY0ctSkx6WExXSm5pbXVybEdFLTMtOW9YTTI0eERzbEVvcndTd3hLSW9EOTRVaGhiQXZiQm01WFNONlk3bHF6Snlla2xhLThNTzBwXzBJVFJXa0h0ZUx2T0R5WkNBSEh0ZWw2RU1lb3ZfNXVvSWFUVkdyU3dSNVFweWJWM0pTMDN4WTMzaExYckZieGNTQVlCcW1Qd3NkRlkzWjN0dUw?oc=5) — *Moomoo* · 2026.07.16
+- [Can a 21-fold increase in earnings sustain Estun Automation's (002747.SZ) RMB 20 billion market valuation and its 'robotics story'? - 富途牛牛](https://news.google.com/rss/articles/CBMiogFBVV95cUxPRFZnSU5lcXVKdF8xR3Rqek84NVBVQ0Y3SzNZSDBrcWNVZjZuaVNBb0R6RVZhWTNBamt3WUhlZUYyUUlKSXNVdllVdkd6blE4NzMxRkhXUkVaa3hBRnpEVklGMmpDbF92aGJMeko3RHJ5RW5OdmFkeVlBV2YxaHpKeTUwdGNwU2ZsdlRnYmxsS2hqZUphUnJtaWZSUjFZbE5Zc0E?oc=5) — *富途牛牛* · 2026.07.16
 - [Estun Automation Sees HY Net Profit Attributable RMB150 Million-RMB180 Million - TradingView](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOFpQc2Q0dmVIbVZPVkxFTWMtNjZUY081T3RKcncyMmczTGVvVk03Q2ZkZUE5MVNxSEFBRUh3U2o0Y2RUTk5yeXVHSzVhTzNXdUR1UHY1TThrSVVQWlM5SFVkQnh3YzN2MWZFUXJwdTFnbnFqOURna21pR0pDSGpQT0hKSTZaOGd6NTVtdmVuOHZYb0JFeklRUk9nek5IR3Jla3BEOE9odkVfVnIyeHhXWXVGUGJEUnE4cFBWM2g3a3FEWlM0MzR0UWx5N21LLXAxdjRUZ3ZGMER2WExRckN1Y3pB?oc=5) — *TradingView* · 2026.07.15
 - [Estun Automation Co., Ltd Provides Earnings Guidance for the Period of January 1, 2026 to June 30, 2026 - marketscreener.com](https://news.google.com/rss/articles/CBMiqgJBVV95cUxPdlhjdVEzcU9JTzd0SUM0TS1hc3A1YUh3MmltVElkNm1VUXEzLW1MTE96ZTRSRE5WVVdQSHRRQzlEMk5vUGhUSkJIcDNwNU9iYklhdmdoRWdSYUdJdURBOWpHbEdoNmhUeWhMdDdGLXF1S0lfaDFBajFraUZVaGdhMFhHM3JiaE84U1JGU2Q1MjNUR0hMaXltczNGTnl2amdpam53QmtVNG92SnNrSGZOTVFwMURtN0hHcTR2UkZ1UnJmQTJJWHVudTVNZGJLbjg1WXRNZ0JrU1Q0VmlrUnNWOHo0Rk1VcnFaaDBKNWNXek5kOUhaeU9ZYloxWldjbWxzdVZxQklabjI3bXJVRE9Edjd0blcySm5ucWtsZHRUM1hfdGktSXNvanlB?oc=5) — *marketscreener.com* · 2026.07.14
 - [HK Stock Market Movement \| Estun Automation (02715.HK) rebounds nearly 10% after announcing a proposed all-cash acquisition of 100% equity interest in Estun Kuzhuo - Moomoo](https://news.google.com/rss/articles/CBMirAFBVV95cUxOSEZ5SHYzOU91VUZqdG9QVlNucHFwMXZvRTZCVGtJdy04elB4YS1iQ1BoVkxPcXhNX3cxLURsdVNoQnVRUlB6QUREMkdsWDRRU09hWEtXZUdwT1A4cUpNZ09CY0sxOTdWZklpWXJJUERUa0xGc2kza3p6Umd2bVh4dWVXcnFwTFk0clFUOUxqT004MEdqN2lmUUtneURjWEpVajZad2VZMTJEd1g4?oc=5) — *Moomoo* · 2026.07.09
@@ -19110,8 +18178,7 @@ SNSで開封動画を配信
 - [002747 Forecast — Price Target — Prediction for 2027 - TradingView](https://news.google.com/rss/articles/CBMiekFVX3lxTE5lWjQxS1hqTV9tSGN2bU92VnZ4Um4zd2dNZ1ZYZEVKcGpKYlIta2dTZDU2dXNQSVhjdDAxWWkwNFlSUm85MmpoWUNqX1E5dUdlVjRSTWZoZ3BOa25fWkZlVXdGV0FNRTkwV0RPcmMtTTRJb29meE1qbHhB?oc=5) — *TradingView* · 2026.06.26
 - [仙工智能、上場初日にジェットコースター相場：ダークプールで7%安、一時38%高も失速 - BigGo ファイナンス](https://news.google.com/rss/articles/CBMidEFVX3lxTE9pa0EtNU83ZWROc0dndnRBb1AwU3g5WnFoVTJKM3NNQm82d003b3dwVFgxLVp0R3RyaWN1T21VaWZLd1JucXlPUy1PYjZjVE9qejlVam5lVDI4dnVRMVZPYlhibGxrX25zVzdZNXctMnYtZUtj?oc=5) — *BigGo ファイナンス* · 2026.06.23
 - [Estun Automation Proposes To Re-Elect Wu Bo, Wu Kan, Zhu Chunhua As Exec Directors Of Board's Sixth Session - TradingView](https://news.google.com/rss/articles/CBMihgJBVV95cUxQdkVtblJrc0xibTlqVnZtTkF0d3NhZWRxYlhFeGZrYUhrRnlOMFdhbWVJRmJjMFRmT3FjS3JLSXQtaGNQZW9BdC1TODEtX3NyTlhEMUtCTTU1THVzRUtmcl9qUzlTZVd2YkZNVWRKZ1NIMlJGSUFqdGJJUUlIRHo2dUhoQ0l4M1MxTlVGWmdTTG5pel9iQjhBUVVOcFRjNWxvd1pHSUdGVHZTZ2dZcEJPcENjUW4wckNiLV9vQVVsZ2NscENkdjF0TjdsRFVXdmxRdzFJa29UcFhmQThTVUkwWlByTXYyUjExWjFUZ3c4eTFEZ3RWWDBiN0hidnIyME1DZ2Z2bmZn?oc=5) — *TradingView* · 2026.06.22
-- [Estun Automation Co., Ltd Announces Retirement of Dr. Tang Wencheng as an Independent Non-Executive Director and Board Committees - marketscreener.com](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcmVMTTNLR05fbE00V09nbDd6MjhHSGZjc2s3a25xdTJ5RmZwWUhaZ2pTVUFzVnFjNWcxVmtYYlMzQ0FtS01aQlkxcVk0aTFxbWx2YnNYd0ttejFCRXdMX1hoUUFieWpXRVRXN3Q3RDNBWTNHUzZXM082eHgtT2tFS0JJXzZoX1Vub1RUREN6NmlKcGlRelc4bmZCM3BodTlTVXZ3YXJoTF81bGs3eVduOTlXVmpiS0NmWmllb2I4dVZZd2h6T0U1NnF4SDYzSTRVTTJRVTRiTFREVEx1VlJsUEwyaw?oc=5) — *marketscreener.com* · 2026.06.22
-- _…and 38 more_
+- _…and 39 more_
 
 ### SIASUN (新松) (45 件 stocked)
 
